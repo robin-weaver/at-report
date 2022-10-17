@@ -1,0 +1,61 @@
+{
+  "uid" : "c5dd58d1c7cbc32",
+  "name" : "#1 Player can see Menu button in the top left of the screen",
+  "fullName" : "Spin Zone functionality testing.#1 Player can see Menu button in the top left of the screen",
+  "historyId" : "d453ff8d6692d98f036d981bbbb5ee85",
+  "time" : {
+    "start" : 1665730840899,
+    "stop" : 1665731442911,
+    "duration" : 602012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: disconnected: Unable to receive message from renderer\n                  (failed to check if window was closed: timeout: Timed out receiving message from renderer: 600.000)\n                  (Session info: headless chrome=106.0.5249.103)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.35', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+  "statusTrace" : "WebDriverError: disconnected: Unable to receive message from renderer\n                  (failed to check if window was closed: timeout: Timed out receiving message from renderer: 600.000)\n                  (Session info: headless chrome=106.0.5249.103)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.35', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n                    at parseHttpResponse (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/http.js:441:30\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: WebDriver.navigate().to(https://jackpotuniverse-com-uat.eyasgaming.net/uk/en/home.html)\n                    at thenableWebDriverProxy.schedule (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n                    at Navigation.to (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:1133:25)\n                    at thenableWebDriverProxy.get (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:988:28)\n                    at ProtractorBrowser.get (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:653:32)\n                    at Home.navigateTo (/Users/robinweaver/Documents/eyas-test-automation/src/test/home.pageObject.js:57:19)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.spec.js:30:14)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.spec.js:28:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n                    at Module.load (node:internal/modules/cjs/loader:1027:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n                    at Module.require (node:internal/modules/cjs/loader:1051:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can see Menu button in the top left of the screen"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3b7b9362cc8d293",
+      "status" : "failed",
+      "statusDetails" : "Failed: Game Card Details not visible.\n                Wait timed out after 20014ms",
+      "time" : {
+        "start" : 1665730118061,
+        "stop" : 1665730145424,
+        "duration" : 27363
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c5dd58d1c7cbc32.json",
+  "parameterValues" : [ ]
+}

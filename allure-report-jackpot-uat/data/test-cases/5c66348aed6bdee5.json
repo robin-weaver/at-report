@@ -1,0 +1,70 @@
+{
+  "uid" : "5c66348aed6bdee5",
+  "name" : "#03 Player can select the Manual Input button and is displayed the address inputs.",
+  "fullName" : "Registration > Step 3.#03 Player can select the Manual Input button and is displayed the address inputs.",
+  "historyId" : "e1328864a4b9005946be6ef5b5687019",
+  "time" : {
+    "start" : 1665730816096,
+    "stop" : 1665730827934,
+    "duration" : 11838
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6d953cf89c20a71e",
+      "name" : "Screenshot",
+      "source" : "6d953cf89c20a71e.png",
+      "type" : "image/png",
+      "size" : 3855608
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Player can select the Manual Input button and is displayed the address inputs."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b85e8fce9490217b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665730027338,
+        "stop" : 1665730037518,
+        "duration" : 10180
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c66348aed6bdee5.json",
+  "parameterValues" : [ ]
+}

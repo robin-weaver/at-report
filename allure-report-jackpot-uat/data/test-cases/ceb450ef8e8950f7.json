@@ -1,0 +1,79 @@
+{
+  "uid" : "ceb450ef8e8950f7",
+  "name" : "#7 User can open the Loss Limits Delete modal on edit icon click and click on edit icon in the input field ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#7 User can open the Loss Limits Delete modal on edit icon click and click on edit icon in the input field ",
+  "historyId" : "525c6b7e25c8dbeaa9d398a6bda1fb1d",
+  "time" : {
+    "start" : 1665730532224,
+    "stop" : 1665730551167,
+    "duration" : 18943
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '£100,120' to contain '£120', 'Value is not changed.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/loss-limits.spec.js:192:9)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '£100,120' to contain '£120', 'Value is not changed.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/loss-limits.spec.js:192:9)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "679129016949e365",
+      "name" : "Screenshot",
+      "source" : "679129016949e365.png",
+      "type" : "image/png",
+      "size" : 547929
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User can open the Loss Limits Delete modal on edit icon click and click on edit icon in the input field "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "529091b012f00e79",
+      "status" : "failed",
+      "statusDetails" : "Expected '£100,120' to contain '£120', 'Value is not changed.'.",
+      "time" : {
+        "start" : 1665729713451,
+        "stop" : 1665729727872,
+        "duration" : 14421
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ceb450ef8e8950f7.json",
+  "parameterValues" : [ ]
+}

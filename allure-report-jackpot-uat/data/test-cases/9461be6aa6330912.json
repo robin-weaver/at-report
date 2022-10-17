@@ -1,0 +1,70 @@
+{
+  "uid" : "9461be6aa6330912",
+  "name" : "#6 Player can close the Deposit Limits Edit modal",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#6 Player can close the Deposit Limits Edit modal",
+  "historyId" : "b5ba43a45af98caa47cc2ae8354a35dc",
+  "time" : {
+    "start" : 1665730541126,
+    "stop" : 1665730563583,
+    "duration" : 22457
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46c1dea347b35257",
+      "name" : "Screenshot",
+      "source" : "46c1dea347b35257.png",
+      "type" : "image/png",
+      "size" : 705362
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can close the Deposit Limits Edit modal"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "710afa22905d20e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665729702848,
+        "stop" : 1665729720772,
+        "duration" : 17924
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9461be6aa6330912.json",
+  "parameterValues" : [ ]
+}

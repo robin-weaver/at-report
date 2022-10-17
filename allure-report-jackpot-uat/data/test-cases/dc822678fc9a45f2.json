@@ -1,0 +1,70 @@
+{
+  "uid" : "dc822678fc9a45f2",
+  "name" : "#2 Player is displayed 'Set Deposit Limit' text if no deposit limits are set.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#2 Player is displayed 'Set Deposit Limit' text if no deposit limits are set.",
+  "historyId" : "127ae8192b27e09c8137b6577b51e845",
+  "time" : {
+    "start" : 1665730472969,
+    "stop" : 1665730486723,
+    "duration" : 13754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "616f9eb194baa138",
+      "name" : "Screenshot",
+      "source" : "616f9eb194baa138.png",
+      "type" : "image/png",
+      "size" : 681599
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player is displayed 'Set Deposit Limit' text if no deposit limits are set."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1769b8ff5208a0f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665729637440,
+        "stop" : 1665729652354,
+        "duration" : 14914
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc822678fc9a45f2.json",
+  "parameterValues" : [ ]
+}

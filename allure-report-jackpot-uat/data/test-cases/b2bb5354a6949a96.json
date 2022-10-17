@@ -1,0 +1,70 @@
+{
+  "uid" : "b2bb5354a6949a96",
+  "name" : "#3 User can close the Loss Limits Edit modal",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#3 User can close the Loss Limits Edit modal",
+  "historyId" : "ce3af8397ffb825674c3459cfc2f01f4",
+  "time" : {
+    "start" : 1665730466312,
+    "stop" : 1665730483054,
+    "duration" : 16742
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b97e5195492bdd56",
+      "name" : "Screenshot",
+      "source" : "b97e5195492bdd56.png",
+      "type" : "image/png",
+      "size" : 710911
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can close the Loss Limits Edit modal"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4cb4789d8b9bdeca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665729653748,
+        "stop" : 1665729668816,
+        "duration" : 15068
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2bb5354a6949a96.json",
+  "parameterValues" : [ ]
+}
