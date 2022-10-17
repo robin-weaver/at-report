@@ -1,0 +1,57 @@
+{
+  "uid" : "cc10bc0b974f7d12",
+  "name" : "#4 Player cannot continue with 'Self Exclusion' if a reason is not selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#4 Player cannot continue with 'Self Exclusion' if a reason is not selected.",
+  "historyId" : "bcbdd3ac218aaee14269c79ea4232f79",
+  "time" : {
+    "start" : 1665732848191,
+    "stop" : 1665732848191,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player cannot continue with 'Self Exclusion' if a reason is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2d1f63d43e1b7041",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1665731832389,
+        "stop" : 1665731832413,
+        "duration" : 24
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc10bc0b974f7d12.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "ecceddd13af4582e",
+  "name" : "#10 User can successfully set a monthly loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#10 User can successfully set a monthly loss limit if not already set ",
+  "historyId" : "96540a29b1b72b77311cb207e769693d",
+  "time" : {
+    "start" : 1665732879993,
+    "stop" : 1665732896466,
+    "duration" : 16473
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "398be90d75ed2c0c",
+      "name" : "Screenshot",
+      "source" : "398be90d75ed2c0c.png",
+      "type" : "image/png",
+      "size" : 831050
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User can successfully set a monthly loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1be4c98bda6d7a04",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1665731903638,
+        "stop" : 1665731914465,
+        "duration" : 10827
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecceddd13af4582e.json",
+  "parameterValues" : [ ]
+}

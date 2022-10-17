@@ -1,0 +1,62 @@
+{
+  "uid" : "7afc39115fb25f3c",
+  "name" : "#3 New messages are marked with a NEW message sticker",
+  "fullName" : "Inbox functionality testing.#3 New messages are marked with a NEW message sticker",
+  "historyId" : "bdb5a62f49b358b4f2c3a84d165320",
+  "time" : {
+    "start" : 1665731520067,
+    "stop" : 1665731530284,
+    "duration" : 10217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fcec6110bf283018",
+      "name" : "Screenshot",
+      "source" : "fcec6110bf283018.png",
+      "type" : "image/png",
+      "size" : 205821
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 New messages are marked with a NEW message sticker"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7afc39115fb25f3c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "642f655083af710a",
+  "name" : "#06 Player can update country code number.",
+  "fullName" : "My Profile > Contact Details.#06 Player can update country code number.",
+  "historyId" : "30f71c8e56a151b7d2229408fd7653fb",
+  "time" : {
+    "start" : 1665732941906,
+    "stop" : 1665732964058,
+    "duration" : 22152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "67e5b5e41b96dce8",
+      "name" : "Screenshot",
+      "source" : "67e5b5e41b96dce8.png",
+      "type" : "image/png",
+      "size" : 1271751
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Player can update country code number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "793a983d624d6d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665732065744,
+        "stop" : 1665732083910,
+        "duration" : 18166
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "642f655083af710a.json",
+  "parameterValues" : [ ]
+}

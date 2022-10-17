@@ -1,0 +1,62 @@
+{
+  "uid" : "3eb850a1d6b462d1",
+  "name" : "#6 Player can open message and display the message contents (heading, date/time & body)",
+  "fullName" : "Inbox functionality testing.#6 Player can open message and display the message contents (heading, date/time & body)",
+  "historyId" : "dae03ea4a81b0ac5fb6e2524ba6451d8",
+  "time" : {
+    "start" : 1665731551523,
+    "stop" : 1665731563936,
+    "duration" : 12413
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b240c626a2e1e112",
+      "name" : "Screenshot",
+      "source" : "b240c626a2e1e112.png",
+      "type" : "image/png",
+      "size" : 204851
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can open message and display the message contents (heading, date/time & body)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3eb850a1d6b462d1.json",
+  "parameterValues" : [ ]
+}

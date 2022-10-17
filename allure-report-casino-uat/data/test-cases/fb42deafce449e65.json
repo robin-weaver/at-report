@@ -1,0 +1,70 @@
+{
+  "uid" : "fb42deafce449e65",
+  "name" : "#05 Hero banner static carousel will be displayed.",
+  "fullName" : "Live Casino.#05 Hero banner static carousel will be displayed.",
+  "historyId" : "24bbe06fd7f2de4302d34af5d790c45b",
+  "time" : {
+    "start" : 1665732634608,
+    "stop" : 1665732637862,
+    "duration" : 3254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ffb8b9a93594d90",
+      "name" : "Screenshot",
+      "source" : "6ffb8b9a93594d90.png",
+      "type" : "image/png",
+      "size" : 2237782
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Hero banner static carousel will be displayed."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "52920468764d6c13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665731607453,
+        "stop" : 1665731610720,
+        "duration" : 3267
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb42deafce449e65.json",
+  "parameterValues" : [ ]
+}
