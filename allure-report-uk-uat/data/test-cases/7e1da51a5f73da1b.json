@@ -1,0 +1,79 @@
+{
+  "uid" : "7e1da51a5f73da1b",
+  "name" : "#9 Player can see Exit Game button in bottom right",
+  "fullName" : "Spin Zone functionality testing.#9 Player can see Exit Game button in bottom right",
+  "historyId" : "293cd398a6a23d0fb53aa0620203b154",
+  "time" : {
+    "start" : 1665736687841,
+    "stop" : 1665736712544,
+    "duration" : 24703
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Game Card Details not visible.\n                Wait timed out after 20004ms",
+  "statusTrace" : "TimeoutError: Game Card Details not visible.\n                Wait timed out after 20004ms\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Game Card Details not visible.\n                    at scheduleWait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:66:16)\n                    at SpinZone.waitForGameCard (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.pageObjects.js:48:19)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.spec.js:35:18)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.spec.js:28:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n                    at Module.load (node:internal/modules/cjs/loader:1027:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n                    at Module.require (node:internal/modules/cjs/loader:1051:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Game Card Details not visible.\n                Wait timed out after 20004ms",
+    "statusTrace" : "TimeoutError: Game Card Details not visible.\n                Wait timed out after 20004ms\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Game Card Details not visible.\n                    at scheduleWait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:66:16)\n                    at SpinZone.waitForGameCard (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.pageObjects.js:48:19)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.spec.js:35:18)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/spin-zone/spin-zone.spec.js:28:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n                    at Module.load (node:internal/modules/cjs/loader:1027:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n                    at Module.require (node:internal/modules/cjs/loader:1051:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "48374883643cfe91",
+      "name" : "Screenshot",
+      "source" : "48374883643cfe91.png",
+      "type" : "image/png",
+      "size" : 3232482
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Player can see Exit Game button in bottom right"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9bb3a900149fff7f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No active session with ID e593819c2a5be7e1fd5d4aa7349f0df4",
+      "time" : {
+        "start" : 1665735676389,
+        "stop" : 1665735676403,
+        "duration" : 14
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7e1da51a5f73da1b.json",
+  "parameterValues" : [ ]
+}

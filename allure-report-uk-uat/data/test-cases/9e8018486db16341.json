@@ -1,0 +1,71 @@
+{
+  "uid" : "9e8018486db16341",
+  "name" : "#7 User can click on ‘Continue’ button in the ‘Re-subscribe’ success window and the Home page will be displayed.",
+  "fullName" : "UnsubscribePage.#7 User can click on ‘Continue’ button in the ‘Re-subscribe’ success window and the Home page will be displayed.",
+  "historyId" : "5b04fefff5980dbf6c6e18d8cfe89fb8",
+  "time" : {
+    "start" : 1665736573198,
+    "stop" : 1665736584175,
+    "duration" : 10977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d9e3155f00541606",
+      "name" : "Screenshot",
+      "source" : "d9e3155f00541606.png",
+      "type" : "image/png",
+      "size" : 1215756
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User can click on ‘Continue’ button in the ‘Re-subscribe’ success window and the Home page will be displayed."
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d31d45505f79211",
+      "status" : "failed",
+      "statusDetails" : "Failed: Unsubscribe form is not display.\n                Wait timed out after 20015ms",
+      "time" : {
+        "start" : 1665735040813,
+        "stop" : 1665735066382,
+        "duration" : 25569
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e8018486db16341.json",
+  "parameterValues" : [ ]
+}

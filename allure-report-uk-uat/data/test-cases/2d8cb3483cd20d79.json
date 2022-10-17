@@ -1,0 +1,70 @@
+{
+  "uid" : "2d8cb3483cd20d79",
+  "name" : "#1 User come to the Shop Welcome page ",
+  "fullName" : "Landing Page/Shop Welcome page.#1 User come to the Shop Welcome page ",
+  "historyId" : "620658626100d9a1f3b429c6e13bacdf",
+  "time" : {
+    "start" : 1665736137776,
+    "stop" : 1665736148764,
+    "duration" : 10988
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a863372ef0ddda3b",
+      "name" : "Screenshot",
+      "source" : "a863372ef0ddda3b.png",
+      "type" : "image/png",
+      "size" : 312696
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User come to the Shop Welcome page "
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "805589cfd704f738",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665733966041,
+        "stop" : 1665733988951,
+        "duration" : 22910
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d8cb3483cd20d79.json",
+  "parameterValues" : [ ]
+}

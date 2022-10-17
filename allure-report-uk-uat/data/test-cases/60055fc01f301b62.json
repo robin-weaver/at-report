@@ -1,0 +1,71 @@
+{
+  "uid" : "60055fc01f301b62",
+  "name" : "#5 User try to click on PLAY CTA of Popular game at Welcome Offer page",
+  "fullName" : "Landing Page/Welcome Offer page.#5 User try to click on PLAY CTA of Popular game at Welcome Offer page",
+  "historyId" : "3876acf51533fbc9c3a5c414f122d93f",
+  "time" : {
+    "start" : 1665735832053,
+    "stop" : 1665735850326,
+    "duration" : 18273
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "875f2d6a3d3be4e8",
+      "name" : "Screenshot",
+      "source" : "875f2d6a3d3be4e8.png",
+      "type" : "image/png",
+      "size" : 778715
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User try to click on PLAY CTA of Popular game at Welcome Offer page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f8ab6f491ed18258",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, .eyas-game-info)",
+      "time" : {
+        "start" : 1665733378354,
+        "stop" : 1665733398545,
+        "duration" : 20191
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60055fc01f301b62.json",
+  "parameterValues" : [ ]
+}

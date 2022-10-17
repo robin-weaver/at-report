@@ -1,0 +1,70 @@
+{
+  "uid" : "8f4026f283086a85",
+  "name" : "#14 Unread message count is not present on Inbox navigation bar icon if player has no unread messages",
+  "fullName" : "Inbox functionality testing.#14 Unread message count is not present on Inbox navigation bar icon if player has no unread messages",
+  "historyId" : "e77ba65f3449221f3b61e4fc38d42bef",
+  "time" : {
+    "start" : 1665733863189,
+    "stop" : 1665733935649,
+    "duration" : 72460
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4281:23)\n                    at listOnTimeout (node:internal/timers:564:17)\n                    at processTimers (node:internal/timers:507:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+    "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4281:23)\n                    at listOnTimeout (node:internal/timers:564:17)\n                    at processTimers (node:internal/timers:507:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "af57531f5e9489b4",
+      "name" : "Screenshot",
+      "source" : "af57531f5e9489b4.png",
+      "type" : "image/png",
+      "size" : 280712
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Unread message count is not present on Inbox navigation bar icon if player has no unread messages"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8f4026f283086a85.json",
+  "parameterValues" : [ ]
+}

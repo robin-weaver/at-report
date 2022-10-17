@@ -1,0 +1,70 @@
+{
+  "uid" : "4f0873fa1dc5d506",
+  "name" : "#3 User clicks on \"Be Aware Gambling\" image at Welcome Casino page",
+  "fullName" : "Landing Page/Welcome Casino page.#3 User clicks on \"Be Aware Gambling\" image at Welcome Casino page",
+  "historyId" : "d1bfd77bfea701c4f0506cac7825ae9",
+  "time" : {
+    "start" : 1665736053525,
+    "stop" : 1665736061374,
+    "duration" : 7849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a03d4fb4b5f1a5bc",
+      "name" : "Screenshot",
+      "source" : "a03d4fb4b5f1a5bc.png",
+      "type" : "image/png",
+      "size" : 1328510
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Casino page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Casino page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User clicks on \"Be Aware Gambling\" image at Welcome Casino page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Casino page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aee756467332717b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665733746484,
+        "stop" : 1665733778186,
+        "duration" : 31702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f0873fa1dc5d506.json",
+  "parameterValues" : [ ]
+}

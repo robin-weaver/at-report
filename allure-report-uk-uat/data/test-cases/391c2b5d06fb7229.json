@@ -1,0 +1,52 @@
+{
+  "uid" : "391c2b5d06fb7229",
+  "name" : "#43 User can go to More Info details after click More Info CTA.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#43 User can go to More Info details after click More Info CTA.",
+  "historyId" : "b221682f05cec4498e85de3af9a64704",
+  "time" : {
+    "start" : 1665735074573,
+    "stop" : 1665735676383,
+    "duration" : 601810
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: disconnected: Unable to receive message from renderer\n                  (failed to check if window was closed: timeout: Timed out receiving message from renderer: 600.000)\n                  (Session info: headless chrome=106.0.5249.119)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.35', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+  "statusTrace" : "WebDriverError: disconnected: Unable to receive message from renderer\n                  (failed to check if window was closed: timeout: Timed out receiving message from renderer: 600.000)\n                  (Session info: headless chrome=106.0.5249.119)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.35', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/error.js:546:15)\n                    at parseHttpResponse (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/http.js:509:13)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/http.js:441:30\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: WebDriver.navigate().to(https://merkurslots-com-uat.eyasgaming.net/uk/en/promotions.html)\n                    at thenableWebDriverProxy.schedule (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n                    at Navigation.to (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:1133:25)\n                    at thenableWebDriverProxy.get (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:988:28)\n                    at ProtractorBrowser.get (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:653:32)\n                    at Promotions.navigateTo (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.pageObject.js:240:19)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:1761:24)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:95:18)\n                From: Task: Run it(\"#43 User can go to More Info details after click More Info CTA.\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:1760:5)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:1427:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:52:1)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#43 User can go to More Info details after click More Info CTA."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "391c2b5d06fb7229.json",
+  "parameterValues" : [ ]
+}

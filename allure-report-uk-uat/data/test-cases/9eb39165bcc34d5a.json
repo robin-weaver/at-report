@@ -1,0 +1,70 @@
+{
+  "uid" : "9eb39165bcc34d5a",
+  "name" : "#6 User can click on the WELCOME BONUS FULL TERMS AND CONDITIONS",
+  "fullName" : "Landing Page/Shop Welcome page.#6 User can click on the WELCOME BONUS FULL TERMS AND CONDITIONS",
+  "historyId" : "e9573708de3193d6e6c8851995da8767",
+  "time" : {
+    "start" : 1665736232154,
+    "stop" : 1665736250354,
+    "duration" : 18200
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "90dabb1998148020",
+      "name" : "Screenshot",
+      "source" : "90dabb1998148020.png",
+      "type" : "image/png",
+      "size" : 332902
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can click on the WELCOME BONUS FULL TERMS AND CONDITIONS"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "633df006f3d76cd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665734089631,
+        "stop" : 1665734103410,
+        "duration" : 13779
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9eb39165bcc34d5a.json",
+  "parameterValues" : [ ]
+}

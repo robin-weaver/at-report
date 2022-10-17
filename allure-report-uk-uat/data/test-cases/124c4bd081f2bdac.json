@@ -1,0 +1,70 @@
+{
+  "uid" : "124c4bd081f2bdac",
+  "name" : "#4 User clicks on \"Be Aware Gambling\" link at Welcome Games page",
+  "fullName" : "Landing Page/Welcome Games page.#4 User clicks on \"Be Aware Gambling\" link at Welcome Games page",
+  "historyId" : "739306b7869442bb5fbd29e0baba11e2",
+  "time" : {
+    "start" : 1665735949373,
+    "stop" : 1665735962654,
+    "duration" : 13281
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6217d04c74edf401",
+      "name" : "Screenshot",
+      "source" : "6217d04c74edf401.png",
+      "type" : "image/png",
+      "size" : 1328510
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User clicks on \"Be Aware Gambling\" link at Welcome Games page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da34813c66655623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665733542586,
+        "stop" : 1665733570040,
+        "duration" : 27454
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "124c4bd081f2bdac.json",
+  "parameterValues" : [ ]
+}

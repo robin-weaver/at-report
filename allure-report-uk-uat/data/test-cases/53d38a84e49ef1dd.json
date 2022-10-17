@@ -1,0 +1,70 @@
+{
+  "uid" : "53d38a84e49ef1dd",
+  "name" : "#13 User logged in and click on game card and game page appears",
+  "fullName" : "Slots page.#13 User logged in and click on game card and game page appears",
+  "historyId" : "7f858f84b70bb18374277c832b00036b",
+  "time" : {
+    "start" : 1665736436539,
+    "stop" : 1665736451164,
+    "duration" : 14625
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "407e0b4515a27b59",
+      "name" : "Screenshot",
+      "source" : "407e0b4515a27b59.png",
+      "type" : "image/png",
+      "size" : 27381
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User logged in and click on game card and game page appears"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b51f313b181ac33f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665734948604,
+        "stop" : 1665734963552,
+        "duration" : 14948
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53d38a84e49ef1dd.json",
+  "parameterValues" : [ ]
+}
