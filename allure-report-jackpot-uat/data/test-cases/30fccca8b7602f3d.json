@@ -1,0 +1,79 @@
+{
+  "uid" : "30fccca8b7602f3d",
+  "name" : "#9 Player can continue with chosen 24 hours option to 'Take A Break' and confirming modal should display.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#9 Player can continue with chosen 24 hours option to 'Take A Break' and confirming modal should display.",
+  "historyId" : "3bd5d5587ac91b6c5eb0b911b52faa0f",
+  "time" : {
+    "start" : 1666693070703,
+    "stop" : 1666693106738,
+    "duration" : 36035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Account Pause' to contain 'I want to pause my account', 'Take A Break modal heading has incorrect text.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/take-a-break.spec.js:279:63)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Account Pause' to contain 'I want to pause my account', 'Take A Break modal heading has incorrect text.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/take-a-break.spec.js:279:63)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2066c34674a3e65d",
+      "name" : "Screenshot",
+      "source" : "2066c34674a3e65d.png",
+      "type" : "image/png",
+      "size" : 737648
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Player can continue with chosen 24 hours option to 'Take A Break' and confirming modal should display."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6ee60a8b3ba468cc",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Account Pause' to contain 'I want to pause my account', 'Take A Break modal heading has incorrect text.'.",
+      "time" : {
+        "start" : 1666692017441,
+        "stop" : 1666692048773,
+        "duration" : 31332
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "30fccca8b7602f3d.json",
+  "parameterValues" : [ ]
+}

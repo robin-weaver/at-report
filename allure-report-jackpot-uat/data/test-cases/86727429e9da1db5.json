@@ -1,0 +1,64 @@
+{
+  "uid" : "86727429e9da1db5",
+  "name" : "#03 Address Line 1 field is a mandatory field.",
+  "fullName" : "Registration > Step 3.#03 Address Line 1 field is a mandatory field.",
+  "historyId" : "ed863aef739859518a8314ea9643b1f0",
+  "time" : {
+    "start" : 1666692326524,
+    "stop" : 1666692347466,
+    "duration" : 20942
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'This field must be corrected to complete registration.' to contain 'Please complete this step to continue registration', 'Address Line 1 required field error has incorrect text.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/registration/registration-step-4.spec.js:295:11)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'This field must be corrected to complete registration.' to contain 'Please complete this step to continue registration', 'Address Line 1 required field error has incorrect text.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/registration/registration-step-4.spec.js:295:11)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c1190c460342192",
+      "name" : "Screenshot",
+      "source" : "3c1190c460342192.png",
+      "type" : "image/png",
+      "size" : 3859204
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Address Line 1 field is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86727429e9da1db5.json",
+  "parameterValues" : [ ]
+}

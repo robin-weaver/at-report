@@ -1,0 +1,70 @@
+{
+  "uid" : "9c86946b0c69b6e8",
+  "name" : "#16 Phone Number will display an error when entering non-numeric values into input.",
+  "fullName" : "Registration > Step 3.#16 Phone Number will display an error when entering non-numeric values into input.",
+  "historyId" : "7a82ed8df026e5f51b162ba5bce73a30",
+  "time" : {
+    "start" : 1666698476712,
+    "stop" : 1666698483307,
+    "duration" : 6595
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eb3e5c6d9d4a4715",
+      "name" : "Screenshot",
+      "source" : "eb3e5c6d9d4a4715.png",
+      "type" : "image/png",
+      "size" : 877645
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 Phone Number will display an error when entering non-numeric values into input."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a4bf001dc0a37615",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666697221931,
+        "stop" : 1666697249640,
+        "duration" : 27709
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c86946b0c69b6e8.json",
+  "parameterValues" : [ ]
+}

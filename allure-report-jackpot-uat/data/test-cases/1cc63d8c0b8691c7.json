@@ -1,0 +1,62 @@
+{
+  "uid" : "1cc63d8c0b8691c7",
+  "name" : "#1 Deep link to loss limits opens when logged in",
+  "fullName" : "Deep Link -> Loss Limits.#1 Deep link to loss limits opens when logged in",
+  "historyId" : "968ec544c748533ad703578a9f1189d1",
+  "time" : {
+    "start" : 1666691651223,
+    "stop" : 1666691675235,
+    "duration" : 24012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "13cca9bda141894e",
+      "name" : "Screenshot",
+      "source" : "13cca9bda141894e.png",
+      "type" : "image/png",
+      "size" : 664941
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to loss limits opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cc63d8c0b8691c7.json",
+  "parameterValues" : [ ]
+}

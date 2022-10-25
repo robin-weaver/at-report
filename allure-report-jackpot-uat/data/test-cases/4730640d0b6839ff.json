@@ -1,0 +1,62 @@
+{
+  "uid" : "4730640d0b6839ff",
+  "name" : "#0 User come to the Error 500 page, when service is unavailable",
+  "fullName" : "Service unavailable.#0 User come to the Error 500 page, when service is unavailable",
+  "historyId" : "642a0ddfb22c046921128bea6db0e7a3",
+  "time" : {
+    "start" : 1666691493503,
+    "stop" : 1666691497485,
+    "duration" : 3982
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d6f8100589b0f04b",
+      "name" : "Screenshot",
+      "source" : "d6f8100589b0f04b.png",
+      "type" : "image/png",
+      "size" : 396636
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testClass",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testMethod",
+    "value" : "#0 User come to the Error 500 page, when service is unavailable"
+  }, {
+    "name" : "package",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4730640d0b6839ff.json",
+  "parameterValues" : [ ]
+}

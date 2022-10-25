@@ -1,0 +1,60 @@
+{
+  "uid" : "455ca6a5bedac2a0",
+  "name" : "#08 User cannot enter invalid characters into the Address Line 2 field.",
+  "fullName" : "Registration > Step 3.#08 User cannot enter invalid characters into the Address Line 2 field.",
+  "historyId" : "2eba0d6278260d71a0b66560fe932eec",
+  "time" : {
+    "start" : 1666694587312,
+    "stop" : 1666694599681,
+    "duration" : 12369
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ba6327b7c750ae84",
+      "name" : "Screenshot",
+      "source" : "ba6327b7c750ae84.png",
+      "type" : "image/png",
+      "size" : 199598
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#08 User cannot enter invalid characters into the Address Line 2 field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "455ca6a5bedac2a0.json",
+  "parameterValues" : [ ]
+}

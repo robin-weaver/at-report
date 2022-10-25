@@ -1,0 +1,57 @@
+{
+  "uid" : "5f4c620962219d6d",
+  "name" : "#12 User can successfully change their Loss Limit with a decimal value and receive a success toast on submitting the new amount. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#12 User can successfully change their Loss Limit with a decimal value and receive a success toast on submitting the new amount. ",
+  "historyId" : "2cfd11fb3d4ebf239484f0a5a36547aa",
+  "time" : {
+    "start" : 1666695236074,
+    "stop" : 1666695236075,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 User can successfully change their Loss Limit with a decimal value and receive a success toast on submitting the new amount. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92aff9588b8043b3",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1666694178279,
+        "stop" : 1666694178280,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f4c620962219d6d.json",
+  "parameterValues" : [ ]
+}

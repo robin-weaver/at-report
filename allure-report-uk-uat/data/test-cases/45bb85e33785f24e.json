@@ -1,0 +1,70 @@
+{
+  "uid" : "45bb85e33785f24e",
+  "name" : "#1 User can view their Loss limits ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#1 User can view their Loss limits ",
+  "historyId" : "dde7796c417775fa9c8bd90634c984a6",
+  "time" : {
+    "start" : 1666697662774,
+    "stop" : 1666697689932,
+    "duration" : 27158
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1a28421e078272c1",
+      "name" : "Screenshot",
+      "source" : "1a28421e078272c1.png",
+      "type" : "image/png",
+      "size" : 1862257
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can view their Loss limits "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e4b98e522a5e9de4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666696076815,
+        "stop" : 1666696105790,
+        "duration" : 28975
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45bb85e33785f24e.json",
+  "parameterValues" : [ ]
+}

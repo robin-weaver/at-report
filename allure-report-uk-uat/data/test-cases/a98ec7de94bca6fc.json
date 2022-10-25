@@ -1,0 +1,64 @@
+{
+  "uid" : "a98ec7de94bca6fc",
+  "name" : "#16 User can only enter numeric digits into the set Loss Limit field. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#16 User can only enter numeric digits into the set Loss Limit field. ",
+  "historyId" : "f5cccb16182265742a5559998d163bb2",
+  "time" : {
+    "start" : 1666696626553,
+    "stop" : 1666696672719,
+    "duration" : 46166
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '£100' to be '', 'daily loss limit value is not changed.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/loss-limits.spec.js:437:7)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '£100' to be '', 'daily loss limit value is not changed.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/loss-limits.spec.js:437:7)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2296461acfe9dba5",
+      "name" : "Screenshot",
+      "source" : "2296461acfe9dba5.png",
+      "type" : "image/png",
+      "size" : 1061118
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 User can only enter numeric digits into the set Loss Limit field. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a98ec7de94bca6fc.json",
+  "parameterValues" : [ ]
+}

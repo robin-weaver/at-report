@@ -1,0 +1,70 @@
+{
+  "uid" : "b9f297bc122a840e",
+  "name" : "#11 User cannot enter invalid characters into the Post Code field.",
+  "fullName" : "Registration > Step 3.#11 User cannot enter invalid characters into the Post Code field.",
+  "historyId" : "c723ae45b712e70dea527318528a0082",
+  "time" : {
+    "start" : 1666698434265,
+    "stop" : 1666698450252,
+    "duration" : 15987
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d7907eb9955be97b",
+      "name" : "Screenshot",
+      "source" : "d7907eb9955be97b.png",
+      "type" : "image/png",
+      "size" : 878407
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 User cannot enter invalid characters into the Post Code field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8a7d4851479e244a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666697125717,
+        "stop" : 1666697153109,
+        "duration" : 27392
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9f297bc122a840e.json",
+  "parameterValues" : [ ]
+}

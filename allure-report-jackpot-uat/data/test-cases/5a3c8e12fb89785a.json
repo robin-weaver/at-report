@@ -1,0 +1,70 @@
+{
+  "uid" : "5a3c8e12fb89785a",
+  "name" : "#10 Player can successfully set a daily deposit limit if not already set.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#10 Player can successfully set a daily deposit limit if not already set.",
+  "historyId" : "4f69a2b96d9ffdd182267bbca1f42b66",
+  "time" : {
+    "start" : 1666693056495,
+    "stop" : 1666693087611,
+    "duration" : 31116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fa8203b358ffda86",
+      "name" : "Screenshot",
+      "source" : "fa8203b358ffda86.png",
+      "type" : "image/png",
+      "size" : 701771
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Player can successfully set a daily deposit limit if not already set."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f951db581bb6ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666691950627,
+        "stop" : 1666691980257,
+        "duration" : 29630
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a3c8e12fb89785a.json",
+  "parameterValues" : [ ]
+}

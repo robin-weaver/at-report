@@ -1,0 +1,70 @@
+{
+  "uid" : "12b1bb283441cab6",
+  "name" : "#10 User click on category and go to category page",
+  "fullName" : "Slots page.#10 User click on category and go to category page",
+  "historyId" : "34ff15955a7cfdee3fbcd6bc7fb32867",
+  "time" : {
+    "start" : 1666698251200,
+    "stop" : 1666698267066,
+    "duration" : 15866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c84d5eae1178ea07",
+      "name" : "Screenshot",
+      "source" : "c84d5eae1178ea07.png",
+      "type" : "image/png",
+      "size" : 654968
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User click on category and go to category page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c7ba0b262bc79bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666697147311,
+        "stop" : 1666697156397,
+        "duration" : 9086
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12b1bb283441cab6.json",
+  "parameterValues" : [ ]
+}

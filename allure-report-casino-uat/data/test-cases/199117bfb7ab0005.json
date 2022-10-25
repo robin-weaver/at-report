@@ -1,0 +1,62 @@
+{
+  "uid" : "199117bfb7ab0005",
+  "name" : "#23 User cannot continue to next step if their password does not meet the minimum password requirements.",
+  "fullName" : "Registration > Step 1.#23 User cannot continue to next step if their password does not meet the minimum password requirements.",
+  "historyId" : "2b291c58a3cfd8ad5569568cbfa6ea39",
+  "time" : {
+    "start" : 1666694495058,
+    "stop" : 1666694501408,
+    "duration" : 6350
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7445deff7772337a",
+      "name" : "Screenshot",
+      "source" : "7445deff7772337a.png",
+      "type" : "image/png",
+      "size" : 173306
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#23 User cannot continue to next step if their password does not meet the minimum password requirements."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "199117bfb7ab0005.json",
+  "parameterValues" : [ ]
+}

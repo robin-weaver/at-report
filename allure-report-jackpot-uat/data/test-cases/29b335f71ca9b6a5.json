@@ -1,0 +1,70 @@
+{
+  "uid" : "29b335f71ca9b6a5",
+  "name" : "#21 Player can open 'How deposit limits work' modal.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#21 Player can open 'How deposit limits work' modal.",
+  "historyId" : "668739173325485f626858b80bf125bc",
+  "time" : {
+    "start" : 1666693271419,
+    "stop" : 1666693293147,
+    "duration" : 21728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c37a52319e63feb2",
+      "name" : "Screenshot",
+      "source" : "c37a52319e63feb2.png",
+      "type" : "image/png",
+      "size" : 762486
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 Player can open 'How deposit limits work' modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "79adc30b0f727e67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666692157308,
+        "stop" : 1666692187243,
+        "duration" : 29935
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29b335f71ca9b6a5.json",
+  "parameterValues" : [ ]
+}

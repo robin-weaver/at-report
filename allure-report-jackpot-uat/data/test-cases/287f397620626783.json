@@ -1,0 +1,70 @@
+{
+  "uid" : "287f397620626783",
+  "name" : "#14 User cannot set a Loss Limit higher than the maximum amount. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#14 User cannot set a Loss Limit higher than the maximum amount. ",
+  "historyId" : "e0a6d40f824160c3a1e2a08337a69c31",
+  "time" : {
+    "start" : 1666693064046,
+    "stop" : 1666693098455,
+    "duration" : 34409
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "25f77588b4a6c006",
+      "name" : "Screenshot",
+      "source" : "25f77588b4a6c006.png",
+      "type" : "image/png",
+      "size" : 721112
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User cannot set a Loss Limit higher than the maximum amount. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3f1c1d2137559ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666692010249,
+        "stop" : 1666692044887,
+        "duration" : 34638
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "287f397620626783.json",
+  "parameterValues" : [ ]
+}

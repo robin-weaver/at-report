@@ -1,0 +1,64 @@
+{
+  "uid" : "c2ac06f9b89c2999",
+  "name" : "#17 User cannot enter spaces into Phone Number field.",
+  "fullName" : "Registration > Step 3.#17 User cannot enter spaces into Phone Number field.",
+  "historyId" : "143e4becc14907f212813f3a89e07afd",
+  "time" : {
+    "start" : 1666694656389,
+    "stop" : 1666694663212,
+    "duration" : 6823
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '123 456 78901' to equal '12345678901'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/registration/registration-step-4.spec.js:1100:72)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '123 456 78901' to equal '12345678901'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/registration/registration-step-4.spec.js:1100:72)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aa3bc22137eaac24",
+      "name" : "Screenshot",
+      "source" : "aa3bc22137eaac24.png",
+      "type" : "image/png",
+      "size" : 151418
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User cannot enter spaces into Phone Number field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2ac06f9b89c2999.json",
+  "parameterValues" : [ ]
+}

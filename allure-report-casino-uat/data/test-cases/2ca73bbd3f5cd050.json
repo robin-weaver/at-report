@@ -1,0 +1,71 @@
+{
+  "uid" : "2ca73bbd3f5cd050",
+  "name" : "#14 Player inputs into the password fields should be masked by default.",
+  "fullName" : "My Account > Settings > Change Password.#14 Player inputs into the password fields should be masked by default.",
+  "historyId" : "e51bebdda97ca4b3f5d813e0b8fa8157",
+  "time" : {
+    "start" : 1666695460652,
+    "stop" : 1666695471888,
+    "duration" : 11236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "35def2117ff2ff29",
+      "name" : "Screenshot",
+      "source" : "35def2117ff2ff29.png",
+      "type" : "image/png",
+      "size" : 775150
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player inputs into the password fields should be masked by default."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "738b62660d63d3d5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1666694422073,
+        "stop" : 1666694439441,
+        "duration" : 17368
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ca73bbd3f5cd050.json",
+  "parameterValues" : [ ]
+}

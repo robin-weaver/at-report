@@ -1,0 +1,70 @@
+{
+  "uid" : "f1829a969448da46",
+  "name" : "#5 Player can open the Deposit Limits Edit modal on edit icon click.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#5 Player can open the Deposit Limits Edit modal on edit icon click.",
+  "historyId" : "e873e5567e2b9cc3ba730cc69e020a79",
+  "time" : {
+    "start" : 1666692909582,
+    "stop" : 1666692943672,
+    "duration" : 34090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "97f7ee9ac1b05371",
+      "name" : "Screenshot",
+      "source" : "97f7ee9ac1b05371.png",
+      "type" : "image/png",
+      "size" : 720734
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can open the Deposit Limits Edit modal on edit icon click."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f6221a758f303963",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666691820463,
+        "stop" : 1666691848764,
+        "duration" : 28301
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1829a969448da46.json",
+  "parameterValues" : [ ]
+}

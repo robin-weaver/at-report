@@ -45,17 +45,6 @@
       "total" : 13
     }
   }, {
-    "uid" : "884af01ff59df6c1618081c2a06f840b",
-    "name" : "Promotions functionality testing. Bonus details testing.",
-    "statistic" : {
-      "failed" : 12,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 12
-    }
-  }, {
     "uid" : "55b8c2d63efd03068b4a5935cd95112e",
     "name" : "My Account -> Deposit",
     "statistic" : {
@@ -78,13 +67,35 @@
       "total" : 8
     }
   }, {
-    "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
-    "name" : "My Account > Gambling Controls > Account Closure > Take A Break",
+    "uid" : "4cecdc3407b170c54e975930a34bc6aa",
+    "name" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions.",
     "statistic" : {
       "failed" : 7,
       "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
+    "name" : "Slots page",
+    "statistic" : {
+      "failed" : 7,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
+    "name" : "My Account > Gambling Controls > Account Closure > Take A Break",
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
       "skipped" : 1,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
       "total" : 16
     }
@@ -92,23 +103,12 @@
     "uid" : "061b3d87e6dacb13b448e2611c5acfb8",
     "name" : "Spin Zone functionality testing",
     "statistic" : {
-      "failed" : 7,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 10
-    }
-  }, {
-    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
-    "name" : "Slots page",
-    "statistic" : {
       "failed" : 6,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 13
+      "total" : 10
     }
   } ]
 }

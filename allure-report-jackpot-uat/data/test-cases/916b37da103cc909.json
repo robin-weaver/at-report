@@ -1,0 +1,79 @@
+{
+  "uid" : "916b37da103cc909",
+  "name" : "#1 Deep link to edit phone opens when logged in",
+  "fullName" : "Deep Link -> Edit Phone.#1 Deep link to edit phone opens when logged in",
+  "historyId" : "996f912327078c0eaf13bea6e24718cb",
+  "time" : {
+    "start" : 1666692700753,
+    "stop" : 1666692738599,
+    "duration" : 37846
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Edit phone modal not shown\n                Wait timed out after 20037ms",
+  "statusTrace" : "TimeoutError: Edit phone modal not shown\n                Wait timed out after 20037ms\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Edit phone modal not shown\n                    at scheduleWait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:66:16)\n                    at EditNumber.waitForLoad (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/edit-phone-modal.component.js:44:19)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/deep-links/edit-phone.spec.js:42:27)\n                From: Task: Run it(\"#1 Deep link to edit phone opens when logged in\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/deep-links/edit-phone.spec.js:35:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/deep-links/edit-phone.spec.js:34:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Edit phone modal not shown\n                Wait timed out after 20037ms",
+    "statusTrace" : "TimeoutError: Edit phone modal not shown\n                Wait timed out after 20037ms\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Edit phone modal not shown\n                    at scheduleWait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:66:16)\n                    at EditNumber.waitForLoad (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/edit-phone-modal.component.js:44:19)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/deep-links/edit-phone.spec.js:42:27)\n                From: Task: Run it(\"#1 Deep link to edit phone opens when logged in\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/deep-links/edit-phone.spec.js:35:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/deep-links/edit-phone.spec.js:34:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a8cc2978df59322c",
+      "name" : "Screenshot",
+      "source" : "a8cc2978df59322c.png",
+      "type" : "image/png",
+      "size" : 1185975
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to edit phone opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "37761837ecbb276d",
+      "status" : "failed",
+      "statusDetails" : "Failed: Edit phone modal not shown\n                Wait timed out after 20008ms",
+      "time" : {
+        "start" : 1666691676153,
+        "stop" : 1666691717003,
+        "duration" : 40850
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "916b37da103cc909.json",
+  "parameterValues" : [ ]
+}

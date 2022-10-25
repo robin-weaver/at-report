@@ -1,0 +1,71 @@
+{
+  "uid" : "edfcd65a8f8fc7c7",
+  "name" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "historyId" : "4a3dd9a35dd9d6ab3052dc1b2665b641",
+  "time" : {
+    "start" : 1666698347771,
+    "stop" : 1666698422763,
+    "duration" : 74992
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "663eb7a267031b34",
+      "name" : "Screenshot",
+      "source" : "663eb7a267031b34.png",
+      "type" : "image/png",
+      "size" : 3419322
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "772b66213d359e73",
+      "status" : "failed",
+      "statusDetails" : "StaleElementReferenceError: stale element reference: element is not attached to the page document\n                  (Session info: headless chrome=106.0.5249.119)\n                For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.36', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1666697256466,
+        "stop" : 1666697287017,
+        "duration" : 30551
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edfcd65a8f8fc7c7.json",
+  "parameterValues" : [ ]
+}

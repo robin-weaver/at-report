@@ -1,0 +1,70 @@
+{
+  "uid" : "1ebc27245ede6a97",
+  "name" : "#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly",
+  "historyId" : "94cbf891469e6a07d3467520132fccac",
+  "time" : {
+    "start" : 1666693190737,
+    "stop" : 1666693223041,
+    "duration" : 32304
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b3c44a5ffefe174",
+      "name" : "Screenshot",
+      "source" : "b3c44a5ffefe174.png",
+      "type" : "image/png",
+      "size" : 1155209
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b2856232f524848b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666692223384,
+        "stop" : 1666692246476,
+        "duration" : 23092
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ebc27245ede6a97.json",
+  "parameterValues" : [ ]
+}

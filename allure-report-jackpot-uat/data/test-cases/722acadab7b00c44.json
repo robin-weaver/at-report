@@ -1,0 +1,64 @@
+{
+  "uid" : "722acadab7b00c44",
+  "name" : "#1 User can navigates to the slots page and all elements are persisted on the page",
+  "fullName" : "Slots page.#1 User can navigates to the slots page and all elements are persisted on the page",
+  "historyId" : "8d9a50ea6f6030768f51e9fb177cf530",
+  "time" : {
+    "start" : 1666692346017,
+    "stop" : 1666692354166,
+    "duration" : 8149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true, 'Hero banner carousel is not displayed'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:64:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected false to be true, 'Hero banner carousel is not displayed'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:64:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "80fbc78727d675f8",
+      "name" : "Screenshot",
+      "source" : "80fbc78727d675f8.png",
+      "type" : "image/png",
+      "size" : 2356567
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can navigates to the slots page and all elements are persisted on the page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "722acadab7b00c44.json",
+  "parameterValues" : [ ]
+}

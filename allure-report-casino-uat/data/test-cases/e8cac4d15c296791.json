@@ -1,0 +1,62 @@
+{
+  "uid" : "e8cac4d15c296791",
+  "name" : "#10 Player can unselect just email preferences using the email toggle (email already toggled on), which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#10 Player can unselect just email preferences using the email toggle (email already toggled on), which upon saving updates the account area accordingly",
+  "historyId" : "3d84c8f44845188592b0428d4089b637",
+  "time" : {
+    "start" : 1666694475031,
+    "stop" : 1666694501402,
+    "duration" : 26371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aa5455b6ab311048",
+      "name" : "Screenshot",
+      "source" : "aa5455b6ab311048.png",
+      "type" : "image/png",
+      "size" : 1198937
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Player can unselect just email preferences using the email toggle (email already toggled on), which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8cac4d15c296791.json",
+  "parameterValues" : [ ]
+}

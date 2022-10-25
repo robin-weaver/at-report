@@ -1,0 +1,71 @@
+{
+  "uid" : "1a95c83b5837f69c",
+  "name" : "#4 User can come to the \"Block Access to Gambling Websites and Apps Worldwide\" page from Responsible Gambling page",
+  "fullName" : "Home page => Responsible Gambling page.#4 User can come to the \"Block Access to Gambling Websites and Apps Worldwide\" page from Responsible Gambling page",
+  "historyId" : "fe4d32fdb5ba5adfb5c2d6574c252494",
+  "time" : {
+    "start" : 1666694977143,
+    "stop" : 1666695011348,
+    "duration" : 34205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ecd056361d5c19e1",
+      "name" : "Screenshot",
+      "source" : "ecd056361d5c19e1.png",
+      "type" : "image/png",
+      "size" : 899381
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can come to the \"Block Access to Gambling Websites and Apps Worldwide\" page from Responsible Gambling page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85168132e99af5ad",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://gamban.com/\"])",
+      "time" : {
+        "start" : 1666693625274,
+        "stop" : 1666693640937,
+        "duration" : 15663
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a95c83b5837f69c.json",
+  "parameterValues" : [ ]
+}
