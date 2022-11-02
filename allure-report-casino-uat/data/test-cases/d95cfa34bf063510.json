@@ -1,0 +1,62 @@
+{
+  "uid" : "d95cfa34bf063510",
+  "name" : "#01 User has not logged in, the user navigates to the live casino page and the live casino page is displayed.",
+  "fullName" : "Live Casino.#01 User has not logged in, the user navigates to the live casino page and the live casino page is displayed.",
+  "historyId" : "8f8eac07970ab49ead5e167e4431d1a9",
+  "time" : {
+    "start" : 1667308589021,
+    "stop" : 1667308592336,
+    "duration" : 3315
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71c7c7138c1ea776",
+      "name" : "Screenshot",
+      "source" : "71c7c7138c1ea776.png",
+      "type" : "image/png",
+      "size" : 1039471
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 User has not logged in, the user navigates to the live casino page and the live casino page is displayed."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d95cfa34bf063510.json",
+  "parameterValues" : [ ]
+}

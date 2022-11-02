@@ -1,0 +1,70 @@
+{
+  "uid" : "5216cf493472aea8",
+  "name" : "#9 User can click on 'Back to Login' and open Login window and successfully login.",
+  "fullName" : "Expired Link Error.#9 User can click on 'Back to Login' and open Login window and successfully login.",
+  "historyId" : "d9256b650ad7fed2eafbfb9b2258c598",
+  "time" : {
+    "start" : 1667309595913,
+    "stop" : 1667309602520,
+    "duration" : 6607
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3e9d4f7c64710d95",
+      "name" : "Screenshot",
+      "source" : "3e9d4f7c64710d95.png",
+      "type" : "image/png",
+      "size" : 411950
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can click on 'Back to Login' and open Login window and successfully login."
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "34b501ec57871a0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667308454417,
+        "stop" : 1667308460869,
+        "duration" : 6452
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5216cf493472aea8.json",
+  "parameterValues" : [ ]
+}

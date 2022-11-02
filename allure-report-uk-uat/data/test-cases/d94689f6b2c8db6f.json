@@ -1,0 +1,71 @@
+{
+  "uid" : "d94689f6b2c8db6f",
+  "name" : "#10 User can see the Terms and Conditions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#10 User can see the Terms and Conditions section on terms and conditions page",
+  "historyId" : "afbef74c6580fd3e472ad5f6397105d2",
+  "time" : {
+    "start" : 1667311655180,
+    "stop" : 1667311662465,
+    "duration" : 7285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40966f3c837e1e1b",
+      "name" : "Screenshot",
+      "source" : "40966f3c837e1e1b.png",
+      "type" : "image/png",
+      "size" : 775740
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User can see the Terms and Conditions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d44bb1e99ebab8c2",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1667310280932,
+        "stop" : 1667310290200,
+        "duration" : 9268
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d94689f6b2c8db6f.json",
+  "parameterValues" : [ ]
+}

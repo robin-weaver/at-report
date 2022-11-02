@@ -1,0 +1,62 @@
+{
+  "uid" : "bc86efd7e72e8831",
+  "name" : "#4 Player cannot continue with 'Time Limit' if a limit is not selected.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#4 Player cannot continue with 'Time Limit' if a limit is not selected.",
+  "historyId" : "d62fac6cf0860952da786f4fc119182d",
+  "time" : {
+    "start" : 1667308810897,
+    "stop" : 1667308835031,
+    "duration" : 24134
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bd5515e33449f891",
+      "name" : "Screenshot",
+      "source" : "bd5515e33449f891.png",
+      "type" : "image/png",
+      "size" : 798673
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player cannot continue with 'Time Limit' if a limit is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc86efd7e72e8831.json",
+  "parameterValues" : [ ]
+}

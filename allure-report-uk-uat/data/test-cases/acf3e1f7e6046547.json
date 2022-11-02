@@ -1,0 +1,70 @@
+{
+  "uid" : "acf3e1f7e6046547",
+  "name" : "#4 User can open the Loss Limits Delete modal on delete icon click ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#4 User can open the Loss Limits Delete modal on delete icon click ",
+  "historyId" : "46bcef57d37544332dfc4fde758b842d",
+  "time" : {
+    "start" : 1667311721989,
+    "stop" : 1667311752087,
+    "duration" : 30098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2a0bb1745aa1961c",
+      "name" : "Screenshot",
+      "source" : "2a0bb1745aa1961c.png",
+      "type" : "image/png",
+      "size" : 1160088
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can open the Loss Limits Delete modal on delete icon click "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "875555fe29e514eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667310651842,
+        "stop" : 1667310670710,
+        "duration" : 18868
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acf3e1f7e6046547.json",
+  "parameterValues" : [ ]
+}

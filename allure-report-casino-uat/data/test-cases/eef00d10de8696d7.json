@@ -1,0 +1,71 @@
+{
+  "uid" : "eef00d10de8696d7",
+  "name" : "#4 User can check ‘Other’ radio button and the text input will be displayed",
+  "fullName" : "UnsubscribePage.#4 User can check ‘Other’ radio button and the text input will be displayed",
+  "historyId" : "8b72d0310a03a199e6ecda9371175985",
+  "time" : {
+    "start" : 1667310075445,
+    "stop" : 1667310082482,
+    "duration" : 7037
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "805341af109b9200",
+      "name" : "Screenshot",
+      "source" : "805341af109b9200.png",
+      "type" : "image/png",
+      "size" : 210844
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can check ‘Other’ radio button and the text input will be displayed"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d02bd4bb6b950a6",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 60006ms",
+      "time" : {
+        "start" : 1667309419799,
+        "stop" : 1667309483733,
+        "duration" : 63934
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eef00d10de8696d7.json",
+  "parameterValues" : [ ]
+}

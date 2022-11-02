@@ -1,0 +1,70 @@
+{
+  "uid" : "4449156f41e26841",
+  "name" : "#02 Player can select to edit their telephone number and be presented with an edit modal.",
+  "fullName" : "My Profile > Contact Details.#02 Player can select to edit their telephone number and be presented with an edit modal.",
+  "historyId" : "9f9a6c489e9b133f67dfb3c0edb74f42",
+  "time" : {
+    "start" : 1667311662288,
+    "stop" : 1667311682086,
+    "duration" : 19798
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0f8e0938edc631d",
+      "name" : "Screenshot",
+      "source" : "a0f8e0938edc631d.png",
+      "type" : "image/png",
+      "size" : 1009363
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Player can select to edit their telephone number and be presented with an edit modal."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8c9a9de9b803501f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667310829323,
+        "stop" : 1667310853323,
+        "duration" : 24000
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4449156f41e26841.json",
+  "parameterValues" : [ ]
+}

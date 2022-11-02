@@ -1,0 +1,79 @@
+{
+  "uid" : "7c46bdf7289accbe",
+  "name" : "#10 User hover the game card and click on it and login modal appears",
+  "fullName" : "Slots page.#10 User hover the game card and click on it and login modal appears",
+  "historyId" : "9ab318c98ff781cea0c096a8ac07b7c2",
+  "time" : {
+    "start" : 1667310007729,
+    "stop" : 1667310015478,
+    "duration" : 7749
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NoSuchElementError: No element found using locator: By(css selector, .game-card-details)",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .game-card-details)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as getId] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as getId] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:831:22)\n                    at ActionSequence.mouseMove (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/actions.js:151:44)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:389:10)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "NoSuchElementError: No element found using locator: By(css selector, .game-card-details)",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .game-card-details)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as getId] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as getId] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:831:22)\n                    at ActionSequence.mouseMove (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/actions.js:151:44)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:389:10)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "88b80ded762d040f",
+      "name" : "Screenshot",
+      "source" : "88b80ded762d040f.png",
+      "type" : "image/png",
+      "size" : 1961231
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User hover the game card and click on it and login modal appears"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d93944b9cc235c64",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, .game-card-details)",
+      "time" : {
+        "start" : 1667309326160,
+        "stop" : 1667309333448,
+        "duration" : 7288
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7c46bdf7289accbe.json",
+  "parameterValues" : [ ]
+}

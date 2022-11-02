@@ -1,0 +1,70 @@
+{
+  "uid" : "e0700ce8c755d82",
+  "name" : "#17 User can open 'How loss limits work' modal. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#17 User can open 'How loss limits work' modal. ",
+  "historyId" : "da52829f65efa40d6a6be01dab6e0341",
+  "time" : {
+    "start" : 1667310000283,
+    "stop" : 1667310018328,
+    "duration" : 18045
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2e61da08a71087be",
+      "name" : "Screenshot",
+      "source" : "2e61da08a71087be.png",
+      "type" : "image/png",
+      "size" : 881137
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User can open 'How loss limits work' modal. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da4029d24cffb0c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667309016713,
+        "stop" : 1667309037370,
+        "duration" : 20657
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0700ce8c755d82.json",
+  "parameterValues" : [ ]
+}

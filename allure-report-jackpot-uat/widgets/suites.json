@@ -1,17 +1,6 @@
 {
   "total" : 40,
   "items" : [ {
-    "uid" : "425cb1cc981b402646effc66d40d078e",
-    "name" : "Home => Terms & Conditions",
-    "statistic" : {
-      "failed" : 29,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 29
-    }
-  }, {
     "uid" : "fddcd445851e3581a68118b5f4d9481a",
     "name" : "My Account > Gambling Controls > Account Closure > Self Exclusion",
     "statistic" : {
@@ -23,6 +12,28 @@
       "total" : 19
     }
   }, {
+    "uid" : "578667d191051de9fa6b4ea4f518ffc2",
+    "name" : "My Account > Settings > Change Password",
+    "statistic" : {
+      "failed" : 16,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "a42c9f51ba1bf76b8f087ce0758272d2",
+    "name" : "Homepage",
+    "statistic" : {
+      "failed" : 13,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 14
+    }
+  }, {
     "uid" : "64e5b42b098b4d0dfe9afab827bff937",
     "name" : "Home page => Privacy Policy page",
     "statistic" : {
@@ -30,17 +41,6 @@
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
-      "unknown" : 0,
-      "total" : 12
-    }
-  }, {
-    "uid" : "884af01ff59df6c1618081c2a06f840b",
-    "name" : "Promotions functionality testing. Bonus details testing.",
-    "statistic" : {
-      "failed" : 11,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
       "unknown" : 0,
       "total" : 12
     }
@@ -56,26 +56,15 @@
       "total" : 10
     }
   }, {
-    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
-    "name" : "Slots page",
-    "statistic" : {
-      "failed" : 9,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 13
-    }
-  }, {
-    "uid" : "71c21412bab82a6510ddb909834237b1",
-    "name" : "My Account > Gambling Controls > Play Reminders",
+    "uid" : "425cb1cc981b402646effc66d40d078e",
+    "name" : "Home => Terms & Conditions",
     "statistic" : {
       "failed" : 8,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 8
+      "total" : 29
     }
   }, {
     "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
@@ -109,6 +98,17 @@
       "passed" : 0,
       "unknown" : 0,
       "total" : 7
+    }
+  }, {
+    "uid" : "c1241e507322101c86066c7b6b7229b1",
+    "name" : "My Account > Gambling Controls > Deposit Limits",
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 22
     }
   } ]
 }

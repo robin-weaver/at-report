@@ -1,0 +1,64 @@
+{
+  "uid" : "75f4e3f35bb53944",
+  "name" : "#12 Balance preview correctly displays £0.00 if user has no balance",
+  "fullName" : "Homepage.#12 Balance preview correctly displays £0.00 if user has no balance",
+  "historyId" : "5b9728c4ee77e4ebeefef1ce963dece8",
+  "time" : {
+    "start" : 1667306496091,
+    "stop" : 1667306563246,
+    "duration" : 67155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: login-form is still displayed\n                Wait timed out after 60029ms",
+  "statusTrace" : "TimeoutError: login-form is still displayed\n                Wait timed out after 60029ms\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: login-form is still displayed\n                    at scheduleWait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:66:16)\n                    at LoginModal.waitToLogin (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/login/login-modal.component.js:57:19)\n                    at Home.loginToSite (/Users/robinweaver/Documents/eyas-test-automation/src/test/page.pageObject.js:56:27)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/homepage.spec.js:412:5)\n                From: Task: Run it(\"#12 Balance preview correctly displays £0.00 if user has no balance\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/homepage.spec.js:408:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/homepage.spec.js:53:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: login-form is still displayed\n                Wait timed out after 60029ms",
+    "statusTrace" : "TimeoutError: login-form is still displayed\n                Wait timed out after 60029ms\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: login-form is still displayed\n                    at scheduleWait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/browser.js:66:16)\n                    at LoginModal.waitToLogin (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/login/login-modal.component.js:57:19)\n                    at Home.loginToSite (/Users/robinweaver/Documents/eyas-test-automation/src/test/page.pageObject.js:56:27)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/homepage.spec.js:412:5)\n                From: Task: Run it(\"#12 Balance preview correctly displays £0.00 if user has no balance\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/homepage.spec.js:408:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/homepage.spec.js:53:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3d9112df532817dc",
+      "name" : "Screenshot",
+      "source" : "3d9112df532817dc.png",
+      "type" : "image/png",
+      "size" : 1309733
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Balance preview correctly displays £0.00 if user has no balance"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75f4e3f35bb53944.json",
+  "parameterValues" : [ ]
+}

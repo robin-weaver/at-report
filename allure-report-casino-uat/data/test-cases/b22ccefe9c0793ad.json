@@ -1,0 +1,70 @@
+{
+  "uid" : "b22ccefe9c0793ad",
+  "name" : "#14 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "fullName" : "Slots page.#14 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "historyId" : "5420b51324cdf5e4aa045bc13e3aaa63",
+  "time" : {
+    "start" : 1667310032145,
+    "stop" : 1667310043079,
+    "duration" : 10934
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "db5be60e2ee663a4",
+      "name" : "Screenshot",
+      "source" : "db5be60e2ee663a4.png",
+      "type" : "image/png",
+      "size" : 27381
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9834bdab47a8305b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667309351046,
+        "stop" : 1667309365068,
+        "duration" : 14022
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b22ccefe9c0793ad.json",
+  "parameterValues" : [ ]
+}

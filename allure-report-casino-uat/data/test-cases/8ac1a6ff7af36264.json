@@ -1,0 +1,79 @@
+{
+  "uid" : "8ac1a6ff7af36264",
+  "name" : "#5 User can see on hero banner carousel primary button CTA, can click on it and see game info page",
+  "fullName" : "Slots page.#5 User can see on hero banner carousel primary button CTA, can click on it and see game info page",
+  "historyId" : "37c0f7c9a747cc3a60d4883ce2317f6d",
+  "time" : {
+    "start" : 1667309971490,
+    "stop" : 1667309976539,
+    "duration" : 5049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NoSuchElementError: No element found using locator: By(css selector, .promotion-main-wrapper__info-block)",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .promotion-main-wrapper__info-block)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as isDisplayed] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as isDisplayed] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:207:40)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "NoSuchElementError: No element found using locator: By(css selector, .promotion-main-wrapper__info-block)",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .promotion-main-wrapper__info-block)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as isDisplayed] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as isDisplayed] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:207:40)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1812ea91fa6102a",
+      "name" : "Screenshot",
+      "source" : "f1812ea91fa6102a.png",
+      "type" : "image/png",
+      "size" : 1287095
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can see on hero banner carousel primary button CTA, can click on it and see game info page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff06f71e3dbc381c",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, .promotion-main-wrapper__info-block)",
+      "time" : {
+        "start" : 1667309287685,
+        "stop" : 1667309293662,
+        "duration" : 5977
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8ac1a6ff7af36264.json",
+  "parameterValues" : [ ]
+}

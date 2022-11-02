@@ -1,0 +1,70 @@
+{
+  "uid" : "83c98875dcc1e06a",
+  "name" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "historyId" : "84e5664ee9d6150c3faf5301b9d6db87",
+  "time" : {
+    "start" : 1667309842288,
+    "stop" : 1667309861821,
+    "duration" : 19533
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "60d4e42a9e35fc1",
+      "name" : "Screenshot",
+      "source" : "60d4e42a9e35fc1.png",
+      "type" : "image/png",
+      "size" : 1196794
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f4c49b7e2161c99b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667309130008,
+        "stop" : 1667309150588,
+        "duration" : 20580
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83c98875dcc1e06a.json",
+  "parameterValues" : [ ]
+}

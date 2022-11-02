@@ -1,0 +1,70 @@
+{
+  "uid" : "e6a13b3c34c4fb72",
+  "name" : "#21 User can see the Responsible Gambling section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#21 User can see the Responsible Gambling section on terms and conditions page",
+  "historyId" : "a8e7bfe034c9bd65c4809a755f1653ed",
+  "time" : {
+    "start" : 1667309680402,
+    "stop" : 1667309685487,
+    "duration" : 5085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "84a9de8a9bd5f077",
+      "name" : "Screenshot",
+      "source" : "84a9de8a9bd5f077.png",
+      "type" : "image/png",
+      "size" : 805081
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 User can see the Responsible Gambling section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6eb5ca0acd1d1395",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667308700868,
+        "stop" : 1667308706622,
+        "duration" : 5754
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6a13b3c34c4fb72.json",
+  "parameterValues" : [ ]
+}

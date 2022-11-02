@@ -1,0 +1,70 @@
+{
+  "uid" : "bce13f3d7a463662",
+  "name" : "#26 User can see the Miscellaneous section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#26 User can see the Miscellaneous section on terms and conditions page",
+  "historyId" : "29312a6fd699312a6f515147a2d6e5a4",
+  "time" : {
+    "start" : 1667309703835,
+    "stop" : 1667309708639,
+    "duration" : 4804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5a7004c68f1cd8dd",
+      "name" : "Screenshot",
+      "source" : "5a7004c68f1cd8dd.png",
+      "type" : "image/png",
+      "size" : 805081
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#26 User can see the Miscellaneous section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1b540f29a946dc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667308728591,
+        "stop" : 1667308733774,
+        "duration" : 5183
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bce13f3d7a463662.json",
+  "parameterValues" : [ ]
+}

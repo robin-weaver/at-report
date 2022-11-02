@@ -1,0 +1,70 @@
+{
+  "uid" : "4d345ae921a49490",
+  "name" : "#6 Player can choose 1 week option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#6 Player can choose 1 week option for 'Take A Break' and this option should be selected.",
+  "historyId" : "df62453a2e46fd3965ca9576e6d689da",
+  "time" : {
+    "start" : 1667311920199,
+    "stop" : 1667311945627,
+    "duration" : 25428
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6df8606730e375db",
+      "name" : "Screenshot",
+      "source" : "6df8606730e375db.png",
+      "type" : "image/png",
+      "size" : 985875
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can choose 1 week option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b28cbe42885787da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667310782891,
+        "stop" : 1667310808237,
+        "duration" : 25346
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d345ae921a49490.json",
+  "parameterValues" : [ ]
+}

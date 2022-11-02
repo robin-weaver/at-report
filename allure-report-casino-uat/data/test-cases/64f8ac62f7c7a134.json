@@ -1,0 +1,70 @@
+{
+  "uid" : "64f8ac62f7c7a134",
+  "name" : "#2 All elements are persisted on the page. ",
+  "fullName" : "Expired Link Error.#2 All elements are persisted on the page. ",
+  "historyId" : "fa95bae2d0f463f6c28770479abb98c7",
+  "time" : {
+    "start" : 1667309576007,
+    "stop" : 1667309577847,
+    "duration" : 1840
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6013840e4f161c8f",
+      "name" : "Screenshot",
+      "source" : "6013840e4f161c8f.png",
+      "type" : "image/png",
+      "size" : 409690
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 All elements are persisted on the page. "
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b2b29fad3735cbba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667308432439,
+        "stop" : 1667308434405,
+        "duration" : 1966
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64f8ac62f7c7a134.json",
+  "parameterValues" : [ ]
+}

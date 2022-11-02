@@ -1,0 +1,60 @@
+{
+  "uid" : "155119ba189865dd",
+  "name" : "#1 Unsubscribe page is displayed with correct content.",
+  "fullName" : "UnsubscribePage.#1 Unsubscribe page is displayed with correct content.",
+  "historyId" : "6ce810f70198575d11e7207779c19261",
+  "time" : {
+    "start" : 1667311337474,
+    "stop" : 1667311349618,
+    "duration" : 12144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2c6f49eb461d49c6",
+      "name" : "Screenshot",
+      "source" : "2c6f49eb461d49c6.png",
+      "type" : "image/png",
+      "size" : 150882
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Unsubscribe page is displayed with correct content."
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "155119ba189865dd.json",
+  "parameterValues" : [ ]
+}

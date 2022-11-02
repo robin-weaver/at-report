@@ -1,0 +1,71 @@
+{
+  "uid" : "29ca44a9f57eb56f",
+  "name" : "#3 User can come to the Gamble Stop page from Responsible Gambling page",
+  "fullName" : "Home page => Responsible Gambling page.#3 User can come to the Gamble Stop page from Responsible Gambling page",
+  "historyId" : "1f5796b744f602081654f9c5b01508ca",
+  "time" : {
+    "start" : 1667311616032,
+    "stop" : 1667311628312,
+    "duration" : 12280
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7aa1682b718044a0",
+      "name" : "Screenshot",
+      "source" : "7aa1682b718044a0.png",
+      "type" : "image/png",
+      "size" : 378264
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gamble Stop page from Responsible Gambling page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "419922525cb4539c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href =\"https://www.gamstop.co.uk/\"])",
+      "time" : {
+        "start" : 1667310218171,
+        "stop" : 1667310232948,
+        "duration" : 14777
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29ca44a9f57eb56f.json",
+  "parameterValues" : [ ]
+}

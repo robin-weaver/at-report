@@ -1,0 +1,70 @@
+{
+  "uid" : "68343534c2432501",
+  "name" : "#4 User can check ‘Other’ radio button and the text input will be displayed",
+  "fullName" : "UnsubscribePage.#4 User can check ‘Other’ radio button and the text input will be displayed",
+  "historyId" : "8b72d0310a03a199e6ecda9371175985",
+  "time" : {
+    "start" : 1667312171528,
+    "stop" : 1667312178887,
+    "duration" : 7359
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "67aebde01a739908",
+      "name" : "Screenshot",
+      "source" : "67aebde01a739908.png",
+      "type" : "image/png",
+      "size" : 198918
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can check ‘Other’ radio button and the text input will be displayed"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "de4fcf55be9e1707",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667311381378,
+        "stop" : 1667311397326,
+        "duration" : 15948
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68343534c2432501.json",
+  "parameterValues" : [ ]
+}

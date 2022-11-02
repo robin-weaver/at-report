@@ -1,0 +1,70 @@
+{
+  "uid" : "3d519696ad857074",
+  "name" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "fullName" : "My Profile > Communications Preferences.#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "historyId" : "bf2faf4bdfa1a59fac6716e0f3ba0a9c",
+  "time" : {
+    "start" : 1667309774147,
+    "stop" : 1667309787602,
+    "duration" : 13455
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dcfa4edd5989f257",
+      "name" : "Screenshot",
+      "source" : "dcfa4edd5989f257.png",
+      "type" : "image/png",
+      "size" : 1294784
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "edc3788154a0404e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667309073074,
+        "stop" : 1667309086005,
+        "duration" : 12931
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d519696ad857074.json",
+  "parameterValues" : [ ]
+}

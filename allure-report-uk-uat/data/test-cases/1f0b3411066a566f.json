@@ -1,0 +1,71 @@
+{
+  "uid" : "1f0b3411066a566f",
+  "name" : "#6 User can come to the GamCare page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#6 User can come to the GamCare page from terms and conditions page",
+  "historyId" : "5bb0fdd73e75ae9289dfe8bc04ef915b",
+  "time" : {
+    "start" : 1667311622512,
+    "stop" : 1667311635364,
+    "duration" : 12852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "305197166c140f7d",
+      "name" : "Screenshot",
+      "source" : "305197166c140f7d.png",
+      "type" : "image/png",
+      "size" : 3666621
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can come to the GamCare page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f089db73290d41a6",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamcare.org.uk/\"])",
+      "time" : {
+        "start" : 1667310249310,
+        "stop" : 1667310255766,
+        "duration" : 6456
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f0b3411066a566f.json",
+  "parameterValues" : [ ]
+}

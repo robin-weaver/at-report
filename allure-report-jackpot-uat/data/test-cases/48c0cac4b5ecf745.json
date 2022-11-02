@@ -1,0 +1,64 @@
+{
+  "uid" : "48c0cac4b5ecf745",
+  "name" : "#3 All elements are persisted on 404 error page.",
+  "fullName" : "404 error page functionality testing..#3 All elements are persisted on 404 error page.",
+  "historyId" : "372e906dcb903b07188dcdea3a280e59",
+  "time" : {
+    "start" : 1667305822673,
+    "stop" : 1667305830259,
+    "duration" : 7586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true, 'Header balance for authenticated user is not displayed.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/error/error404.spec.js:108:66)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected false to be true, 'Header balance for authenticated user is not displayed.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/error/error404.spec.js:108:66)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "39bcc8b575fa0029",
+      "name" : "Screenshot",
+      "source" : "39bcc8b575fa0029.png",
+      "type" : "image/png",
+      "size" : 404267
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 All elements are persisted on 404 error page."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48c0cac4b5ecf745.json",
+  "parameterValues" : [ ]
+}
