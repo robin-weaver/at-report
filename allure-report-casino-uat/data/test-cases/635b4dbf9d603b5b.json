@@ -1,0 +1,62 @@
+{
+  "uid" : "635b4dbf9d603b5b",
+  "name" : "#1 Player can navigate to the registration page via the 'Join'.",
+  "fullName" : "Homepage.#1 Player can navigate to the registration page via the 'Join'.",
+  "historyId" : "e500dff9b0e8d7a728ae998cb4cfba27",
+  "time" : {
+    "start" : 1668161735515,
+    "stop" : 1668161738776,
+    "duration" : 3261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cef8d89b07af1978",
+      "name" : "Screenshot",
+      "source" : "cef8d89b07af1978.png",
+      "type" : "image/png",
+      "size" : 138104
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can navigate to the registration page via the 'Join'."
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "635b4dbf9d603b5b.json",
+  "parameterValues" : [ ]
+}

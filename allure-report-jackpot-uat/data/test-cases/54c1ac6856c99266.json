@@ -1,0 +1,70 @@
+{
+  "uid" : "54c1ac6856c99266",
+  "name" : "#04 Player can update their telephone number.",
+  "fullName" : "My Profile > Contact Details.#04 Player can update their telephone number.",
+  "historyId" : "ce2f4afa7d1baa0a6acd81d7bcecc9a1",
+  "time" : {
+    "start" : 1668161108689,
+    "stop" : 1668161124429,
+    "duration" : 15740
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6d245ee0e3d7abe9",
+      "name" : "Screenshot",
+      "source" : "6d245ee0e3d7abe9.png",
+      "type" : "image/png",
+      "size" : 464833
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player can update their telephone number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4ee9723e3012e784",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159778663,
+        "stop" : 1668159802867,
+        "duration" : 24204
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54c1ac6856c99266.json",
+  "parameterValues" : [ ]
+}

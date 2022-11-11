@@ -1,0 +1,70 @@
+{
+  "uid" : "b97a3d1f77983991",
+  "name" : "#46 User clicks button CLAIM for already CLAIMED bonus, successfully login and can see drawer \"This promotion is unavailable\".",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#46 User clicks button CLAIM for already CLAIMED bonus, successfully login and can see drawer \"This promotion is unavailable\".",
+  "historyId" : "c1d4752db006c663452d55458a6eda7a",
+  "time" : {
+    "start" : 1668161668722,
+    "stop" : 1668161675962,
+    "duration" : 7240
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "15ee25890fa0cc0d",
+      "name" : "Screenshot",
+      "source" : "15ee25890fa0cc0d.png",
+      "type" : "image/png",
+      "size" : 1427316
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#46 User clicks button CLAIM for already CLAIMED bonus, successfully login and can see drawer \"This promotion is unavailable\"."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a8f203b84f9212ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668160289946,
+        "stop" : 1668160298996,
+        "duration" : 9050
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b97a3d1f77983991.json",
+  "parameterValues" : [ ]
+}

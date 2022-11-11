@@ -1,0 +1,70 @@
+{
+  "uid" : "124c52e614199f3d",
+  "name" : "#1 User see venue finder page and see map.",
+  "fullName" : "Venue > Venue land based information.#1 User see venue finder page and see map.",
+  "historyId" : "2c120dd7544e7ca4c311edcb39071e11",
+  "time" : {
+    "start" : 1668164946233,
+    "stop" : 1668164953304,
+    "duration" : 7071
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8c4724adb808f57f",
+      "name" : "Screenshot",
+      "source" : "8c4724adb808f57f.png",
+      "type" : "image/png",
+      "size" : 778944
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Venue > Venue land based information"
+  }, {
+    "name" : "testClass",
+    "value" : "Venue > Venue land based information"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User see venue finder page and see map."
+  }, {
+    "name" : "package",
+    "value" : "Venue > Venue land based information"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c5ab788090a1de0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668164415095,
+        "stop" : 1668164421773,
+        "duration" : 6678
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "124c52e614199f3d.json",
+  "parameterValues" : [ ]
+}

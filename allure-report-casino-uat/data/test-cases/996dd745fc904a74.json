@@ -1,0 +1,79 @@
+{
+  "uid" : "996dd745fc904a74",
+  "name" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "historyId" : "6738b4e4e997c619b4e268723245a9ec",
+  "time" : {
+    "start" : 1668163016001,
+    "stop" : 1668163036548,
+    "duration" : 20547
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'WhatsApp' to equal 'Post'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/settings/comm-preferences.spec.js:369:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'WhatsApp' to equal 'Post'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/settings/comm-preferences.spec.js:369:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "106d3a950eba01d",
+      "name" : "Screenshot",
+      "source" : "106d3a950eba01d.png",
+      "type" : "image/png",
+      "size" : 1246417
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8952b44707add47d",
+      "status" : "failed",
+      "statusDetails" : "Expected 'WhatsApp' to equal 'Post'.",
+      "time" : {
+        "start" : 1668162378440,
+        "stop" : 1668162395706,
+        "duration" : 17266
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "996dd745fc904a74.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "9e0e0d3351622f2d",
+  "name" : "#3 Player can close Game menu",
+  "fullName" : "Spin Zone functionality testing.#3 Player can close Game menu",
+  "historyId" : "6044adda0f52431f5c94461b86fd16c5",
+  "time" : {
+    "start" : 1668163181910,
+    "stop" : 1668163202243,
+    "duration" : 20333
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "51fd3bf1629331fb",
+      "name" : "Screenshot",
+      "source" : "51fd3bf1629331fb.png",
+      "type" : "image/png",
+      "size" : 1139983
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can close Game menu"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c79277cd5e504545",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668162577075,
+        "stop" : 1668162592267,
+        "duration" : 15192
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e0e0d3351622f2d.json",
+  "parameterValues" : [ ]
+}

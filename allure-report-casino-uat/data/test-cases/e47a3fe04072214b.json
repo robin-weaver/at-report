@@ -1,0 +1,62 @@
+{
+  "uid" : "e47a3fe04072214b",
+  "name" : "#1 User can come to the home page from Error 500 page",
+  "fullName" : "Service unavailable.#1 User can come to the home page from Error 500 page",
+  "historyId" : "5d50fcfda6894ec54066e559f26cdd8b",
+  "time" : {
+    "start" : 1668161719372,
+    "stop" : 1668161721253,
+    "duration" : 1881
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "79c34ecee4f67d63",
+      "name" : "Screenshot",
+      "source" : "79c34ecee4f67d63.png",
+      "type" : "image/png",
+      "size" : 220569
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testClass",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the home page from Error 500 page"
+  }, {
+    "name" : "package",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e47a3fe04072214b.json",
+  "parameterValues" : [ ]
+}

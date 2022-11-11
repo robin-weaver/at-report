@@ -1,0 +1,70 @@
+{
+  "uid" : "ee0c65c998f243e9",
+  "name" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "historyId" : "34f6dce3dd23a700bb1b31a643b8691c",
+  "time" : {
+    "start" : 1668162924469,
+    "stop" : 1668162931458,
+    "duration" : 6989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5eacdc0f1035e01d",
+      "name" : "Screenshot",
+      "source" : "5eacdc0f1035e01d.png",
+      "type" : "image/png",
+      "size" : 809265
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c8b443eb08832e89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668161893403,
+        "stop" : 1668161898133,
+        "duration" : 4730
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee0c65c998f243e9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "ec08b5795a012d5c",
+  "name" : "#3 Active promotions are displayed in correct order.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#3 Active promotions are displayed in correct order.",
+  "historyId" : "bd9be0eb6d578ed72d8caad0ade7e2b2",
+  "time" : {
+    "start" : 1668161354889,
+    "stop" : 1668161372789,
+    "duration" : 17900
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aa8cfab7f866f3d6",
+      "name" : "Screenshot",
+      "source" : "aa8cfab7f866f3d6.png",
+      "type" : "image/png",
+      "size" : 2574073
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Active promotions are displayed in correct order."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c518a4bd5131dda2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159886090,
+        "stop" : 1668159899513,
+        "duration" : 13423
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec08b5795a012d5c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "2f7cc3a5dfcc1166",
+  "name" : "#1 404 error page is displayed.",
+  "fullName" : "404 error page functionality testing..#1 404 error page is displayed.",
+  "historyId" : "523cf6c49b11fd5dee46d1edd67e4ac6",
+  "time" : {
+    "start" : 1668160960594,
+    "stop" : 1668160962438,
+    "duration" : 1844
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "687fb83628a43b2b",
+      "name" : "Screenshot",
+      "source" : "687fb83628a43b2b.png",
+      "type" : "image/png",
+      "size" : 406068
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 404 error page is displayed."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b23deb60c3a796f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159258510,
+        "stop" : 1668159260616,
+        "duration" : 2106
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f7cc3a5dfcc1166.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "3b25776a4a53e4fa",
+  "name" : "#05 Player try to update invalid phone number.",
+  "fullName" : "My Profile > Contact Details.#05 Player try to update invalid phone number.",
+  "historyId" : "ebe2049342cfffcb5dad2e518a359746",
+  "time" : {
+    "start" : 1668161124429,
+    "stop" : 1668161139082,
+    "duration" : 14653
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ccf249829e684ea",
+      "name" : "Screenshot",
+      "source" : "ccf249829e684ea.png",
+      "type" : "image/png",
+      "size" : 522469
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player try to update invalid phone number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "59a2f3d0c8aaf8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159802868,
+        "stop" : 1668159824871,
+        "duration" : 22003
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b25776a4a53e4fa.json",
+  "parameterValues" : [ ]
+}

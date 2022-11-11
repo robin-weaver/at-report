@@ -1,0 +1,70 @@
+{
+  "uid" : "7ded9263306f74a5",
+  "name" : "#12 Players inputs into the password field should be masked by default.",
+  "fullName" : "Log In.#12 Players inputs into the password field should be masked by default.",
+  "historyId" : "abb288239d3d2c167c0eb4ac6729394c",
+  "time" : {
+    "start" : 1668161029874,
+    "stop" : 1668161037206,
+    "duration" : 7332
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4ff1ee0eb9aca2fe",
+      "name" : "Screenshot",
+      "source" : "4ff1ee0eb9aca2fe.png",
+      "type" : "image/png",
+      "size" : 1050621
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Players inputs into the password field should be masked by default."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc2858806d4a2efe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159485058,
+        "stop" : 1668159493048,
+        "duration" : 7990
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ded9263306f74a5.json",
+  "parameterValues" : [ ]
+}

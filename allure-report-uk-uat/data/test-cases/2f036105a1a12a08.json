@@ -1,0 +1,79 @@
+{
+  "uid" : "2f036105a1a12a08",
+  "name" : "#2 Player can edit their preferences and exit using the x close button within the modal discarding changes",
+  "fullName" : "My Profile > Communications Preferences.#2 Player can edit their preferences and exit using the x close button within the modal discarding changes",
+  "historyId" : "e60323de9aa3c1ed092e295cb0ceb5b7",
+  "time" : {
+    "start" : 1668164748474,
+    "stop" : 1668164763827,
+    "duration" : 15353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Phone' to equal 'Select All'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/settings/comm-preferences.spec.js:105:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Phone' to equal 'Select All'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/settings/comm-preferences.spec.js:105:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a01994d9de0850eb",
+      "name" : "Screenshot",
+      "source" : "a01994d9de0850eb.png",
+      "type" : "image/png",
+      "size" : 1453124
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can edit their preferences and exit using the x close button within the modal discarding changes"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "27f1206b90633ff7",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Phone' to equal 'Select All'.",
+      "time" : {
+        "start" : 1668164113413,
+        "stop" : 1668164130898,
+        "duration" : 17485
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2f036105a1a12a08.json",
+  "parameterValues" : [ ]
+}

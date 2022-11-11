@@ -1,0 +1,70 @@
+{
+  "uid" : "1c90239e6095c65b",
+  "name" : "#13 Player should be able to show/hide their input into the Password field.",
+  "fullName" : "Log In.#13 Player should be able to show/hide their input into the Password field.",
+  "historyId" : "89a5d06fb8e72b1a007c45c037f223df",
+  "time" : {
+    "start" : 1668161037206,
+    "stop" : 1668161044362,
+    "duration" : 7156
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "709224dc94f717f1",
+      "name" : "Screenshot",
+      "source" : "709224dc94f717f1.png",
+      "type" : "image/png",
+      "size" : 1044410
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player should be able to show/hide their input into the Password field."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "745cb41771ef9216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159493048,
+        "stop" : 1668159500472,
+        "duration" : 7424
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c90239e6095c65b.json",
+  "parameterValues" : [ ]
+}

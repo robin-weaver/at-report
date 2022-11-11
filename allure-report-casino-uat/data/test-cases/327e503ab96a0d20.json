@@ -1,0 +1,70 @@
+{
+  "uid" : "327e503ab96a0d20",
+  "name" : "#29 Promotions are displayed in correct order for unauthenticated user",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#29 Promotions are displayed in correct order for unauthenticated user",
+  "historyId" : "69e62360f0aa0bc43c047ee77079fd94",
+  "time" : {
+    "start" : 1668162696377,
+    "stop" : 1668162698502,
+    "duration" : 2125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Winner Winner Chicken Dinner!' to contain 'Let’s Slin-go!', 'Promotion title for 4 active promotion does not appropriate.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at /Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:1477:60\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:628:33\n                    at Array.map (<anonymous>)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:627:28\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Winner Winner Chicken Dinner!' to contain 'Let’s Slin-go!', 'Promotion title for 4 active promotion does not appropriate.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at /Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:1477:60\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:628:33\n                    at Array.map (<anonymous>)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:627:28\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f2a59b688a26d07",
+      "name" : "Screenshot",
+      "source" : "7f2a59b688a26d07.png",
+      "type" : "image/png",
+      "size" : 2301152
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#29 Promotions are displayed in correct order for unauthenticated user"
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "327e503ab96a0d20.json",
+  "parameterValues" : [ ]
+}

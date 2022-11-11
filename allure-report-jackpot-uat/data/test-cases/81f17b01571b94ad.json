@@ -1,0 +1,70 @@
+{
+  "uid" : "81f17b01571b94ad",
+  "name" : "#42 Login form appears after press CLAIM CTA for CLAIM bonus of unauthenticated user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#42 Login form appears after press CLAIM CTA for CLAIM bonus of unauthenticated user.",
+  "historyId" : "d8a6ecebe582ec9b3ae9aa0712deed3f",
+  "time" : {
+    "start" : 1668161648142,
+    "stop" : 1668161650451,
+    "duration" : 2309
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9f0856bd03881329",
+      "name" : "Screenshot",
+      "source" : "9f0856bd03881329.png",
+      "type" : "image/png",
+      "size" : 1492394
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#42 Login form appears after press CLAIM CTA for CLAIM bonus of unauthenticated user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "28f7b9ae999a97ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668160263978,
+        "stop" : 1668160267466,
+        "duration" : 3488
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81f17b01571b94ad.json",
+  "parameterValues" : [ ]
+}

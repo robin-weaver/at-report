@@ -1,0 +1,70 @@
+{
+  "uid" : "492ce0ba98954155",
+  "name" : "#41 Login form appears after press DEPOSIT CTA for DEPOSIT bonus of unauthenticated user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#41 Login form appears after press DEPOSIT CTA for DEPOSIT bonus of unauthenticated user.",
+  "historyId" : "3a23a8599e10fe09e56e74d0c8bd5eab",
+  "time" : {
+    "start" : 1668161645790,
+    "stop" : 1668161648142,
+    "duration" : 2352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ee656fb227fb417",
+      "name" : "Screenshot",
+      "source" : "ee656fb227fb417.png",
+      "type" : "image/png",
+      "size" : 1494068
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#41 Login form appears after press DEPOSIT CTA for DEPOSIT bonus of unauthenticated user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3461f89c5561b589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668160260555,
+        "stop" : 1668160263978,
+        "duration" : 3423
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "492ce0ba98954155.json",
+  "parameterValues" : [ ]
+}

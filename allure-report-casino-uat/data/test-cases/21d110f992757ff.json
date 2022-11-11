@@ -1,0 +1,70 @@
+{
+  "uid" : "21d110f992757ff",
+  "name" : "#13 Player can continue with chosen 12 months option to 'Self Exclusion' and confirming modal should display.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#13 Player can continue with chosen 12 months option to 'Self Exclusion' and confirming modal should display.",
+  "historyId" : "993f2150cba043a3be9f436eaf07365c",
+  "time" : {
+    "start" : 1668163034747,
+    "stop" : 1668163058385,
+    "duration" : 23638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cbda51a0d34d2c56",
+      "name" : "Screenshot",
+      "source" : "cbda51a0d34d2c56.png",
+      "type" : "image/png",
+      "size" : 867524
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player can continue with chosen 12 months option to 'Self Exclusion' and confirming modal should display."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "68e8181bd9184617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668162142236,
+        "stop" : 1668162160065,
+        "duration" : 17829
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21d110f992757ff.json",
+  "parameterValues" : [ ]
+}

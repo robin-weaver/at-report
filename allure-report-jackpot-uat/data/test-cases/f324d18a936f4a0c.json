@@ -1,0 +1,70 @@
+{
+  "uid" : "f324d18a936f4a0c",
+  "name" : "#2 Player can close the take a break modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#2 Player can close the take a break modal.",
+  "historyId" : "d54350648fe4d6af6e8259a2849d893",
+  "time" : {
+    "start" : 1668161130441,
+    "stop" : 1668161150065,
+    "duration" : 19624
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "92cca96148e319ef",
+      "name" : "Screenshot",
+      "source" : "92cca96148e319ef.png",
+      "type" : "image/png",
+      "size" : 681618
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can close the take a break modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33a1de730fc3c1c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159588583,
+        "stop" : 1668159611380,
+        "duration" : 22797
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f324d18a936f4a0c.json",
+  "parameterValues" : [ ]
+}

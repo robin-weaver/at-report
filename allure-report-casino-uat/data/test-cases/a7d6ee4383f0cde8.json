@@ -1,0 +1,79 @@
+{
+  "uid" : "a7d6ee4383f0cde8",
+  "name" : "#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly",
+  "historyId" : "f86776e5eab4ed884e7690b16ff35a50",
+  "time" : {
+    "start" : 1668162995571,
+    "stop" : 1668163016001,
+    "duration" : 20430
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Live Chat' to equal 'Text'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/settings/comm-preferences.spec.js:325:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Live Chat' to equal 'Text'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/settings/comm-preferences.spec.js:325:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "736f48d95bc10084",
+      "name" : "Screenshot",
+      "source" : "736f48d95bc10084.png",
+      "type" : "image/png",
+      "size" : 1246417
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dac00fbefdcff13e",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Live Chat' to equal 'Text'.",
+      "time" : {
+        "start" : 1668162361495,
+        "stop" : 1668162378437,
+        "duration" : 16942
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a7d6ee4383f0cde8.json",
+  "parameterValues" : [ ]
+}

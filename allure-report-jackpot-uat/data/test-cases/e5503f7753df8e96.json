@@ -1,0 +1,70 @@
+{
+  "uid" : "e5503f7753df8e96",
+  "name" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "historyId" : "84e5664ee9d6150c3faf5301b9d6db87",
+  "time" : {
+    "start" : 1668161256606,
+    "stop" : 1668161274173,
+    "duration" : 17567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e16d9065e4f3c7a",
+      "name" : "Screenshot",
+      "source" : "6e16d9065e4f3c7a.png",
+      "type" : "image/png",
+      "size" : 562551
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d4e3e1e055155b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668159974862,
+        "stop" : 1668159990779,
+        "duration" : 15917
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5503f7753df8e96.json",
+  "parameterValues" : [ ]
+}
