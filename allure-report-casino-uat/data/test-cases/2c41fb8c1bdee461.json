@@ -1,0 +1,70 @@
+{
+  "uid" : "2c41fb8c1bdee461",
+  "name" : "#02 All available categories are displayed and categories can be scrolled.",
+  "fullName" : "Live Casino.#02 All available categories are displayed and categories can be scrolled.",
+  "historyId" : "b4732f1c3b81acb8d4dd137d0264c883",
+  "time" : {
+    "start" : 1669193536246,
+    "stop" : 1669193541398,
+    "duration" : 5152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d0f07cd6d6900756",
+      "name" : "Screenshot",
+      "source" : "d0f07cd6d6900756.png",
+      "type" : "image/png",
+      "size" : 2339945
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 All available categories are displayed and categories can be scrolled."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "174ed670f64492a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192649088,
+        "stop" : 1669192652999,
+        "duration" : 3911
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c41fb8c1bdee461.json",
+  "parameterValues" : [ ]
+}

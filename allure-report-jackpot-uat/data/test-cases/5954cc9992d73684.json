@@ -1,0 +1,80 @@
+{
+  "uid" : "5954cc9992d73684",
+  "name" : "#04 User can select the 'Recover' button on the 'Account already exists' drawer and is displayed the Recover Password form.",
+  "fullName" : "Registration > Step 1.#04 User can select the 'Recover' button on the 'Account already exists' drawer and is displayed the Recover Password form.",
+  "historyId" : "c2529cb31ff11eb31339489628a6f4cf",
+  "time" : {
+    "start" : 1669202888001,
+    "stop" : 1669202895119,
+    "duration" : 7118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a19bc7740e10c2ba",
+      "name" : "Screenshot",
+      "source" : "a19bc7740e10c2ba.png",
+      "type" : "image/png",
+      "size" : 2021552
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 User can select the 'Recover' button on the 'Account already exists' drawer and is displayed the Recover Password form."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3362bc9e4c541fc6",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1669192146273,
+        "stop" : 1669192159981,
+        "duration" : 13708
+      }
+    }, {
+      "uid" : "40f647217fdfef58",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20022ms",
+      "time" : {
+        "start" : 1669191665184,
+        "stop" : 1669191675266,
+        "duration" : 10082
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5954cc9992d73684.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "9abdebababf261a",
+  "name" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "fullName" : "My Profile > Communications Preferences.#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "historyId" : "bf2faf4bdfa1a59fac6716e0f3ba0a9c",
+  "time" : {
+    "start" : 1669193624194,
+    "stop" : 1669193642817,
+    "duration" : 18623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fcaa584463ad5945",
+      "name" : "Screenshot",
+      "source" : "fcaa584463ad5945.png",
+      "type" : "image/png",
+      "size" : 1340725
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c041610fe8e2a3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193037395,
+        "stop" : 1669193054059,
+        "duration" : 16664
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9abdebababf261a.json",
+  "parameterValues" : [ ]
+}

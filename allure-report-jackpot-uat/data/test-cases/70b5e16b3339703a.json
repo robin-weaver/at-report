@@ -1,0 +1,70 @@
+{
+  "uid" : "70b5e16b3339703a",
+  "name" : "#5 Player can choose 24 hours option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#5 Player can choose 24 hours option for 'Take A Break' and this option should be selected.",
+  "historyId" : "1cbd12e2a488df353738740fe91207f6",
+  "time" : {
+    "start" : 1669192158988,
+    "stop" : 1669192185776,
+    "duration" : 26788
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f56baeef605c451f",
+      "name" : "Screenshot",
+      "source" : "f56baeef605c451f.png",
+      "type" : "image/png",
+      "size" : 526018
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can choose 24 hours option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "468ebfb3a7b714c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191353105,
+        "stop" : 1669191380568,
+        "duration" : 27463
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70b5e16b3339703a.json",
+  "parameterValues" : [ ]
+}

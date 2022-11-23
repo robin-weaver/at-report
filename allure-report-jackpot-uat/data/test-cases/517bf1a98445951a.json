@@ -1,0 +1,70 @@
+{
+  "uid" : "517bf1a98445951a",
+  "name" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "fullName" : "My Profile > Communications Preferences.#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "historyId" : "bf2faf4bdfa1a59fac6716e0f3ba0a9c",
+  "time" : {
+    "start" : 1669192085493,
+    "stop" : 1669192103406,
+    "duration" : 17913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "59473f45ba607f24",
+      "name" : "Screenshot",
+      "source" : "59473f45ba607f24.png",
+      "type" : "image/png",
+      "size" : 648554
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb0ef33dce8601ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191465977,
+        "stop" : 1669191484130,
+        "duration" : 18153
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "517bf1a98445951a.json",
+  "parameterValues" : [ ]
+}

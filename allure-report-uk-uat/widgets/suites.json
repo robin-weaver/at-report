@@ -12,48 +12,15 @@
       "total" : 22
     }
   }, {
-    "uid" : "55b8c2d63efd03068b4a5935cd95112e",
-    "name" : "My Account -> Deposit",
+    "uid" : "fddcd445851e3581a68118b5f4d9481a",
+    "name" : "My Account > Gambling Controls > Account Closure > Self Exclusion",
     "statistic" : {
-      "failed" : 8,
+      "failed" : 15,
       "broken" : 0,
-      "skipped" : 0,
+      "skipped" : 3,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 8
-    }
-  }, {
-    "uid" : "425cb1cc981b402646effc66d40d078e",
-    "name" : "Home => Terms & Conditions",
-    "statistic" : {
-      "failed" : 7,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 22,
-      "unknown" : 0,
-      "total" : 29
-    }
-  }, {
-    "uid" : "72437ddc9921c0227bc8cee1294582a8",
-    "name" : "My Profile > Communications Preferences",
-    "statistic" : {
-      "failed" : 7,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 6,
-      "unknown" : 0,
-      "total" : 13
-    }
-  }, {
-    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
-    "name" : "Slots page",
-    "statistic" : {
-      "failed" : 6,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 11,
-      "unknown" : 0,
-      "total" : 17
+      "total" : 18
     }
   }, {
     "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
@@ -67,15 +34,15 @@
       "total" : 16
     }
   }, {
-    "uid" : "578667d191051de9fa6b4ea4f518ffc2",
-    "name" : "My Account > Settings > Change Password",
+    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
+    "name" : "Slots page",
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 13,
+      "passed" : 17,
       "unknown" : 0,
-      "total" : 16
+      "total" : 20
     }
   }, {
     "uid" : "3fe00a6732b6aa7df96a2d7ff1e173d2",
@@ -87,6 +54,17 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 8
+    }
+  }, {
+    "uid" : "0275a21381d14888ed6d9915e02dbacd",
+    "name" : "Deep Link -> Play Reminders",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
     }
   }, {
     "uid" : "7728a1de9799acb5f82a350ce39d6b7f",
@@ -109,6 +87,28 @@
       "passed" : 15,
       "unknown" : 0,
       "total" : 16
+    }
+  }, {
+    "uid" : "b43aacbefc9b314322baed7d29ca656e",
+    "name" : "Inbox functionality testing",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 15
+    }
+  }, {
+    "uid" : "9b3e80a4b659a5a1cf5a2d779faf9404",
+    "name" : "UnsubscribePage",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
     }
   } ]
 }

@@ -1,0 +1,80 @@
+{
+  "uid" : "ee9d86715239f113",
+  "name" : "#19 User can see the Inactive Customer Accounts section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#19 User can see the Inactive Customer Accounts section on terms and conditions page",
+  "historyId" : "99517e53d4c4a086dc3377a8de3dc83b",
+  "time" : {
+    "start" : 1669199235360,
+    "stop" : 1669199237359,
+    "duration" : 1999
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fbfe2d0ff18d417b",
+      "name" : "Screenshot",
+      "source" : "fbfe2d0ff18d417b.png",
+      "type" : "image/png",
+      "size" : 771926
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#19 User can see the Inactive Customer Accounts section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a0e6abb836a07f6",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669195421557,
+        "stop" : 1669195428201,
+        "duration" : 6644
+      }
+    }, {
+      "uid" : "4613f312bc55a902",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669194151465,
+        "stop" : 1669194156197,
+        "duration" : 4732
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee9d86715239f113.json",
+  "parameterValues" : [ ]
+}

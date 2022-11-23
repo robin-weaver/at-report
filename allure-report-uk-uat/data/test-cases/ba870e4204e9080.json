@@ -1,0 +1,70 @@
+{
+  "uid" : "ba870e4204e9080",
+  "name" : "#1 User come to the Welcome Games page ",
+  "fullName" : "Landing Page/Welcome Games page.#1 User come to the Welcome Games page ",
+  "historyId" : "b4083682a2f6e46e317b12f6cbb654b3",
+  "time" : {
+    "start" : 1669195354028,
+    "stop" : 1669195365234,
+    "duration" : 11206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "81edff49f257f430",
+      "name" : "Screenshot",
+      "source" : "81edff49f257f430.png",
+      "type" : "image/png",
+      "size" : 325164
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User come to the Welcome Games page "
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e3448808341e07d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669194072013,
+        "stop" : 1669194085600,
+        "duration" : 13587
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba870e4204e9080.json",
+  "parameterValues" : [ ]
+}

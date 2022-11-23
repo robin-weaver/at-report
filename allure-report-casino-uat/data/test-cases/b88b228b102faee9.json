@@ -1,0 +1,62 @@
+{
+  "uid" : "b88b228b102faee9",
+  "name" : "#1 The user is on the Location Error page",
+  "fullName" : "Service unavailable.#1 The user is on the Location Error page",
+  "historyId" : "b58e7a919ebf462cc65bab3b2a9674bd",
+  "time" : {
+    "start" : 1669192585700,
+    "stop" : 1669192587286,
+    "duration" : 1586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "95ced1b22dee2449",
+      "name" : "Screenshot",
+      "source" : "95ced1b22dee2449.png",
+      "type" : "image/png",
+      "size" : 384100
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testClass",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 The user is on the Location Error page"
+  }, {
+    "name" : "package",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b88b228b102faee9.json",
+  "parameterValues" : [ ]
+}

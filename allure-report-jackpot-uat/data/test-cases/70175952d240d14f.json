@@ -1,0 +1,80 @@
+{
+  "uid" : "70175952d240d14f",
+  "name" : "#28 User can enter valid details on Step 1 and progress to Step 2 of the registration process.",
+  "fullName" : "Registration > Step 1.#28 User can enter valid details on Step 1 and progress to Step 2 of the registration process.",
+  "historyId" : "55fa4f242c3c152639957d1492a3eb8b",
+  "time" : {
+    "start" : 1669202922364,
+    "stop" : 1669202924983,
+    "duration" : 2619
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1126576a0df9362",
+      "name" : "Screenshot",
+      "source" : "f1126576a0df9362.png",
+      "type" : "image/png",
+      "size" : 3884645
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can enter valid details on Step 1 and progress to Step 2 of the registration process."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fb8fcc9d29c9d7d0",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1669192250067,
+        "stop" : 1669192260266,
+        "duration" : 10199
+      }
+    }, {
+      "uid" : "92a5441b4803839",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20022ms",
+      "time" : {
+        "start" : 1669191751394,
+        "stop" : 1669191762118,
+        "duration" : 10724
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70175952d240d14f.json",
+  "parameterValues" : [ ]
+}

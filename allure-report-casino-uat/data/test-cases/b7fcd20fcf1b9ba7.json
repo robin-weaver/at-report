@@ -1,0 +1,78 @@
+{
+  "uid" : "b7fcd20fcf1b9ba7",
+  "name" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "historyId" : "5c6d4a79756cd2009b476db1915ee67f",
+  "time" : {
+    "start" : 1669199397138,
+    "stop" : 1669199398906,
+    "duration" : 1768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "78d0b331bd64677b",
+      "name" : "Screenshot",
+      "source" : "78d0b331bd64677b.png",
+      "type" : "image/png",
+      "size" : 803985
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "35ade62b432aecd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193635141,
+        "stop" : 1669193643460,
+        "duration" : 8319
+      }
+    }, {
+      "uid" : "95cd1712b442db66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192777061,
+        "stop" : 1669192781483,
+        "duration" : 4422
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7fcd20fcf1b9ba7.json",
+  "parameterValues" : [ ]
+}

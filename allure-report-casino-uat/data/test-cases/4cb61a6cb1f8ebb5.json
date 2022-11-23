@@ -1,0 +1,79 @@
+{
+  "uid" : "4cb61a6cb1f8ebb5",
+  "name" : "#27 User can opened mail client after clicks/taps on “care@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#27 User can opened mail client after clicks/taps on “care@merkurslots.com” ",
+  "historyId" : "21c023701c91329ff481ade65782acfa",
+  "time" : {
+    "start" : 1669199414065,
+    "stop" : 1669199415622,
+    "duration" : 1557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5f60b1d03f6d9912",
+      "name" : "Screenshot",
+      "source" : "5f60b1d03f6d9912.png",
+      "type" : "image/png",
+      "size" : 803985
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#27 User can opened mail client after clicks/taps on “care@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4497d17edd217160",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"mailto:care@merkurcasino.com\"])",
+      "time" : {
+        "start" : 1669193714764,
+        "stop" : 1669193722345,
+        "duration" : 7581
+      }
+    }, {
+      "uid" : "1ecbc6083a9e1bb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192832675,
+        "stop" : 1669192838830,
+        "duration" : 6155
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cb61a6cb1f8ebb5.json",
+  "parameterValues" : [ ]
+}

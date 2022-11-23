@@ -1,0 +1,70 @@
+{
+  "uid" : "2ef21125400fdd08",
+  "name" : "#06 User can opt in to receive Post marketing preferences.",
+  "fullName" : "Registration > Step 4.#06 User can opt in to receive Post marketing preferences.",
+  "historyId" : "73c7e5540002da4578217ae714d3b20",
+  "time" : {
+    "start" : 1669193774529,
+    "stop" : 1669193789241,
+    "duration" : 14712
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9d6e7bb4d51a4f09",
+      "name" : "Screenshot",
+      "source" : "9d6e7bb4d51a4f09.png",
+      "type" : "image/png",
+      "size" : 163852
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 User can opt in to receive Post marketing preferences."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b85d4175a47dd08e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193247621,
+        "stop" : 1669193261357,
+        "duration" : 13736
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ef21125400fdd08.json",
+  "parameterValues" : [ ]
+}

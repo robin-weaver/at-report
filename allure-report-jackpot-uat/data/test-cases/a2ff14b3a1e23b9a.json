@@ -1,0 +1,71 @@
+{
+  "uid" : "a2ff14b3a1e23b9a",
+  "name" : "#8 Player can open 'Search Games' modal",
+  "fullName" : "Spin Zone functionality testing.#8 Player can open 'Search Games' modal",
+  "historyId" : "278f0a064514c5f866bbe016235c4f87",
+  "time" : {
+    "start" : 1669192493120,
+    "stop" : 1669192507745,
+    "duration" : 14625
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "23b80289be8b9467",
+      "name" : "Screenshot",
+      "source" : "23b80289be8b9467.png",
+      "type" : "image/png",
+      "size" : 1385810
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Player can open 'Search Games' modal"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bce072ca606e472a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Game Card Details not visible.\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1669191865325,
+        "stop" : 1669191891419,
+        "duration" : 26094
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2ff14b3a1e23b9a.json",
+  "parameterValues" : [ ]
+}

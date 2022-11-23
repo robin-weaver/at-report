@@ -1,0 +1,70 @@
+{
+  "uid" : "3144ae82c5b54be8",
+  "name" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "historyId" : "6738b4e4e997c619b4e268723245a9ec",
+  "time" : {
+    "start" : 1669193756833,
+    "stop" : 1669193776387,
+    "duration" : 19554
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eb1d75b338bbac7e",
+      "name" : "Screenshot",
+      "source" : "eb1d75b338bbac7e.png",
+      "type" : "image/png",
+      "size" : 1236758
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a731c80e920ec892",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193163247,
+        "stop" : 1669193183087,
+        "duration" : 19840
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3144ae82c5b54be8.json",
+  "parameterValues" : [ ]
+}

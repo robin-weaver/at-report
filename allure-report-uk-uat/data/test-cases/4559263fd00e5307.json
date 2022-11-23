@@ -1,0 +1,71 @@
+{
+  "uid" : "4559263fd00e5307",
+  "name" : "#2 User can come to the \"Help for problem gambling\" page from Responsible Gambling page",
+  "fullName" : "Home page => Responsible Gambling page.#2 User can come to the \"Help for problem gambling\" page from Responsible Gambling page",
+  "historyId" : "33ab14b2a64910be6589c09c80f05a5",
+  "time" : {
+    "start" : 1669195264623,
+    "stop" : 1669195279081,
+    "duration" : 14458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4401ced24dd09bde",
+      "name" : "Screenshot",
+      "source" : "4401ced24dd09bde.png",
+      "type" : "image/png",
+      "size" : 307788
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can come to the \"Help for problem gambling\" page from Responsible Gambling page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6be767f5407de661",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://www.nhs.uk/live-well/healthy-body/gambling-addiction/\"])",
+      "time" : {
+        "start" : 1669193998950,
+        "stop" : 1669194013492,
+        "duration" : 14542
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4559263fd00e5307.json",
+  "parameterValues" : [ ]
+}

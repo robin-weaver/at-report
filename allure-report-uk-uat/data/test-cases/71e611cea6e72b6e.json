@@ -1,0 +1,95 @@
+{
+  "uid" : "71e611cea6e72b6e",
+  "name" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "fullName" : "Slots page.#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "historyId" : "e7b74c4b24aee286d67ee4397dc88cc",
+  "time" : {
+    "start" : 1669201670475,
+    "stop" : 1669201675612,
+    "duration" : 5137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1669201670476,
+        "stop" : 1669201671046,
+        "duration" : 570
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7f0db8fbcfd1b3d0",
+      "name" : "Screenshot",
+      "source" : "7f0db8fbcfd1b3d0.png",
+      "type" : "image/png",
+      "size" : 785553
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ed99f4e1caccdfac",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .game-card-details)",
+      "time" : {
+        "start" : 1669195397957,
+        "stop" : 1669195407783,
+        "duration" : 9826
+      }
+    }, {
+      "uid" : "62ce484930e11882",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .game-card-details)",
+      "time" : {
+        "start" : 1669194894149,
+        "stop" : 1669194904851,
+        "duration" : 10702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71e611cea6e72b6e.json",
+  "parameterValues" : [ ]
+}

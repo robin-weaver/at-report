@@ -1,0 +1,80 @@
+{
+  "uid" : "61c23cea6bd81c6",
+  "name" : "#24 User can see the Limitation of Liability section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#24 User can see the Limitation of Liability section on terms and conditions page",
+  "historyId" : "b4ab5e7983de583c59936c85d4349ec9",
+  "time" : {
+    "start" : 1669199245404,
+    "stop" : 1669199247394,
+    "duration" : 1990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a062666624ac9bb6",
+      "name" : "Screenshot",
+      "source" : "a062666624ac9bb6.png",
+      "type" : "image/png",
+      "size" : 771926
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#24 User can see the Limitation of Liability section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f6d7212d83d07e6a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669195461015,
+        "stop" : 1669195467284,
+        "duration" : 6269
+      }
+    }, {
+      "uid" : "cc4d7af6a7dd27ec",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669194197723,
+        "stop" : 1669194207168,
+        "duration" : 9445
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61c23cea6bd81c6.json",
+  "parameterValues" : [ ]
+}

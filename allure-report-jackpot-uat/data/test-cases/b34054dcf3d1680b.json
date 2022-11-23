@@ -1,0 +1,71 @@
+{
+  "uid" : "b34054dcf3d1680b",
+  "name" : "#08 User can overwrite Select All option and de-select a preference.",
+  "fullName" : "Registration > Step 4.#08 User can overwrite Select All option and de-select a preference.",
+  "historyId" : "bf163d4fdec888a515c91e6521bde1f",
+  "time" : {
+    "start" : 1669192332853,
+    "stop" : 1669192354980,
+    "duration" : 22127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9255f2cb03c70b2b",
+      "name" : "Screenshot",
+      "source" : "9255f2cb03c70b2b.png",
+      "type" : "image/png",
+      "size" : 3480522
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#08 User can overwrite Select All option and de-select a preference."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3a59960d3d6c5629",
+      "status" : "failed",
+      "statusDetails" : "Failed: Not able to view Registration Step 5.\n                Wait timed out after 20007ms",
+      "time" : {
+        "start" : 1669191734004,
+        "stop" : 1669191771222,
+        "duration" : 37218
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b34054dcf3d1680b.json",
+  "parameterValues" : [ ]
+}

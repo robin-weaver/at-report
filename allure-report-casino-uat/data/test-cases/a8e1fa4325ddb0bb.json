@@ -1,0 +1,78 @@
+{
+  "uid" : "a8e1fa4325ddb0bb",
+  "name" : "#21 User can see the Responsible Gambling section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#21 User can see the Responsible Gambling section on terms and conditions page",
+  "historyId" : "a8e7bfe034c9bd65c4809a755f1653ed",
+  "time" : {
+    "start" : 1669199404070,
+    "stop" : 1669199405757,
+    "duration" : 1687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2c6be3e9b22d77d8",
+      "name" : "Screenshot",
+      "source" : "2c6be3e9b22d77d8.png",
+      "type" : "image/png",
+      "size" : 803985
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 User can see the Responsible Gambling section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5c49dee8cd8cd52f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193672295,
+        "stop" : 1669193681105,
+        "duration" : 8810
+      }
+    }, {
+      "uid" : "b90b24a823ddc7d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192796664,
+        "stop" : 1669192801338,
+        "duration" : 4674
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8e1fa4325ddb0bb.json",
+  "parameterValues" : [ ]
+}

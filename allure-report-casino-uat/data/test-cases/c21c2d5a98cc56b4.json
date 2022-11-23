@@ -1,0 +1,79 @@
+{
+  "uid" : "c21c2d5a98cc56b4",
+  "name" : "#6 User can come to the GamCare page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#6 User can come to the GamCare page from terms and conditions page",
+  "historyId" : "5bb0fdd73e75ae9289dfe8bc04ef915b",
+  "time" : {
+    "start" : 1669199356228,
+    "stop" : 1669199363768,
+    "duration" : 7540
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f697dd312b72cf24",
+      "name" : "Screenshot",
+      "source" : "f697dd312b72cf24.png",
+      "type" : "image/png",
+      "size" : 3672078
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can come to the GamCare page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "32c191df76fd9e05",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamcare.org.uk/\"])",
+      "time" : {
+        "start" : 1669193558601,
+        "stop" : 1669193565520,
+        "duration" : 6919
+      }
+    }, {
+      "uid" : "44b86dc5879b95e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192677071,
+        "stop" : 1669192701351,
+        "duration" : 24280
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c21c2d5a98cc56b4.json",
+  "parameterValues" : [ ]
+}

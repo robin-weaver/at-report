@@ -1,0 +1,70 @@
+{
+  "uid" : "1d7952a47f11c781",
+  "name" : "#3 User can come to the Gamble Stop page from Responsible Gambling page",
+  "fullName" : "Home page => Responsible Gambling page.#3 User can come to the Gamble Stop page from Responsible Gambling page",
+  "historyId" : "1f5796b744f602081654f9c5b01508ca",
+  "time" : {
+    "start" : 1669193558313,
+    "stop" : 1669193571185,
+    "duration" : 12872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "247b3c3da0d7b277",
+      "name" : "Screenshot",
+      "source" : "247b3c3da0d7b277.png",
+      "type" : "image/png",
+      "size" : 378668
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gamble Stop page from Responsible Gambling page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "709447a698c0f3c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192643203,
+        "stop" : 1669192656679,
+        "duration" : 13476
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d7952a47f11c781.json",
+  "parameterValues" : [ ]
+}

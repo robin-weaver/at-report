@@ -1,0 +1,79 @@
+{
+  "uid" : "3bd91e0da1ef6eda",
+  "name" : "#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted",
+  "fullName" : "Homepage.#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted",
+  "historyId" : "47ff1afc01e399b3446c52c848c0dcb7",
+  "time" : {
+    "start" : 1669198722016,
+    "stop" : 1669198733247,
+    "duration" : 11231
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "86ce98dbd1c19959",
+      "name" : "Screenshot",
+      "source" : "86ce98dbd1c19959.png",
+      "type" : "image/png",
+      "size" : 1798609
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d3db8f728a6fbddf",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10159ms",
+      "time" : {
+        "start" : 1669195372766,
+        "stop" : 1669195402094,
+        "duration" : 29328
+      }
+    }, {
+      "uid" : "3fa9fce0c4d93a1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669194123192,
+        "stop" : 1669194154631,
+        "duration" : 31439
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bd91e0da1ef6eda.json",
+  "parameterValues" : [ ]
+}

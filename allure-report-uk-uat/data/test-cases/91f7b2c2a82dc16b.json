@@ -1,0 +1,70 @@
+{
+  "uid" : "91f7b2c2a82dc16b",
+  "name" : "#01  User can search venue name and see a list of venues in collapsed view.",
+  "fullName" : "Venue > Search and expanded view.#01  User can search venue name and see a list of venues in collapsed view.",
+  "historyId" : "6c0d3b45128cdad652ae0bc7288b342a",
+  "time" : {
+    "start" : 1669195328572,
+    "stop" : 1669195344053,
+    "duration" : 15481
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ab6f6bedf0329cb2",
+      "name" : "Screenshot",
+      "source" : "ab6f6bedf0329cb2.png",
+      "type" : "image/png",
+      "size" : 1232687
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testClass",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01  User can search venue name and see a list of venues in collapsed view."
+  }, {
+    "name" : "package",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d51cbf625596e334",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669195030844,
+        "stop" : 1669195042391,
+        "duration" : 11547
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91f7b2c2a82dc16b.json",
+  "parameterValues" : [ ]
+}

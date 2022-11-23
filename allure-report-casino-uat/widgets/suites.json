@@ -12,81 +12,48 @@
       "total" : 22
     }
   }, {
-    "uid" : "28682ee202b29beaa3c4ec7b2b8d67f1",
-    "name" : "Expired Link Error",
+    "uid" : "578667d191051de9fa6b4ea4f518ffc2",
+    "name" : "My Account > Settings > Change Password",
     "statistic" : {
-      "failed" : 10,
+      "failed" : 16,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 10
+      "total" : 16
     }
   }, {
-    "uid" : "55b8c2d63efd03068b4a5935cd95112e",
-    "name" : "My Account -> Deposit",
+    "uid" : "fddcd445851e3581a68118b5f4d9481a",
+    "name" : "My Account > Gambling Controls > Account Closure > Self Exclusion",
     "statistic" : {
-      "failed" : 8,
+      "failed" : 15,
       "broken" : 0,
-      "skipped" : 0,
+      "skipped" : 3,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 8
+      "total" : 18
     }
   }, {
     "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
     "name" : "My Account > Gambling Controls > Account Closure > Take A Break",
     "statistic" : {
-      "failed" : 7,
+      "failed" : 6,
       "broken" : 0,
       "skipped" : 1,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
       "total" : 16
     }
   }, {
-    "uid" : "72437ddc9921c0227bc8cee1294582a8",
-    "name" : "My Profile > Communications Preferences",
-    "statistic" : {
-      "failed" : 7,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 6,
-      "unknown" : 0,
-      "total" : 13
-    }
-  }, {
-    "uid" : "425cb1cc981b402646effc66d40d078e",
-    "name" : "Home => Terms & Conditions",
-    "statistic" : {
-      "failed" : 4,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 25,
-      "unknown" : 0,
-      "total" : 29
-    }
-  }, {
-    "uid" : "578667d191051de9fa6b4ea4f518ffc2",
-    "name" : "My Account > Settings > Change Password",
+    "uid" : "f9f164a6061257e04a7392d6948dbcb0",
+    "name" : "Registration > Step 1",
     "statistic" : {
       "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 13,
       "unknown" : 0,
-      "total" : 16
-    }
-  }, {
-    "uid" : "b648518f8682522ac91a9379e0d7a391",
-    "name" : "404 error page functionality testing.",
-    "statistic" : {
-      "failed" : 2,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 5,
-      "unknown" : 0,
-      "total" : 7
+      "total" : 15
     }
   }, {
     "uid" : "7728a1de9799acb5f82a350ce39d6b7f",
@@ -109,6 +76,39 @@
       "passed" : 20,
       "unknown" : 0,
       "total" : 21
+    }
+  }, {
+    "uid" : "4cecdc3407b170c54e975930a34bc6aa",
+    "name" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "3fe00a6732b6aa7df96a2d7ff1e173d2",
+    "name" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "b648518f8682522ac91a9379e0d7a391",
+    "name" : "404 error page functionality testing.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
     }
   } ]
 }

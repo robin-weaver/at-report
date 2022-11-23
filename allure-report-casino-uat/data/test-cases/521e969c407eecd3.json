@@ -1,0 +1,78 @@
+{
+  "uid" : "521e969c407eecd3",
+  "name" : "#10 User can see the Terms and Conditions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#10 User can see the Terms and Conditions section on terms and conditions page",
+  "historyId" : "afbef74c6580fd3e472ad5f6397105d2",
+  "time" : {
+    "start" : 1669199384963,
+    "stop" : 1669199386721,
+    "duration" : 1758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8151e23a4f5a070",
+      "name" : "Screenshot",
+      "source" : "8151e23a4f5a070.png",
+      "type" : "image/png",
+      "size" : 803985
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User can see the Terms and Conditions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7bb120e22a30e837",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193583628,
+        "stop" : 1669193590646,
+        "duration" : 7018
+      }
+    }, {
+      "uid" : "df014082587f0c00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192733610,
+        "stop" : 1669192739455,
+        "duration" : 5845
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "521e969c407eecd3.json",
+  "parameterValues" : [ ]
+}

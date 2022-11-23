@@ -1,0 +1,70 @@
+{
+  "uid" : "98a7aff4ec304f78",
+  "name" : "#07 User can not enter an invaild email address (no @ sign).",
+  "fullName" : "Registration > Step 1.#07 User can not enter an invaild email address (no @ sign).",
+  "historyId" : "47b7f6abb6f7e1995e080f12884de5ac",
+  "time" : {
+    "start" : 1669202969875,
+    "stop" : 1669202970863,
+    "duration" : 988
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4fce9d6a23d63418",
+      "name" : "Screenshot",
+      "source" : "4fce9d6a23d63418.png",
+      "type" : "image/png",
+      "size" : 167483
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 User can not enter an invaild email address (no @ sign)."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8cd459fc028c5752",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193258727,
+        "stop" : 1669193263872,
+        "duration" : 5145
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98a7aff4ec304f78.json",
+  "parameterValues" : [ ]
+}

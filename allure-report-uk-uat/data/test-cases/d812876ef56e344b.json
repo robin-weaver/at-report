@@ -1,0 +1,79 @@
+{
+  "uid" : "d812876ef56e344b",
+  "name" : "#5 The details balance card is dismissed when the user clicks outside the modal",
+  "fullName" : "Homepage.#5 The details balance card is dismissed when the user clicks outside the modal",
+  "historyId" : "4a2e22661a9a484a25e6c10fd5bd1305",
+  "time" : {
+    "start" : 1669198695834,
+    "stop" : 1669198704545,
+    "duration" : 8711
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eb757085b63f9a77",
+      "name" : "Screenshot",
+      "source" : "eb757085b63f9a77.png",
+      "type" : "image/png",
+      "size" : 2665460
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 The details balance card is dismissed when the user clicks outside the modal"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "62b7a8e2fd9a2e2d",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10159ms",
+      "time" : {
+        "start" : 1669195292777,
+        "stop" : 1669195312446,
+        "duration" : 19669
+      }
+    }, {
+      "uid" : "40d5fd0773df6a0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669194034564,
+        "stop" : 1669194061757,
+        "duration" : 27193
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d812876ef56e344b.json",
+  "parameterValues" : [ ]
+}

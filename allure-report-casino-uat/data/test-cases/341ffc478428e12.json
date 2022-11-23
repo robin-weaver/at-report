@@ -1,0 +1,70 @@
+{
+  "uid" : "341ffc478428e12",
+  "name" : "#6 User can click on ‘Re-subscribe’ button and success window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#6 User can click on ‘Re-subscribe’ button and success window will be displayed with the correct content",
+  "historyId" : "886efc6f7331e571ce82c4dddc7be8d1",
+  "time" : {
+    "start" : 1669193763382,
+    "stop" : 1669193778379,
+    "duration" : 14997
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f095a24a0e35e2d6",
+      "name" : "Screenshot",
+      "source" : "f095a24a0e35e2d6.png",
+      "type" : "image/png",
+      "size" : 149998
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can click on ‘Re-subscribe’ button and success window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b744712d67f0b0c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193343222,
+        "stop" : 1669193353815,
+        "duration" : 10593
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "341ffc478428e12.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "7c414a819ae3912a",
+  "name" : "#11 User can click and view the Privacy Policy.",
+  "fullName" : "Registration > Step 4.#11 User can click and view the Privacy Policy.",
+  "historyId" : "6023b3387d60a847d35c0dc5efa58dec",
+  "time" : {
+    "start" : 1669192381440,
+    "stop" : 1669192405335,
+    "duration" : 23895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8859bdd7fbf9a78f",
+      "name" : "Screenshot",
+      "source" : "8859bdd7fbf9a78f.png",
+      "type" : "image/png",
+      "size" : 3480258
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 User can click and view the Privacy Policy."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fe7b3dddad1e2142",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191787724,
+        "stop" : 1669191806850,
+        "duration" : 19126
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c414a819ae3912a.json",
+  "parameterValues" : [ ]
+}

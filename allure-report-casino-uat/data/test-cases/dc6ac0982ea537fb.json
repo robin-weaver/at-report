@@ -1,0 +1,70 @@
+{
+  "uid" : "dc6ac0982ea537fb",
+  "name" : "#08 User can overwrite Select All option and de-select a preference.",
+  "fullName" : "Registration > Step 4.#08 User can overwrite Select All option and de-select a preference.",
+  "historyId" : "bf163d4fdec888a515c91e6521bde1f",
+  "time" : {
+    "start" : 1669193799840,
+    "stop" : 1669193809254,
+    "duration" : 9414
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9e5defecd203d34d",
+      "name" : "Screenshot",
+      "source" : "9e5defecd203d34d.png",
+      "type" : "image/png",
+      "size" : 164049
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#08 User can overwrite Select All option and de-select a preference."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c63f82308123a2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193277294,
+        "stop" : 1669193295402,
+        "duration" : 18108
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc6ac0982ea537fb.json",
+  "parameterValues" : [ ]
+}

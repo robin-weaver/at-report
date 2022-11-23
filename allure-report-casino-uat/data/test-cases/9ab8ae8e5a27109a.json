@@ -1,0 +1,78 @@
+{
+  "uid" : "9ab8ae8e5a27109a",
+  "name" : "#13 User can see the Other Important Terms section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#13 User can see the Other Important Terms section on terms and conditions page",
+  "historyId" : "5a68b08ba2ca40f87ec3090e81804f8a",
+  "time" : {
+    "start" : 1669199390190,
+    "stop" : 1669199391939,
+    "duration" : 1749
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a08921cc807a44a",
+      "name" : "Screenshot",
+      "source" : "a08921cc807a44a.png",
+      "type" : "image/png",
+      "size" : 803985
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User can see the Other Important Terms section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f67c409b97f2506",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193604580,
+        "stop" : 1669193611960,
+        "duration" : 7380
+      }
+    }, {
+      "uid" : "57777219f6df9e62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192751708,
+        "stop" : 1669192760612,
+        "duration" : 8904
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ab8ae8e5a27109a.json",
+  "parameterValues" : [ ]
+}

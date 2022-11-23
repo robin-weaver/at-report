@@ -1,0 +1,70 @@
+{
+  "uid" : "2368c91cf704aa9e",
+  "name" : "#11 User can successfully enter email address with a combination of valid symbols, numbers and letters.",
+  "fullName" : "Registration > Step 1.#11 User can successfully enter email address with a combination of valid symbols, numbers and letters.",
+  "historyId" : "2c9798521b9d5d31f8f3ddddf8f99bb4",
+  "time" : {
+    "start" : 1669202860407,
+    "stop" : 1669202861924,
+    "duration" : 1517
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1e435e5d9d53e6cb",
+      "name" : "Screenshot",
+      "source" : "1e435e5d9d53e6cb.png",
+      "type" : "image/png",
+      "size" : 776704
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 User can successfully enter email address with a combination of valid symbols, numbers and letters."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1d4e6dffe6da2d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669194839961,
+        "stop" : 1669194851627,
+        "duration" : 11666
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2368c91cf704aa9e.json",
+  "parameterValues" : [ ]
+}

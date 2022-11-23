@@ -1,0 +1,71 @@
+{
+  "uid" : "56b606ef8cf80994",
+  "name" : "#3 Player can edit their preferences and exit using the Cancel CTA within the modal discarding changes",
+  "fullName" : "My Profile > Communications Preferences.#3 Player can edit their preferences and exit using the Cancel CTA within the modal discarding changes",
+  "historyId" : "1e25b352b7b886cbf279a03a3b0a02ce",
+  "time" : {
+    "start" : 1669192115732,
+    "stop" : 1669192135117,
+    "duration" : 19385
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1cec17e15cffb5",
+      "name" : "Screenshot",
+      "source" : "e1cec17e15cffb5.png",
+      "type" : "image/png",
+      "size" : 648554
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can edit their preferences and exit using the Cancel CTA within the modal discarding changes"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "329b4c5336e51c0b",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1669191522304,
+        "stop" : 1669191535383,
+        "duration" : 13079
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56b606ef8cf80994.json",
+  "parameterValues" : [ ]
+}

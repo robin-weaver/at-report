@@ -1,0 +1,62 @@
+{
+  "uid" : "99c47a1e8427a6a4",
+  "name" : "#2 Deep link to deposit limits open login when not logged in before deposit limits",
+  "fullName" : "Deep Link -> Deposit Limits.#2 Deep link to deposit limits open login when not logged in before deposit limits",
+  "historyId" : "f5b52c8ec1f622f510a8bbf0424b53bc",
+  "time" : {
+    "start" : 1669191153597,
+    "stop" : 1669191175175,
+    "duration" : 21578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "22bd52ee3bb1fdd3",
+      "name" : "Screenshot",
+      "source" : "22bd52ee3bb1fdd3.png",
+      "type" : "image/png",
+      "size" : 525132
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to deposit limits open login when not logged in before deposit limits"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99c47a1e8427a6a4.json",
+  "parameterValues" : [ ]
+}

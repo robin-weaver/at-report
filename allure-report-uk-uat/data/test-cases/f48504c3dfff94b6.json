@@ -1,0 +1,70 @@
+{
+  "uid" : "f48504c3dfff94b6",
+  "name" : "#5 User try to click on PLAY CTA of Popular game at Shop Welcome page",
+  "fullName" : "Landing Page/Shop Welcome page.#5 User try to click on PLAY CTA of Popular game at Shop Welcome page",
+  "historyId" : "86f956992e2e469c79eb87ec61cdc4fe",
+  "time" : {
+    "start" : 1669195533154,
+    "stop" : 1669195539414,
+    "duration" : 6260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6a941f601623cfa5",
+      "name" : "Screenshot",
+      "source" : "6a941f601623cfa5.png",
+      "type" : "image/png",
+      "size" : 735883
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User try to click on PLAY CTA of Popular game at Shop Welcome page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ed0da7cae09909de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669194394568,
+        "stop" : 1669194415062,
+        "duration" : 20494
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f48504c3dfff94b6.json",
+  "parameterValues" : [ ]
+}

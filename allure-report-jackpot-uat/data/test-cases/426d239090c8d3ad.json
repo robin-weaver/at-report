@@ -1,0 +1,79 @@
+{
+  "uid" : "426d239090c8d3ad",
+  "name" : "#2 User can come to the privacy policy page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#2 User can come to the privacy policy page from terms and conditions page",
+  "historyId" : "e6ed0da4fc6596bc7d2693daec22cb95",
+  "time" : {
+    "start" : 1669199267100,
+    "stop" : 1669199269607,
+    "duration" : 2507
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e506c4cbe9b4e00a",
+      "name" : "Screenshot",
+      "source" : "e506c4cbe9b4e00a.png",
+      "type" : "image/png",
+      "size" : 479177
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can come to the privacy policy page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "53fdb93ae3c92937",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"/uk/en/legal/privacy-policy.html\"])",
+      "time" : {
+        "start" : 1669192003621,
+        "stop" : 1669192011631,
+        "duration" : 8010
+      }
+    }, {
+      "uid" : "1837385f46798a37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191013631,
+        "stop" : 1669191022133,
+        "duration" : 8502
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "426d239090c8d3ad.json",
+  "parameterValues" : [ ]
+}

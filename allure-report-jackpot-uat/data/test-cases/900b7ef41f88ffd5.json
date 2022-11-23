@@ -1,0 +1,70 @@
+{
+  "uid" : "900b7ef41f88ffd5",
+  "name" : "#4 The details balance card is dismissed when the user clicks it",
+  "fullName" : "Homepage.#4 The details balance card is dismissed when the user clicks it",
+  "historyId" : "d1e8c999ab0d2303e8e93da21ba0a578",
+  "time" : {
+    "start" : 1669198816293,
+    "stop" : 1669198824204,
+    "duration" : 7911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ff73be75d88ad73",
+      "name" : "Screenshot",
+      "source" : "7ff73be75d88ad73.png",
+      "type" : "image/png",
+      "size" : 1423472
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 The details balance card is dismissed when the user clicks it"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d678dcffefec0dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191033460,
+        "stop" : 1669191050040,
+        "duration" : 16580
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "900b7ef41f88ffd5.json",
+  "parameterValues" : [ ]
+}

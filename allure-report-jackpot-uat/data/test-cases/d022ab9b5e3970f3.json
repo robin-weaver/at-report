@@ -1,0 +1,80 @@
+{
+  "uid" : "d022ab9b5e3970f3",
+  "name" : "#02 Email Address is a mandatory field.",
+  "fullName" : "Registration > Step 1.#02 Email Address is a mandatory field.",
+  "historyId" : "37af8378f02e161e6cbf7e97549e6383",
+  "time" : {
+    "start" : 1669202881471,
+    "stop" : 1669202883882,
+    "duration" : 2411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8f6dd2937663ca4",
+      "name" : "Screenshot",
+      "source" : "d8f6dd2937663ca4.png",
+      "type" : "image/png",
+      "size" : 3902264
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Email Address is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fbc91bb564d76baf",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1669192126580,
+        "stop" : 1669192136003,
+        "duration" : 9423
+      }
+    }, {
+      "uid" : "433ea1bfc464b2ab",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20022ms",
+      "time" : {
+        "start" : 1669191649904,
+        "stop" : 1669191657111,
+        "duration" : 7207
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d022ab9b5e3970f3.json",
+  "parameterValues" : [ ]
+}

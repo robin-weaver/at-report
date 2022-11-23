@@ -1,0 +1,71 @@
+{
+  "uid" : "f28e5062daff2a27",
+  "name" : "#2 Deep link to play reminders open login when not logged in before play reminders",
+  "fullName" : "Deep Link -> Play Reminders.#2 Deep link to play reminders open login when not logged in before play reminders",
+  "historyId" : "682462de3ffa03f2f895f4d0ee2ab98c",
+  "time" : {
+    "start" : 1669192012414,
+    "stop" : 1669192029479,
+    "duration" : 17065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7111008e66b7889d",
+      "name" : "Screenshot",
+      "source" : "7111008e66b7889d.png",
+      "type" : "image/png",
+      "size" : 352323
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to play reminders open login when not logged in before play reminders"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "346bdd69c39798a4",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <button class=\"button button--primary button--large\" type=\"button\" aria-disabled=\"false\">...</button> is not clickable at point (385, 852). Other element would receive the click: <div class=\"ReactModal__Overlay ReactModal__Overlay--after-open overlay-backdrop touch-drawer__backdrop touch-drawer__backdrop--closeable touch-drawer__backdrop--fade-in\">...</div>\n                  (Session info: headless chrome=107.0.5304.110)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.53', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1669191212032,
+        "stop" : 1669191230277,
+        "duration" : 18245
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f28e5062daff2a27.json",
+  "parameterValues" : [ ]
+}

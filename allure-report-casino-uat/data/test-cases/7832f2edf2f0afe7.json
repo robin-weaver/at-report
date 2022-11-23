@@ -1,0 +1,79 @@
+{
+  "uid" : "7832f2edf2f0afe7",
+  "name" : "#3 User can come to the Gambling commission page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#3 User can come to the Gambling commission page from terms and conditions page",
+  "historyId" : "29bf73fa7b84606cc680492bc554cbf2",
+  "time" : {
+    "start" : 1669199348374,
+    "stop" : 1669199352020,
+    "duration" : 3646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ddd07159da73be0",
+      "name" : "Screenshot",
+      "source" : "8ddd07159da73be0.png",
+      "type" : "image/png",
+      "size" : 564225
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gambling commission page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9ff54ef7e99d2083",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamblingcommission.gov.uk/public-and-players/guide/how-gambling-companies-protect-your-money\"])",
+      "time" : {
+        "start" : 1669193539022,
+        "stop" : 1669193545924,
+        "duration" : 6902
+      }
+    }, {
+      "uid" : "2e78c9d2662a6434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192654954,
+        "stop" : 1669192664161,
+        "duration" : 9207
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7832f2edf2f0afe7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "180b6c5c392ad70a",
+  "name" : "#5 The details balance card is dismissed when the user clicks outside the modal",
+  "fullName" : "Homepage.#5 The details balance card is dismissed when the user clicks outside the modal",
+  "historyId" : "4a2e22661a9a484a25e6c10fd5bd1305",
+  "time" : {
+    "start" : 1669198824204,
+    "stop" : 1669198832394,
+    "duration" : 8190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f2092c2767070167",
+      "name" : "Screenshot",
+      "source" : "f2092c2767070167.png",
+      "type" : "image/png",
+      "size" : 1423472
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 The details balance card is dismissed when the user clicks outside the modal"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7ff5152f6e8bc95f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191050040,
+        "stop" : 1669191066436,
+        "duration" : 16396
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "180b6c5c392ad70a.json",
+  "parameterValues" : [ ]
+}

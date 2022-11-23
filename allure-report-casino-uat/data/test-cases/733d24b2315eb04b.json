@@ -1,0 +1,78 @@
+{
+  "uid" : "733d24b2315eb04b",
+  "name" : "#24 User can see the Limitation of Liability section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#24 User can see the Limitation of Liability section on terms and conditions page",
+  "historyId" : "b4ab5e7983de583c59936c85d4349ec9",
+  "time" : {
+    "start" : 1669199409089,
+    "stop" : 1669199410754,
+    "duration" : 1665
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bf98828b53c6dc0d",
+      "name" : "Screenshot",
+      "source" : "bf98828b53c6dc0d.png",
+      "type" : "image/png",
+      "size" : 803985
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#24 User can see the Limitation of Liability section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dba06b9087288079",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193694574,
+        "stop" : 1669193703320,
+        "duration" : 8746
+      }
+    }, {
+      "uid" : "ed34ba966b5f2df0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192811744,
+        "stop" : 1669192817787,
+        "duration" : 6043
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "733d24b2315eb04b.json",
+  "parameterValues" : [ ]
+}

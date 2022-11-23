@@ -1,0 +1,70 @@
+{
+  "uid" : "268acee1c651a487",
+  "name" : "#4 User clicks on \"Be Aware Gambling\" link at Shop Welcome page",
+  "fullName" : "Landing Page/Shop Welcome page.#4 User clicks on \"Be Aware Gambling\" link at Shop Welcome page",
+  "historyId" : "55e9be9bf69c2f9dae01377f7b91f548",
+  "time" : {
+    "start" : 1669195529152,
+    "stop" : 1669195533153,
+    "duration" : 4001
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a837036a4b89409",
+      "name" : "Screenshot",
+      "source" : "a837036a4b89409.png",
+      "type" : "image/png",
+      "size" : 1191082
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User clicks on \"Be Aware Gambling\" link at Shop Welcome page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c069134d743262",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669194379731,
+        "stop" : 1669194394568,
+        "duration" : 14837
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "268acee1c651a487.json",
+  "parameterValues" : [ ]
+}

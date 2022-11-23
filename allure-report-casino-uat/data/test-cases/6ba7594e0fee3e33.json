@@ -1,0 +1,70 @@
+{
+  "uid" : "6ba7594e0fee3e33",
+  "name" : "#01 User is displayed the correct content and defaut options for Step 4.",
+  "fullName" : "Registration > Step 4.#01 User is displayed the correct content and defaut options for Step 4.",
+  "historyId" : "db92a908bc9d0fb837797e93dadeb214",
+  "time" : {
+    "start" : 1669193737990,
+    "stop" : 1669193753342,
+    "duration" : 15352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "28fdebb73efe84db",
+      "name" : "Screenshot",
+      "source" : "28fdebb73efe84db.png",
+      "type" : "image/png",
+      "size" : 163462
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 User is displayed the correct content and defaut options for Step 4."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a72e526d59d2d9a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193215261,
+        "stop" : 1669193227374,
+        "duration" : 12113
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ba7594e0fee3e33.json",
+  "parameterValues" : [ ]
+}

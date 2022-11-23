@@ -1,0 +1,80 @@
+{
+  "uid" : "a33b6285cf1d8864",
+  "name" : "#23 User can see the Intellectual Property section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#23 User can see the Intellectual Property section on terms and conditions page",
+  "historyId" : "109edc85c2a679388a10bfc585b571",
+  "time" : {
+    "start" : 1669199243366,
+    "stop" : 1669199245404,
+    "duration" : 2038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "244fa45aded903d4",
+      "name" : "Screenshot",
+      "source" : "244fa45aded903d4.png",
+      "type" : "image/png",
+      "size" : 771926
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#23 User can see the Intellectual Property section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f2e581fb784524cf",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669195453038,
+        "stop" : 1669195461013,
+        "duration" : 7975
+      }
+    }, {
+      "uid" : "ce8ad4bbb6b64066",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669194188861,
+        "stop" : 1669194197719,
+        "duration" : 8858
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a33b6285cf1d8864.json",
+  "parameterValues" : [ ]
+}

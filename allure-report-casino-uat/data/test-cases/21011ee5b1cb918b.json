@@ -1,0 +1,71 @@
+{
+  "uid" : "21011ee5b1cb918b",
+  "name" : "#12 Card is displayed, user hover a mouse on that card, the secondary CTA is INFO, user clicks/taps on CTA INFO, user go to info page of the game, user click on CTA JOIN then join modal appears.",
+  "fullName" : "Live Casino.#12 Card is displayed, user hover a mouse on that card, the secondary CTA is INFO, user clicks/taps on CTA INFO, user go to info page of the game, user click on CTA JOIN then join modal appears.",
+  "historyId" : "a5ca5b7de71f3d0a90dc9de7afdfed9d",
+  "time" : {
+    "start" : 1669193584811,
+    "stop" : 1669193597035,
+    "duration" : 12224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4e28e70712a69a56",
+      "name" : "Screenshot",
+      "source" : "4e28e70712a69a56.png",
+      "type" : "image/png",
+      "size" : 138104
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Card is displayed, user hover a mouse on that card, the secondary CTA is INFO, user clicks/taps on CTA INFO, user go to info page of the game, user click on CTA JOIN then join modal appears."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d7750377f6d40299",
+      "status" : "failed",
+      "statusDetails" : "Failed: Game info page is not visible.\n                Wait timed out after 5010ms",
+      "time" : {
+        "start" : 1669192698125,
+        "stop" : 1669192710931,
+        "duration" : 12806
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21011ee5b1cb918b.json",
+  "parameterValues" : [ ]
+}

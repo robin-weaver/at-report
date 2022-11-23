@@ -1,0 +1,78 @@
+{
+  "uid" : "1baf9884e79bd3bf",
+  "name" : "#6 User can come to the GamCare page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#6 User can come to the GamCare page from terms and conditions page",
+  "historyId" : "5bb0fdd73e75ae9289dfe8bc04ef915b",
+  "time" : {
+    "start" : 1669199277884,
+    "stop" : 1669199285540,
+    "duration" : 7656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70df3d0daece7de9",
+      "name" : "Screenshot",
+      "source" : "70df3d0daece7de9.png",
+      "type" : "image/png",
+      "size" : 3671924
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can come to the GamCare page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4345fbdff066f702",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192031322,
+        "stop" : 1669192045991,
+        "duration" : 14669
+      }
+    }, {
+      "uid" : "62c8291cdeddd7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191044120,
+        "stop" : 1669191059853,
+        "duration" : 15733
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1baf9884e79bd3bf.json",
+  "parameterValues" : [ ]
+}

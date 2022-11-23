@@ -1,0 +1,79 @@
+{
+  "uid" : "6ab382e3ae9fc72b",
+  "name" : "#7 User can come to the GamStop page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#7 User can come to the GamStop page from terms and conditions page",
+  "historyId" : "688c031fedab4fff6a147a9636d58ef7",
+  "time" : {
+    "start" : 1669199285540,
+    "stop" : 1669199288107,
+    "duration" : 2567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d491187f44cefbba",
+      "name" : "Screenshot",
+      "source" : "d491187f44cefbba.png",
+      "type" : "image/png",
+      "size" : 368174
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User can come to the GamStop page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1e396caeb8ee1f4a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamstop.co.uk/\"])",
+      "time" : {
+        "start" : 1669192045991,
+        "stop" : 1669192052578,
+        "duration" : 6587
+      }
+    }, {
+      "uid" : "7ad7544cc84ba668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669191059853,
+        "stop" : 1669191068724,
+        "duration" : 8871
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ab382e3ae9fc72b.json",
+  "parameterValues" : [ ]
+}

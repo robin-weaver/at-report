@@ -1,0 +1,86 @@
+{
+  "uid" : "95fc23cbc12e7951",
+  "name" : "#5 Player cannot continue with 'Self Exclusion' if a duration is not selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#5 Player cannot continue with 'Self Exclusion' if a duration is not selected.",
+  "historyId" : "8df4009f82cfa856971ed85ca5c541fe",
+  "time" : {
+    "start" : 1669206396207,
+    "stop" : 1669206403888,
+    "duration" : 7681
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Request failed with status code 403",
+  "statusTrace" : "Error: Request failed with status code 403\n                    at createError (/Users/robinweaver/Documents/eyas-test-automation/node_modules/axios/lib/core/createError.js:16:15)\n                    at settle (/Users/robinweaver/Documents/eyas-test-automation/node_modules/axios/lib/core/settle.js:17:12)\n                    at IncomingMessage.handleStreamEnd (/Users/robinweaver/Documents/eyas-test-automation/node_modules/axios/lib/adapters/http.js:322:11)\n                    at IncomingMessage.emit (node:events:525:35)\n                    at endReadableNT (node:internal/streams/readable:1359:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:82:21)\n                From: Task: Run beforeAll in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at queueRunnerFactory (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at TreeProcessor.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5187:7)\n                    at Env.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:983:17)\n                    at Jasmine.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:200:12)\n                    at /opt/homebrew/lib/node_modules/protractor/built/frameworks/jasmine.js:132:15\n                    at Function.promise (/opt/homebrew/lib/node_modules/protractor/node_modules/q/q.js:682:9)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/self-exclusion.spec.js:28:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Request failed with status code 403",
+    "statusTrace" : "Error: Request failed with status code 403\n                    at createError (/Users/robinweaver/Documents/eyas-test-automation/node_modules/axios/lib/core/createError.js:16:15)\n                    at settle (/Users/robinweaver/Documents/eyas-test-automation/node_modules/axios/lib/core/settle.js:17:12)\n                    at IncomingMessage.handleStreamEnd (/Users/robinweaver/Documents/eyas-test-automation/node_modules/axios/lib/adapters/http.js:322:11)\n                    at IncomingMessage.emit (node:events:525:35)\n                    at endReadableNT (node:internal/streams/readable:1359:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:82:21)\n                From: Task: Run beforeAll in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at queueRunnerFactory (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at TreeProcessor.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5187:7)\n                    at Env.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:983:17)\n                    at Jasmine.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:200:12)\n                    at /opt/homebrew/lib/node_modules/protractor/built/frameworks/jasmine.js:132:15\n                    at Function.promise (/opt/homebrew/lib/node_modules/protractor/node_modules/q/q.js:682:9)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/gambling-controls/self-exclusion.spec.js:28:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1c33b021fc6a2ad",
+      "name" : "Screenshot",
+      "source" : "f1c33b021fc6a2ad.png",
+      "type" : "image/png",
+      "size" : 1594917
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player cannot continue with 'Self Exclusion' if a duration is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa58c2e18042ae5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669193595679,
+        "stop" : 1669193615955,
+        "duration" : 20276
+      }
+    }, {
+      "uid" : "20a18b3c97531172",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669192920785,
+        "stop" : 1669192940046,
+        "duration" : 19261
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "95fc23cbc12e7951.json",
+  "parameterValues" : [ ]
+}
