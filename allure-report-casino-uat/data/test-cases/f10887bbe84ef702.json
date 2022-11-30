@@ -1,0 +1,86 @@
+{
+  "uid" : "f10887bbe84ef702",
+  "name" : "#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "fullName" : "Slots page.#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "historyId" : "6d8de6a1892482bb3e885cb230dd641e",
+  "time" : {
+    "start" : 1669732443510,
+    "stop" : 1669732457915,
+    "duration" : 14405
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1669732443510,
+        "stop" : 1669732444948,
+        "duration" : 1438
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "46e5a9d01b37734b",
+      "name" : "Screenshot",
+      "source" : "46e5a9d01b37734b.png",
+      "type" : "image/png",
+      "size" : 8453
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8e3a53a0a4f37c82",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"My Account\"])",
+      "time" : {
+        "start" : 1669732183505,
+        "stop" : 1669732194710,
+        "duration" : 11205
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f10887bbe84ef702.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "fe05dfc6053508d7",
+  "name" : "#3 User can come to the Gambling commission page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#3 User can come to the Gambling commission page from terms and conditions page",
+  "historyId" : "29bf73fa7b84606cc680492bc554cbf2",
+  "time" : {
+    "start" : 1669802178739,
+    "stop" : 1669802191095,
+    "duration" : 12356
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e23982b93ab61666",
+      "name" : "Screenshot",
+      "source" : "e23982b93ab61666.png",
+      "type" : "image/png",
+      "size" : 216971
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gambling commission page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c871811e92add0bf",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamblingcommission.gov.uk/public-and-players/guide/how-gambling-companies-protect-your-money\"])",
+      "time" : {
+        "start" : 1669801525846,
+        "stop" : 1669801529406,
+        "duration" : 3560
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe05dfc6053508d7.json",
+  "parameterValues" : [ ]
+}

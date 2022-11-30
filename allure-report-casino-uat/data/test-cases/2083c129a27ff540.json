@@ -1,0 +1,70 @@
+{
+  "uid" : "2083c129a27ff540",
+  "name" : "#1 Player can close the Change Password modal.",
+  "fullName" : "My Account > Settings > Change Password.#1 Player can close the Change Password modal.",
+  "historyId" : "b770d601b7c603c431e9198af80c246b",
+  "time" : {
+    "start" : 1669732409363,
+    "stop" : 1669732421964,
+    "duration" : 12601
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46df7f349345be11",
+      "name" : "Screenshot",
+      "source" : "46df7f349345be11.png",
+      "type" : "image/png",
+      "size" : 368589
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can close the Change Password modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f3e576e983f9e442",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669732026370,
+        "stop" : 1669732039861,
+        "duration" : 13491
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2083c129a27ff540.json",
+  "parameterValues" : [ ]
+}

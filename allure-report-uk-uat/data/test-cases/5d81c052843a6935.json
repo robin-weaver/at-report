@@ -1,0 +1,70 @@
+{
+  "uid" : "5d81c052843a6935",
+  "name" : "#7 Player is displayed with the password requirements when they start to enter a new password.",
+  "fullName" : "My Account > Settings > Change Password.#7 Player is displayed with the password requirements when they start to enter a new password.",
+  "historyId" : "4c3f895b0dcc4c7c20d9a0a754b34b1c",
+  "time" : {
+    "start" : 1669730216486,
+    "stop" : 1669730229799,
+    "duration" : 13313
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1c334b1c94fb864c",
+      "name" : "Screenshot",
+      "source" : "1c334b1c94fb864c.png",
+      "type" : "image/png",
+      "size" : 176364
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player is displayed with the password requirements when they start to enter a new password."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fd5211feda0900ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729760708,
+        "stop" : 1669729776766,
+        "duration" : 16058
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d81c052843a6935.json",
+  "parameterValues" : [ ]
+}

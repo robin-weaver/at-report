@@ -1,0 +1,70 @@
+{
+  "uid" : "6d8c7e46b077d1e9",
+  "name" : "#8 User can come to the eCOGRA page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#8 User can come to the eCOGRA page from terms and conditions page",
+  "historyId" : "b7931d18fadc6be7964444ff34abc2f2",
+  "time" : {
+    "start" : 1669732441342,
+    "stop" : 1669732448352,
+    "duration" : 7010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8635a50d7c98320c",
+      "name" : "Screenshot",
+      "source" : "8635a50d7c98320c.png",
+      "type" : "image/png",
+      "size" : 77788
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can come to the eCOGRA page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dba8c1201582712e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669731920128,
+        "stop" : 1669731928259,
+        "duration" : 8131
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d8c7e46b077d1e9.json",
+  "parameterValues" : [ ]
+}

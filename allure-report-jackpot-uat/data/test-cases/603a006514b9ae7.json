@@ -1,0 +1,78 @@
+{
+  "uid" : "603a006514b9ae7",
+  "name" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "fullName" : "Inbox functionality testing.#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "historyId" : "fef482662f6326f33f5a3ea0bcf6a777",
+  "time" : {
+    "start" : 1669802311207,
+    "stop" : 1669802360830,
+    "duration" : 49623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at listOnTimeout (node:internal/timers:564:17)\n                    at processTimers (node:internal/timers:507:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+    "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at listOnTimeout (node:internal/timers:564:17)\n                    at processTimers (node:internal/timers:507:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2f6740ca27e7a92c",
+      "name" : "Screenshot",
+      "source" : "2f6740ca27e7a92c.png",
+      "type" : "image/png",
+      "size" : 60986
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1868b547b77a635f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669801655195,
+        "stop" : 1669801683056,
+        "duration" : 27861
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "603a006514b9ae7.json",
+  "parameterValues" : [ ]
+}

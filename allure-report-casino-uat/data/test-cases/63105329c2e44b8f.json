@@ -1,0 +1,70 @@
+{
+  "uid" : "63105329c2e44b8f",
+  "name" : "#19 User can see the Inactive Customer Accounts section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#19 User can see the Inactive Customer Accounts section on terms and conditions page",
+  "historyId" : "99517e53d4c4a086dc3377a8de3dc83b",
+  "time" : {
+    "start" : 1669732477556,
+    "stop" : 1669732480491,
+    "duration" : 2935
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fff861858d1543ff",
+      "name" : "Screenshot",
+      "source" : "fff861858d1543ff.png",
+      "type" : "image/png",
+      "size" : 306840
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#19 User can see the Inactive Customer Accounts section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9433bd9bac246416",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669731972232,
+        "stop" : 1669731976920,
+        "duration" : 4688
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63105329c2e44b8f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "922a205147353a4a",
+  "name" : "#24 User can see the Limitation of Liability section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#24 User can see the Limitation of Liability section on terms and conditions page",
+  "historyId" : "b4ab5e7983de583c59936c85d4349ec9",
+  "time" : {
+    "start" : 1669802287432,
+    "stop" : 1669802292226,
+    "duration" : 4794
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "765ecfebd993cf2",
+      "name" : "Screenshot",
+      "source" : "765ecfebd993cf2.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#24 User can see the Limitation of Liability section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "570578ce2f77ab89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669801685393,
+        "stop" : 1669801690815,
+        "duration" : 5422
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "922a205147353a4a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "4a15e4746b1ce4ea",
+  "name" : "#11 Player can delete a message using the message options, removing it from the list",
+  "fullName" : "Inbox functionality testing.#11 Player can delete a message using the message options, removing it from the list",
+  "historyId" : "1910f002abbc02f8d0b69186786eeba6",
+  "time" : {
+    "start" : 1669802360830,
+    "stop" : 1669802371834,
+    "duration" : 11004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "55116c1a4bcbb1c7",
+      "name" : "Screenshot",
+      "source" : "55116c1a4bcbb1c7.png",
+      "type" : "image/png",
+      "size" : 61091
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Player can delete a message using the message options, removing it from the list"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2c0e1f8bd1e554c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669801683056,
+        "stop" : 1669801699821,
+        "duration" : 16765
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a15e4746b1ce4ea.json",
+  "parameterValues" : [ ]
+}

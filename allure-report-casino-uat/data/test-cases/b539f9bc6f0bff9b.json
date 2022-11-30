@@ -1,0 +1,85 @@
+{
+  "uid" : "b539f9bc6f0bff9b",
+  "name" : "#7 User hover the game card and click 'Play now' and login modal appears",
+  "fullName" : "Slots page.#7 User hover the game card and click 'Play now' and login modal appears",
+  "historyId" : "3bbe3fc26a2c596ec63257117cb432e",
+  "time" : {
+    "start" : 1669732422528,
+    "stop" : 1669732425784,
+    "duration" : 3256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1669732422529,
+        "stop" : 1669732424229,
+        "duration" : 1700
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6750da2b9a080987",
+      "name" : "Screenshot",
+      "source" : "6750da2b9a080987.png",
+      "type" : "image/png",
+      "size" : 254706
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User hover the game card and click 'Play now' and login modal appears"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b419692ef88abf46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669732159870,
+        "stop" : 1669732163038,
+        "duration" : 3168
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b539f9bc6f0bff9b.json",
+  "parameterValues" : [ ]
+}

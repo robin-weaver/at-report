@@ -1,0 +1,71 @@
+{
+  "uid" : "5a403d0c8aa1140",
+  "name" : "#1 User can come to the Be Gamble Aware page from Responsible Gambling page",
+  "fullName" : "Home page => Responsible Gambling page.#1 User can come to the Be Gamble Aware page from Responsible Gambling page",
+  "historyId" : "6af147c44159531063317139ac7d8af6",
+  "time" : {
+    "start" : 1669730137329,
+    "stop" : 1669730154209,
+    "duration" : 16880
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "25a59408a2e44610",
+      "name" : "Screenshot",
+      "source" : "25a59408a2e44610.png",
+      "type" : "image/png",
+      "size" : 437860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the Be Gamble Aware page from Responsible Gambling page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22cc9d60ba93e14d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href =\"http://www.gambleaware.co.uk/\"])",
+      "time" : {
+        "start" : 1669729444220,
+        "stop" : 1669729457085,
+        "duration" : 12865
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a403d0c8aa1140.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "7eabccdcc38caf7f",
+  "name" : "#14 User can see the Your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#14 User can see the Your Account section on terms and conditions page",
+  "historyId" : "de37658a83a4e8bc863ce155935a166",
+  "time" : {
+    "start" : 1669730213105,
+    "stop" : 1669730217591,
+    "duration" : 4486
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d21f7c5e3c943916",
+      "name" : "Screenshot",
+      "source" : "d21f7c5e3c943916.png",
+      "type" : "image/png",
+      "size" : 295295
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User can see the Your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3f243e9e6d94ab9d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1669729534556,
+        "stop" : 1669729541798,
+        "duration" : 7242
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7eabccdcc38caf7f.json",
+  "parameterValues" : [ ]
+}

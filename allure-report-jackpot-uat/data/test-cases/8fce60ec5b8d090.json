@@ -1,0 +1,71 @@
+{
+  "uid" : "8fce60ec5b8d090",
+  "name" : "#5 Player can open 'Deposit' modal",
+  "fullName" : "Spin Zone functionality testing.#5 Player can open 'Deposit' modal",
+  "historyId" : "ee7ead89d334015b02dda7cec3679703",
+  "time" : {
+    "start" : 1669802326337,
+    "stop" : 1669802348011,
+    "duration" : 21674
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "534d3c564914ec5d",
+      "name" : "Screenshot",
+      "source" : "534d3c564914ec5d.png",
+      "type" : "image/png",
+      "size" : 27437
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can open 'Deposit' modal"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d50f6a6de71d13",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10020ms",
+      "time" : {
+        "start" : 1669801975477,
+        "stop" : 1669801999847,
+        "duration" : 24370
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fce60ec5b8d090.json",
+  "parameterValues" : [ ]
+}

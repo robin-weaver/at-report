@@ -1,0 +1,70 @@
+{
+  "uid" : "96ed4bcd0d45acf",
+  "name" : "#17 Player cannot set Deposit Limit higher than the maximum amount.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#17 Player cannot set Deposit Limit higher than the maximum amount.",
+  "historyId" : "9955bc85c594ad591c49d978370fbb1e",
+  "time" : {
+    "start" : 1669730351111,
+    "stop" : 1669730363033,
+    "duration" : 11922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8d689b5fa7c76dc5",
+      "name" : "Screenshot",
+      "source" : "8d689b5fa7c76dc5.png",
+      "type" : "image/png",
+      "size" : 219658
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 Player cannot set Deposit Limit higher than the maximum amount."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "94c63694f0190622",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729815035,
+        "stop" : 1669729834633,
+        "duration" : 19598
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96ed4bcd0d45acf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "d1f177b275f16d03",
+  "name" : "#13 Player can open the Deposit Limits Delete modal on delete icon click and click on edit icon in the input field.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#13 Player can open the Deposit Limits Delete modal on delete icon click and click on edit icon in the input field.",
+  "historyId" : "4a85b63e1010215a0fa18baad4f20eb8",
+  "time" : {
+    "start" : 1669732568511,
+    "stop" : 1669732582289,
+    "duration" : 13778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "237efaafe5fb7525",
+      "name" : "Screenshot",
+      "source" : "237efaafe5fb7525.png",
+      "type" : "image/png",
+      "size" : 177935
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player can open the Deposit Limits Delete modal on delete icon click and click on edit icon in the input field."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "50fe6499045a5b64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669732146499,
+        "stop" : 1669732163606,
+        "duration" : 17107
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1f177b275f16d03.json",
+  "parameterValues" : [ ]
+}

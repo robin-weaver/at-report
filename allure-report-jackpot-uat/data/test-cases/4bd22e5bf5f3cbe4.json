@@ -1,0 +1,62 @@
+{
+  "uid" : "4bd22e5bf5f3cbe4",
+  "name" : "#4 Check user is able to select Instant Bank Transfer and is provided with the correct information for this payment method",
+  "fullName" : "My Account -> Deposit.#4 Check user is able to select Instant Bank Transfer and is provided with the correct information for this payment method",
+  "historyId" : "90fc8868e5209294166d7d55598b5a6f",
+  "time" : {
+    "start" : 1669801700210,
+    "stop" : 1669801717779,
+    "duration" : 17569
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f18abf545bd76e00",
+      "name" : "Screenshot",
+      "source" : "f18abf545bd76e00.png",
+      "type" : "image/png",
+      "size" : 132877
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Check user is able to select Instant Bank Transfer and is provided with the correct information for this payment method"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bd22e5bf5f3cbe4.json",
+  "parameterValues" : [ ]
+}

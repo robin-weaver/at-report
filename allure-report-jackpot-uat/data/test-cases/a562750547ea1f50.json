@@ -1,0 +1,71 @@
+{
+  "uid" : "a562750547ea1f50",
+  "name" : "#10 Player can close game",
+  "fullName" : "Spin Zone functionality testing.#10 Player can close game",
+  "historyId" : "b67bcf22a7fa0b5118748dda8c3b8d3d",
+  "time" : {
+    "start" : 1669802439265,
+    "stop" : 1669802453022,
+    "duration" : 13757
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b6d2c8393644db99",
+      "name" : "Screenshot",
+      "source" : "b6d2c8393644db99.png",
+      "type" : "image/png",
+      "size" : 435825
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Player can close game"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcf0ebf543803415",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10020ms",
+      "time" : {
+        "start" : 1669802073498,
+        "stop" : 1669802087034,
+        "duration" : 13536
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a562750547ea1f50.json",
+  "parameterValues" : [ ]
+}

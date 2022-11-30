@@ -1,0 +1,70 @@
+{
+  "uid" : "f6ed4ded3f747bad",
+  "name" : "#21 User can click on the terms and conditions link and the terms and conditions are displayed for deposit bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#21 User can click on the terms and conditions link and the terms and conditions are displayed for deposit bonus.",
+  "historyId" : "1767a229e7c3ebc2aaa728d3bdac05cc",
+  "time" : {
+    "start" : 1669802518654,
+    "stop" : 1669802530843,
+    "duration" : 12189
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "23f26a1e8de075ea",
+      "name" : "Screenshot",
+      "source" : "23f26a1e8de075ea.png",
+      "type" : "image/png",
+      "size" : 358152
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 User can click on the terms and conditions link and the terms and conditions are displayed for deposit bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3f7475ab32378bb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669801986967,
+        "stop" : 1669801999562,
+        "duration" : 12595
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6ed4ded3f747bad.json",
+  "parameterValues" : [ ]
+}

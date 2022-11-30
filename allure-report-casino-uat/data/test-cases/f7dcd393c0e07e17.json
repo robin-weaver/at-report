@@ -1,0 +1,70 @@
+{
+  "uid" : "f7dcd393c0e07e17",
+  "name" : "#25 User can see the Complaints and disputes section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#25 User can see the Complaints and disputes section on terms and conditions page",
+  "historyId" : "b215e1c98e70cb6f5debc5bdf56c2650",
+  "time" : {
+    "start" : 1669732493327,
+    "stop" : 1669732495879,
+    "duration" : 2552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7abf36f5d98c8937",
+      "name" : "Screenshot",
+      "source" : "7abf36f5d98c8937.png",
+      "type" : "image/png",
+      "size" : 306840
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#25 User can see the Complaints and disputes section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4f3557d592e12f34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669731997327,
+        "stop" : 1669732001286,
+        "duration" : 3959
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7dcd393c0e07e17.json",
+  "parameterValues" : [ ]
+}

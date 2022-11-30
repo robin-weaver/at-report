@@ -1,0 +1,62 @@
+{
+  "uid" : "1c70066f8cd69b06",
+  "name" : "#05 Date of Birth is a mandatory field.",
+  "fullName" : "Registration > Step 2.#05 Date of Birth is a mandatory field.",
+  "historyId" : "1e9e174b5ca9b8294d2e339414883d85",
+  "time" : {
+    "start" : 1669801796284,
+    "stop" : 1669801802214,
+    "duration" : 5930
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "206757e005be0d3d",
+      "name" : "Screenshot",
+      "source" : "206757e005be0d3d.png",
+      "type" : "image/png",
+      "size" : 1380923
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Date of Birth is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c70066f8cd69b06.json",
+  "parameterValues" : [ ]
+}

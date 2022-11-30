@@ -1,0 +1,70 @@
+{
+  "uid" : "d70fb600570d5736",
+  "name" : "#22 User can see the Promotions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#22 User can see the Promotions section on terms and conditions page",
+  "historyId" : "febb77ee425460f2ced7f298255bb520",
+  "time" : {
+    "start" : 1669732485592,
+    "stop" : 1669732487865,
+    "duration" : 2273
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4deb9b99f097ef34",
+      "name" : "Screenshot",
+      "source" : "4deb9b99f097ef34.png",
+      "type" : "image/png",
+      "size" : 306840
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#22 User can see the Promotions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d82df55407cc593",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669731985520,
+        "stop" : 1669731988881,
+        "duration" : 3361
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d70fb600570d5736.json",
+  "parameterValues" : [ ]
+}

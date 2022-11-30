@@ -1,0 +1,62 @@
+{
+  "uid" : "d4ebbb2f6bdde48e",
+  "name" : "#17 User cannot enter spaces into Phone Number field.",
+  "fullName" : "Registration > Step 3.#17 User cannot enter spaces into Phone Number field.",
+  "historyId" : "143e4becc14907f212813f3a89e07afd",
+  "time" : {
+    "start" : 1669801927466,
+    "stop" : 1669801932837,
+    "duration" : 5371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "56cd7d611f1190f3",
+      "name" : "Screenshot",
+      "source" : "56cd7d611f1190f3.png",
+      "type" : "image/png",
+      "size" : 1392788
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User cannot enter spaces into Phone Number field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4ebbb2f6bdde48e.json",
+  "parameterValues" : [ ]
+}

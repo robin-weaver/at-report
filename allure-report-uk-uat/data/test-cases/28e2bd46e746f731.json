@@ -1,0 +1,70 @@
+{
+  "uid" : "28e2bd46e746f731",
+  "name" : "#9 Player can unselect all preferences using the select all toggle (select all toggle already active), which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#9 Player can unselect all preferences using the select all toggle (select all toggle already active), which upon saving updates the account area accordingly",
+  "historyId" : "c7501e9d4141b726c609ec9d0b8cf838",
+  "time" : {
+    "start" : 1669730254378,
+    "stop" : 1669730271761,
+    "duration" : 17383
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8fec749b14d172b0",
+      "name" : "Screenshot",
+      "source" : "8fec749b14d172b0.png",
+      "type" : "image/png",
+      "size" : 305317
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Player can unselect all preferences using the select all toggle (select all toggle already active), which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db475e1ceaec6229",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729841077,
+        "stop" : 1669729862990,
+        "duration" : 21913
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28e2bd46e746f731.json",
+  "parameterValues" : [ ]
+}

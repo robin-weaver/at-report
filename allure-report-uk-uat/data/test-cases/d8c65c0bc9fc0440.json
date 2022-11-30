@@ -1,0 +1,70 @@
+{
+  "uid" : "d8c65c0bc9fc0440",
+  "name" : "#7 Player can open the Deposit Limits Delete modal on delete icon click.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#7 Player can open the Deposit Limits Delete modal on delete icon click.",
+  "historyId" : "23d0ab5d6a93da551d1ad9c5bcbc2b80",
+  "time" : {
+    "start" : 1669730244580,
+    "stop" : 1669730259770,
+    "duration" : 15190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b68c5327b19810a9",
+      "name" : "Screenshot",
+      "source" : "b68c5327b19810a9.png",
+      "type" : "image/png",
+      "size" : 251700
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can open the Deposit Limits Delete modal on delete icon click."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "16061de347869e3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729663798,
+        "stop" : 1669729683332,
+        "duration" : 19534
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8c65c0bc9fc0440.json",
+  "parameterValues" : [ ]
+}

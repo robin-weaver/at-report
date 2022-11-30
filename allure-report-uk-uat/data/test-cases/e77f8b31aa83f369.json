@@ -1,0 +1,70 @@
+{
+  "uid" : "e77f8b31aa83f369",
+  "name" : "#57 Cash and bonus balance is closed after clicking on arrow for opened bonus balance.",
+  "fullName" : "Promotions functionality testing. Bonus details testing..#57 Cash and bonus balance is closed after clicking on arrow for opened bonus balance.",
+  "historyId" : "1aad1432aa283d3d97425bf34b798bd9",
+  "time" : {
+    "start" : 1669730492203,
+    "stop" : 1669730501603,
+    "duration" : 9400
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "175050962a3311f9",
+      "name" : "Screenshot",
+      "source" : "175050962a3311f9.png",
+      "type" : "image/png",
+      "size" : 92447
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#57 Cash and bonus balance is closed after clicking on arrow for opened bonus balance."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a408676dc6cd8510",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669730074853,
+        "stop" : 1669730079803,
+        "duration" : 4950
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e77f8b31aa83f369.json",
+  "parameterValues" : [ ]
+}

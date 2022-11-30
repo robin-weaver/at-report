@@ -1,0 +1,62 @@
+{
+  "uid" : "7236b8d0b29c975b",
+  "name" : "#5 Player cannot continue with 'Self Exclusion' if a duration is not selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#5 Player cannot continue with 'Self Exclusion' if a duration is not selected.",
+  "historyId" : "8df4009f82cfa856971ed85ca5c541fe",
+  "time" : {
+    "start" : 1669732014659,
+    "stop" : 1669732027673,
+    "duration" : 13014
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "18d1b998a93529db",
+      "name" : "Screenshot",
+      "source" : "18d1b998a93529db.png",
+      "type" : "image/png",
+      "size" : 260869
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player cannot continue with 'Self Exclusion' if a duration is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7236b8d0b29c975b.json",
+  "parameterValues" : [ ]
+}

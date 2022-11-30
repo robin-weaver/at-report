@@ -1,0 +1,70 @@
+{
+  "uid" : "960fd1691234a32f",
+  "name" : "#30 Promo image of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#30 Promo image of promotion card is displayed for not login user.",
+  "historyId" : "afe7bc43ea0445be0e70ac161da26cdb",
+  "time" : {
+    "start" : 1669802601922,
+    "stop" : 1669802602839,
+    "duration" : 917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "11ef727499a35ae5",
+      "name" : "Screenshot",
+      "source" : "11ef727499a35ae5.png",
+      "type" : "image/png",
+      "size" : 745466
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#30 Promo image of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ce4649a9aab7ccf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669802060069,
+        "stop" : 1669802060978,
+        "duration" : 909
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "960fd1691234a32f.json",
+  "parameterValues" : [ ]
+}

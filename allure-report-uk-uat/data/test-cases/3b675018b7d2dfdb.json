@@ -1,0 +1,70 @@
+{
+  "uid" : "3b675018b7d2dfdb",
+  "name" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "historyId" : "b4d278950cdc3a6f5c92c3defc364ac8",
+  "time" : {
+    "start" : 1669730319429,
+    "stop" : 1669730333278,
+    "duration" : 13849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "47fdaf15f4d2673c",
+      "name" : "Screenshot",
+      "source" : "47fdaf15f4d2673c.png",
+      "type" : "image/png",
+      "size" : 488484
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d0058a2452c2f314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729918593,
+        "stop" : 1669729932746,
+        "duration" : 14153
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b675018b7d2dfdb.json",
+  "parameterValues" : [ ]
+}

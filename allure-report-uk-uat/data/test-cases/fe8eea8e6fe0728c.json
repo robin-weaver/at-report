@@ -1,0 +1,79 @@
+{
+  "uid" : "fe8eea8e6fe0728c",
+  "name" : "#2 All active promotions cards are displayed.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#2 All active promotions cards are displayed.",
+  "historyId" : "4353be4335e5e08b5b6c5f71f6ee77d9",
+  "time" : {
+    "start" : 1669730141694,
+    "stop" : 1669730158266,
+    "duration" : 16572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(css selector, .category__navigation-item)",
+  "statusTrace" : "NoSuchElementError: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(css selector, .category__navigation-item)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:274:27\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as click] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:831:22)\n                    at Promotions.openYourPromotionsPage (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.pageObject.js:262:8)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:69:9)\n                From: Task: Run it(\"#2 All active promotions cards are displayed.\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:62:7)\n                    at addSpecsToSuite (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:55:5)\n                    at addSpecsToSuite (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:54:3)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(css selector, .category__navigation-item)",
+    "statusTrace" : "NoSuchElementError: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(css selector, .category__navigation-item)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:274:27\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as click] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:831:22)\n                    at Promotions.openYourPromotionsPage (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.pageObject.js:262:8)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:69:9)\n                From: Task: Run it(\"#2 All active promotions cards are displayed.\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:62:7)\n                    at addSpecsToSuite (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:55:5)\n                    at addSpecsToSuite (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:54:3)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "38cfb1142323b86b",
+      "name" : "Screenshot",
+      "source" : "38cfb1142323b86b.png",
+      "type" : "image/png",
+      "size" : 696617
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 All active promotions cards are displayed."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d2307a1a13c6577f",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(css selector, .category__navigation-item)",
+      "time" : {
+        "start" : 1669729717847,
+        "stop" : 1669729731051,
+        "duration" : 13204
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fe8eea8e6fe0728c.json",
+  "parameterValues" : [ ]
+}

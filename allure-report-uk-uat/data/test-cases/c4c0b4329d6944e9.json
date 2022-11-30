@@ -1,0 +1,64 @@
+{
+  "uid" : "c4c0b4329d6944e9",
+  "name" : "#1 Player can view their deposit limits.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#1 Player can view their deposit limits.",
+  "historyId" : "4ccf7e5f4fb18271f02d5660719a35ad",
+  "time" : {
+    "start" : 1669729540946,
+    "stop" : 1669729560822,
+    "duration" : 19876
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Remaining £730' to contain 'Remaining £750', 'Monthly Deposit Limit has incorrect value.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\my-account\\gambling-controls\\deposit-limits.spec.js:145:9)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Remaining £730' to contain 'Remaining £750', 'Monthly Deposit Limit has incorrect value.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\my-account\\gambling-controls\\deposit-limits.spec.js:145:9)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f77a14791cbfdba7",
+      "name" : "Screenshot",
+      "source" : "f77a14791cbfdba7.png",
+      "type" : "image/png",
+      "size" : 305980
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can view their deposit limits."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4c0b4329d6944e9.json",
+  "parameterValues" : [ ]
+}

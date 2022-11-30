@@ -1,0 +1,62 @@
+{
+  "uid" : "d7348c9e06035f70",
+  "name" : "#12 User can successfully enter email address with local domain (.de).",
+  "fullName" : "Registration > Step 1.#12 User can successfully enter email address with local domain (.de).",
+  "historyId" : "1ac50ff8a2f056bccc4bf43cf90bd8b5",
+  "time" : {
+    "start" : 1669732131440,
+    "stop" : 1669732134798,
+    "duration" : 3358
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2c1183f565416c46",
+      "name" : "Screenshot",
+      "source" : "2c1183f565416c46.png",
+      "type" : "image/png",
+      "size" : 53936
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 User can successfully enter email address with local domain (.de)."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7348c9e06035f70.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "b767da84894d527d",
+  "name" : "#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method",
+  "fullName" : "My Account -> Deposit.#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method",
+  "historyId" : "2a3b1a176f228c47c705c684407674fc",
+  "time" : {
+    "start" : 1669729644471,
+    "stop" : 1669729661625,
+    "duration" : 17154
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "591658c307ddf8dc",
+      "name" : "Screenshot",
+      "source" : "591658c307ddf8dc.png",
+      "type" : "image/png",
+      "size" : 147875
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b767da84894d527d.json",
+  "parameterValues" : [ ]
+}

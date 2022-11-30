@@ -1,0 +1,62 @@
+{
+  "uid" : "3c27d2163754c53d",
+  "name" : "#03 Password field is a mandatory field.",
+  "fullName" : "Log In.#03 Password field is a mandatory field.",
+  "historyId" : "62d0b52bfdb424efa1f38c61e7ffda39",
+  "time" : {
+    "start" : 1669729454365,
+    "stop" : 1669729463966,
+    "duration" : 9601
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a8c3d5c6d97166ac",
+      "name" : "Screenshot",
+      "source" : "a8c3d5c6d97166ac.png",
+      "type" : "image/png",
+      "size" : 311239
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Password field is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c27d2163754c53d.json",
+  "parameterValues" : [ ]
+}

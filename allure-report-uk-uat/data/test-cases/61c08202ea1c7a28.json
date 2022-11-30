@@ -1,0 +1,70 @@
+{
+  "uid" : "61c08202ea1c7a28",
+  "name" : "#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step.",
+  "historyId" : "761c7c0305448cd15c418d24331f3882",
+  "time" : {
+    "start" : 1669730170339,
+    "stop" : 1669730184776,
+    "duration" : 14437
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f4bdc51d61e564",
+      "name" : "Screenshot",
+      "source" : "4f4bdc51d61e564.png",
+      "type" : "image/png",
+      "size" : 444661
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1f54e1e5357b8049",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729606945,
+        "stop" : 1669729624204,
+        "duration" : 17259
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61c08202ea1c7a28.json",
+  "parameterValues" : [ ]
+}

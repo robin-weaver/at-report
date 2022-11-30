@@ -1,17 +1,6 @@
 {
   "total" : 40,
   "items" : [ {
-    "uid" : "c1241e507322101c86066c7b6b7229b1",
-    "name" : "My Account > Gambling Controls > Deposit Limits",
-    "statistic" : {
-      "failed" : 19,
-      "broken" : 0,
-      "skipped" : 3,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 22
-    }
-  }, {
     "uid" : "578667d191051de9fa6b4ea4f518ffc2",
     "name" : "My Account > Settings > Change Password",
     "statistic" : {
@@ -23,26 +12,48 @@
       "total" : 16
     }
   }, {
-    "uid" : "fddcd445851e3581a68118b5f4d9481a",
-    "name" : "My Account > Gambling Controls > Account Closure > Self Exclusion",
+    "uid" : "a42c9f51ba1bf76b8f087ce0758272d2",
+    "name" : "Homepage",
     "statistic" : {
-      "failed" : 15,
+      "failed" : 14,
       "broken" : 0,
-      "skipped" : 3,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 18
+      "total" : 14
     }
   }, {
-    "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
-    "name" : "My Account > Gambling Controls > Account Closure > Take A Break",
+    "uid" : "c3ecff216bf67638facf1a827f3d5482",
+    "name" : "Log In",
     "statistic" : {
-      "failed" : 7,
+      "failed" : 11,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 8,
+      "skipped" : 0,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 16
+      "total" : 11
+    }
+  }, {
+    "uid" : "213a8100a7f543bb767051f01494c297",
+    "name" : "Promotions functionality testing. Promotions functionality for unauthenticated user.",
+    "statistic" : {
+      "failed" : 10,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 21
+    }
+  }, {
+    "uid" : "425cb1cc981b402646effc66d40d078e",
+    "name" : "Home => Terms & Conditions",
+    "statistic" : {
+      "failed" : 8,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 21,
+      "unknown" : 0,
+      "total" : 29
     }
   }, {
     "uid" : "864ef7b8add33a42221918e0b3d6de08",
@@ -67,48 +78,37 @@
       "total" : 7
     }
   }, {
-    "uid" : "061b3d87e6dacb13b448e2611c5acfb8",
-    "name" : "Spin Zone functionality testing",
+    "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
+    "name" : "My Account > Gambling Controls > Account Closure > Take A Break",
     "statistic" : {
       "failed" : 6,
       "broken" : 0,
+      "skipped" : 1,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "c1241e507322101c86066c7b6b7229b1",
+    "name" : "My Account > Gambling Controls > Deposit Limits",
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 22
+    }
+  }, {
+    "uid" : "061b3d87e6dacb13b448e2611c5acfb8",
+    "name" : "Spin Zone functionality testing",
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
       "total" : 10
-    }
-  }, {
-    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
-    "name" : "Slots page",
-    "statistic" : {
-      "failed" : 5,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 15,
-      "unknown" : 0,
-      "total" : 20
-    }
-  }, {
-    "uid" : "a68006b181d851753c2faae5de0c84f5",
-    "name" : "Home page => Responsible Gambling page",
-    "statistic" : {
-      "failed" : 3,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 5
-    }
-  }, {
-    "uid" : "213a8100a7f543bb767051f01494c297",
-    "name" : "Promotions functionality testing. Promotions functionality for unauthenticated user.",
-    "statistic" : {
-      "failed" : 2,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 19,
-      "unknown" : 0,
-      "total" : 21
     }
   } ]
 }

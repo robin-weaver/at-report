@@ -1,0 +1,71 @@
+{
+  "uid" : "d720807c048bdebb",
+  "name" : "#13 Player can choose to view the 'Self Exclusion' service from the 'Take A Break' modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#13 Player can choose to view the 'Self Exclusion' service from the 'Take A Break' modal.",
+  "historyId" : "60bd31dc26ffc7db545ca2f492680837",
+  "time" : {
+    "start" : 1669732592046,
+    "stop" : 1669732607316,
+    "duration" : 15270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1cc1dacf2957757c",
+      "name" : "Screenshot",
+      "source" : "1cc1dacf2957757c.png",
+      "type" : "image/png",
+      "size" : 262572
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player can choose to view the 'Self Exclusion' service from the 'Take A Break' modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac42873a8700610a",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10032ms",
+      "time" : {
+        "start" : 1669732193097,
+        "stop" : 1669732207925,
+        "duration" : 14828
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d720807c048bdebb.json",
+  "parameterValues" : [ ]
+}

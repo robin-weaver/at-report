@@ -1,0 +1,70 @@
+{
+  "uid" : "aa452e5dd4850dc2",
+  "name" : "#2 Player can edit their preferences and exit using the x close button within the modal discarding changes",
+  "fullName" : "My Profile > Communications Preferences.#2 Player can edit their preferences and exit using the x close button within the modal discarding changes",
+  "historyId" : "e60323de9aa3c1ed092e295cb0ceb5b7",
+  "time" : {
+    "start" : 1669730147331,
+    "stop" : 1669730164627,
+    "duration" : 17296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fbe6818be5d83c5c",
+      "name" : "Screenshot",
+      "source" : "fbe6818be5d83c5c.png",
+      "type" : "image/png",
+      "size" : 302249
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can edit their preferences and exit using the x close button within the modal discarding changes"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7e5517034e643067",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729701885,
+        "stop" : 1669729718644,
+        "duration" : 16759
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa452e5dd4850dc2.json",
+  "parameterValues" : [ ]
+}

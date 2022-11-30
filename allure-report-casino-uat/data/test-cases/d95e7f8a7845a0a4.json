@@ -1,0 +1,70 @@
+{
+  "uid" : "d95e7f8a7845a0a4",
+  "name" : "#27 User can opened mail client after clicks/taps on “care@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#27 User can opened mail client after clicks/taps on “care@merkurslots.com” ",
+  "historyId" : "21c023701c91329ff481ade65782acfa",
+  "time" : {
+    "start" : 1669732498458,
+    "stop" : 1669732500969,
+    "duration" : 2511
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70ff56997b6a2c12",
+      "name" : "Screenshot",
+      "source" : "70ff56997b6a2c12.png",
+      "type" : "image/png",
+      "size" : 306840
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#27 User can opened mail client after clicks/taps on “care@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a1e062229440647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669732004760,
+        "stop" : 1669732008103,
+        "duration" : 3343
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d95e7f8a7845a0a4.json",
+  "parameterValues" : [ ]
+}

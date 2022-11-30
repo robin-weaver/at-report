@@ -1,0 +1,62 @@
+{
+  "uid" : "43645de408b807eb",
+  "name" : "#04 Player cannot submit blank details on the Login Form.",
+  "fullName" : "Log In.#04 Player cannot submit blank details on the Login Form.",
+  "historyId" : "3d91c124ecd8eef54a9ca296462e6e2e",
+  "time" : {
+    "start" : 1669729463966,
+    "stop" : 1669729474200,
+    "duration" : 10234
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8c8d00ee0ccee70",
+      "name" : "Screenshot",
+      "source" : "d8c8d00ee0ccee70.png",
+      "type" : "image/png",
+      "size" : 293565
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player cannot submit blank details on the Login Form."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43645de408b807eb.json",
+  "parameterValues" : [ ]
+}

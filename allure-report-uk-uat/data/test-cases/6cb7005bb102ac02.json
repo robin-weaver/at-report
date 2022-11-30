@@ -1,0 +1,62 @@
+{
+  "uid" : "6cb7005bb102ac02",
+  "name" : "#29 User can successfully enter email address with uppercase letters.",
+  "fullName" : "Registration > Step 1.#29 User can successfully enter email address with uppercase letters.",
+  "historyId" : "dabcacf770ddb0e99bcf2c509470686c",
+  "time" : {
+    "start" : 1669729800400,
+    "stop" : 1669729805195,
+    "duration" : 4795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b9785de2bcd60977",
+      "name" : "Screenshot",
+      "source" : "b9785de2bcd60977.png",
+      "type" : "image/png",
+      "size" : 312253
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#29 User can successfully enter email address with uppercase letters."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6cb7005bb102ac02.json",
+  "parameterValues" : [ ]
+}

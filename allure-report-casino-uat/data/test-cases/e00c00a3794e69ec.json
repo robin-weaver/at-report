@@ -1,0 +1,62 @@
+{
+  "uid" : "e00c00a3794e69ec",
+  "name" : "#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step.",
+  "historyId" : "761c7c0305448cd15c418d24331f3882",
+  "time" : {
+    "start" : 1669732000286,
+    "stop" : 1669732014658,
+    "duration" : 14372
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ef196a78c6a864ab",
+      "name" : "Screenshot",
+      "source" : "ef196a78c6a864ab.png",
+      "type" : "image/png",
+      "size" : 396811
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e00c00a3794e69ec.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "fe8691699714efab",
+  "name" : "#2 Player can close the 'Time Limit' modal.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#2 Player can close the 'Time Limit' modal.",
+  "historyId" : "356f4d1abfd23417bc071fa9a243b73c",
+  "time" : {
+    "start" : 1669730155080,
+    "stop" : 1669730176748,
+    "duration" : 21668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "700701cc58af0d56",
+      "name" : "Screenshot",
+      "source" : "700701cc58af0d56.png",
+      "type" : "image/png",
+      "size" : 432201
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can close the 'Time Limit' modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "662b502696e050f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729575065,
+        "stop" : 1669729598525,
+        "duration" : 23460
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe8691699714efab.json",
+  "parameterValues" : [ ]
+}

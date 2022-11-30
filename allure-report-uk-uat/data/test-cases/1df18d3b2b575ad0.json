@@ -1,0 +1,64 @@
+{
+  "uid" : "1df18d3b2b575ad0",
+  "name" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "historyId" : "84e5664ee9d6150c3faf5301b9d6db87",
+  "time" : {
+    "start" : 1669729754793,
+    "stop" : 1669729772296,
+    "duration" : 17503
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Request failed with status code 500",
+  "statusTrace" : "Error: Request failed with status code 500\n                    at createError (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\axios\\lib\\core\\createError.js:16:15)\n                    at settle (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\axios\\lib\\core\\settle.js:17:12)\n                    at IncomingMessage.handleStreamEnd (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\axios\\lib\\adapters\\http.js:322:11)\n                    at IncomingMessage.emit (node:events:525:35)\n                    at endReadableNT (node:internal/streams/readable:1359:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:82:21)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at Spec.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:526:10)\n                    at UserContext.fn (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5340:37)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\my-account\\settings\\comm-preferences.spec.js:34:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Request failed with status code 500",
+    "statusTrace" : "Error: Request failed with status code 500\n                    at createError (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\axios\\lib\\core\\createError.js:16:15)\n                    at settle (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\axios\\lib\\core\\settle.js:17:12)\n                    at IncomingMessage.handleStreamEnd (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\axios\\lib\\adapters\\http.js:322:11)\n                    at IncomingMessage.emit (node:events:525:35)\n                    at endReadableNT (node:internal/streams/readable:1359:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:82:21)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at Spec.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:526:10)\n                    at UserContext.fn (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5340:37)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\my-account\\settings\\comm-preferences.spec.js:34:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c41af1fb3f72fc0",
+      "name" : "Screenshot",
+      "source" : "5c41af1fb3f72fc0.png",
+      "type" : "image/png",
+      "size" : 297788
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1df18d3b2b575ad0.json",
+  "parameterValues" : [ ]
+}

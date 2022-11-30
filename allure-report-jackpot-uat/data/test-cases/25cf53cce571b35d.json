@@ -1,0 +1,70 @@
+{
+  "uid" : "25cf53cce571b35d",
+  "name" : "#8 User can successfully set a daily loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#8 User can successfully set a daily loss limit if not already set ",
+  "historyId" : "ac720721d264eb5dc4d0f44351c0003d",
+  "time" : {
+    "start" : 1669802271599,
+    "stop" : 1669802286535,
+    "duration" : 14936
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f6cfcc595671287b",
+      "name" : "Screenshot",
+      "source" : "f6cfcc595671287b.png",
+      "type" : "image/png",
+      "size" : 180523
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can successfully set a daily loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "17597ce6cf9595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669801713325,
+        "stop" : 1669801730708,
+        "duration" : 17383
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25cf53cce571b35d.json",
+  "parameterValues" : [ ]
+}

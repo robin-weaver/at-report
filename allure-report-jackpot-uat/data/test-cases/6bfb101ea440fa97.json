@@ -1,0 +1,70 @@
+{
+  "uid" : "6bfb101ea440fa97",
+  "name" : "#5 User can come to the Gamble Aware page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#5 User can come to the Gamble Aware page from terms and conditions page",
+  "historyId" : "b5827589a27b41183865d9e8f6913fd1",
+  "time" : {
+    "start" : 1669802198275,
+    "stop" : 1669802202628,
+    "duration" : 4353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1402a1134d29c29",
+      "name" : "Screenshot",
+      "source" : "f1402a1134d29c29.png",
+      "type" : "image/png",
+      "size" : 7181
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can come to the Gamble Aware page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aeece2768138012a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669801534327,
+        "stop" : 1669801538551,
+        "duration" : 4224
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bfb101ea440fa97.json",
+  "parameterValues" : [ ]
+}

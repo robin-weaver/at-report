@@ -1,0 +1,71 @@
+{
+  "uid" : "85f01803bc19b92d",
+  "name" : "#02 Player is logged out of site if clearing there cookies.",
+  "fullName" : "Logout.#02 Player is logged out of site if clearing there cookies.",
+  "historyId" : "9e8b51863d79d0c99f1ee0f02510b018",
+  "time" : {
+    "start" : 1669802165590,
+    "stop" : 1669802179392,
+    "duration" : 13802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9dda5ec9faa10890",
+      "name" : "Screenshot",
+      "source" : "9dda5ec9faa10890.png",
+      "type" : "image/png",
+      "size" : 545940
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Player is logged out of site if clearing there cookies."
+  }, {
+    "name" : "package",
+    "value" : "Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c9397c2406344d3d",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20012ms",
+      "time" : {
+        "start" : 1669801557644,
+        "stop" : 1669801572223,
+        "duration" : 14579
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85f01803bc19b92d.json",
+  "parameterValues" : [ ]
+}

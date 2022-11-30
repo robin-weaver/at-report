@@ -1,26 +1,15 @@
 {
   "total" : 46,
   "items" : [ {
-    "uid" : "c1241e507322101c86066c7b6b7229b1",
-    "name" : "My Account > Gambling Controls > Deposit Limits",
+    "uid" : "213a8100a7f543bb767051f01494c297",
+    "name" : "Promotions functionality testing. Promotions functionality for unauthenticated user.",
     "statistic" : {
-      "failed" : 19,
+      "failed" : 10,
       "broken" : 0,
-      "skipped" : 3,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 22
-    }
-  }, {
-    "uid" : "fddcd445851e3581a68118b5f4d9481a",
-    "name" : "My Account > Gambling Controls > Account Closure > Self Exclusion",
-    "statistic" : {
-      "failed" : 15,
-      "broken" : 0,
-      "skipped" : 3,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 18
+      "total" : 21
     }
   }, {
     "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
@@ -34,48 +23,48 @@
       "total" : 16
     }
   }, {
-    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
-    "name" : "Slots page",
+    "uid" : "c1241e507322101c86066c7b6b7229b1",
+    "name" : "My Account > Gambling Controls > Deposit Limits",
     "statistic" : {
-      "failed" : 3,
+      "failed" : 5,
       "broken" : 0,
-      "skipped" : 0,
-      "passed" : 17,
+      "skipped" : 4,
+      "passed" : 13,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     }
   }, {
     "uid" : "3fe00a6732b6aa7df96a2d7ff1e173d2",
     "name" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions.",
     "statistic" : {
-      "failed" : 3,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 1,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
       "total" : 8
     }
   }, {
-    "uid" : "0275a21381d14888ed6d9915e02dbacd",
-    "name" : "Deep Link -> Play Reminders",
+    "uid" : "425cb1cc981b402646effc66d40d078e",
+    "name" : "Home => Terms & Conditions",
     "statistic" : {
-      "failed" : 2,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 28,
       "unknown" : 0,
-      "total" : 2
+      "total" : 29
     }
   }, {
-    "uid" : "7728a1de9799acb5f82a350ce39d6b7f",
-    "name" : "Deep Link -> Edit Phone",
+    "uid" : "578667d191051de9fa6b4ea4f518ffc2",
+    "name" : "My Account > Settings > Change Password",
     "statistic" : {
-      "failed" : 2,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 2
+      "total" : 16
     }
   }, {
     "uid" : "4cecdc3407b170c54e975930a34bc6aa",
@@ -89,26 +78,37 @@
       "total" : 16
     }
   }, {
-    "uid" : "b43aacbefc9b314322baed7d29ca656e",
-    "name" : "Inbox functionality testing",
+    "uid" : "a68006b181d851753c2faae5de0c84f5",
+    "name" : "Home page => Responsible Gambling page",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 15
+      "total" : 5
     }
   }, {
-    "uid" : "9b3e80a4b659a5a1cf5a2d779faf9404",
-    "name" : "UnsubscribePage",
+    "uid" : "04dbac7b607fe20f0ca900eb496e2a3c",
+    "name" : "Deep Link -> Deposit Limits",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 2
+    }
+  }, {
+    "uid" : "74053a37b133fd1ce1e9ee220de0a325",
+    "name" : "My Account > Gambling Controls > Loss Limits",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 18
     }
   } ]
 }

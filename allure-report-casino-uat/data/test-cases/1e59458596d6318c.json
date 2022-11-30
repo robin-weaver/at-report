@@ -1,0 +1,70 @@
+{
+  "uid" : "1e59458596d6318c",
+  "name" : "#28 Promotion cards are displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#28 Promotion cards are displayed for not login user.",
+  "historyId" : "fcda119518c46687a36590c00fb81a18",
+  "time" : {
+    "start" : 1669732680494,
+    "stop" : 1669732681345,
+    "duration" : 851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b46ec53b9ae20717",
+      "name" : "Screenshot",
+      "source" : "b46ec53b9ae20717.png",
+      "type" : "image/png",
+      "size" : 706806
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 Promotion cards are displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e852b787c9c7e254",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669732352842,
+        "stop" : 1669732353673,
+        "duration" : 831
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e59458596d6318c.json",
+  "parameterValues" : [ ]
+}

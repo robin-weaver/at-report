@@ -1,0 +1,70 @@
+{
+  "uid" : "3de155dec252262f",
+  "name" : "#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected.",
+  "historyId" : "93fc742affc3527af639e0b5eec53465",
+  "time" : {
+    "start" : 1669730248844,
+    "stop" : 1669730261489,
+    "duration" : 12645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0d283cd5c7357c",
+      "name" : "Screenshot",
+      "source" : "a0d283cd5c7357c.png",
+      "type" : "image/png",
+      "size" : 220732
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "15a4eb3a009b52a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729728529,
+        "stop" : 1669729745933,
+        "duration" : 17404
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3de155dec252262f.json",
+  "parameterValues" : [ ]
+}

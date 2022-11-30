@@ -1,0 +1,70 @@
+{
+  "uid" : "cc81d724baa3cc7",
+  "name" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "historyId" : "5c6d4a79756cd2009b476db1915ee67f",
+  "time" : {
+    "start" : 1669730226089,
+    "stop" : 1669730230108,
+    "duration" : 4019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "180cf2b49e0014ac",
+      "name" : "Screenshot",
+      "source" : "180cf2b49e0014ac.png",
+      "type" : "image/png",
+      "size" : 295295
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3a6181deb6cc14a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669729557519,
+        "stop" : 1669729565206,
+        "duration" : 7687
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc81d724baa3cc7.json",
+  "parameterValues" : [ ]
+}

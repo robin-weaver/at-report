@@ -1,0 +1,71 @@
+{
+  "uid" : "5ea152dae81fbed1",
+  "name" : "#2 Player is displayed 'Add a Deposit Limit' text if no deposit limits are set.",
+  "fullName" : "My Account > Gambling Controls > Deposit Limits.#2 Player is displayed 'Add a Deposit Limit' text if no deposit limits are set.",
+  "historyId" : "b64ec628f279f3e3c42136242570e66c",
+  "time" : {
+    "start" : 1669802223452,
+    "stop" : 1669802239704,
+    "duration" : 16252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3d0682aed8def855",
+      "name" : "Screenshot",
+      "source" : "3d0682aed8def855.png",
+      "type" : "image/png",
+      "size" : 227034
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player is displayed 'Add a Deposit Limit' text if no deposit limits are set."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "15e7ccb79810b2e6",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10048ms",
+      "time" : {
+        "start" : 1669801620133,
+        "stop" : 1669801636381,
+        "duration" : 16248
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ea152dae81fbed1.json",
+  "parameterValues" : [ ]
+}
