@@ -1,0 +1,79 @@
+{
+  "uid" : "997399f313c5734e",
+  "name" : "#15 User can see the Deposits and Withdrawals section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#15 User can see the Deposits and Withdrawals section on terms and conditions page",
+  "historyId" : "23799416e2da41b964774790e972aa6",
+  "time" : {
+    "start" : 1670495898088,
+    "stop" : 1670495901248,
+    "duration" : 3160
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d726386c1b697c00",
+      "name" : "Screenshot",
+      "source" : "d726386c1b697c00.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User can see the Deposits and Withdrawals section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71d79c389e9b31fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489219004,
+        "stop" : 1670489228113,
+        "duration" : 9109
+      }
+    }, {
+      "uid" : "27805ef691ae84d3",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1670487682130,
+        "stop" : 1670487688722,
+        "duration" : 6592
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "997399f313c5734e.json",
+  "parameterValues" : [ ]
+}

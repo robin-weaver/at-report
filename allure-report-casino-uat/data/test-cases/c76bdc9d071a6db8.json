@@ -1,0 +1,78 @@
+{
+  "uid" : "c76bdc9d071a6db8",
+  "name" : "#22 User can see the Promotions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#22 User can see the Promotions section on terms and conditions page",
+  "historyId" : "febb77ee425460f2ced7f298255bb520",
+  "time" : {
+    "start" : 1670495908242,
+    "stop" : 1670495910648,
+    "duration" : 2406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a69a913bc2325f1f",
+      "name" : "Screenshot",
+      "source" : "a69a913bc2325f1f.png",
+      "type" : "image/png",
+      "size" : 801322
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#22 User can see the Promotions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4a7146306ab16704",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491597500,
+        "stop" : 1670491608218,
+        "duration" : 10718
+      }
+    }, {
+      "uid" : "8d7d83ec5d77ece9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490374298,
+        "stop" : 1670490378979,
+        "duration" : 4681
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c76bdc9d071a6db8.json",
+  "parameterValues" : [ ]
+}

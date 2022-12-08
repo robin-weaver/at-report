@@ -1,0 +1,79 @@
+{
+  "uid" : "68c533bb0c42b2e1",
+  "name" : "#7 Player is displayed with the password requirements when they start to enter a new password.",
+  "fullName" : "My Account > Settings > Change Password.#7 Player is displayed with the password requirements when they start to enter a new password.",
+  "historyId" : "4c3f895b0dcc4c7c20d9a0a754b34b1c",
+  "time" : {
+    "start" : 1670496831079,
+    "stop" : 1670496841990,
+    "duration" : 10911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5aa0ec8a24532e6d",
+      "name" : "Screenshot",
+      "source" : "5aa0ec8a24532e6d.png",
+      "type" : "image/png",
+      "size" : 758803
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player is displayed with the password requirements when they start to enter a new password."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1e168d77e231d0bf",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10022ms",
+      "time" : {
+        "start" : 1670491676253,
+        "stop" : 1670491698825,
+        "duration" : 22572
+      }
+    }, {
+      "uid" : "52d37dafa7b11f67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490775802,
+        "stop" : 1670490807808,
+        "duration" : 32006
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68c533bb0c42b2e1.json",
+  "parameterValues" : [ ]
+}

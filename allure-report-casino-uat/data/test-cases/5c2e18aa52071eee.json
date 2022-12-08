@@ -1,0 +1,97 @@
+{
+  "uid" : "5c2e18aa52071eee",
+  "name" : "#03 Player can select to edit their telephone number and cancel out of the modal.",
+  "fullName" : "My Profile > Contact Details.#03 Player can select to edit their telephone number and cancel out of the modal.",
+  "historyId" : "371ec0ed7a971240635d4033a2f6d032",
+  "time" : {
+    "start" : 1670499357866,
+    "stop" : 1670499366324,
+    "duration" : 8458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"contact-details\"])\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:123:46)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                From: Task: Run it(\"#03 Player can select to edit their telephone number and cancel out of the modal.\") in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:122:3)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:62:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"contact-details\"])\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:123:46)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                From: Task: Run it(\"#03 Player can select to edit their telephone number and cancel out of the modal.\") in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:122:3)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:62:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aaed16cd1e47babc",
+      "name" : "Screenshot",
+      "source" : "aaed16cd1e47babc.png",
+      "type" : "image/png",
+      "size" : 1329591
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Player can select to edit their telephone number and cancel out of the modal."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "40c9fdebf2bf4b80",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1670499046809,
+        "stop" : 1670499052277,
+        "duration" : 5468
+      }
+    }, {
+      "uid" : "a68ad0eda97cf8f8",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10030ms",
+      "time" : {
+        "start" : 1670491415165,
+        "stop" : 1670491432664,
+        "duration" : 17499
+      }
+    }, {
+      "uid" : "2cd373475c5fb9b6",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+      "time" : {
+        "start" : 1670490529662,
+        "stop" : 1670490552574,
+        "duration" : 22912
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "5c2e18aa52071eee.json",
+  "parameterValues" : [ ]
+}

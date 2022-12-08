@@ -1,0 +1,64 @@
+{
+  "uid" : "6d510340c2ecac0b",
+  "name" : "#06 Player can update country code number.",
+  "fullName" : "My Profile > Contact Details.#06 Player can update country code number.",
+  "historyId" : "30f71c8e56a151b7d2229408fd7653fb",
+  "time" : {
+    "start" : 1670494529553,
+    "stop" : 1670494561542,
+    "duration" : 31989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"contact-details\"])\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:831:22)\n                    at MyAccount.editPhoneNumber (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-account.pageObject.js:382:41)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:228:21)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run it(\"#06 Player can update country code number.\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:227:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:62:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"contact-details\"])\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/Users/robinweaver/Documents/eyas-test-automation/node_modules/protractor/built/element.js:831:22)\n                    at MyAccount.editPhoneNumber (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-account.pageObject.js:382:41)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:228:21)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run it(\"#06 Player can update country code number.\") in control flow\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /Users/robinweaver/Documents/eyas-test-automation/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:227:3)\n                    at addSpecsToSuite (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/robinweaver/Documents/eyas-test-automation/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:62:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b0480b9d89aebb3b",
+      "name" : "Screenshot",
+      "source" : "b0480b9d89aebb3b.png",
+      "type" : "image/png",
+      "size" : 1506480
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Player can update country code number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d510340c2ecac0b.json",
+  "parameterValues" : [ ]
+}

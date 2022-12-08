@@ -1,0 +1,80 @@
+{
+  "uid" : "7156eee43d06044f",
+  "name" : "#08 Player can submit an email address which does not exist and still receives a success message on submitting the recover password form.",
+  "fullName" : "Recover Password.#08 Player can submit an email address which does not exist and still receives a success message on submitting the recover password form.",
+  "historyId" : "75a0023aea8c1ba38d53eae2b1c35d83",
+  "time" : {
+    "start" : 1670497202800,
+    "stop" : 1670497210527,
+    "duration" : 7727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d474a957d70c0406",
+      "name" : "Screenshot",
+      "source" : "d474a957d70c0406.png",
+      "type" : "image/png",
+      "size" : 1065873
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#08 Player can submit an email address which does not exist and still receives a success message on submitting the recover password form."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a23f2f4dded3e67a",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10008ms",
+      "time" : {
+        "start" : 1670494446603,
+        "stop" : 1670494465271,
+        "duration" : 18668
+      }
+    }, {
+      "uid" : "5b559c8c854cb9a0",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10038ms",
+      "time" : {
+        "start" : 1670493383697,
+        "stop" : 1670493422362,
+        "duration" : 38665
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7156eee43d06044f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "c78f9eae8f0f5d7e",
+  "name" : "#2 Unread message count increases when player receives a new message (requires page refresh)",
+  "fullName" : "Inbox functionality testing.#2 Unread message count increases when player receives a new message (requires page refresh)",
+  "historyId" : "60b4096027070bf4a441fa4fce5630ca",
+  "time" : {
+    "start" : 1670494364421,
+    "stop" : 1670494406473,
+    "duration" : 42052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1178be5ff2f5e603",
+      "name" : "Screenshot",
+      "source" : "1178be5ff2f5e603.png",
+      "type" : "image/png",
+      "size" : 2655136
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Unread message count increases when player receives a new message (requires page refresh)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5607ec51becb1dcb",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10023ms",
+      "time" : {
+        "start" : 1670492112235,
+        "stop" : 1670492144525,
+        "duration" : 32290
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c78f9eae8f0f5d7e.json",
+  "parameterValues" : [ ]
+}

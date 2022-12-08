@@ -1,0 +1,71 @@
+{
+  "uid" : "a3068db0fa62c25c",
+  "name" : "#1 Unread message count is present on Inbox navigation bar icon if player has unread messages",
+  "fullName" : "Inbox functionality testing.#1 Unread message count is present on Inbox navigation bar icon if player has unread messages",
+  "historyId" : "a5d01419562aee32c8d34c53a1928249",
+  "time" : {
+    "start" : 1670491414865,
+    "stop" : 1670491429123,
+    "duration" : 14258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b9e7616447d9b89e",
+      "name" : "Screenshot",
+      "source" : "b9e7616447d9b89e.png",
+      "type" : "image/png",
+      "size" : 2208524
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Unread message count is present on Inbox navigation bar icon if player has unread messages"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ba27d5758ffeecb9",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10004ms",
+      "time" : {
+        "start" : 1670490153989,
+        "stop" : 1670490193505,
+        "duration" : 39516
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3068db0fa62c25c.json",
+  "parameterValues" : [ ]
+}

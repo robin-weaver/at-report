@@ -1,0 +1,78 @@
+{
+  "uid" : "b92ac7e54ea0c015",
+  "name" : "#9 User can see Introduction section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#9 User can see Introduction section on terms and conditions page",
+  "historyId" : "71bcbf4c931105e65eeeff37b45670f0",
+  "time" : {
+    "start" : 1670495876431,
+    "stop" : 1670495879672,
+    "duration" : 3241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fd9d37356c2fefa7",
+      "name" : "Screenshot",
+      "source" : "fd9d37356c2fefa7.png",
+      "type" : "image/png",
+      "size" : 801322
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can see Introduction section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "96c149987b8a5322",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491473260,
+        "stop" : 1670491483777,
+        "duration" : 10517
+      }
+    }, {
+      "uid" : "c46c0f594cec2c05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490278510,
+        "stop" : 1670490288126,
+        "duration" : 9616
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b92ac7e54ea0c015.json",
+  "parameterValues" : [ ]
+}

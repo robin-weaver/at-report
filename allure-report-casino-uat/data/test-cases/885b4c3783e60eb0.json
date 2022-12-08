@@ -1,0 +1,78 @@
+{
+  "uid" : "885b4c3783e60eb0",
+  "name" : "#14 User can see the Your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#14 User can see the Your Account section on terms and conditions page",
+  "historyId" : "de37658a83a4e8bc863ce155935a166",
+  "time" : {
+    "start" : 1670495889352,
+    "stop" : 1670495891671,
+    "duration" : 2319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5e1426811672551d",
+      "name" : "Screenshot",
+      "source" : "5e1426811672551d.png",
+      "type" : "image/png",
+      "size" : 801322
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User can see the Your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5113abdbe0f31ce1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491519072,
+        "stop" : 1670491530748,
+        "duration" : 11676
+      }
+    }, {
+      "uid" : "cfae40f1c297bd3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490321550,
+        "stop" : 1670490330214,
+        "duration" : 8664
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "885b4c3783e60eb0.json",
+  "parameterValues" : [ ]
+}

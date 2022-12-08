@@ -1,0 +1,71 @@
+{
+  "uid" : "379b08e5b10e0be7",
+  "name" : "#8 Check user is displayed with a declined modal when safecharge returns a declined response",
+  "fullName" : "My Account -> Deposit.#8 Check user is displayed with a declined modal when safecharge returns a declined response",
+  "historyId" : "612b5276f3853418be1cf8bea5ffd4da",
+  "time" : {
+    "start" : 1670489482367,
+    "stop" : 1670489530930,
+    "duration" : 48563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f23f722c9b5a6e3c",
+      "name" : "Screenshot",
+      "source" : "f23f722c9b5a6e3c.png",
+      "type" : "image/png",
+      "size" : 491555
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Check user is displayed with a declined modal when safecharge returns a declined response"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e07cc3496268178c",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 12204ms",
+      "time" : {
+        "start" : 1670488196813,
+        "stop" : 1670488237488,
+        "duration" : 40675
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "379b08e5b10e0be7.json",
+  "parameterValues" : [ ]
+}

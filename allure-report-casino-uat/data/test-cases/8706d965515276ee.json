@@ -1,0 +1,70 @@
+{
+  "uid" : "8706d965515276ee",
+  "name" : "#2 Unread message count increases when player receives a new message (requires page refresh)",
+  "fullName" : "Inbox functionality testing.#2 Unread message count increases when player receives a new message (requires page refresh)",
+  "historyId" : "60b4096027070bf4a441fa4fce5630ca",
+  "time" : {
+    "start" : 1670491429123,
+    "stop" : 1670491454109,
+    "duration" : 24986
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "afa6916bc196766b",
+      "name" : "Screenshot",
+      "source" : "afa6916bc196766b.png",
+      "type" : "image/png",
+      "size" : 2208192
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Unread message count increases when player receives a new message (requires page refresh)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2dcf4d7d1b5f5b70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490193505,
+        "stop" : 1670490219376,
+        "duration" : 25871
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8706d965515276ee.json",
+  "parameterValues" : [ ]
+}

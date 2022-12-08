@@ -1,0 +1,86 @@
+{
+  "uid" : "ba793e2b41241698",
+  "name" : "#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "fullName" : "Slots page.#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "historyId" : "6d8de6a1892482bb3e885cb230dd641e",
+  "time" : {
+    "start" : 1670489309622,
+    "stop" : 1670489335563,
+    "duration" : 25941
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670489309624,
+        "stop" : 1670489312640,
+        "duration" : 3016
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b7bd43a90ce22845",
+      "name" : "Screenshot",
+      "source" : "b7bd43a90ce22845.png",
+      "type" : "image/png",
+      "size" : 64119
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "678d0ee1a6bb4eef",
+      "status" : "failed",
+      "statusDetails" : "Failed: Game page is not displayed\n                Wait timed out after 5013ms",
+      "time" : {
+        "start" : 1670488803435,
+        "stop" : 1670488833699,
+        "duration" : 30264
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba793e2b41241698.json",
+  "parameterValues" : [ ]
+}

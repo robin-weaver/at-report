@@ -1,0 +1,75 @@
+{
+  "uid" : "f459bf6c268f381d",
+  "name" : "#6 User can hover mouse on game card and see all needed elements",
+  "fullName" : "Slots page.#6 User can hover mouse on game card and see all needed elements",
+  "historyId" : "5bb9e6e93b2f285453f73c8801731886",
+  "time" : {
+    "start" : 1670488724327,
+    "stop" : 1670488732552,
+    "duration" : 8225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670488724328,
+        "stop" : 1670488727730,
+        "duration" : 3402
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b7627c0f1f5774f1",
+      "name" : "Screenshot",
+      "source" : "b7627c0f1f5774f1.png",
+      "type" : "image/png",
+      "size" : 2469658
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can hover mouse on game card and see all needed elements"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f459bf6c268f381d.json",
+  "parameterValues" : [ ]
+}

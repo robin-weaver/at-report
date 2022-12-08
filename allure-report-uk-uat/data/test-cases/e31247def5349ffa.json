@@ -1,0 +1,80 @@
+{
+  "uid" : "e31247def5349ffa",
+  "name" : "#16 User can see the Playing for Real Money section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#16 User can see the Playing for Real Money section on terms and conditions page",
+  "historyId" : "76e8e8d03c305d86606327d32472d4fa",
+  "time" : {
+    "start" : 1670495901355,
+    "stop" : 1670495904573,
+    "duration" : 3218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c91e66e4d97fe54c",
+      "name" : "Screenshot",
+      "source" : "c91e66e4d97fe54c.png",
+      "type" : "image/png",
+      "size" : 769961
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 User can see the Playing for Real Money section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "65815cbe3551ff95",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670494395094,
+        "stop" : 1670494407701,
+        "duration" : 12607
+      }
+    }, {
+      "uid" : "2a37b49ee6b528e8",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670492273633,
+        "stop" : 1670492285438,
+        "duration" : 11805
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e31247def5349ffa.json",
+  "parameterValues" : [ ]
+}

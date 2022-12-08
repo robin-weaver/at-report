@@ -1,0 +1,60 @@
+{
+  "uid" : "90039b81ce9a6f72",
+  "name" : "#4 Player cannot continue with 'Take A Break' if a duration is not selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#4 Player cannot continue with 'Take A Break' if a duration is not selected.",
+  "historyId" : "5ce72dfd37f2cb1c7355b7dd26d0267",
+  "time" : {
+    "start" : 1670490559807,
+    "stop" : 1670490589639,
+    "duration" : 29832
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "97b44f22ffb26277",
+      "name" : "Screenshot",
+      "source" : "97b44f22ffb26277.png",
+      "type" : "image/png",
+      "size" : 760311
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player cannot continue with 'Take A Break' if a duration is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90039b81ce9a6f72.json",
+  "parameterValues" : [ ]
+}

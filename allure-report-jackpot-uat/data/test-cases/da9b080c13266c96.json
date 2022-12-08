@@ -1,0 +1,80 @@
+{
+  "uid" : "da9b080c13266c96",
+  "name" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "historyId" : "58cf9e88f3bbcaed34421f8f79f089b4",
+  "time" : {
+    "start" : 1670495935201,
+    "stop" : 1670495937443,
+    "duration" : 2242
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c9eb034d3fea580c",
+      "name" : "Screenshot",
+      "source" : "c9eb034d3fea580c.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "886acd0c4f9de7c9",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"mailto:care@jackpotuniverse.com\"])",
+      "time" : {
+        "start" : 1670489336305,
+        "stop" : 1670489344314,
+        "duration" : 8009
+      }
+    }, {
+      "uid" : "8ae744b8db9c0e2c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"mailto:care@jackpotuniverse.com\"])",
+      "time" : {
+        "start" : 1670487781600,
+        "stop" : 1670487788797,
+        "duration" : 7197
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da9b080c13266c96.json",
+  "parameterValues" : [ ]
+}

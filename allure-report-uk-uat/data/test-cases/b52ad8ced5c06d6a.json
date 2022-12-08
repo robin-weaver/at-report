@@ -1,0 +1,71 @@
+{
+  "uid" : "b52ad8ced5c06d6a",
+  "name" : "#03 All available game cards are displayed.",
+  "fullName" : "Live Casino.#03 All available game cards are displayed.",
+  "historyId" : "91c92382ce068d1a46a3defe62578b80",
+  "time" : {
+    "start" : 1670494270941,
+    "stop" : 1670494278730,
+    "duration" : 7789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bae73d9073fb8218",
+      "name" : "Screenshot",
+      "source" : "bae73d9073fb8218.png",
+      "type" : "image/png",
+      "size" : 3384151
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 All available game cards are displayed."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22f39407f6ee833b",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 13688ms",
+      "time" : {
+        "start" : 1670492157276,
+        "stop" : 1670492163888,
+        "duration" : 6612
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b52ad8ced5c06d6a.json",
+  "parameterValues" : [ ]
+}

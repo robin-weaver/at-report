@@ -1,0 +1,79 @@
+{
+  "uid" : "da91331d9c0a9ea4",
+  "name" : "#0 User can come to the terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#0 User can come to the terms and conditions page",
+  "historyId" : "540ffdbd304af7e130fe1b000475ff2a",
+  "time" : {
+    "start" : 1670495842336,
+    "stop" : 1670495845581,
+    "duration" : 3245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b000564b22a8a127",
+      "name" : "Screenshot",
+      "source" : "b000564b22a8a127.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#0 User can come to the terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "103a2c53a60e492d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489091816,
+        "stop" : 1670489100295,
+        "duration" : 8479
+      }
+    }, {
+      "uid" : "f3c15ebb00ed02b5",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, h3)",
+      "time" : {
+        "start" : 1670487569875,
+        "stop" : 1670487576580,
+        "duration" : 6705
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da91331d9c0a9ea4.json",
+  "parameterValues" : [ ]
+}

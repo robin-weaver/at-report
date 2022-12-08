@@ -1,0 +1,71 @@
+{
+  "uid" : "b7e944e26138c950",
+  "name" : "#9 User can successfully set a weekly loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#9 User can successfully set a weekly loss limit if not already set ",
+  "historyId" : "59651fe694a19a0d5ebd6a3cbbdac0ba",
+  "time" : {
+    "start" : 1670494782873,
+    "stop" : 1670494855218,
+    "duration" : 72345
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d1d3abff93ed56b4",
+      "name" : "Screenshot",
+      "source" : "d1d3abff93ed56b4.png",
+      "type" : "image/png",
+      "size" : 633877
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can successfully set a weekly loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "45052a1cc84fc24e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 16178ms",
+      "time" : {
+        "start" : 1670492940281,
+        "stop" : 1670493001271,
+        "duration" : 60990
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7e944e26138c950.json",
+  "parameterValues" : [ ]
+}

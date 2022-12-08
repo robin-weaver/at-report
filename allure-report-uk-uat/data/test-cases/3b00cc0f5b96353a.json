@@ -1,0 +1,79 @@
+{
+  "uid" : "3b00cc0f5b96353a",
+  "name" : "#12 New password must not contain email address.",
+  "fullName" : "My Account > Settings > Change Password.#12 New password must not contain email address.",
+  "historyId" : "b3c27835751690cbd8d717524fee526b",
+  "time" : {
+    "start" : 1670496908024,
+    "stop" : 1670496919272,
+    "duration" : 11248
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8ee0ef8b2f2a3c1",
+      "name" : "Screenshot",
+      "source" : "d8ee0ef8b2f2a3c1.png",
+      "type" : "image/png",
+      "size" : 538074
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 New password must not contain email address."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "96f8371bf7ae3e0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670495354730,
+        "stop" : 1670495415469,
+        "duration" : 60739
+      }
+    }, {
+      "uid" : "b1f845ba98cae64e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11048ms",
+      "time" : {
+        "start" : 1670493535766,
+        "stop" : 1670493608275,
+        "duration" : 72509
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b00cc0f5b96353a.json",
+  "parameterValues" : [ ]
+}

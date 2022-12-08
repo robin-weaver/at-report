@@ -1,0 +1,78 @@
+{
+  "uid" : "3a4ce64a6239b10d",
+  "name" : "#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "historyId" : "4834f75c359fea68245858d07c04f6f3",
+  "time" : {
+    "start" : 1670495907431,
+    "stop" : 1670495910507,
+    "duration" : 3076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b55f7b2bc62fd37d",
+      "name" : "Screenshot",
+      "source" : "b55f7b2bc62fd37d.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 User can see the Anti-Money Laundering section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3e60b2e299d63155",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489244607,
+        "stop" : 1670489253895,
+        "duration" : 9288
+      }
+    }, {
+      "uid" : "312aea205871b8ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670487703873,
+        "stop" : 1670487713138,
+        "duration" : 9265
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a4ce64a6239b10d.json",
+  "parameterValues" : [ ]
+}

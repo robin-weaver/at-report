@@ -1,0 +1,71 @@
+{
+  "uid" : "73c3f6e4fc66f6c9",
+  "name" : "#2 User can open the Loss Limits Edit modal on edit icon click ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#2 User can open the Loss Limits Edit modal on edit icon click ",
+  "historyId" : "da635a6ff81cc4749b42b7b9da3ccd37",
+  "time" : {
+    "start" : 1670491475985,
+    "stop" : 1670491503783,
+    "duration" : 27798
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "89f7c36ea985e961",
+      "name" : "Screenshot",
+      "source" : "89f7c36ea985e961.png",
+      "type" : "image/png",
+      "size" : 806233
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can open the Loss Limits Edit modal on edit icon click "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6df0a16cb0c96860",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10042ms",
+      "time" : {
+        "start" : 1670490431655,
+        "stop" : 1670490451327,
+        "duration" : 19672
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73c3f6e4fc66f6c9.json",
+  "parameterValues" : [ ]
+}

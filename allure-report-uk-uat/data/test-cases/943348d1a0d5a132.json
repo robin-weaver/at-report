@@ -1,0 +1,80 @@
+{
+  "uid" : "943348d1a0d5a132",
+  "name" : "#4 User can come to the Responsible Gambling page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#4 User can come to the Responsible Gambling page from terms and conditions page",
+  "historyId" : "e370633d25bcd2b88f0beabb00c7a970",
+  "time" : {
+    "start" : 1670495858450,
+    "stop" : 1670495862286,
+    "duration" : 3836
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "108be632969a5767",
+      "name" : "Screenshot",
+      "source" : "108be632969a5767.png",
+      "type" : "image/png",
+      "size" : 479700
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can come to the Responsible Gambling page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "80f8970a0db46fc1",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"/uk/en/legal/responsible-gambling.html\"])",
+      "time" : {
+        "start" : 1670494263917,
+        "stop" : 1670494274307,
+        "duration" : 10390
+      }
+    }, {
+      "uid" : "eea1a252ba6c3f3e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"/uk/en/legal/responsible-gambling.html\"])",
+      "time" : {
+        "start" : 1670492130442,
+        "stop" : 1670492141470,
+        "duration" : 11028
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "943348d1a0d5a132.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "5f12fde41f7f37ea",
+  "name" : "#3 User can come to the Gambling commission page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#3 User can come to the Gambling commission page from terms and conditions page",
+  "historyId" : "29bf73fa7b84606cc680492bc554cbf2",
+  "time" : {
+    "start" : 1670495853742,
+    "stop" : 1670495857947,
+    "duration" : 4205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b7bd53894549582c",
+      "name" : "Screenshot",
+      "source" : "b7bd53894549582c.png",
+      "type" : "image/png",
+      "size" : 585163
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gambling commission page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "df6414df10ad88b3",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamblingcommission.gov.uk/public-and-players/guide/how-gambling-companies-protect-your-money\"])",
+      "time" : {
+        "start" : 1670489114717,
+        "stop" : 1670489125485,
+        "duration" : 10768
+      }
+    }, {
+      "uid" : "f17febf1cad02074",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamblingcommission.gov.uk/public-and-players/guide/how-gambling-companies-protect-your-money\"])",
+      "time" : {
+        "start" : 1670487589903,
+        "stop" : 1670487595768,
+        "duration" : 5865
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f12fde41f7f37ea.json",
+  "parameterValues" : [ ]
+}

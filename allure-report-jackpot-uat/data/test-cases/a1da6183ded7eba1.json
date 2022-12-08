@@ -1,0 +1,70 @@
+{
+  "uid" : "a1da6183ded7eba1",
+  "name" : "#15 User can press Back CTA for More Info page and be taken to the list of promotions.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#15 User can press Back CTA for More Info page and be taken to the list of promotions.",
+  "historyId" : "31c1ad343ff676875620a6c1d694d8b1",
+  "time" : {
+    "start" : 1670489821799,
+    "stop" : 1670489853254,
+    "duration" : 31455
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cb8e3216a2f5687d",
+      "name" : "Screenshot",
+      "source" : "cb8e3216a2f5687d.png",
+      "type" : "image/png",
+      "size" : 2569224
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User can press Back CTA for More Info page and be taken to the list of promotions."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d2aafd1a26b3942d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488586393,
+        "stop" : 1670488611741,
+        "duration" : 25348
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1da6183ded7eba1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "21cc7379f2b1f3ca",
+  "name" : "#01 Player can navigate to the recover password form and is displayed with the correct fields.",
+  "fullName" : "Recover Password.#01 Player can navigate to the recover password form and is displayed with the correct fields.",
+  "historyId" : "a28eb02a18428cb3faeedfa0e39fa81d",
+  "time" : {
+    "start" : 1670497160465,
+    "stop" : 1670497165095,
+    "duration" : 4630
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46c7e4aea010dcdb",
+      "name" : "Screenshot",
+      "source" : "46c7e4aea010dcdb.png",
+      "type" : "image/png",
+      "size" : 1049921
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can navigate to the recover password form and is displayed with the correct fields."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f65c4ec3d336c2a6",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10008ms",
+      "time" : {
+        "start" : 1670494335193,
+        "stop" : 1670494349532,
+        "duration" : 14339
+      }
+    }, {
+      "uid" : "cce2d9a8893bc0ca",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10038ms",
+      "time" : {
+        "start" : 1670493212930,
+        "stop" : 1670493232785,
+        "duration" : 19855
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21cc7379f2b1f3ca.json",
+  "parameterValues" : [ ]
+}

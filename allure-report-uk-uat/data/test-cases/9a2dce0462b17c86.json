@@ -1,0 +1,60 @@
+{
+  "uid" : "9a2dce0462b17c86",
+  "name" : "#5 Player cannot submit the Change Password form with blank details.",
+  "fullName" : "My Account > Settings > Change Password.#5 Player cannot submit the Change Password form with blank details.",
+  "historyId" : "e89be2c174c23c5502552a9dcf1a5281",
+  "time" : {
+    "start" : 1670494966789,
+    "stop" : 1670495014513,
+    "duration" : 47724
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f0d9da747ca601c6",
+      "name" : "Screenshot",
+      "source" : "f0d9da747ca601c6.png",
+      "type" : "image/png",
+      "size" : 711906
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player cannot submit the Change Password form with blank details."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a2dce0462b17c86.json",
+  "parameterValues" : [ ]
+}

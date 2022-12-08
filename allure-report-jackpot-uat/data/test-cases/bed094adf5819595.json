@@ -1,0 +1,78 @@
+{
+  "uid" : "bed094adf5819595",
+  "name" : "#14 Player inputs into the password fields should be masked by default.",
+  "fullName" : "My Account > Settings > Change Password.#14 Player inputs into the password fields should be masked by default.",
+  "historyId" : "e51bebdda97ca4b3f5d813e0b8fa8157",
+  "time" : {
+    "start" : 1670496937077,
+    "stop" : 1670496951729,
+    "duration" : 14652
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eda9866bce16e2fb",
+      "name" : "Screenshot",
+      "source" : "eda9866bce16e2fb.png",
+      "type" : "image/png",
+      "size" : 624896
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player inputs into the password fields should be masked by default."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cfa4c18ad5a318e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489938394,
+        "stop" : 1670489961247,
+        "duration" : 22853
+      }
+    }, {
+      "uid" : "2acadd4b581e50bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488701957,
+        "stop" : 1670488768569,
+        "duration" : 66612
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bed094adf5819595.json",
+  "parameterValues" : [ ]
+}

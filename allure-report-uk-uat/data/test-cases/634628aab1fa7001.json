@@ -1,0 +1,79 @@
+{
+  "uid" : "634628aab1fa7001",
+  "name" : "#5 User can come to the Gamble Aware page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#5 User can come to the Gamble Aware page from terms and conditions page",
+  "historyId" : "b5827589a27b41183865d9e8f6913fd1",
+  "time" : {
+    "start" : 1670495862286,
+    "stop" : 1670495864553,
+    "duration" : 2267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a16eb1ea52ff55dc",
+      "name" : "Screenshot",
+      "source" : "a16eb1ea52ff55dc.png",
+      "type" : "image/png",
+      "size" : 24827
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can come to the Gamble Aware page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eb01941690f3068f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gambleaware.co.uk/\"])",
+      "time" : {
+        "start" : 1670494274307,
+        "stop" : 1670494284570,
+        "duration" : 10263
+      }
+    }, {
+      "uid" : "4fd94ddea13facf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670492141470,
+        "stop" : 1670492150302,
+        "duration" : 8832
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "634628aab1fa7001.json",
+  "parameterValues" : [ ]
+}

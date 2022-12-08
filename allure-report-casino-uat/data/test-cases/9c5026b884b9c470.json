@@ -1,0 +1,79 @@
+{
+  "uid" : "9c5026b884b9c470",
+  "name" : "#14 Player inputs into the password fields should be masked by default.",
+  "fullName" : "My Account > Settings > Change Password.#14 Player inputs into the password fields should be masked by default.",
+  "historyId" : "e51bebdda97ca4b3f5d813e0b8fa8157",
+  "time" : {
+    "start" : 1670496910069,
+    "stop" : 1670496920457,
+    "duration" : 10388
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce6ed80c108dc0be",
+      "name" : "Screenshot",
+      "source" : "ce6ed80c108dc0be.png",
+      "type" : "image/png",
+      "size" : 755297
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player inputs into the password fields should be masked by default."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "946f00047bb36d01",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10022ms",
+      "time" : {
+        "start" : 1670491837619,
+        "stop" : 1670491863031,
+        "duration" : 25412
+      }
+    }, {
+      "uid" : "57a41e39d25eeb66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491025893,
+        "stop" : 1670491052644,
+        "duration" : 26751
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c5026b884b9c470.json",
+  "parameterValues" : [ ]
+}

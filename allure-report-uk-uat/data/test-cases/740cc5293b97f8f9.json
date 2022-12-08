@@ -1,0 +1,71 @@
+{
+  "uid" : "740cc5293b97f8f9",
+  "name" : "#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected.",
+  "historyId" : "93fc742affc3527af639e0b5eec53465",
+  "time" : {
+    "start" : 1670495069989,
+    "stop" : 1670495113040,
+    "duration" : 43051
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "27dd4f62cfd22a0",
+      "name" : "Screenshot",
+      "source" : "27dd4f62cfd22a0.png",
+      "type" : "image/png",
+      "size" : 657979
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5b4abe16d95c8935",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 21853ms",
+      "time" : {
+        "start" : 1670493177870,
+        "stop" : 1670493238968,
+        "duration" : 61098
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "740cc5293b97f8f9.json",
+  "parameterValues" : [ ]
+}

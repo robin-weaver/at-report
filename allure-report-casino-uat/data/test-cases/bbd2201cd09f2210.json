@@ -1,0 +1,79 @@
+{
+  "uid" : "bbd2201cd09f2210",
+  "name" : "#8 User can come to the eCOGRA page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#8 User can come to the eCOGRA page from terms and conditions page",
+  "historyId" : "b7931d18fadc6be7964444ff34abc2f2",
+  "time" : {
+    "start" : 1670495871405,
+    "stop" : 1670495876431,
+    "duration" : 5026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8f2d81fdbac2ff68",
+      "name" : "Screenshot",
+      "source" : "8f2d81fdbac2ff68.png",
+      "type" : "image/png",
+      "size" : 193193
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can come to the eCOGRA page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff57c1568823313f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://ecogra.org/forms/adr-dispute-step-1\"])",
+      "time" : {
+        "start" : 1670491464463,
+        "stop" : 1670491473259,
+        "duration" : 8796
+      }
+    }, {
+      "uid" : "1f9c2936e0595286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490264427,
+        "stop" : 1670490278509,
+        "duration" : 14082
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbd2201cd09f2210.json",
+  "parameterValues" : [ ]
+}

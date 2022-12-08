@@ -1,0 +1,79 @@
+{
+  "uid" : "b370a234277a3527",
+  "name" : "#21 User can see the Responsible Gambling section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#21 User can see the Responsible Gambling section on terms and conditions page",
+  "historyId" : "a8e7bfe034c9bd65c4809a755f1653ed",
+  "time" : {
+    "start" : 1670495905912,
+    "stop" : 1670495908242,
+    "duration" : 2330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c0c47a55c7b29a7e",
+      "name" : "Screenshot",
+      "source" : "c0c47a55c7b29a7e.png",
+      "type" : "image/png",
+      "size" : 801322
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 User can see the Responsible Gambling section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8cc7de4322b7835f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491586918,
+        "stop" : 1670491597500,
+        "duration" : 10582
+      }
+    }, {
+      "uid" : "1d30944ddc724ecf",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670490369790,
+        "stop" : 1670490374298,
+        "duration" : 4508
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b370a234277a3527.json",
+  "parameterValues" : [ ]
+}

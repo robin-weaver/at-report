@@ -1,0 +1,80 @@
+{
+  "uid" : "2430d126b5fd76b4",
+  "name" : "#2 User can come to the privacy policy page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#2 User can come to the privacy policy page from terms and conditions page",
+  "historyId" : "e6ed0da4fc6596bc7d2693daec22cb95",
+  "time" : {
+    "start" : 1670495850552,
+    "stop" : 1670495853742,
+    "duration" : 3190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b2cc9aeb2ead8f94",
+      "name" : "Screenshot",
+      "source" : "b2cc9aeb2ead8f94.png",
+      "type" : "image/png",
+      "size" : 24827
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can come to the privacy policy page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56a9632a702ded06",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"/uk/en/legal/privacy-policy.html\"])",
+      "time" : {
+        "start" : 1670489107809,
+        "stop" : 1670489114717,
+        "duration" : 6908
+      }
+    }, {
+      "uid" : "1ea6713027ffc75f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"/uk/en/legal/privacy-policy.html\"])",
+      "time" : {
+        "start" : 1670487583362,
+        "stop" : 1670487589903,
+        "duration" : 6541
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2430d126b5fd76b4.json",
+  "parameterValues" : [ ]
+}

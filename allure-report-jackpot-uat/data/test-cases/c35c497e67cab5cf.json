@@ -1,0 +1,85 @@
+{
+  "uid" : "c35c497e67cab5cf",
+  "name" : "#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page",
+  "fullName" : "Slots page.#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page",
+  "historyId" : "6c68d32be4f20d0450ff488cb1dd2123",
+  "time" : {
+    "start" : 1670489335563,
+    "stop" : 1670489350918,
+    "duration" : 15355
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670489335564,
+        "stop" : 1670489338551,
+        "duration" : 2987
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "4755ac446bbf54e",
+      "name" : "Screenshot",
+      "source" : "4755ac446bbf54e.png",
+      "type" : "image/png",
+      "size" : 2383972
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e349bac446c2f4b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488833699,
+        "stop" : 1670488853171,
+        "duration" : 19472
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c35c497e67cab5cf.json",
+  "parameterValues" : [ ]
+}

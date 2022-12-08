@@ -1,0 +1,70 @@
+{
+  "uid" : "7375ac1d66dc88da",
+  "name" : "#9 Bonus amount is updated correctly in the dropdown details when bonus balance is adjusted",
+  "fullName" : "Homepage.#9 Bonus amount is updated correctly in the dropdown details when bonus balance is adjusted",
+  "historyId" : "f385361174fec2bd467a3b285aaceda3",
+  "time" : {
+    "start" : 1670494507903,
+    "stop" : 1670494556796,
+    "duration" : 48893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c50e6bb90225833",
+      "name" : "Screenshot",
+      "source" : "7c50e6bb90225833.png",
+      "type" : "image/png",
+      "size" : 1379979
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Bonus amount is updated correctly in the dropdown details when bonus balance is adjusted"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "727af3dc2a2f8bd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670492347319,
+        "stop" : 1670492407679,
+        "duration" : 60360
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7375ac1d66dc88da.json",
+  "parameterValues" : [ ]
+}

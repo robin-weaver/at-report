@@ -1,0 +1,70 @@
+{
+  "uid" : "a5db21b6b7a35e9b",
+  "name" : "#33 Short description of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#33 Short description of promotion card is displayed for not login user.",
+  "historyId" : "32f6e92f06125ef923781b0b6ca5c409",
+  "time" : {
+    "start" : 1670490053265,
+    "stop" : 1670490054679,
+    "duration" : 1414
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce3e76485ff9f0e3",
+      "name" : "Screenshot",
+      "source" : "ce3e76485ff9f0e3.png",
+      "type" : "image/png",
+      "size" : 2441161
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#33 Short description of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e93f920d38e3a636",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488903059,
+        "stop" : 1670488909139,
+        "duration" : 6080
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5db21b6b7a35e9b.json",
+  "parameterValues" : [ ]
+}

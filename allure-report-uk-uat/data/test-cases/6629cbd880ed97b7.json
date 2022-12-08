@@ -1,0 +1,80 @@
+{
+  "uid" : "6629cbd880ed97b7",
+  "name" : "#22 User can see the Promotions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#22 User can see the Promotions section on terms and conditions page",
+  "historyId" : "febb77ee425460f2ced7f298255bb520",
+  "time" : {
+    "start" : 1670495920416,
+    "stop" : 1670495923597,
+    "duration" : 3181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aaad834852aaa900",
+      "name" : "Screenshot",
+      "source" : "aaad834852aaa900.png",
+      "type" : "image/png",
+      "size" : 769961
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#22 User can see the Promotions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71f15ee887f20262",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670494462257,
+        "stop" : 1670494474537,
+        "duration" : 12280
+      }
+    }, {
+      "uid" : "bd14ad3f872bd1bd",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670492351980,
+        "stop" : 1670492366707,
+        "duration" : 14727
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6629cbd880ed97b7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "656194b8c2ed2aec",
+  "name" : "#2 User can come to the privacy policy page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#2 User can come to the privacy policy page from terms and conditions page",
+  "historyId" : "e6ed0da4fc6596bc7d2693daec22cb95",
+  "time" : {
+    "start" : 1670495849415,
+    "stop" : 1670495852197,
+    "duration" : 2782
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "17246f685304ffbe",
+      "name" : "Screenshot",
+      "source" : "17246f685304ffbe.png",
+      "type" : "image/png",
+      "size" : 490310
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can come to the privacy policy page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a396a959cb904e4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491397363,
+        "stop" : 1670491408867,
+        "duration" : 11504
+      }
+    }, {
+      "uid" : "f7754c6970f87930",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490200000,
+        "stop" : 1670490208261,
+        "duration" : 8261
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "656194b8c2ed2aec.json",
+  "parameterValues" : [ ]
+}

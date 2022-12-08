@@ -1,0 +1,80 @@
+{
+  "uid" : "c1d76a75af537007",
+  "name" : "#03 Player cannot enter an invaild email address.",
+  "fullName" : "Recover Password.#03 Player cannot enter an invaild email address.",
+  "historyId" : "34717a5ea840c50a5bb90b38c9145118",
+  "time" : {
+    "start" : 1670497171859,
+    "stop" : 1670497178743,
+    "duration" : 6884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "135093de6884181",
+      "name" : "Screenshot",
+      "source" : "135093de6884181.png",
+      "type" : "image/png",
+      "size" : 1084350
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Player cannot enter an invaild email address."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f7554085ff60ba6",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10008ms",
+      "time" : {
+        "start" : 1670494365384,
+        "stop" : 1670494386150,
+        "duration" : 20766
+      }
+    }, {
+      "uid" : "26ed30b3123750ca",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10038ms",
+      "time" : {
+        "start" : 1670493254786,
+        "stop" : 1670493280029,
+        "duration" : 25243
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1d76a75af537007.json",
+  "parameterValues" : [ ]
+}

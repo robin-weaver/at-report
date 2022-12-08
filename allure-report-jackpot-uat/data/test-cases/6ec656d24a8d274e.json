@@ -1,0 +1,85 @@
+{
+  "uid" : "6ec656d24a8d274e",
+  "name" : "#6 User can hover mouse on game card and see all needed elements",
+  "fullName" : "Slots page.#6 User can hover mouse on game card and see all needed elements",
+  "historyId" : "5bb9e6e93b2f285453f73c8801731886",
+  "time" : {
+    "start" : 1670489242202,
+    "stop" : 1670489250680,
+    "duration" : 8478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670489242203,
+        "stop" : 1670489246610,
+        "duration" : 4407
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b2f4b89b14a6c685",
+      "name" : "Screenshot",
+      "source" : "b2f4b89b14a6c685.png",
+      "type" : "image/png",
+      "size" : 2469657
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can hover mouse on game card and see all needed elements"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f459bf6c268f381d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488724327,
+        "stop" : 1670488732552,
+        "duration" : 8225
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ec656d24a8d274e.json",
+  "parameterValues" : [ ]
+}

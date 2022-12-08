@@ -1,0 +1,79 @@
+{
+  "uid" : "24fe63aacecb10d5",
+  "name" : "#9 New password must contain a combination of upper and lower case letters (all upper case).",
+  "fullName" : "My Account > Settings > Change Password.#9 New password must contain a combination of upper and lower case letters (all upper case).",
+  "historyId" : "fe3ad14e275f50f56ecbedcc5265adf",
+  "time" : {
+    "start" : 1670496853593,
+    "stop" : 1670496867447,
+    "duration" : 13854
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4a3998957935793b",
+      "name" : "Screenshot",
+      "source" : "4a3998957935793b.png",
+      "type" : "image/png",
+      "size" : 756993
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 New password must contain a combination of upper and lower case letters (all upper case)."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f6f5adf6d0df21d",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10022ms",
+      "time" : {
+        "start" : 1670491722332,
+        "stop" : 1670491745526,
+        "duration" : 23194
+      }
+    }, {
+      "uid" : "2bbaf3c397c79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490863706,
+        "stop" : 1670490928847,
+        "duration" : 65141
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24fe63aacecb10d5.json",
+  "parameterValues" : [ ]
+}

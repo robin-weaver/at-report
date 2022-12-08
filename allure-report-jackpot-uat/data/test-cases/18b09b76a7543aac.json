@@ -1,0 +1,85 @@
+{
+  "uid" : "18b09b76a7543aac",
+  "name" : "#4 User can see game carousel and can scroll it",
+  "fullName" : "Slots page.#4 User can see game carousel and can scroll it",
+  "historyId" : "591014d289e65375afcb36f9ae4899e9",
+  "time" : {
+    "start" : 1670489228861,
+    "stop" : 1670489236379,
+    "duration" : 7518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670489228862,
+        "stop" : 1670489232016,
+        "duration" : 3154
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e73239dad77c56d5",
+      "name" : "Screenshot",
+      "source" : "e73239dad77c56d5.png",
+      "type" : "image/png",
+      "size" : 2358597
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can see game carousel and can scroll it"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e556e56c299ee1b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488708861,
+        "stop" : 1670488717826,
+        "duration" : 8965
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18b09b76a7543aac.json",
+  "parameterValues" : [ ]
+}

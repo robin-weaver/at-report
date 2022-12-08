@@ -1,0 +1,70 @@
+{
+  "uid" : "3925da26575f01a9",
+  "name" : "#5 Player can open message, removing the new badge from a message and decreasing the unread message count badge",
+  "fullName" : "Inbox functionality testing.#5 Player can open message, removing the new badge from a message and decreasing the unread message count badge",
+  "historyId" : "3b24fb5c795f3eaf30e8eb1523914898",
+  "time" : {
+    "start" : 1670491498183,
+    "stop" : 1670491524359,
+    "duration" : 26176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e2925e698ff295d",
+      "name" : "Screenshot",
+      "source" : "6e2925e698ff295d.png",
+      "type" : "image/png",
+      "size" : 207682
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can open message, removing the new badge from a message and decreasing the unread message count badge"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5cb03fa83d30df34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490255787,
+        "stop" : 1670490281727,
+        "duration" : 25940
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3925da26575f01a9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "abe5d271c0220e49",
+  "name" : "#6 Player can choose 1 week option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#6 Player can choose 1 week option for 'Take A Break' and this option should be selected.",
+  "historyId" : "df62453a2e46fd3965ca9576e6d689da",
+  "time" : {
+    "start" : 1670491663024,
+    "stop" : 1670491694810,
+    "duration" : 31786
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "af81d4063554abd0",
+      "name" : "Screenshot",
+      "source" : "af81d4063554abd0.png",
+      "type" : "image/png",
+      "size" : 776249
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can choose 1 week option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1451f8634579bffe",
+      "status" : "failed",
+      "statusDetails" : "Failed: After player chooses option in take a break nothing option selected.\n                Wait timed out after 20015ms",
+      "time" : {
+        "start" : 1670490619927,
+        "stop" : 1670490672722,
+        "duration" : 52795
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abe5d271c0220e49.json",
+  "parameterValues" : [ ]
+}

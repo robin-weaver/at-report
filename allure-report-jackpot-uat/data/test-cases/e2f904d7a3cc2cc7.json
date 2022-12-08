@@ -1,0 +1,70 @@
+{
+  "uid" : "e2f904d7a3cc2cc7",
+  "name" : "#2 All active promotions cards are displayed.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#2 All active promotions cards are displayed.",
+  "historyId" : "4353be4335e5e08b5b6c5f71f6ee77d9",
+  "time" : {
+    "start" : 1670489583598,
+    "stop" : 1670489601118,
+    "duration" : 17520
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fec7947cfbf96bb5",
+      "name" : "Screenshot",
+      "source" : "fec7947cfbf96bb5.png",
+      "type" : "image/png",
+      "size" : 2570995
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 All active promotions cards are displayed."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4b0c474e06cfef9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488305876,
+        "stop" : 1670488330900,
+        "duration" : 25024
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2f904d7a3cc2cc7.json",
+  "parameterValues" : [ ]
+}

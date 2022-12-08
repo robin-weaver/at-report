@@ -1,0 +1,80 @@
+{
+  "uid" : "f68e104edeb273ed",
+  "name" : "#05 Player receives 'Sent' success feedback on submitting a valid email address.",
+  "fullName" : "Recover Password.#05 Player receives 'Sent' success feedback on submitting a valid email address.",
+  "historyId" : "999a20a838f52b151046269c0d5babcd",
+  "time" : {
+    "start" : 1670497184100,
+    "stop" : 1670497191608,
+    "duration" : 7508
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8e5191cdb7023eb",
+      "name" : "Screenshot",
+      "source" : "8e5191cdb7023eb.png",
+      "type" : "image/png",
+      "size" : 1065691
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player receives 'Sent' success feedback on submitting a valid email address."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6dda3972cd80b941",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10008ms",
+      "time" : {
+        "start" : 1670494403646,
+        "stop" : 1670494422266,
+        "duration" : 18620
+      }
+    }, {
+      "uid" : "66e94185d735c30b",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10038ms",
+      "time" : {
+        "start" : 1670493305633,
+        "stop" : 1670493335584,
+        "duration" : 29951
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f68e104edeb273ed.json",
+  "parameterValues" : [ ]
+}

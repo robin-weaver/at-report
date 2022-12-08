@@ -1,0 +1,86 @@
+{
+  "uid" : "6d412920a4b18a60",
+  "name" : "#19 User can select a Country Code from the dropdown menu.",
+  "fullName" : "Registration > Step 3.#19 User can select a Country Code from the dropdown menu.",
+  "historyId" : "4b140d9a9eb1cd27e001ac6a6bf9372d",
+  "time" : {
+    "start" : 1670495524872,
+    "stop" : 1670495535264,
+    "duration" : 10392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d1a5570384296883",
+      "name" : "Screenshot",
+      "source" : "d1a5570384296883.png",
+      "type" : "image/png",
+      "size" : 1128616
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#19 User can select a Country Code from the dropdown menu."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5e50490fa10e696a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670495443030,
+        "stop" : 1670495460465,
+        "duration" : 17435
+      }
+    }, {
+      "uid" : "ef52e2c72278561d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670494081548,
+        "stop" : 1670494096960,
+        "duration" : 15412
+      }
+    }, {
+      "uid" : "29a83d213ebe0686",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670493975260,
+        "stop" : 1670493993366,
+        "duration" : 18106
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d412920a4b18a60.json",
+  "parameterValues" : [ ]
+}

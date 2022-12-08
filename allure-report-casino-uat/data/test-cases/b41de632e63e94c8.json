@@ -1,0 +1,71 @@
+{
+  "uid" : "b41de632e63e94c8",
+  "name" : "#2 Player can close the 'Self Exclusion' modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#2 Player can close the 'Self Exclusion' modal.",
+  "historyId" : "6b76e18b0b197a1f0dfdc06095b6b2cf",
+  "time" : {
+    "start" : 1670491482728,
+    "stop" : 1670491512883,
+    "duration" : 30155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb0a27b18d740318",
+      "name" : "Screenshot",
+      "source" : "bb0a27b18d740318.png",
+      "type" : "image/png",
+      "size" : 1308256
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can close the 'Self Exclusion' modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "908fa942da57635c",
+      "status" : "failed",
+      "statusDetails" : "Failed: Self exclusion modal is still visible\n                Wait timed out after 5148ms",
+      "time" : {
+        "start" : 1670490499119,
+        "stop" : 1670490529351,
+        "duration" : 30232
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b41de632e63e94c8.json",
+  "parameterValues" : [ ]
+}

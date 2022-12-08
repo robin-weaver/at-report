@@ -1,0 +1,71 @@
+{
+  "uid" : "3f9d2cffba993a50",
+  "name" : "#4 Check user is able to select Instant Bank Transfer and is provided with the correct information for this payment method",
+  "fullName" : "My Account -> Deposit.#4 Check user is able to select Instant Bank Transfer and is provided with the correct information for this payment method",
+  "historyId" : "90fc8868e5209294166d7d55598b5a6f",
+  "time" : {
+    "start" : 1670494466759,
+    "stop" : 1670494504017,
+    "duration" : 37258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a70f8f2faa73c726",
+      "name" : "Screenshot",
+      "source" : "a70f8f2faa73c726.png",
+      "type" : "image/png",
+      "size" : 380834
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Check user is able to select Instant Bank Transfer and is provided with the correct information for this payment method"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "280db382f1910e3d",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10394ms",
+      "time" : {
+        "start" : 1670492822790,
+        "stop" : 1670492866773,
+        "duration" : 43983
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f9d2cffba993a50.json",
+  "parameterValues" : [ ]
+}

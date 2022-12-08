@@ -1,0 +1,70 @@
+{
+  "uid" : "579a5ddcb64378ff",
+  "name" : "#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted",
+  "fullName" : "Homepage.#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted",
+  "historyId" : "47ff1afc01e399b3446c52c848c0dcb7",
+  "time" : {
+    "start" : 1670489334140,
+    "stop" : 1670489378900,
+    "duration" : 44760
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a25d56ffd0c2dc5",
+      "name" : "Screenshot",
+      "source" : "9a25d56ffd0c2dc5.png",
+      "type" : "image/png",
+      "size" : 1405150
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5a64555c2c74764a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670487738868,
+        "stop" : 1670487786165,
+        "duration" : 47297
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "579a5ddcb64378ff.json",
+  "parameterValues" : [ ]
+}

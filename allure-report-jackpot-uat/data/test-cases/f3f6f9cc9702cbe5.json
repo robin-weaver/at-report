@@ -1,0 +1,70 @@
+{
+  "uid" : "f3f6f9cc9702cbe5",
+  "name" : "#3 Active promotions are displayed in correct order.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#3 Active promotions are displayed in correct order.",
+  "historyId" : "bd9be0eb6d578ed72d8caad0ade7e2b2",
+  "time" : {
+    "start" : 1670489601118,
+    "stop" : 1670489618031,
+    "duration" : 16913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fc678158f6874eb9",
+      "name" : "Screenshot",
+      "source" : "fc678158f6874eb9.png",
+      "type" : "image/png",
+      "size" : 2570949
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Active promotions are displayed in correct order."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "315d15c2e9a5fe0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488330900,
+        "stop" : 1670488349937,
+        "duration" : 19037
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3f6f9cc9702cbe5.json",
+  "parameterValues" : [ ]
+}

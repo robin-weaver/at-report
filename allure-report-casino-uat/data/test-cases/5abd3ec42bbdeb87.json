@@ -1,0 +1,62 @@
+{
+  "uid" : "5abd3ec42bbdeb87",
+  "name" : "#1 Expired Link Error page is displayed",
+  "fullName" : "Expired Link Error.#1 Expired Link Error page is displayed",
+  "historyId" : "c349c363e6a1fbb85d0ab204a772a9da",
+  "time" : {
+    "start" : 1670490135315,
+    "stop" : 1670490143125,
+    "duration" : 7810
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c0784f360123f545",
+      "name" : "Screenshot",
+      "source" : "c0784f360123f545.png",
+      "type" : "image/png",
+      "size" : 409788
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Expired Link Error page is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5abd3ec42bbdeb87.json",
+  "parameterValues" : [ ]
+}

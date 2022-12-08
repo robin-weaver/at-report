@@ -1,0 +1,80 @@
+{
+  "uid" : "75626e0981712420",
+  "name" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "historyId" : "34f6dce3dd23a700bb1b31a643b8691c",
+  "time" : {
+    "start" : 1670495914106,
+    "stop" : 1670495917245,
+    "duration" : 3139
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "69c3d1ed34803fe8",
+      "name" : "Screenshot",
+      "source" : "69c3d1ed34803fe8.png",
+      "type" : "image/png",
+      "size" : 769961
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76bcc5bd98b6a177",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670494439296,
+        "stop" : 1670494450259,
+        "duration" : 10963
+      }
+    }, {
+      "uid" : "e9f26d616306c5ca",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670492324623,
+        "stop" : 1670492337336,
+        "duration" : 12713
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75626e0981712420.json",
+  "parameterValues" : [ ]
+}

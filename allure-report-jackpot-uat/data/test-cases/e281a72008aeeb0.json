@@ -1,0 +1,80 @@
+{
+  "uid" : "e281a72008aeeb0",
+  "name" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "historyId" : "5c6d4a79756cd2009b476db1915ee67f",
+  "time" : {
+    "start" : 1670495904338,
+    "stop" : 1670495907431,
+    "duration" : 3093
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3cfe78a071705bc5",
+      "name" : "Screenshot",
+      "source" : "3cfe78a071705bc5.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8e8255b98d5e47c5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1670489236251,
+        "stop" : 1670489244607,
+        "duration" : 8356
+      }
+    }, {
+      "uid" : "4d3d839a680ea465",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1670487696404,
+        "stop" : 1670487703873,
+        "duration" : 7469
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e281a72008aeeb0.json",
+  "parameterValues" : [ ]
+}

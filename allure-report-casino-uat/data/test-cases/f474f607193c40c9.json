@@ -1,0 +1,78 @@
+{
+  "uid" : "f474f607193c40c9",
+  "name" : "#5 User can come to the Gamble Aware page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#5 User can come to the Gamble Aware page from terms and conditions page",
+  "historyId" : "b5827589a27b41183865d9e8f6913fd1",
+  "time" : {
+    "start" : 1670495859298,
+    "stop" : 1670495861646,
+    "duration" : 2348
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8c05e7a389a1aeb1",
+      "name" : "Screenshot",
+      "source" : "8c05e7a389a1aeb1.png",
+      "type" : "image/png",
+      "size" : 24827
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can come to the Gamble Aware page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d01524ed2edbf4cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670491427657,
+        "stop" : 1670491433862,
+        "duration" : 6205
+      }
+    }, {
+      "uid" : "ac977dd6e33b1463",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490227618,
+        "stop" : 1670490233791,
+        "duration" : 6173
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f474f607193c40c9.json",
+  "parameterValues" : [ ]
+}

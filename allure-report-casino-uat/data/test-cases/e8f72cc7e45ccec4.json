@@ -1,0 +1,80 @@
+{
+  "uid" : "e8f72cc7e45ccec4",
+  "name" : "#16 Player can successfully update and sign in with their new password.",
+  "fullName" : "My Account > Settings > Change Password.#16 Player can successfully update and sign in with their new password.",
+  "historyId" : "c8ee8d240e41c480f74b255a3243efc0",
+  "time" : {
+    "start" : 1670496933293,
+    "stop" : 1670496959378,
+    "duration" : 26085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6517af42f3946c62",
+      "name" : "Screenshot",
+      "source" : "6517af42f3946c62.png",
+      "type" : "image/png",
+      "size" : 1166847
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 Player can successfully update and sign in with their new password."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "697ab81285b367f0",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10022ms",
+      "time" : {
+        "start" : 1670491884610,
+        "stop" : 1670491907090,
+        "duration" : 22480
+      }
+    }, {
+      "uid" : "27ae5bf6ceb16c91",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1670491089356,
+        "stop" : 1670491141212,
+        "duration" : 51856
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8f72cc7e45ccec4.json",
+  "parameterValues" : [ ]
+}

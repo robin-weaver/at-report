@@ -1,0 +1,71 @@
+{
+  "uid" : "3a5a29758696bc39",
+  "name" : "#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly",
+  "historyId" : "f86776e5eab4ed884e7690b16ff35a50",
+  "time" : {
+    "start" : 1670489580001,
+    "stop" : 1670489634013,
+    "duration" : 54012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "169ec700c9139182",
+      "name" : "Screenshot",
+      "source" : "169ec700c9139182.png",
+      "type" : "image/png",
+      "size" : 996184
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a73a32ec01b9d39",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 12574ms",
+      "time" : {
+        "start" : 1670488505324,
+        "stop" : 1670488534499,
+        "duration" : 29175
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a5a29758696bc39.json",
+  "parameterValues" : [ ]
+}

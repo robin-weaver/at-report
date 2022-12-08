@@ -1,0 +1,71 @@
+{
+  "uid" : "c0e286774d20bd01",
+  "name" : "#16 User can only enter numeric digits into the set Loss Limit field. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#16 User can only enter numeric digits into the set Loss Limit field. ",
+  "historyId" : "f5cccb16182265742a5559998d163bb2",
+  "time" : {
+    "start" : 1670491874600,
+    "stop" : 1670491903715,
+    "duration" : 29115
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d099b65399761175",
+      "name" : "Screenshot",
+      "source" : "d099b65399761175.png",
+      "type" : "image/png",
+      "size" : 808587
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 User can only enter numeric digits into the set Loss Limit field. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4fe3e64ce9581bce",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10042ms",
+      "time" : {
+        "start" : 1670490803923,
+        "stop" : 1670490874037,
+        "duration" : 70114
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0e286774d20bd01.json",
+  "parameterValues" : [ ]
+}

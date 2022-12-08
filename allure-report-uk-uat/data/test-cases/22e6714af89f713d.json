@@ -1,0 +1,71 @@
+{
+  "uid" : "22e6714af89f713d",
+  "name" : "#3 New messages are marked with a NEW message sticker",
+  "fullName" : "Inbox functionality testing.#3 New messages are marked with a NEW message sticker",
+  "historyId" : "bdb5a62f49b358b4f2c3a84d165320",
+  "time" : {
+    "start" : 1670494406473,
+    "stop" : 1670494442567,
+    "duration" : 36094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8d6f92f9cf7c04d5",
+      "name" : "Screenshot",
+      "source" : "8d6f92f9cf7c04d5.png",
+      "type" : "image/png",
+      "size" : 198331
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 New messages are marked with a NEW message sticker"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b3f85e84ccbc6ec7",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10023ms",
+      "time" : {
+        "start" : 1670492144525,
+        "stop" : 1670492184087,
+        "duration" : 39562
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22e6714af89f713d.json",
+  "parameterValues" : [ ]
+}

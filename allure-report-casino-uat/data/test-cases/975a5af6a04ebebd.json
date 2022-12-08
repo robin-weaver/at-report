@@ -1,0 +1,80 @@
+{
+  "uid" : "975a5af6a04ebebd",
+  "name" : "#15 User can see the Deposits and Withdrawals section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#15 User can see the Deposits and Withdrawals section on terms and conditions page",
+  "historyId" : "23799416e2da41b964774790e972aa6",
+  "time" : {
+    "start" : 1670495891671,
+    "stop" : 1670495893996,
+    "duration" : 2325
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fc2af8ea294f5348",
+      "name" : "Screenshot",
+      "source" : "fc2af8ea294f5348.png",
+      "type" : "image/png",
+      "size" : 801322
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User can see the Deposits and Withdrawals section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "80835b9445b8131f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670491530748,
+        "stop" : 1670491542997,
+        "duration" : 12249
+      }
+    }, {
+      "uid" : "b9b26cb54f95336d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670490330214,
+        "stop" : 1670490336105,
+        "duration" : 5891
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "975a5af6a04ebebd.json",
+  "parameterValues" : [ ]
+}

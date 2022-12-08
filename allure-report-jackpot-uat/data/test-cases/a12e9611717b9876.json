@@ -1,0 +1,80 @@
+{
+  "uid" : "a12e9611717b9876",
+  "name" : "#6 User can come to the GamCare page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#6 User can come to the GamCare page from terms and conditions page",
+  "historyId" : "5bb0fdd73e75ae9289dfe8bc04ef915b",
+  "time" : {
+    "start" : 1670495863908,
+    "stop" : 1670495871098,
+    "duration" : 7190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f7729f994daab22a",
+      "name" : "Screenshot",
+      "source" : "f7729f994daab22a.png",
+      "type" : "image/png",
+      "size" : 4231908
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can come to the GamCare page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6bec85aa7962b5c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamcare.org.uk/\"])",
+      "time" : {
+        "start" : 1670489144353,
+        "stop" : 1670489153113,
+        "duration" : 8760
+      }
+    }, {
+      "uid" : "91351ec9bb40a8e4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamcare.org.uk/\"])",
+      "time" : {
+        "start" : 1670487605942,
+        "stop" : 1670487613288,
+        "duration" : 7346
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a12e9611717b9876.json",
+  "parameterValues" : [ ]
+}

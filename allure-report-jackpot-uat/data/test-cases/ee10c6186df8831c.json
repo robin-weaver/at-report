@@ -1,0 +1,75 @@
+{
+  "uid" : "ee10c6186df8831c",
+  "name" : "#10 User hover the game card and click on it and login modal appears",
+  "fullName" : "Slots page.#10 User hover the game card and click on it and login modal appears",
+  "historyId" : "9ab318c98ff781cea0c096a8ac07b7c2",
+  "time" : {
+    "start" : 1670488768319,
+    "stop" : 1670488776187,
+    "duration" : 7868
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670488768321,
+        "stop" : 1670488771605,
+        "duration" : 3284
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "25f8289a75e475cf",
+      "name" : "Screenshot",
+      "source" : "25f8289a75e475cf.png",
+      "type" : "image/png",
+      "size" : 1198550
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User hover the game card and click on it and login modal appears"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee10c6186df8831c.json",
+  "parameterValues" : [ ]
+}

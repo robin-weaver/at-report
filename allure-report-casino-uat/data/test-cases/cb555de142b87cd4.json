@@ -1,0 +1,70 @@
+{
+  "uid" : "cb555de142b87cd4",
+  "name" : "#1 Player can select the 'Self Exclusion' menu item and is displayed the Self Exclusion modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#1 Player can select the 'Self Exclusion' menu item and is displayed the Self Exclusion modal.",
+  "historyId" : "c590d456d041752a58e74330c57099c7",
+  "time" : {
+    "start" : 1670491452851,
+    "stop" : 1670491482728,
+    "duration" : 29877
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "78b796b16487b7b2",
+      "name" : "Screenshot",
+      "source" : "78b796b16487b7b2.png",
+      "type" : "image/png",
+      "size" : 828934
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can select the 'Self Exclusion' menu item and is displayed the Self Exclusion modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2b4f962a068f3f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490468676,
+        "stop" : 1670490499119,
+        "duration" : 30443
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb555de142b87cd4.json",
+  "parameterValues" : [ ]
+}

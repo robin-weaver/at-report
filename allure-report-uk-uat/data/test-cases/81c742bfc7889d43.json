@@ -1,0 +1,80 @@
+{
+  "uid" : "81c742bfc7889d43",
+  "name" : "#26 User can see the Miscellaneous section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#26 User can see the Miscellaneous section on terms and conditions page",
+  "historyId" : "29312a6fd699312a6f515147a2d6e5a4",
+  "time" : {
+    "start" : 1670495931095,
+    "stop" : 1670495933448,
+    "duration" : 2353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6f15f89c3e813a6a",
+      "name" : "Screenshot",
+      "source" : "6f15f89c3e813a6a.png",
+      "type" : "image/png",
+      "size" : 769961
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#26 User can see the Miscellaneous section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76ce1a22380eb6dd",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670494506233,
+        "stop" : 1670494517777,
+        "duration" : 11544
+      }
+    }, {
+      "uid" : "2ad2d4105e7d834d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670492400760,
+        "stop" : 1670492412304,
+        "duration" : 11544
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81c742bfc7889d43.json",
+  "parameterValues" : [ ]
+}

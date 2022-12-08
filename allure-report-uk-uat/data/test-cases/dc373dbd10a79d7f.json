@@ -1,0 +1,71 @@
+{
+  "uid" : "dc373dbd10a79d7f",
+  "name" : "#02 Player is logged out of site if clearing there cookies.",
+  "fullName" : "Logout.#02 Player is logged out of site if clearing there cookies.",
+  "historyId" : "9e8b51863d79d0c99f1ee0f02510b018",
+  "time" : {
+    "start" : 1670494272378,
+    "stop" : 1670494295237,
+    "duration" : 22859
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87c09025f3161d44",
+      "name" : "Screenshot",
+      "source" : "87c09025f3161d44.png",
+      "type" : "image/png",
+      "size" : 2155658
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Player is logged out of site if clearing there cookies."
+  }, {
+    "name" : "package",
+    "value" : "Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "61b2dc25b45ebb03",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11042ms",
+      "time" : {
+        "start" : 1670492344381,
+        "stop" : 1670492384742,
+        "duration" : 40361
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc373dbd10a79d7f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "ff5a27b658bf7ac4",
+  "name" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "historyId" : "58cf9e88f3bbcaed34421f8f79f089b4",
+  "time" : {
+    "start" : 1670495935756,
+    "stop" : 1670495937867,
+    "duration" : 2111
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5edcebccec6c4dd9",
+      "name" : "Screenshot",
+      "source" : "5edcebccec6c4dd9.png",
+      "type" : "image/png",
+      "size" : 769961
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa1ddef50118799",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"mailto:complaintsMGA@merkurslots.com\"])",
+      "time" : {
+        "start" : 1670494529981,
+        "stop" : 1670494540425,
+        "duration" : 10444
+      }
+    }, {
+      "uid" : "1919774a799f7bf7",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"mailto:complaintsMGA@merkurslots.com\"])",
+      "time" : {
+        "start" : 1670492424133,
+        "stop" : 1670492436330,
+        "duration" : 12197
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff5a27b658bf7ac4.json",
+  "parameterValues" : [ ]
+}

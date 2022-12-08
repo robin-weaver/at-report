@@ -1,0 +1,79 @@
+{
+  "uid" : "79f5076d81b9277d",
+  "name" : "#9 User can see Introduction section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#9 User can see Introduction section on terms and conditions page",
+  "historyId" : "71bcbf4c931105e65eeeff37b45670f0",
+  "time" : {
+    "start" : 1670495879659,
+    "stop" : 1670495883193,
+    "duration" : 3534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "769338a7b57b5c34",
+      "name" : "Screenshot",
+      "source" : "769338a7b57b5c34.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can see Introduction section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6af511c626308573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489171123,
+        "stop" : 1670489180848,
+        "duration" : 9725
+      }
+    }, {
+      "uid" : "e9297de2f432bd77",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1670487632697,
+        "stop" : 1670487641291,
+        "duration" : 8594
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79f5076d81b9277d.json",
+  "parameterValues" : [ ]
+}

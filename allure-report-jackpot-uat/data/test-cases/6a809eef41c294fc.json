@@ -1,0 +1,78 @@
+{
+  "uid" : "6a809eef41c294fc",
+  "name" : "#11 New password must contain a minimum of 8 characters.",
+  "fullName" : "My Account > Settings > Change Password.#11 New password must contain a minimum of 8 characters.",
+  "historyId" : "112d428f7a58ea69a90eae33cd75ac78",
+  "time" : {
+    "start" : 1670496898044,
+    "stop" : 1670496911462,
+    "duration" : 13418
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5af95f861e46a4f7",
+      "name" : "Screenshot",
+      "source" : "5af95f861e46a4f7.png",
+      "type" : "image/png",
+      "size" : 609383
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 New password must contain a minimum of 8 characters."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b48c80c532608c93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489793707,
+        "stop" : 1670489861851,
+        "duration" : 68144
+      }
+    }, {
+      "uid" : "5e68af085b9dc788",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488567467,
+        "stop" : 1670488617125,
+        "duration" : 49658
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a809eef41c294fc.json",
+  "parameterValues" : [ ]
+}

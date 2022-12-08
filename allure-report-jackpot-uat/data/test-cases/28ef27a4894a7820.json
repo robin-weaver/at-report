@@ -1,0 +1,71 @@
+{
+  "uid" : "28ef27a4894a7820",
+  "name" : "#9 Bonus amount is updated correctly in the dropdown details when bonus balance is adjusted",
+  "fullName" : "Homepage.#9 Bonus amount is updated correctly in the dropdown details when bonus balance is adjusted",
+  "historyId" : "f385361174fec2bd467a3b285aaceda3",
+  "time" : {
+    "start" : 1670489378900,
+    "stop" : 1670489430044,
+    "duration" : 51144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a289849672936d20",
+      "name" : "Screenshot",
+      "source" : "a289849672936d20.png",
+      "type" : "image/png",
+      "size" : 1397805
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Bonus amount is updated correctly in the dropdown details when bonus balance is adjusted"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9537c81af9ccb91",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10032ms",
+      "time" : {
+        "start" : 1670487786165,
+        "stop" : 1670487806568,
+        "duration" : 20403
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28ef27a4894a7820.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "63638586af10ed4d",
+  "name" : "#04 Player can select the 'Cancel and Back To Login' link and is displayed the login section.",
+  "fullName" : "Recover Password.#04 Player can select the 'Cancel and Back To Login' link and is displayed the login section.",
+  "historyId" : "8d2249af2ba79d57c10b056060b95d0d",
+  "time" : {
+    "start" : 1670497181266,
+    "stop" : 1670497186863,
+    "duration" : 5597
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1b031e64707c6625",
+      "name" : "Screenshot",
+      "source" : "1b031e64707c6625.png",
+      "type" : "image/png",
+      "size" : 1461076
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player can select the 'Cancel and Back To Login' link and is displayed the login section."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f4adf6584f79192",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488411390,
+        "stop" : 1670488431318,
+        "duration" : 19928
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63638586af10ed4d.json",
+  "parameterValues" : [ ]
+}

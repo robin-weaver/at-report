@@ -1,0 +1,97 @@
+{
+  "uid" : "f2fe09660c3d8f85",
+  "name" : "#05 Player try to update invalid phone number.",
+  "fullName" : "My Profile > Contact Details.#05 Player try to update invalid phone number.",
+  "historyId" : "ebe2049342cfffcb5dad2e518a359746",
+  "time" : {
+    "start" : 1670499373896,
+    "stop" : 1670499383907,
+    "duration" : 10011
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"contact-details\"])\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at MyAccount.editPhoneNumber (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-account.pageObject.js:382:41)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:199:21)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run it(\"#05 Player try to update invalid phone number.\") in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:196:3)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:62:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"contact-details\"])\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at MyAccount.editPhoneNumber (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-account.pageObject.js:382:41)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:199:21)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run it(\"#05 Player try to update invalid phone number.\") in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:196:3)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:62:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "24cce7768cf3dbee",
+      "name" : "Screenshot",
+      "source" : "24cce7768cf3dbee.png",
+      "type" : "image/png",
+      "size" : 1072518
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player try to update invalid phone number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "224252c228c8a834",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10392ms",
+      "time" : {
+        "start" : 1670499081004,
+        "stop" : 1670499090398,
+        "duration" : 9394
+      }
+    }, {
+      "uid" : "9570bc92c7043ef1",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+      "time" : {
+        "start" : 1670489355528,
+        "stop" : 1670489389872,
+        "duration" : 34344
+      }
+    }, {
+      "uid" : "38d54528923a08df",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"contact-details\"])",
+      "time" : {
+        "start" : 1670488223149,
+        "stop" : 1670488261812,
+        "duration" : 38663
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f2fe09660c3d8f85.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,79 @@
+{
+  "uid" : "4d1d7178af7bc9c4",
+  "name" : "#11 New password must contain a minimum of 8 characters.",
+  "fullName" : "My Account > Settings > Change Password.#11 New password must contain a minimum of 8 characters.",
+  "historyId" : "112d428f7a58ea69a90eae33cd75ac78",
+  "time" : {
+    "start" : 1670496896609,
+    "stop" : 1670496908024,
+    "duration" : 11415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6f069f513ea7cf91",
+      "name" : "Screenshot",
+      "source" : "6f069f513ea7cf91.png",
+      "type" : "image/png",
+      "size" : 537048
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 New password must contain a minimum of 8 characters."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22d72d7730b3f967",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670495292629,
+        "stop" : 1670495354730,
+        "duration" : 62101
+      }
+    }, {
+      "uid" : "2a891e07c8d42706",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11048ms",
+      "time" : {
+        "start" : 1670493479050,
+        "stop" : 1670493535763,
+        "duration" : 56713
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d1d7178af7bc9c4.json",
+  "parameterValues" : [ ]
+}

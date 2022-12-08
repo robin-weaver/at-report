@@ -1,0 +1,71 @@
+{
+  "uid" : "12fb7cefe83b747a",
+  "name" : "#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method",
+  "fullName" : "My Account -> Deposit.#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method",
+  "historyId" : "2a3b1a176f228c47c705c684407674fc",
+  "time" : {
+    "start" : 1670494504017,
+    "stop" : 1670494551036,
+    "duration" : 47019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6c090dc4a0c2252a",
+      "name" : "Screenshot",
+      "source" : "6c090dc4a0c2252a.png",
+      "type" : "image/png",
+      "size" : 413078
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "14763116910b618c",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10320ms",
+      "time" : {
+        "start" : 1670492866773,
+        "stop" : 1670492946674,
+        "duration" : 79901
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12fb7cefe83b747a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,95 @@
+{
+  "uid" : "2698a7d3fefb8eb2",
+  "name" : "#01 Player can view their contact details.",
+  "fullName" : "My Profile > Contact Details.#01 Player can view their contact details.",
+  "historyId" : "923010f87786a37152159003f82c07fa",
+  "time" : {
+    "start" : 1670499319183,
+    "stop" : 1670499331051,
+    "duration" : 11868
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: element click intercepted: Element <a data-testid=\"navigation-Account-link\" class=\"navigation-link--selected navigation-link--expanded navigation-link\" href=\"/uk/en/home.html?myAccount=true\">...</a> is not clickable at point (120, 404). Other element would receive the click: <h5 class=\"heading heading--5 cookie-preference-control__categories-header\">...</h5>\n                  (Session info: headless chrome=108.0.5359.98)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.37', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+  "statusTrace" : "WebDriverError: element click intercepted: Element <a data-testid=\"navigation-Account-link\" class=\"navigation-link--selected navigation-link--expanded navigation-link\" href=\"/uk/en/home.html?myAccount=true\">...</a> is not clickable at point (120, 404). Other element would receive the click: <h5 class=\"heading heading--5 cookie-preference-control__categories-header\">...</h5>\n                  (Session info: headless chrome=108.0.5359.98)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.37', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:546:15)\n                    at parseHttpResponse (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/http.js:509:13)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/http.js:441:30\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: WebElement.click()\n                    at thenableWebDriverProxy.schedule (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n                    at WebElement.schedule_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n                    at WebElement.click (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n                    at actionFn (/opt/homebrew/lib/node_modules/protractor/built/element.js:89:44)\n                    at Array.map (<anonymous>)\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:461:65\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:51:36)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:33:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: element click intercepted: Element <a data-testid=\"navigation-Account-link\" class=\"navigation-link--selected navigation-link--expanded navigation-link\" href=\"/uk/en/home.html?myAccount=true\">...</a> is not clickable at point (120, 404). Other element would receive the click: <h5 class=\"heading heading--5 cookie-preference-control__categories-header\">...</h5>\n                  (Session info: headless chrome=108.0.5359.98)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.37', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+    "statusTrace" : "WebDriverError: element click intercepted: Element <a data-testid=\"navigation-Account-link\" class=\"navigation-link--selected navigation-link--expanded navigation-link\" href=\"/uk/en/home.html?myAccount=true\">...</a> is not clickable at point (120, 404). Other element would receive the click: <h5 class=\"heading heading--5 cookie-preference-control__categories-header\">...</h5>\n                  (Session info: headless chrome=108.0.5359.98)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.37', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:546:15)\n                    at parseHttpResponse (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/http.js:509:13)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/http.js:441:30\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: WebElement.click()\n                    at thenableWebDriverProxy.schedule (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n                    at WebElement.schedule_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)\n                    at WebElement.click (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:2092:17)\n                    at actionFn (/opt/homebrew/lib/node_modules/protractor/built/element.js:89:44)\n                    at Array.map (<anonymous>)\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:461:65\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:51:36)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:33:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "552d484c8bcf2c5e",
+      "name" : "Screenshot",
+      "source" : "552d484c8bcf2c5e.png",
+      "type" : "image/png",
+      "size" : 1624830
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can view their contact details."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71fc8f2fb2076bcd",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10265ms",
+      "time" : {
+        "start" : 1670499027847,
+        "stop" : 1670499033405,
+        "duration" : 5558
+      }
+    }, {
+      "uid" : "7259be44372d41a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670494314119,
+        "stop" : 1670494346961,
+        "duration" : 32842
+      }
+    }, {
+      "uid" : "356495441fae2930",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670492757088,
+        "stop" : 1670492800075,
+        "duration" : 42987
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2698a7d3fefb8eb2.json",
+  "parameterValues" : [ ]
+}

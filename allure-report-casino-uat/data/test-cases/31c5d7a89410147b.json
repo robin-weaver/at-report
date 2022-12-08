@@ -1,0 +1,57 @@
+{
+  "uid" : "31c5d7a89410147b",
+  "name" : "#16 Player can press 'CONFIRM' to finish 'Take A Break' a for 24 hours and should be logged out and unable to sign back into their account.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#16 Player can press 'CONFIRM' to finish 'Take A Break' a for 24 hours and should be logged out and unable to sign back into their account.",
+  "historyId" : "2eb9f8a1329608628ad50d5adec05ce",
+  "time" : {
+    "start" : 1670491983906,
+    "stop" : 1670491983908,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 Player can press 'CONFIRM' to finish 'Take A Break' a for 24 hours and should be logged out and unable to sign back into their account."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "64d943de03ca0c6c",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1670491032539,
+        "stop" : 1670491032540,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31c5d7a89410147b.json",
+  "parameterValues" : [ ]
+}

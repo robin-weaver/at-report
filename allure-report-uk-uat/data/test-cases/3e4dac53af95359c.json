@@ -1,0 +1,79 @@
+{
+  "uid" : "3e4dac53af95359c",
+  "name" : "#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "historyId" : "4834f75c359fea68245858d07c04f6f3",
+  "time" : {
+    "start" : 1670495907598,
+    "stop" : 1670495910627,
+    "duration" : 3029
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1ff1ee646dae8fb",
+      "name" : "Screenshot",
+      "source" : "e1ff1ee646dae8fb.png",
+      "type" : "image/png",
+      "size" : 769961
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 User can see the Anti-Money Laundering section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "905f4200b61bed4f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670494418322,
+        "stop" : 1670494429087,
+        "duration" : 10765
+      }
+    }, {
+      "uid" : "686f37b2504225bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670492298404,
+        "stop" : 1670492313599,
+        "duration" : 15195
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e4dac53af95359c.json",
+  "parameterValues" : [ ]
+}

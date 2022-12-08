@@ -1,0 +1,71 @@
+{
+  "uid" : "218f6b7561ac7e33",
+  "name" : "#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)",
+  "fullName" : "Inbox functionality testing.#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)",
+  "historyId" : "5c3bb958d3f12d2fade6f4e7c242f004",
+  "time" : {
+    "start" : 1670494900856,
+    "stop" : 1670494976601,
+    "duration" : 75745
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "112f93cbf79fd496",
+      "name" : "Screenshot",
+      "source" : "112f93cbf79fd496.png",
+      "type" : "image/png",
+      "size" : 280001
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "206a7f843f0da5f9",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10023ms",
+      "time" : {
+        "start" : 1670492656805,
+        "stop" : 1670492690820,
+        "duration" : 34015
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "218f6b7561ac7e33.json",
+  "parameterValues" : [ ]
+}

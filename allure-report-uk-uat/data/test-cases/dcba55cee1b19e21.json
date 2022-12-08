@@ -1,0 +1,80 @@
+{
+  "uid" : "dcba55cee1b19e21",
+  "name" : "#04 Player can select the 'Cancel and Back To Login' link and is displayed the login section.",
+  "fullName" : "Recover Password.#04 Player can select the 'Cancel and Back To Login' link and is displayed the login section.",
+  "historyId" : "8d2249af2ba79d57c10b056060b95d0d",
+  "time" : {
+    "start" : 1670497178743,
+    "stop" : 1670497184100,
+    "duration" : 5357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2c1793eaae562751",
+      "name" : "Screenshot",
+      "source" : "2c1793eaae562751.png",
+      "type" : "image/png",
+      "size" : 1035796
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player can select the 'Cancel and Back To Login' link and is displayed the login section."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e3f1a6ea38727010",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10008ms",
+      "time" : {
+        "start" : 1670494386150,
+        "stop" : 1670494403646,
+        "duration" : 17496
+      }
+    }, {
+      "uid" : "ba74bfd21063c21",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10038ms",
+      "time" : {
+        "start" : 1670493280030,
+        "stop" : 1670493305633,
+        "duration" : 25603
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcba55cee1b19e21.json",
+  "parameterValues" : [ ]
+}

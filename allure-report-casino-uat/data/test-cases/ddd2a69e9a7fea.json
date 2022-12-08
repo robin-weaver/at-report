@@ -1,0 +1,70 @@
+{
+  "uid" : "ddd2a69e9a7fea",
+  "name" : "#9 Player can choose 18 months option for 'Self Exclusion' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#9 Player can choose 18 months option for 'Self Exclusion' and this option should be selected.",
+  "historyId" : "ba179a6afaea27ba964c15be25af2f9",
+  "time" : {
+    "start" : 1670491661821,
+    "stop" : 1670491692321,
+    "duration" : 30500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "febdbe124afaeba",
+      "name" : "Screenshot",
+      "source" : "febdbe124afaeba.png",
+      "type" : "image/png",
+      "size" : 832514
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Player can choose 18 months option for 'Self Exclusion' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6ce8caca5d9b8b36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670490652989,
+        "stop" : 1670490684947,
+        "duration" : 31958
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddd2a69e9a7fea.json",
+  "parameterValues" : [ ]
+}

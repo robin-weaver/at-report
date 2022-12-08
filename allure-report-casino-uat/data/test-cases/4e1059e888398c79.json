@@ -1,0 +1,71 @@
+{
+  "uid" : "4e1059e888398c79",
+  "name" : "#15 User can submit a blank value in the Loss Limit. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#15 User can submit a blank value in the Loss Limit. ",
+  "historyId" : "39e2e21068b6b430c3fb67e41e8aec7",
+  "time" : {
+    "start" : 1670491836362,
+    "stop" : 1670491874600,
+    "duration" : 38238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f878d6505936f456",
+      "name" : "Screenshot",
+      "source" : "f878d6505936f456.png",
+      "type" : "image/png",
+      "size" : 810177
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User can submit a blank value in the Loss Limit. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff8955e8b2f238b3",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10042ms",
+      "time" : {
+        "start" : 1670490761578,
+        "stop" : 1670490803923,
+        "duration" : 42345
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e1059e888398c79.json",
+  "parameterValues" : [ ]
+}

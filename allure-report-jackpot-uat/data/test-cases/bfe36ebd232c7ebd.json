@@ -1,0 +1,85 @@
+{
+  "uid" : "bfe36ebd232c7ebd",
+  "name" : "#3 User can see static hero banner carousel and can click on it and see game info page",
+  "fullName" : "Slots page.#3 User can see static hero banner carousel and can click on it and see game info page",
+  "historyId" : "e2a1fc90afcbf0dd3470a3a6583c31c4",
+  "time" : {
+    "start" : 1670489223753,
+    "stop" : 1670489228861,
+    "duration" : 5108
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670489223753,
+        "stop" : 1670489226606,
+        "duration" : 2853
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "f98e18f6d8616da1",
+      "name" : "Screenshot",
+      "source" : "f98e18f6d8616da1.png",
+      "type" : "image/png",
+      "size" : 2358668
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can see static hero banner carousel and can click on it and see game info page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7615d2b171344de6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670488701959,
+        "stop" : 1670488708861,
+        "duration" : 6902
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfe36ebd232c7ebd.json",
+  "parameterValues" : [ ]
+}

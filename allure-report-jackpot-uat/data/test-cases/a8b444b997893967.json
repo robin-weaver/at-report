@@ -1,0 +1,78 @@
+{
+  "uid" : "a8b444b997893967",
+  "name" : "#23 User can see the Intellectual Property section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#23 User can see the Intellectual Property section on terms and conditions page",
+  "historyId" : "109edc85c2a679388a10bfc585b571",
+  "time" : {
+    "start" : 1670495923173,
+    "stop" : 1670495926181,
+    "duration" : 3008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "862a318cb3e78ef3",
+      "name" : "Screenshot",
+      "source" : "862a318cb3e78ef3.png",
+      "type" : "image/png",
+      "size" : 813933
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#23 User can see the Intellectual Property section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5846731db7312339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670489292177,
+        "stop" : 1670489301767,
+        "duration" : 9590
+      }
+    }, {
+      "uid" : "8042105a97467a20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670487740172,
+        "stop" : 1670487749205,
+        "duration" : 9033
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8b444b997893967.json",
+  "parameterValues" : [ ]
+}
