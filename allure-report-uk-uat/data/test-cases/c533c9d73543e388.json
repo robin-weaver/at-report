@@ -1,0 +1,86 @@
+{
+  "uid" : "c533c9d73543e388",
+  "name" : "#6 Check user is able to select Sofort payment method and is provided with the correct information for this payment method ",
+  "fullName" : "My Account -> Deposit.#6 Check user is able to select Sofort payment method and is provided with the correct information for this payment method ",
+  "historyId" : "8b427abe570be11de51376acaea7839",
+  "time" : {
+    "start" : 1670586053666,
+    "stop" : 1670586077658,
+    "duration" : 23992
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5b0e6b11d1846db",
+      "name" : "Screenshot",
+      "source" : "5b0e6b11d1846db.png",
+      "type" : "image/png",
+      "size" : 135143
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Check user is able to select Sofort payment method and is provided with the correct information for this payment method "
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "26fc88e9a422922f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585423902,
+        "stop" : 1670585447885,
+        "duration" : 23983
+      }
+    }, {
+      "uid" : "1a8228be8599b242",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583258055,
+        "stop" : 1670583283657,
+        "duration" : 25602
+      }
+    }, {
+      "uid" : "e0c97258297b5282",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582637479,
+        "stop" : 1670582657260,
+        "duration" : 19781
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c533c9d73543e388.json",
+  "parameterValues" : [ ]
+}

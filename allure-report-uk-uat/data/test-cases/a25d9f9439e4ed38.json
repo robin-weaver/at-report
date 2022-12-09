@@ -1,0 +1,80 @@
+{
+  "uid" : "a25d9f9439e4ed38",
+  "name" : "#8 User can enter an email and reset the password (Sent button with a tick will be displayed).",
+  "fullName" : "Expired Link Error.#8 User can enter an email and reset the password (Sent button with a tick will be displayed).",
+  "historyId" : "c93e4cef3856a393c564cd2404e86f28",
+  "time" : {
+    "start" : 1670585154311,
+    "stop" : 1670585158827,
+    "duration" : 4516
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "51fb4051a5f21b89",
+      "name" : "Screenshot",
+      "source" : "51fb4051a5f21b89.png",
+      "type" : "image/png",
+      "size" : 102646
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can enter an email and reset the password (Sent button with a tick will be displayed)."
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5d0057f21157fdcc",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10032ms",
+      "time" : {
+        "start" : 1670583119133,
+        "stop" : 1670583124061,
+        "duration" : 4928
+      }
+    }, {
+      "uid" : "35451ad32b8c204e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11066ms",
+      "time" : {
+        "start" : 1670582374809,
+        "stop" : 1670582381261,
+        "duration" : 6452
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a25d9f9439e4ed38.json",
+  "parameterValues" : [ ]
+}

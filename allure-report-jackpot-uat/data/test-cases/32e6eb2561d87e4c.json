@@ -1,0 +1,71 @@
+{
+  "uid" : "32e6eb2561d87e4c",
+  "name" : "#15 Player can continue with chosen 2 years option to 'Self Exclusion' and confirming modal should display.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#15 Player can continue with chosen 2 years option to 'Self Exclusion' and confirming modal should display.",
+  "historyId" : "d3235b7a92e2449f778eeca8ac38ad79",
+  "time" : {
+    "start" : 1670602166833,
+    "stop" : 1670602181945,
+    "duration" : 15112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d07781fecff5c473",
+      "name" : "Screenshot",
+      "source" : "d07781fecff5c473.png",
+      "type" : "image/png",
+      "size" : 245400
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Player can continue with chosen 2 years option to 'Self Exclusion' and confirming modal should display."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ada1d883aa857eee",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10001ms",
+      "time" : {
+        "start" : 1670601520256,
+        "stop" : 1670601542957,
+        "duration" : 22701
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32e6eb2561d87e4c.json",
+  "parameterValues" : [ ]
+}

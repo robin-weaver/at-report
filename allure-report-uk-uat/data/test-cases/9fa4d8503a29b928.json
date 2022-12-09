@@ -1,0 +1,80 @@
+{
+  "uid" : "9fa4d8503a29b928",
+  "name" : "#7 User can click on x button and close reset password window. ",
+  "fullName" : "Expired Link Error.#7 User can click on x button and close reset password window. ",
+  "historyId" : "88a6b934de13d341cde13c1b8ad6f97a",
+  "time" : {
+    "start" : 1670585151113,
+    "stop" : 1670585154311,
+    "duration" : 3198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b2b62871f33d34c2",
+      "name" : "Screenshot",
+      "source" : "b2b62871f33d34c2.png",
+      "type" : "image/png",
+      "size" : 151275
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User can click on x button and close reset password window. "
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9b703b26b2635565",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10032ms",
+      "time" : {
+        "start" : 1670583115483,
+        "stop" : 1670583119133,
+        "duration" : 3650
+      }
+    }, {
+      "uid" : "c9a3c137887f8247",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11066ms",
+      "time" : {
+        "start" : 1670582368805,
+        "stop" : 1670582374809,
+        "duration" : 6004
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fa4d8503a29b928.json",
+  "parameterValues" : [ ]
+}

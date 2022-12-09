@@ -1,0 +1,70 @@
+{
+  "uid" : "15b4cebfe0e46329",
+  "name" : "#04 User can select the 'Recover' button on the 'Account already exists' drawer and is displayed the Recover Password form.",
+  "fullName" : "Registration > Step 1.#04 User can select the 'Recover' button on the 'Account already exists' drawer and is displayed the Recover Password form.",
+  "historyId" : "c2529cb31ff11eb31339489628a6f4cf",
+  "time" : {
+    "start" : 1670585503865,
+    "stop" : 1670585512786,
+    "duration" : 8921
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3478a58c7e811b3a",
+      "name" : "Screenshot",
+      "source" : "3478a58c7e811b3a.png",
+      "type" : "image/png",
+      "size" : 177869
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 User can select the 'Recover' button on the 'Account already exists' drawer and is displayed the Recover Password form."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "88798e6009484fc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582685374,
+        "stop" : 1670582698831,
+        "duration" : 13457
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15b4cebfe0e46329.json",
+  "parameterValues" : [ ]
+}

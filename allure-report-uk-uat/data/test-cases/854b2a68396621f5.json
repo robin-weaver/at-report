@@ -1,0 +1,98 @@
+{
+  "uid" : "854b2a68396621f5",
+  "name" : "#14 Player can select the link to recover their password.",
+  "fullName" : "Log In.#14 Player can select the link to recover their password.",
+  "historyId" : "612c57d9e3668a820479206351bc9aaf",
+  "time" : {
+    "start" : 1670594774326,
+    "stop" : 1670594778536,
+    "duration" : 4210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb2d91510c22948d",
+      "name" : "Screenshot",
+      "source" : "bb2d91510c22948d.png",
+      "type" : "image/png",
+      "size" : 324009
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player can select the link to recover their password."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "72217ea06b40ae9e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10029ms",
+      "time" : {
+        "start" : 1670585983236,
+        "stop" : 1670585991594,
+        "duration" : 8358
+      }
+    }, {
+      "uid" : "b593f67e9fa04241",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10036ms",
+      "time" : {
+        "start" : 1670585237465,
+        "stop" : 1670585249672,
+        "duration" : 12207
+      }
+    }, {
+      "uid" : "33f595d69a4f32eb",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10033ms",
+      "time" : {
+        "start" : 1670583216777,
+        "stop" : 1670583227829,
+        "duration" : 11052
+      }
+    }, {
+      "uid" : "bb337d6c1de537f2",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10039ms",
+      "time" : {
+        "start" : 1670582459949,
+        "stop" : 1670582468823,
+        "duration" : 8874
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "854b2a68396621f5.json",
+  "parameterValues" : [ ]
+}

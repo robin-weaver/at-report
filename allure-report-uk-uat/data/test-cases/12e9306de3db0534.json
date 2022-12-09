@@ -1,0 +1,87 @@
+{
+  "uid" : "12e9306de3db0534",
+  "name" : "#14 All available categories will be displayed and user click/taps on category then user go to the category.",
+  "fullName" : "Live Casino.#14 All available categories will be displayed and user click/taps on category then user go to the category.",
+  "historyId" : "3b4c2f7db79ae79bce286457d99ba512",
+  "time" : {
+    "start" : 1670585937500,
+    "stop" : 1670585942355,
+    "duration" : 4855
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "737d5e88f9a45348",
+      "name" : "Screenshot",
+      "source" : "737d5e88f9a45348.png",
+      "type" : "image/png",
+      "size" : 171701
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 All available categories will be displayed and user click/taps on category then user go to the category."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae79c7deb525b9a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585195220,
+        "stop" : 1670585198047,
+        "duration" : 2827
+      }
+    }, {
+      "uid" : "79f9b8ac621476b0",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10004ms",
+      "time" : {
+        "start" : 1670583167889,
+        "stop" : 1670583171358,
+        "duration" : 3469
+      }
+    }, {
+      "uid" : "e58ecc942e5527a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582414538,
+        "stop" : 1670582417149,
+        "duration" : 2611
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12e9306de3db0534.json",
+  "parameterValues" : [ ]
+}

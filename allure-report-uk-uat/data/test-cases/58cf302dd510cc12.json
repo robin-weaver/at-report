@@ -1,0 +1,86 @@
+{
+  "uid" : "58cf302dd510cc12",
+  "name" : "#18 Country Code is populated by default.",
+  "fullName" : "Registration > Step 3.#18 Country Code is populated by default.",
+  "historyId" : "cf85ed5c29e12e403adc30082c32f760",
+  "time" : {
+    "start" : 1670586173779,
+    "stop" : 1670586180376,
+    "duration" : 6597
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "16a63bd3c41cebee",
+      "name" : "Screenshot",
+      "source" : "16a63bd3c41cebee.png",
+      "type" : "image/png",
+      "size" : 385498
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 Country Code is populated by default."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "54640deb34cc42ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585672514,
+        "stop" : 1670585678541,
+        "duration" : 6027
+      }
+    }, {
+      "uid" : "9fc0c815035c44df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583417089,
+        "stop" : 1670583424216,
+        "duration" : 7127
+      }
+    }, {
+      "uid" : "b90da5b49a1d4271",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582882241,
+        "stop" : 1670582888576,
+        "duration" : 6335
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58cf302dd510cc12.json",
+  "parameterValues" : [ ]
+}

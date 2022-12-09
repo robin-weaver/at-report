@@ -1,0 +1,86 @@
+{
+  "uid" : "9bd718de6bac9453",
+  "name" : "#2 Check user is able to exit out of the deposit modal using the x button",
+  "fullName" : "My Account -> Deposit.#2 Check user is able to exit out of the deposit modal using the x button",
+  "historyId" : "76c32bf1c4cb064e50a66d73af032203",
+  "time" : {
+    "start" : 1670585967165,
+    "stop" : 1670585992327,
+    "duration" : 25162
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "865b97f092bdd203",
+      "name" : "Screenshot",
+      "source" : "865b97f092bdd203.png",
+      "type" : "image/png",
+      "size" : 314354
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Check user is able to exit out of the deposit modal using the x button"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee4f9bd5fd778fb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585332387,
+        "stop" : 1670585358297,
+        "duration" : 25910
+      }
+    }, {
+      "uid" : "f300e50530872de6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583160352,
+        "stop" : 1670583185299,
+        "duration" : 24947
+      }
+    }, {
+      "uid" : "53715687713076a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582540867,
+        "stop" : 1670582566114,
+        "duration" : 25247
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bd718de6bac9453.json",
+  "parameterValues" : [ ]
+}

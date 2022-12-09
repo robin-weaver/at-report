@@ -1,0 +1,70 @@
+{
+  "uid" : "b95fdd50ce1501fc",
+  "name" : "#48 Bonus balance category is not displayed for not logged in user.",
+  "fullName" : "Promotions functionality testing. Bonus details testing..#48 Bonus balance category is not displayed for not logged in user.",
+  "historyId" : "96ac8d4730d4ee478c8f42c6c0327ce",
+  "time" : {
+    "start" : 1670602387537,
+    "stop" : 1670602391452,
+    "duration" : 3915
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a150051b016a16c",
+      "name" : "Screenshot",
+      "source" : "3a150051b016a16c.png",
+      "type" : "image/png",
+      "size" : 745427
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#48 Bonus balance category is not displayed for not logged in user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae33b4d40d389bf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601734359,
+        "stop" : 1670601738297,
+        "duration" : 3938
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b95fdd50ce1501fc.json",
+  "parameterValues" : [ ]
+}

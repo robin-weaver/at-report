@@ -1,0 +1,78 @@
+{
+  "uid" : "bf85a71f38c4f7d6",
+  "name" : "#5 Player can see legal and company information",
+  "fullName" : "Footer functionality testing.#5 Player can see legal and company information",
+  "historyId" : "9508dba3cdba6a0d67082984b68d89ba",
+  "time" : {
+    "start" : 1670585192794,
+    "stop" : 1670585196885,
+    "duration" : 4091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0ebaf76c24d8248",
+      "name" : "Screenshot",
+      "source" : "a0ebaf76c24d8248.png",
+      "type" : "image/png",
+      "size" : 161143
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can see legal and company information"
+  }, {
+    "name" : "package",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "44952c7bda5e45be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583195974,
+        "stop" : 1670583200009,
+        "duration" : 4035
+      }
+    }, {
+      "uid" : "ad3f2a8cba4011e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582427047,
+        "stop" : 1670582431317,
+        "duration" : 4270
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf85a71f38c4f7d6.json",
+  "parameterValues" : [ ]
+}

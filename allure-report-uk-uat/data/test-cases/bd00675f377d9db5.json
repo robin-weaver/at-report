@@ -1,0 +1,86 @@
+{
+  "uid" : "bd00675f377d9db5",
+  "name" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "historyId" : "b4d278950cdc3a6f5c92c3defc364ac8",
+  "time" : {
+    "start" : 1670586266652,
+    "stop" : 1670586280635,
+    "duration" : 13983
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "59e3d6a58ab73ee9",
+      "name" : "Screenshot",
+      "source" : "59e3d6a58ab73ee9.png",
+      "type" : "image/png",
+      "size" : 607806
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b1fbd41f7b415dba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585646067,
+        "stop" : 1670585662727,
+        "duration" : 16660
+      }
+    }, {
+      "uid" : "6523ee3ed4166520",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583544813,
+        "stop" : 1670583558370,
+        "duration" : 13557
+      }
+    }, {
+      "uid" : "8a2699a7c5701dc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582866867,
+        "stop" : 1670582883167,
+        "duration" : 16300
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd00675f377d9db5.json",
+  "parameterValues" : [ ]
+}

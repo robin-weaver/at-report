@@ -1,0 +1,71 @@
+{
+  "uid" : "d2f8754d6ccd431b",
+  "name" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "historyId" : "4a3dd9a35dd9d6ab3052dc1b2665b641",
+  "time" : {
+    "start" : 1670600308719,
+    "stop" : 1670600333568,
+    "duration" : 24849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a6f938e8f506dd99",
+      "name" : "Screenshot",
+      "source" : "a6f938e8f506dd99.png",
+      "type" : "image/png",
+      "size" : 638190
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "753672af9ef04afd",
+      "status" : "failed",
+      "statusDetails" : "StaleElementReferenceError: stale element reference: element is not attached to the page document\n                  (Session info: headless chrome=108.0.5359.73)\n                For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.97', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1670600013990,
+        "stop" : 1670600032662,
+        "duration" : 18672
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2f8754d6ccd431b.json",
+  "parameterValues" : [ ]
+}

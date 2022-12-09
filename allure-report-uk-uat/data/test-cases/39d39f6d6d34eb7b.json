@@ -1,0 +1,78 @@
+{
+  "uid" : "39d39f6d6d34eb7b",
+  "name" : "#4 User clicks on \"Be Aware Gambling\" link at Welcome Offer page",
+  "fullName" : "Landing Page/Welcome Offer page.#4 User clicks on \"Be Aware Gambling\" link at Welcome Offer page",
+  "historyId" : "7c232f95df4574222c080d441800074e",
+  "time" : {
+    "start" : 1670585174037,
+    "stop" : 1670585183739,
+    "duration" : 9702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b8f85ca58fb8c3be",
+      "name" : "Screenshot",
+      "source" : "b8f85ca58fb8c3be.png",
+      "type" : "image/png",
+      "size" : 437860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User clicks on \"Be Aware Gambling\" link at Welcome Offer page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3361accc0adb9d60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583176773,
+        "stop" : 1670583185774,
+        "duration" : 9001
+      }
+    }, {
+      "uid" : "a85cf584e9e76965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582404412,
+        "stop" : 1670582415175,
+        "duration" : 10763
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39d39f6d6d34eb7b.json",
+  "parameterValues" : [ ]
+}

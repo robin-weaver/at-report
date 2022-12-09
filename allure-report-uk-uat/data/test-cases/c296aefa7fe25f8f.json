@@ -1,0 +1,88 @@
+{
+  "uid" : "c296aefa7fe25f8f",
+  "name" : "#10 User can successfully set a monthly loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#10 User can successfully set a monthly loss limit if not already set ",
+  "historyId" : "96540a29b1b72b77311cb207e769693d",
+  "time" : {
+    "start" : 1670595541680,
+    "stop" : 1670595551862,
+    "duration" : 10182
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8b63447a33e9c071",
+      "name" : "Screenshot",
+      "source" : "8b63447a33e9c071.png",
+      "type" : "image/png",
+      "size" : 209133
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User can successfully set a monthly loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff8f14cd87767716",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11460ms",
+      "time" : {
+        "start" : 1670586131492,
+        "stop" : 1670586147290,
+        "duration" : 15798
+      }
+    }, {
+      "uid" : "c3ae5934f5a8bb22",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10177ms",
+      "time" : {
+        "start" : 1670585449007,
+        "stop" : 1670585470427,
+        "duration" : 21420
+      }
+    }, {
+      "uid" : "fe658b5dfa76b9be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582672550,
+        "stop" : 1670582696913,
+        "duration" : 24363
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c296aefa7fe25f8f.json",
+  "parameterValues" : [ ]
+}

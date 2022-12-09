@@ -1,0 +1,95 @@
+{
+  "uid" : "c82160039f6caae5",
+  "name" : "#19 User can see the Inactive Customer Accounts section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#19 User can see the Inactive Customer Accounts section on terms and conditions page",
+  "historyId" : "99517e53d4c4a086dc3377a8de3dc83b",
+  "time" : {
+    "start" : 1670598385174,
+    "stop" : 1670598387433,
+    "duration" : 2259
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e4c3a2167ac8c1c6",
+      "name" : "Screenshot",
+      "source" : "e4c3a2167ac8c1c6.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#19 User can see the Inactive Customer Accounts section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c901046aed41fe0c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670586033730,
+        "stop" : 1670586038612,
+        "duration" : 4882
+      }
+    }, {
+      "uid" : "f6a44ed99fb6b568",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585321519,
+        "stop" : 1670585328784,
+        "duration" : 7265
+      }
+    }, {
+      "uid" : "f8da2a7425a2e39a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583322294,
+        "stop" : 1670583329334,
+        "duration" : 7040
+      }
+    }, {
+      "uid" : "b99130447332865c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582532826,
+        "stop" : 1670582539039,
+        "duration" : 6213
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c82160039f6caae5.json",
+  "parameterValues" : [ ]
+}

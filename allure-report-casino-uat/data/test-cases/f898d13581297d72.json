@@ -1,0 +1,71 @@
+{
+  "uid" : "f898d13581297d72",
+  "name" : "#2 Player can close the take a break modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#2 Player can close the take a break modal.",
+  "historyId" : "d54350648fe4d6af6e8259a2849d893",
+  "time" : {
+    "start" : 1670600279506,
+    "stop" : 1670600301692,
+    "duration" : 22186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "51b11263fc3579f7",
+      "name" : "Screenshot",
+      "source" : "51b11263fc3579f7.png",
+      "type" : "image/png",
+      "size" : 388542
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can close the take a break modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af751640cc8c5dc",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: -2, but there are only 0 elements that match locator By(css selector, .account-tile-list-item--clickable)",
+      "time" : {
+        "start" : 1670599770438,
+        "stop" : 1670599807116,
+        "duration" : 36678
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f898d13581297d72.json",
+  "parameterValues" : [ ]
+}

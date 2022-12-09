@@ -1,0 +1,86 @@
+{
+  "uid" : "3e84e2c27376e2ee",
+  "name" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "fullName" : "Inbox functionality testing.#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "historyId" : "5a9b2afcfbe345aef727b50819d0ffef",
+  "time" : {
+    "start" : 1670585970285,
+    "stop" : 1670585988464,
+    "duration" : 18179
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a50456e5fa295ec1",
+      "name" : "Screenshot",
+      "source" : "a50456e5fa295ec1.png",
+      "type" : "image/png",
+      "size" : 87373
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "24c8a46e737ff2e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585237462,
+        "stop" : 1670585257157,
+        "duration" : 19695
+      }
+    }, {
+      "uid" : "a7d41e99e8e99cd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583192671,
+        "stop" : 1670583205736,
+        "duration" : 13065
+      }
+    }, {
+      "uid" : "1ba6f69201235798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582425135,
+        "stop" : 1670582439171,
+        "duration" : 14036
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e84e2c27376e2ee.json",
+  "parameterValues" : [ ]
+}

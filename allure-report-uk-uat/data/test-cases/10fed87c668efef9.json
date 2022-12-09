@@ -1,0 +1,86 @@
+{
+  "uid" : "10fed87c668efef9",
+  "name" : "#12 Player with less than 15 messages should not be able to view more",
+  "fullName" : "Inbox functionality testing.#12 Player with less than 15 messages should not be able to view more",
+  "historyId" : "1aabd36ebba8d262d7b8c0b5128a9e98",
+  "time" : {
+    "start" : 1670586131446,
+    "stop" : 1670586142492,
+    "duration" : 11046
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "31c2a08c302dbf09",
+      "name" : "Screenshot",
+      "source" : "31c2a08c302dbf09.png",
+      "type" : "image/png",
+      "size" : 60461
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Player with less than 15 messages should not be able to view more"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8e4227dbaa915a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585436396,
+        "stop" : 1670585452584,
+        "duration" : 16188
+      }
+    }, {
+      "uid" : "fa4bf14ce8630e6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583392358,
+        "stop" : 1670583406204,
+        "duration" : 13846
+      }
+    }, {
+      "uid" : "804bfff04355668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582570530,
+        "stop" : 1670582587743,
+        "duration" : 17213
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10fed87c668efef9.json",
+  "parameterValues" : [ ]
+}

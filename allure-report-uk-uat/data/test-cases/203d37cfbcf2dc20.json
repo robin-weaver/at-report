@@ -1,0 +1,70 @@
+{
+  "uid" : "203d37cfbcf2dc20",
+  "name" : "#2 User can come to the Merkur Slots page from Privacy Policy page",
+  "fullName" : "Home page => Privacy Policy page.#2 User can come to the Merkur Slots page from Privacy Policy page",
+  "historyId" : "38baba581d923caa80d1879bbadebbe1",
+  "time" : {
+    "start" : 1670585157948,
+    "stop" : 1670585169550,
+    "duration" : 11602
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "37bc4072b26f4566",
+      "name" : "Screenshot",
+      "source" : "37bc4072b26f4566.png",
+      "type" : "image/png",
+      "size" : 7863
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can come to the Merkur Slots page from Privacy Policy page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a687cd70ac2a9148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582382482,
+        "stop" : 1670582397950,
+        "duration" : 15468
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "203d37cfbcf2dc20.json",
+  "parameterValues" : [ ]
+}

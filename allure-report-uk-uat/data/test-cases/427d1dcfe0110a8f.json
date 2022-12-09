@@ -1,0 +1,78 @@
+{
+  "uid" : "427d1dcfe0110a8f",
+  "name" : "#4 Player cannot continue with 'Time Limit' if a limit is not selected.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#4 Player cannot continue with 'Time Limit' if a limit is not selected.",
+  "historyId" : "d62fac6cf0860952da786f4fc119182d",
+  "time" : {
+    "start" : 1670585960551,
+    "stop" : 1670585984446,
+    "duration" : 23895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "737aeb82d4634611",
+      "name" : "Screenshot",
+      "source" : "737aeb82d4634611.png",
+      "type" : "image/png",
+      "size" : 236125
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player cannot continue with 'Time Limit' if a limit is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "518bbf88fb57bfb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585349267,
+        "stop" : 1670585371841,
+        "duration" : 22574
+      }
+    }, {
+      "uid" : "bfeb096d8b434dc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582555403,
+        "stop" : 1670582578337,
+        "duration" : 22934
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "427d1dcfe0110a8f.json",
+  "parameterValues" : [ ]
+}

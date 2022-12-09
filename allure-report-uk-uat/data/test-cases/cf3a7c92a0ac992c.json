@@ -1,0 +1,98 @@
+{
+  "uid" : "cf3a7c92a0ac992c",
+  "name" : "#02 Email Address is a mandatory field.",
+  "fullName" : "Log In.#02 Email Address is a mandatory field.",
+  "historyId" : "9ad481ae8faddb94d28df552f7ea7680",
+  "time" : {
+    "start" : 1670594731395,
+    "stop" : 1670594737265,
+    "duration" : 5870
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "625a2000b16b6257",
+      "name" : "Screenshot",
+      "source" : "625a2000b16b6257.png",
+      "type" : "image/png",
+      "size" : 349861
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Email Address is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ab901f0d86f2d2cc",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10029ms",
+      "time" : {
+        "start" : 1670585880285,
+        "stop" : 1670585890487,
+        "duration" : 10202
+      }
+    }, {
+      "uid" : "2f6b6ecc99482428",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10036ms",
+      "time" : {
+        "start" : 1670585143023,
+        "stop" : 1670585153370,
+        "duration" : 10347
+      }
+    }, {
+      "uid" : "8f60d536490ce010",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10033ms",
+      "time" : {
+        "start" : 1670583113978,
+        "stop" : 1670583124132,
+        "duration" : 10154
+      }
+    }, {
+      "uid" : "ca91d5bda8aec50d",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10039ms",
+      "time" : {
+        "start" : 1670582363570,
+        "stop" : 1670582374027,
+        "duration" : 10457
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf3a7c92a0ac992c.json",
+  "parameterValues" : [ ]
+}

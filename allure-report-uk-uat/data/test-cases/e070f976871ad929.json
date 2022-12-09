@@ -1,0 +1,118 @@
+{
+  "uid" : "e070f976871ad929",
+  "name" : "#19 User can select a Country Code from the dropdown menu.",
+  "fullName" : "Registration > Step 3.#19 User can select a Country Code from the dropdown menu.",
+  "historyId" : "4b140d9a9eb1cd27e001ac6a6bf9372d",
+  "time" : {
+    "start" : 1670586180376,
+    "stop" : 1670586187015,
+    "duration" : 6639
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "abb653a32a6744cd",
+      "name" : "Screenshot",
+      "source" : "abb653a32a6744cd.png",
+      "type" : "image/png",
+      "size" : 386182
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#19 User can select a Country Code from the dropdown menu."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ebe0eaa81f241c07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670586144557,
+        "stop" : 1670586151331,
+        "duration" : 6774
+      }
+    }, {
+      "uid" : "fb22a99d296480ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585678541,
+        "stop" : 1670585684851,
+        "duration" : 6310
+      }
+    }, {
+      "uid" : "c250a9a9c8706e69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585642138,
+        "stop" : 1670585649382,
+        "duration" : 7244
+      }
+    }, {
+      "uid" : "11f8494b998698bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583424216,
+        "stop" : 1670583433753,
+        "duration" : 9537
+      }
+    }, {
+      "uid" : "98d6dd1930963245",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583383888,
+        "stop" : 1670583393158,
+        "duration" : 9270
+      }
+    }, {
+      "uid" : "68d9b0355b973b59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582888576,
+        "stop" : 1670582894473,
+        "duration" : 5897
+      }
+    }, {
+      "uid" : "b5edb639969668c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582846197,
+        "stop" : 1670582855364,
+        "duration" : 9167
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e070f976871ad929.json",
+  "parameterValues" : [ ]
+}

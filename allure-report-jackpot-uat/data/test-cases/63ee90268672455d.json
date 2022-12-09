@@ -1,0 +1,70 @@
+{
+  "uid" : "63ee90268672455d",
+  "name" : "#01 Player can open the Log In modal and is displayed with the correct fields.",
+  "fullName" : "Log In.#01 Player can open the Log In modal and is displayed with the correct fields.",
+  "historyId" : "a7379558b6d194e9c11e19ff578cd612",
+  "time" : {
+    "start" : 1670601839772,
+    "stop" : 1670601851099,
+    "duration" : 11327
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46509dcd3019c2be",
+      "name" : "Screenshot",
+      "source" : "46509dcd3019c2be.png",
+      "type" : "image/png",
+      "size" : 469212
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can open the Log In modal and is displayed with the correct fields."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "70e52e93e4c83f9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601107388,
+        "stop" : 1670601116395,
+        "duration" : 9007
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63ee90268672455d.json",
+  "parameterValues" : [ ]
+}

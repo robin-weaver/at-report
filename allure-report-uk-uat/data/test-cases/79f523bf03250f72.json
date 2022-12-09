@@ -1,0 +1,70 @@
+{
+  "uid" : "79f523bf03250f72",
+  "name" : "#5 When the user clicks to link Privacy Policy user should watches the nex chapters.",
+  "fullName" : "Home page => Privacy Policy page.#5 When the user clicks to link Privacy Policy user should watches the nex chapters.",
+  "historyId" : "798a0c9017dffcd4b1e5638afa370c99",
+  "time" : {
+    "start" : 1670585195471,
+    "stop" : 1670585229987,
+    "duration" : 34516
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ec58e68b1214cc33",
+      "name" : "Screenshot",
+      "source" : "ec58e68b1214cc33.png",
+      "type" : "image/png",
+      "size" : 165388
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 When the user clicks to link Privacy Policy user should watches the nex chapters."
+  }, {
+    "name" : "package",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c787ccc65e1543c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582420536,
+        "stop" : 1670582457392,
+        "duration" : 36856
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79f523bf03250f72.json",
+  "parameterValues" : [ ]
+}

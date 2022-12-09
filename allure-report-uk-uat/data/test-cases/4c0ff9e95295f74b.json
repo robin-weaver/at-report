@@ -1,0 +1,86 @@
+{
+  "uid" : "4c0ff9e95295f74b",
+  "name" : "#6 Player can choose 1 week option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#6 Player can choose 1 week option for 'Take A Break' and this option should be selected.",
+  "historyId" : "df62453a2e46fd3965ca9576e6d689da",
+  "time" : {
+    "start" : 1670586111411,
+    "stop" : 1670586134272,
+    "duration" : 22861
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "925933eabaf31457",
+      "name" : "Screenshot",
+      "source" : "925933eabaf31457.png",
+      "type" : "image/png",
+      "size" : 213861
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can choose 1 week option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "155f09922e95453c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585417230,
+        "stop" : 1670585449730,
+        "duration" : 32500
+      }
+    }, {
+      "uid" : "1d56797083a0bae9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583371798,
+        "stop" : 1670583392694,
+        "duration" : 20896
+      }
+    }, {
+      "uid" : "ee63fdfe3e68bb05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582641003,
+        "stop" : 1670582663169,
+        "duration" : 22166
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c0ff9e95295f74b.json",
+  "parameterValues" : [ ]
+}

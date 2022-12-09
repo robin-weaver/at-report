@@ -1,0 +1,87 @@
+{
+  "uid" : "a1184dc57c42e17c",
+  "name" : "#06 User can directed to info page of game after click/taps on hero banner carousel static.",
+  "fullName" : "Live Casino.#06 User can directed to info page of game after click/taps on hero banner carousel static.",
+  "historyId" : "3ee6fb2cecaea50209e0b9e5885572db",
+  "time" : {
+    "start" : 1670585902858,
+    "stop" : 1670585906888,
+    "duration" : 4030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c76f3ae0d61710",
+      "name" : "Screenshot",
+      "source" : "5c76f3ae0d61710.png",
+      "type" : "image/png",
+      "size" : 64449
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 User can directed to info page of game after click/taps on hero banner carousel static."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9a84f82b580cf60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585163339,
+        "stop" : 1670585166560,
+        "duration" : 3221
+      }
+    }, {
+      "uid" : "7de716b61f7d9155",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10004ms",
+      "time" : {
+        "start" : 1670583133351,
+        "stop" : 1670583136826,
+        "duration" : 3475
+      }
+    }, {
+      "uid" : "c246e5672a445417",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582386078,
+        "stop" : 1670582389328,
+        "duration" : 3250
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1184dc57c42e17c.json",
+  "parameterValues" : [ ]
+}

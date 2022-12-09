@@ -1,0 +1,106 @@
+{
+  "uid" : "eee60f73a51c985c",
+  "name" : "#2 Player can cancel out of the Change Password modal.",
+  "fullName" : "My Account > Settings > Change Password.#2 Player can cancel out of the Change Password modal.",
+  "historyId" : "3ee9d717676bbd207be4b895bf1ee52",
+  "time" : {
+    "start" : 1670599157018,
+    "stop" : 1670599167481,
+    "duration" : 10463
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "83e10e339350a3e7",
+      "name" : "Screenshot",
+      "source" : "83e10e339350a3e7.png",
+      "type" : "image/png",
+      "size" : 310254
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can cancel out of the Change Password modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "23b8470f6e4a7b6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670594040537,
+        "stop" : 1670594050848,
+        "duration" : 10311
+      }
+    }, {
+      "uid" : "622bf1c5f09f8127",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10025ms",
+      "time" : {
+        "start" : 1670586046162,
+        "stop" : 1670586063069,
+        "duration" : 16907
+      }
+    }, {
+      "uid" : "7a7a108b0296d861",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10024ms",
+      "time" : {
+        "start" : 1670585423495,
+        "stop" : 1670585441696,
+        "duration" : 18201
+      }
+    }, {
+      "uid" : "7ce617df4a45e827",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10037ms",
+      "time" : {
+        "start" : 1670583250522,
+        "stop" : 1670583268862,
+        "duration" : 18340
+      }
+    }, {
+      "uid" : "67581592a6312572",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10057ms",
+      "time" : {
+        "start" : 1670582634357,
+        "stop" : 1670582651550,
+        "duration" : 17193
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eee60f73a51c985c.json",
+  "parameterValues" : [ ]
+}

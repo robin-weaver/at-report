@@ -1,0 +1,70 @@
+{
+  "uid" : "8e042fa84c4c064b",
+  "name" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "fullName" : "Inbox functionality testing.#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "historyId" : "5a9b2afcfbe345aef727b50819d0ffef",
+  "time" : {
+    "start" : 1670601937922,
+    "stop" : 1670601956447,
+    "duration" : 18525
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dc4e973a914d6b47",
+      "name" : "Screenshot",
+      "source" : "dc4e973a914d6b47.png",
+      "type" : "image/png",
+      "size" : 94264
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e00a5a45c677c8ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601164091,
+        "stop" : 1670601183166,
+        "duration" : 19075
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e042fa84c4c064b.json",
+  "parameterValues" : [ ]
+}

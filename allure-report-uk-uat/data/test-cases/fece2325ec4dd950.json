@@ -1,0 +1,70 @@
+{
+  "uid" : "fece2325ec4dd950",
+  "name" : "#1 User can come to the Eyas Gaming page from Privacy Policy page",
+  "fullName" : "Home page => Privacy Policy page.#1 User can come to the Eyas Gaming page from Privacy Policy page",
+  "historyId" : "74d1e5b8cd02d06de3aa14322db079b",
+  "time" : {
+    "start" : 1670585145591,
+    "stop" : 1670585157948,
+    "duration" : 12357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b52a8c9f172d7a5",
+      "name" : "Screenshot",
+      "source" : "b52a8c9f172d7a5.png",
+      "type" : "image/png",
+      "size" : 1426204
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the Eyas Gaming page from Privacy Policy page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "712d0f4ddbcf2c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582369552,
+        "stop" : 1670582382482,
+        "duration" : 12930
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fece2325ec4dd950.json",
+  "parameterValues" : [ ]
+}

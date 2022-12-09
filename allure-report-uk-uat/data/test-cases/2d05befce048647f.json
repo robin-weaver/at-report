@@ -1,0 +1,86 @@
+{
+  "uid" : "2d05befce048647f",
+  "name" : "#32 Promo title of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#32 Promo title of promotion card is displayed for not login user.",
+  "historyId" : "64a4b5c1a2057cea317fe14d72a7f69",
+  "time" : {
+    "start" : 1670586370890,
+    "stop" : 1670586371817,
+    "duration" : 927
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f3f2a439c7ce6c5",
+      "name" : "Screenshot",
+      "source" : "4f3f2a439c7ce6c5.png",
+      "type" : "image/png",
+      "size" : 754501
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#32 Promo title of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e96fdbc65a63b827",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585735950,
+        "stop" : 1670585736842,
+        "duration" : 892
+      }
+    }, {
+      "uid" : "61b0898e093c5bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583637259,
+        "stop" : 1670583638173,
+        "duration" : 914
+      }
+    }, {
+      "uid" : "bcf6074868a93aff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582960118,
+        "stop" : 1670582961005,
+        "duration" : 887
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d05befce048647f.json",
+  "parameterValues" : [ ]
+}

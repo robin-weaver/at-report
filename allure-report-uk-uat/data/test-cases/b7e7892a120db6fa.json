@@ -1,0 +1,95 @@
+{
+  "uid" : "b7e7892a120db6fa",
+  "name" : "#6 User can come to the GamCare page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#6 User can come to the GamCare page from terms and conditions page",
+  "historyId" : "5bb0fdd73e75ae9289dfe8bc04ef915b",
+  "time" : {
+    "start" : 1670598345556,
+    "stop" : 1670598352324,
+    "duration" : 6768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8583fe39c1711b17",
+      "name" : "Screenshot",
+      "source" : "8583fe39c1711b17.png",
+      "type" : "image/png",
+      "size" : 1334720
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can come to the GamCare page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ccfb5d921bd2ce83",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"https://www.gamcare.org.uk/\"])",
+      "time" : {
+        "start" : 1670585936794,
+        "stop" : 1670585945400,
+        "duration" : 8606
+      }
+    }, {
+      "uid" : "62d587f2e50ac53f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585193929,
+        "stop" : 1670585211066,
+        "duration" : 17137
+      }
+    }, {
+      "uid" : "8a358d71b3c8f23f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583172383,
+        "stop" : 1670583199003,
+        "duration" : 26620
+      }
+    }, {
+      "uid" : "2897aa2903016c41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582420305,
+        "stop" : 1670582440989,
+        "duration" : 20684
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7e7892a120db6fa.json",
+  "parameterValues" : [ ]
+}

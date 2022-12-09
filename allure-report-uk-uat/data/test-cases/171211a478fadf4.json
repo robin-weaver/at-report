@@ -1,0 +1,86 @@
+{
+  "uid" : "171211a478fadf4",
+  "name" : "#51 User see total bonus balance and my bonus activity after clicking on bonus balance.",
+  "fullName" : "Promotions functionality testing. Bonus details testing..#51 User see total bonus balance and my bonus activity after clicking on bonus balance.",
+  "historyId" : "686be21cd759f4c14ed2c6f7c0e29c64",
+  "time" : {
+    "start" : 1670586411526,
+    "stop" : 1670586415097,
+    "duration" : 3571
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "92c5ad33c5a22bcd",
+      "name" : "Screenshot",
+      "source" : "92c5ad33c5a22bcd.png",
+      "type" : "image/png",
+      "size" : 60849
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#51 User see total bonus balance and my bonus activity after clicking on bonus balance."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fac9346b3b8d5b0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585777067,
+        "stop" : 1670585780712,
+        "duration" : 3645
+      }
+    }, {
+      "uid" : "446dd460cc499aee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583677716,
+        "stop" : 1670583681439,
+        "duration" : 3723
+      }
+    }, {
+      "uid" : "cc74307981f1488e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582999593,
+        "stop" : 1670583006842,
+        "duration" : 7249
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "171211a478fadf4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "fa44bce0ba73da6a",
+  "name" : "#12 Player with less than 15 messages should not be able to view more",
+  "fullName" : "Inbox functionality testing.#12 Player with less than 15 messages should not be able to view more",
+  "historyId" : "1aabd36ebba8d262d7b8c0b5128a9e98",
+  "time" : {
+    "start" : 1670602140432,
+    "stop" : 1670602150099,
+    "duration" : 9667
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c010955cc704519d",
+      "name" : "Screenshot",
+      "source" : "c010955cc704519d.png",
+      "type" : "image/png",
+      "size" : 65613
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Player with less than 15 messages should not be able to view more"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1e5cda30b6c60be5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601397462,
+        "stop" : 1670601420095,
+        "duration" : 22633
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa44bce0ba73da6a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "fb01126a96a3a4ff",
+  "name" : "#3 User clicks on \"Be Aware Gambling\" image at Shop Welcome page",
+  "fullName" : "Landing Page/Shop Welcome page.#3 User clicks on \"Be Aware Gambling\" image at Shop Welcome page",
+  "historyId" : "a34aa40fd01b03fccb4d17b9039d10ea",
+  "time" : {
+    "start" : 1670585442169,
+    "stop" : 1670585452550,
+    "duration" : 10381
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ee74dc55ca7286e3",
+      "name" : "Screenshot",
+      "source" : "ee74dc55ca7286e3.png",
+      "type" : "image/png",
+      "size" : 437860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User clicks on \"Be Aware Gambling\" image at Shop Welcome page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "309b36e4f1e26df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583449571,
+        "stop" : 1670583453261,
+        "duration" : 3690
+      }
+    }, {
+      "uid" : "e8cf1db36d0d1f37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582656614,
+        "stop" : 1670582666186,
+        "duration" : 9572
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb01126a96a3a4ff.json",
+  "parameterValues" : [ ]
+}

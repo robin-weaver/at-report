@@ -1,0 +1,62 @@
+{
+  "uid" : "d63db79afaf00304",
+  "name" : "#06 User cannot enter less that 2 characters into step 2 name input fields.",
+  "fullName" : "Registration > Step 2.#06 User cannot enter less that 2 characters into step 2 name input fields.",
+  "historyId" : "3d09a128c40313dc12a4faa79b79b90a",
+  "time" : {
+    "start" : 1670599911086,
+    "stop" : 1670599917718,
+    "duration" : 6632
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4146d913ecf8ec9b",
+      "name" : "Screenshot",
+      "source" : "4146d913ecf8ec9b.png",
+      "type" : "image/png",
+      "size" : 61249
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 User cannot enter less that 2 characters into step 2 name input fields."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d63db79afaf00304.json",
+  "parameterValues" : [ ]
+}

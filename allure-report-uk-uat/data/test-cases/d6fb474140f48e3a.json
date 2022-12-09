@@ -1,0 +1,78 @@
+{
+  "uid" : "d6fb474140f48e3a",
+  "name" : "#6 User can click on the WELCOME BONUS FULL TERMS AND CONDITIONS",
+  "fullName" : "Landing Page/Welcome Games page.#6 User can click on the WELCOME BONUS FULL TERMS AND CONDITIONS",
+  "historyId" : "1d592263c08e4e1af12448fc7d253dc",
+  "time" : {
+    "start" : 1670585299613,
+    "stop" : 1670585308008,
+    "duration" : 8395
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c8910b429a8f3f3",
+      "name" : "Screenshot",
+      "source" : "3c8910b429a8f3f3.png",
+      "type" : "image/png",
+      "size" : 139253
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can click on the WELCOME BONUS FULL TERMS AND CONDITIONS"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ab894dd03f035424",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583324743,
+        "stop" : 1670583333990,
+        "duration" : 9247
+      }
+    }, {
+      "uid" : "f37eb768031d2f5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582510722,
+        "stop" : 1670582519310,
+        "duration" : 8588
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6fb474140f48e3a.json",
+  "parameterValues" : [ ]
+}

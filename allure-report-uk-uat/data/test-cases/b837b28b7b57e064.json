@@ -1,0 +1,78 @@
+{
+  "uid" : "b837b28b7b57e064",
+  "name" : "#7 User can come to the \"Be Gambling Aware\" site from the Welcome Offer page",
+  "fullName" : "Landing Page/Welcome Offer page.#7 User can come to the \"Be Gambling Aware\" site from the Welcome Offer page",
+  "historyId" : "47b113a14f7151b5f759d100cb7b317b",
+  "time" : {
+    "start" : 1670585206273,
+    "stop" : 1670585216463,
+    "duration" : 10190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a536d00731de7e0d",
+      "name" : "Screenshot",
+      "source" : "a536d00731de7e0d.png",
+      "type" : "image/png",
+      "size" : 437860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User can come to the \"Be Gambling Aware\" site from the Welcome Offer page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a5af4f24a0bd04ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583209462,
+        "stop" : 1670583223460,
+        "duration" : 13998
+      }
+    }, {
+      "uid" : "28d5f2c26380184a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582436436,
+        "stop" : 1670582445088,
+        "duration" : 8652
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b837b28b7b57e064.json",
+  "parameterValues" : [ ]
+}

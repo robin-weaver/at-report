@@ -1,0 +1,78 @@
+{
+  "uid" : "b548e549f3636998",
+  "name" : "#9 User can come to the Terms & Conditions page from the Welcome Offer page",
+  "fullName" : "Landing Page/Welcome Offer page.#9 User can come to the Terms & Conditions page from the Welcome Offer page",
+  "historyId" : "d07d778a2df9e2149e44de302542df1d",
+  "time" : {
+    "start" : 1670585231217,
+    "stop" : 1670585245563,
+    "duration" : 14346
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ddcffe4199551153",
+      "name" : "Screenshot",
+      "source" : "ddcffe4199551153.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can come to the Terms & Conditions page from the Welcome Offer page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b9cf66683933bd00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583236391,
+        "stop" : 1670583249215,
+        "duration" : 12824
+      }
+    }, {
+      "uid" : "f23ec1a2250a66a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582453807,
+        "stop" : 1670582461411,
+        "duration" : 7604
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b548e549f3636998.json",
+  "parameterValues" : [ ]
+}

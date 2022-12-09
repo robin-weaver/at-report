@@ -1,0 +1,86 @@
+{
+  "uid" : "39c610af98d2fc2b",
+  "name" : "#11 Player can uneselect just text preferences using the text toggle (text already toggled on), which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#11 Player can uneselect just text preferences using the text toggle (text already toggled on), which upon saving updates the account area accordingly",
+  "historyId" : "16ae5be1739cb30b45196b2040c7fae8",
+  "time" : {
+    "start" : 1670586226461,
+    "stop" : 1670586243683,
+    "duration" : 17222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a2e22d261ba1784",
+      "name" : "Screenshot",
+      "source" : "3a2e22d261ba1784.png",
+      "type" : "image/png",
+      "size" : 313195
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Player can uneselect just text preferences using the text toggle (text already toggled on), which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4897f8eab74f5399",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585621503,
+        "stop" : 1670585644574,
+        "duration" : 23071
+      }
+    }, {
+      "uid" : "fa659590c70724bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583513613,
+        "stop" : 1670583529434,
+        "duration" : 15821
+      }
+    }, {
+      "uid" : "759a4757d56848e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582850223,
+        "stop" : 1670582875166,
+        "duration" : 24943
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39c610af98d2fc2b.json",
+  "parameterValues" : [ ]
+}

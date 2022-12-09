@@ -1,0 +1,98 @@
+{
+  "uid" : "6d2451fd5211746a",
+  "name" : "#4 The details balance card is dismissed when the user clicks it",
+  "fullName" : "Homepage.#4 The details balance card is dismissed when the user clicks it",
+  "historyId" : "d1e8c999ab0d2303e8e93da21ba0a578",
+  "time" : {
+    "start" : 1670594479667,
+    "stop" : 1670594489144,
+    "duration" : 9477
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7e291539046e5d9",
+      "name" : "Screenshot",
+      "source" : "7e291539046e5d9.png",
+      "type" : "image/png",
+      "size" : 545746
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 The details balance card is dismissed when the user clicks it"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d35ef01ef27ab610",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10059ms",
+      "time" : {
+        "start" : 1670585914812,
+        "stop" : 1670585930462,
+        "duration" : 15650
+      }
+    }, {
+      "uid" : "89ddd3885cbbcfc4",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10015ms",
+      "time" : {
+        "start" : 1670585174791,
+        "stop" : 1670585192138,
+        "duration" : 17347
+      }
+    }, {
+      "uid" : "2803486aa8b4b967",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10017ms",
+      "time" : {
+        "start" : 1670583154799,
+        "stop" : 1670583172447,
+        "duration" : 17648
+      }
+    }, {
+      "uid" : "ef982b999b61499f",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10013ms",
+      "time" : {
+        "start" : 1670582401453,
+        "stop" : 1670582417957,
+        "duration" : 16504
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d2451fd5211746a.json",
+  "parameterValues" : [ ]
+}

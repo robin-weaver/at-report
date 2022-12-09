@@ -1,0 +1,101 @@
+{
+  "uid" : "207eb0b54ef3b622",
+  "name" : "#1 User can navigates to the slots page and all elements are persisted on the page",
+  "fullName" : "Slots page.#1 User can navigates to the slots page and all elements are persisted on the page",
+  "historyId" : "8d9a50ea6f6030768f51e9fb177cf530",
+  "time" : {
+    "start" : 1670585947562,
+    "stop" : 1670585952986,
+    "duration" : 5424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670585947563,
+        "stop" : 1670585951747,
+        "duration" : 4184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ddb82aa35abdf2a",
+      "name" : "Screenshot",
+      "source" : "ddb82aa35abdf2a.png",
+      "type" : "image/png",
+      "size" : 548670
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can navigates to the slots page and all elements are persisted on the page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e82e82b1914d578c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585547251,
+        "stop" : 1670585551701,
+        "duration" : 4450
+      }
+    }, {
+      "uid" : "4c905aa8cdb42e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583160515,
+        "stop" : 1670583168345,
+        "duration" : 7830
+      }
+    }, {
+      "uid" : "2d9b69385a46ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582736445,
+        "stop" : 1670582740600,
+        "duration" : 4155
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "207eb0b54ef3b622.json",
+  "parameterValues" : [ ]
+}

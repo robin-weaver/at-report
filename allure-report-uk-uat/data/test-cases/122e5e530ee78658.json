@@ -1,0 +1,78 @@
+{
+  "uid" : "122e5e530ee78658",
+  "name" : "#3 User clicks on \"Be Aware Gambling\" image at Welcome Games page",
+  "fullName" : "Landing Page/Welcome Games page.#3 User clicks on \"Be Aware Gambling\" image at Welcome Games page",
+  "historyId" : "b00c869c385bcab0c04ff7e1d260584e",
+  "time" : {
+    "start" : 1670585263114,
+    "stop" : 1670585272904,
+    "duration" : 9790
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "19415544171654c1",
+      "name" : "Screenshot",
+      "source" : "19415544171654c1.png",
+      "type" : "image/png",
+      "size" : 437860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User clicks on \"Be Aware Gambling\" image at Welcome Games page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1b6d314959e37b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583271445,
+        "stop" : 1670583300351,
+        "duration" : 28906
+      }
+    }, {
+      "uid" : "4c6dbac553ec8c74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582476576,
+        "stop" : 1670582484397,
+        "duration" : 7821
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "122e5e530ee78658.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "e0c97258297b5282",
+  "name" : "#6 Check user is able to select Sofort payment method and is provided with the correct information for this payment method ",
+  "fullName" : "My Account -> Deposit.#6 Check user is able to select Sofort payment method and is provided with the correct information for this payment method ",
+  "historyId" : "8b427abe570be11de51376acaea7839",
+  "time" : {
+    "start" : 1670582637479,
+    "stop" : 1670582657260,
+    "duration" : 19781
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "760e821ab4834eeb",
+      "name" : "Screenshot",
+      "source" : "760e821ab4834eeb.png",
+      "type" : "image/png",
+      "size" : 134894
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Check user is able to select Sofort payment method and is provided with the correct information for this payment method "
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0c97258297b5282.json",
+  "parameterValues" : [ ]
+}

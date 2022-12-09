@@ -1,0 +1,98 @@
+{
+  "uid" : "8fec4ad616eae7b5",
+  "name" : "#1 Deep link to edit phone opens when logged in",
+  "fullName" : "Deep Link -> Edit Phone.#1 Deep link to edit phone opens when logged in",
+  "historyId" : "996f912327078c0eaf13bea6e24718cb",
+  "time" : {
+    "start" : 1670598535343,
+    "stop" : 1670598548303,
+    "duration" : 12960
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6005a544943fec7b",
+      "name" : "Screenshot",
+      "source" : "6005a544943fec7b.png",
+      "type" : "image/png",
+      "size" : 261811
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to edit phone opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30029d94a92b895a",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10002ms",
+      "time" : {
+        "start" : 1670585870520,
+        "stop" : 1670585892893,
+        "duration" : 22373
+      }
+    }, {
+      "uid" : "d82b9f91ca80b443",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10002ms",
+      "time" : {
+        "start" : 1670585228312,
+        "stop" : 1670585246502,
+        "duration" : 18190
+      }
+    }, {
+      "uid" : "fff1dcf269defaaf",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20555ms",
+      "time" : {
+        "start" : 1670583109412,
+        "stop" : 1670583147963,
+        "duration" : 38551
+      }
+    }, {
+      "uid" : "7f486350db203b65",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10010ms",
+      "time" : {
+        "start" : 1670582445552,
+        "stop" : 1670582462718,
+        "duration" : 17166
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fec4ad616eae7b5.json",
+  "parameterValues" : [ ]
+}

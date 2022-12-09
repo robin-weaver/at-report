@@ -1,0 +1,98 @@
+{
+  "uid" : "85b8b9d19bdcaa0f",
+  "name" : "#2 Deep link to change password open login when not logged in before change password",
+  "fullName" : "Deep Link -> Edit Phone.#2 Deep link to change password open login when not logged in before change password",
+  "historyId" : "517343cbb1cb8c89487c5a4cb85c616c",
+  "time" : {
+    "start" : 1670598548303,
+    "stop" : 1670598560718,
+    "duration" : 12415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "62f7110d36833aed",
+      "name" : "Screenshot",
+      "source" : "62f7110d36833aed.png",
+      "type" : "image/png",
+      "size" : 255184
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to change password open login when not logged in before change password"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "988b047de543337b",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10002ms",
+      "time" : {
+        "start" : 1670585892893,
+        "stop" : 1670585913970,
+        "duration" : 21077
+      }
+    }, {
+      "uid" : "96bd4cd7970916fc",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10002ms",
+      "time" : {
+        "start" : 1670585246502,
+        "stop" : 1670585269119,
+        "duration" : 22617
+      }
+    }, {
+      "uid" : "88ca3db7a176b78e",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20555ms",
+      "time" : {
+        "start" : 1670583147963,
+        "stop" : 1670583182167,
+        "duration" : 34204
+      }
+    }, {
+      "uid" : "18cf1f25233b9773",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10010ms",
+      "time" : {
+        "start" : 1670582462719,
+        "stop" : 1670582484475,
+        "duration" : 21756
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85b8b9d19bdcaa0f.json",
+  "parameterValues" : [ ]
+}

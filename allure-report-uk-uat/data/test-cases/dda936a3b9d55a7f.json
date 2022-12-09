@@ -1,0 +1,94 @@
+{
+  "uid" : "dda936a3b9d55a7f",
+  "name" : "#3 User can come to the Gambling commission page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#3 User can come to the Gambling commission page from terms and conditions page",
+  "historyId" : "29bf73fa7b84606cc680492bc554cbf2",
+  "time" : {
+    "start" : 1670598335869,
+    "stop" : 1670598339904,
+    "duration" : 4035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "db59e7f0e5d4308",
+      "name" : "Screenshot",
+      "source" : "db59e7f0e5d4308.png",
+      "type" : "image/png",
+      "size" : 213107
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gambling commission page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e25cfa7962fbe20a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585905409,
+        "stop" : 1670585917106,
+        "duration" : 11697
+      }
+    }, {
+      "uid" : "4c5b85c13f256fdc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585168399,
+        "stop" : 1670585176836,
+        "duration" : 8437
+      }
+    }, {
+      "uid" : "7c83680333ebf2b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583136078,
+        "stop" : 1670583154267,
+        "duration" : 18189
+      }
+    }, {
+      "uid" : "3861368cb4a5c8a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582388766,
+        "stop" : 1670582404536,
+        "duration" : 15770
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dda936a3b9d55a7f.json",
+  "parameterValues" : [ ]
+}

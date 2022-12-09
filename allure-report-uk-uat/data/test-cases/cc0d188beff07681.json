@@ -1,0 +1,94 @@
+{
+  "uid" : "cc0d188beff07681",
+  "name" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "historyId" : "58cf9e88f3bbcaed34421f8f79f089b4",
+  "time" : {
+    "start" : 1670598406016,
+    "stop" : 1670598408133,
+    "duration" : 2117
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6a5f35fa54398f15",
+      "name" : "Screenshot",
+      "source" : "6a5f35fa54398f15.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9fe844ad7cc2e819",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670586091232,
+        "stop" : 1670586097239,
+        "duration" : 6007
+      }
+    }, {
+      "uid" : "dfdfcfbcbc2622f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585382730,
+        "stop" : 1670585386951,
+        "duration" : 4221
+      }
+    }, {
+      "uid" : "8c41cd7e23f1c587",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583391113,
+        "stop" : 1670583395549,
+        "duration" : 4436
+      }
+    }, {
+      "uid" : "b89562acb9e43afd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582593750,
+        "stop" : 1670582600400,
+        "duration" : 6650
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc0d188beff07681.json",
+  "parameterValues" : [ ]
+}

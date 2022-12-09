@@ -1,0 +1,78 @@
+{
+  "uid" : "8c675957df4c96b9",
+  "name" : "#8 User can come to the Promotion page from the Welcome Games page",
+  "fullName" : "Landing Page/Welcome Games page.#8 User can come to the Promotion page from the Welcome Games page",
+  "historyId" : "9fc12f6c98fc4fc77ada59dc8447d3b3",
+  "time" : {
+    "start" : 1670585317920,
+    "stop" : 1670585327931,
+    "duration" : 10011
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "925f7e26cd57f1ee",
+      "name" : "Screenshot",
+      "source" : "925f7e26cd57f1ee.png",
+      "type" : "image/png",
+      "size" : 7873
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can come to the Promotion page from the Welcome Games page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cba370d564229b5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583346968,
+        "stop" : 1670583355773,
+        "duration" : 8805
+      }
+    }, {
+      "uid" : "76f4ddd677d7b7f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582528705,
+        "stop" : 1670582537145,
+        "duration" : 8440
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c675957df4c96b9.json",
+  "parameterValues" : [ ]
+}

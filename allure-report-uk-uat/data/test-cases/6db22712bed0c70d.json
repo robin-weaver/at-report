@@ -1,0 +1,78 @@
+{
+  "uid" : "6db22712bed0c70d",
+  "name" : "#5 User try to click on PLAY CTA of Popular game at Welcome Offer page",
+  "fullName" : "Landing Page/Welcome Offer page.#5 User try to click on PLAY CTA of Popular game at Welcome Offer page",
+  "historyId" : "3876acf51533fbc9c3a5c414f122d93f",
+  "time" : {
+    "start" : 1670585183739,
+    "stop" : 1670585199625,
+    "duration" : 15886
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "51132a693feb6865",
+      "name" : "Screenshot",
+      "source" : "51132a693feb6865.png",
+      "type" : "image/png",
+      "size" : 380739
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User try to click on PLAY CTA of Popular game at Welcome Offer page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Offer page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c96ee882e26de636",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583185774,
+        "stop" : 1670583202407,
+        "duration" : 16633
+      }
+    }, {
+      "uid" : "351bae83349a313f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582415175,
+        "stop" : 1670582429631,
+        "duration" : 14456
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6db22712bed0c70d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,87 @@
+{
+  "uid" : "e12db5c8d9d40aa1",
+  "name" : "#1 Deep link to deposit limits opens when logged in",
+  "fullName" : "Deep Link -> Deposit Limits.#1 Deep link to deposit limits opens when logged in",
+  "historyId" : "a94888485e843689a2b928c0b1b949b3",
+  "time" : {
+    "start" : 1670598535564,
+    "stop" : 1670598548499,
+    "duration" : 12935
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fbbc6474d23442d3",
+      "name" : "Screenshot",
+      "source" : "fbbc6474d23442d3.png",
+      "type" : "image/png",
+      "size" : 218397
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Deposit Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Deposit Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to deposit limits opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Deposit Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "570fe8f7c31d7bc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585867414,
+        "stop" : 1670585893796,
+        "duration" : 26382
+      }
+    }, {
+      "uid" : "16edf7088829a529",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .modal)",
+      "time" : {
+        "start" : 1670585179184,
+        "stop" : 1670585199503,
+        "duration" : 20319
+      }
+    }, {
+      "uid" : "7729519ed25724e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582410316,
+        "stop" : 1670582429141,
+        "duration" : 18825
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e12db5c8d9d40aa1.json",
+  "parameterValues" : [ ]
+}

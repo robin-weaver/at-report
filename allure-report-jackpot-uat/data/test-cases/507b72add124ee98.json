@@ -1,0 +1,71 @@
+{
+  "uid" : "507b72add124ee98",
+  "name" : "#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal.",
+  "historyId" : "c30eca13002de236eb57886adcf90055",
+  "time" : {
+    "start" : 1670601830230,
+    "stop" : 1670601862600,
+    "duration" : 32370
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ded955b5397c7d6",
+      "name" : "Screenshot",
+      "source" : "2ded955b5397c7d6.png",
+      "type" : "image/png",
+      "size" : 239488
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3f752a4ed0b2906a",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10006ms",
+      "time" : {
+        "start" : 1670601197651,
+        "stop" : 1670601234758,
+        "duration" : 37107
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "507b72add124ee98.json",
+  "parameterValues" : [ ]
+}

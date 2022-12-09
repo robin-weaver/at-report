@@ -1,0 +1,70 @@
+{
+  "uid" : "a7a9eb9bfa1304b5",
+  "name" : "#10 User can click and view the T&Cs.",
+  "fullName" : "Registration > Step 4.#10 User can click and view the T&Cs.",
+  "historyId" : "1fbe2b7eb3656bd2d385424a41bfcd19",
+  "time" : {
+    "start" : 1670600363512,
+    "stop" : 1670600379339,
+    "duration" : 15827
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1142e6e6b2e259a4",
+      "name" : "Screenshot",
+      "source" : "1142e6e6b2e259a4.png",
+      "type" : "image/png",
+      "size" : 62941
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User can click and view the T&Cs."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30e91b0c21581d34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670599997398,
+        "stop" : 1670600011794,
+        "duration" : 14396
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7a9eb9bfa1304b5.json",
+  "parameterValues" : [ ]
+}

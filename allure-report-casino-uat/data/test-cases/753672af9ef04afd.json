@@ -1,0 +1,64 @@
+{
+  "uid" : "753672af9ef04afd",
+  "name" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "historyId" : "4a3dd9a35dd9d6ab3052dc1b2665b641",
+  "time" : {
+    "start" : 1670600013990,
+    "stop" : 1670600032662,
+    "duration" : 18672
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "StaleElementReferenceError: stale element reference: element is not attached to the page document\n                  (Session info: headless chrome=108.0.5359.73)\n                For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.97', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown",
+  "statusTrace" : "StaleElementReferenceError: stale element reference: element is not attached to the page document\n                  (Session info: headless chrome=108.0.5359.73)\n                For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.97', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: WebElement.getText()\n                    at thenableWebDriverProxy.schedule (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at WebElement.schedule_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n                    at WebElement.getText (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2277:17)\n                    at actionFn (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:89:44)\n                    at Array.map (<anonymous>)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:461:65\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as getText] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as getText] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\unsubscribe\\unsubscribe.spec.js:298:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "StaleElementReferenceError: stale element reference: element is not attached to the page document\n                  (Session info: headless chrome=108.0.5359.73)\n                For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.97', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown",
+    "statusTrace" : "StaleElementReferenceError: stale element reference: element is not attached to the page document\n                  (Session info: headless chrome=108.0.5359.73)\n                For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.97', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: WebElement.getText()\n                    at thenableWebDriverProxy.schedule (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at WebElement.schedule_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n                    at WebElement.getText (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2277:17)\n                    at actionFn (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:89:44)\n                    at Array.map (<anonymous>)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:461:65\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as getText] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as getText] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\unsubscribe\\unsubscribe.spec.js:298:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0a67c6ad0f98800",
+      "name" : "Screenshot",
+      "source" : "a0a67c6ad0f98800.png",
+      "type" : "image/png",
+      "size" : 61595
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "753672af9ef04afd.json",
+  "parameterValues" : [ ]
+}

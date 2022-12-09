@@ -1,0 +1,70 @@
+{
+  "uid" : "e18699ec0b5de467",
+  "name" : "#2 User can click on ‘I’ve changed my mind’ button and go to home page.",
+  "fullName" : "UnsubscribePage.#2 User can click on ‘I’ve changed my mind’ button and go to home page.",
+  "historyId" : "e73b5569f53ccb75cdb1aeb8a68e6e0b",
+  "time" : {
+    "start" : 1670585618213,
+    "stop" : 1670585631349,
+    "duration" : 13136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "91f423573914508b",
+      "name" : "Screenshot",
+      "source" : "91f423573914508b.png",
+      "type" : "image/png",
+      "size" : 798332
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can click on ‘I’ve changed my mind’ button and go to home page."
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "754546ebe7dd10cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582787224,
+        "stop" : 1670582803280,
+        "duration" : 16056
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e18699ec0b5de467.json",
+  "parameterValues" : [ ]
+}

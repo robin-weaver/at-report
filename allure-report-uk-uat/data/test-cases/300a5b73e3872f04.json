@@ -1,0 +1,87 @@
+{
+  "uid" : "300a5b73e3872f04",
+  "name" : "#15 User has logged in, card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then user go to the game.",
+  "fullName" : "Live Casino.#15 User has logged in, card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then user go to the game.",
+  "historyId" : "1396fba2c03257f71f09c6284da67854",
+  "time" : {
+    "start" : 1670585942355,
+    "stop" : 1670585956869,
+    "duration" : 14514
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b24c50b642227e01",
+      "name" : "Screenshot",
+      "source" : "b24c50b642227e01.png",
+      "type" : "image/png",
+      "size" : 8453
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User has logged in, card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then user go to the game."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1e38e7dd900d239",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585198047,
+        "stop" : 1670585210470,
+        "duration" : 12423
+      }
+    }, {
+      "uid" : "724df451d4279726",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10004ms",
+      "time" : {
+        "start" : 1670583171358,
+        "stop" : 1670583185379,
+        "duration" : 14021
+      }
+    }, {
+      "uid" : "b176877980c25422",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582417149,
+        "stop" : 1670582429923,
+        "duration" : 12774
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "300a5b73e3872f04.json",
+  "parameterValues" : [ ]
+}

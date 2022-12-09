@@ -1,0 +1,62 @@
+{
+  "uid" : "dcfe0d7b23933dd2",
+  "name" : "#02 Email Address is a mandatory field.",
+  "fullName" : "Log In.#02 Email Address is a mandatory field.",
+  "historyId" : "9ad481ae8faddb94d28df552f7ea7680",
+  "time" : {
+    "start" : 1670599662216,
+    "stop" : 1670599671628,
+    "duration" : 9412
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9047c4da5c7c94b",
+      "name" : "Screenshot",
+      "source" : "9047c4da5c7c94b.png",
+      "type" : "image/png",
+      "size" : 470782
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Email Address is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcfe0d7b23933dd2.json",
+  "parameterValues" : [ ]
+}

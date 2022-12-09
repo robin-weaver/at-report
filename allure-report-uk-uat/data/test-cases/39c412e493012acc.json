@@ -1,0 +1,87 @@
+{
+  "uid" : "39c412e493012acc",
+  "name" : "#23 User can click on the terms and conditions link and the terms and all sections of conditions are displayed for deposit bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#23 User can click on the terms and conditions link and the terms and all sections of conditions are displayed for deposit bonus.",
+  "historyId" : "ffd145ef5c9a4a92d3992f84ef22aafa",
+  "time" : {
+    "start" : 1670586324140,
+    "stop" : 1670586336215,
+    "duration" : 12075
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0306d287fa709ac",
+      "name" : "Screenshot",
+      "source" : "a0306d287fa709ac.png",
+      "type" : "image/png",
+      "size" : 544131
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#23 User can click on the terms and conditions link and the terms and all sections of conditions are displayed for deposit bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4421c365bd21e00e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10000ms",
+      "time" : {
+        "start" : 1670585693191,
+        "stop" : 1670585705465,
+        "duration" : 12274
+      }
+    }, {
+      "uid" : "9940bf5974715ab6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583588629,
+        "stop" : 1670583607245,
+        "duration" : 18616
+      }
+    }, {
+      "uid" : "5ce60eea2418452e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582912932,
+        "stop" : 1670582925194,
+        "duration" : 12262
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39c412e493012acc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "9f0dffd05b3bb685",
+  "name" : "#30 Promo image of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#30 Promo image of promotion card is displayed for not login user.",
+  "historyId" : "afe7bc43ea0445be0e70ac161da26cdb",
+  "time" : {
+    "start" : 1670602361287,
+    "stop" : 1670602362252,
+    "duration" : 965
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "852bb7c5e80bf46a",
+      "name" : "Screenshot",
+      "source" : "852bb7c5e80bf46a.png",
+      "type" : "image/png",
+      "size" : 745435
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#30 Promo image of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "23deb5b98a6696e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601707510,
+        "stop" : 1670601708464,
+        "duration" : 954
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f0dffd05b3bb685.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,87 @@
+{
+  "uid" : "76eb00a0987e1dbf",
+  "name" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "historyId" : "84e5664ee9d6150c3faf5301b9d6db87",
+  "time" : {
+    "start" : 1670586116277,
+    "stop" : 1670586137049,
+    "duration" : 20772
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c72beacd451bfe62",
+      "name" : "Screenshot",
+      "source" : "c72beacd451bfe62.png",
+      "type" : "image/png",
+      "size" : 310932
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7110c274d8c315f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585490722,
+        "stop" : 1670585512034,
+        "duration" : 21312
+      }
+    }, {
+      "uid" : "d54d2a970ad21e7c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1670583418423,
+        "stop" : 1670583427229,
+        "duration" : 8806
+      }
+    }, {
+      "uid" : "7a9ddfa11beca1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582721052,
+        "stop" : 1670582743998,
+        "duration" : 22946
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76eb00a0987e1dbf.json",
+  "parameterValues" : [ ]
+}

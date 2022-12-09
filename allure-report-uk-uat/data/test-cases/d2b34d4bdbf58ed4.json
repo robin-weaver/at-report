@@ -1,0 +1,86 @@
+{
+  "uid" : "d2b34d4bdbf58ed4",
+  "name" : "#15 Phone Number is a mandatory field.",
+  "fullName" : "Registration > Step 3.#15 Phone Number is a mandatory field.",
+  "historyId" : "fae24b4310599bdb641466d5a7dfe389",
+  "time" : {
+    "start" : 1670586151331,
+    "stop" : 1670586158678,
+    "duration" : 7347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d6b1724d1f45169c",
+      "name" : "Screenshot",
+      "source" : "d6b1724d1f45169c.png",
+      "type" : "image/png",
+      "size" : 406319
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Phone Number is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "abf04c0d06d97b63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585649382,
+        "stop" : 1670585658209,
+        "duration" : 8827
+      }
+    }, {
+      "uid" : "b3aea58d272cd44e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583393158,
+        "stop" : 1670583401473,
+        "duration" : 8315
+      }
+    }, {
+      "uid" : "33291391ed6feac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582855364,
+        "stop" : 1670582865898,
+        "duration" : 10534
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2b34d4bdbf58ed4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "8582fefe18dd6d26",
+  "name" : "#44 User can see list of promotions after click Back button from more info details.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#44 User can see list of promotions after click Back button from more info details.",
+  "historyId" : "9608a6f707e523047b8e1e692863b70c",
+  "time" : {
+    "start" : 1670602379693,
+    "stop" : 1670602383936,
+    "duration" : 4243
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2f55c4e5c208abba",
+      "name" : "Screenshot",
+      "source" : "2f55c4e5c208abba.png",
+      "type" : "image/png",
+      "size" : 745426
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#44 User can see list of promotions after click Back button from more info details."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "102dfd70da4eaef1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601725704,
+        "stop" : 1670601730018,
+        "duration" : 4314
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8582fefe18dd6d26.json",
+  "parameterValues" : [ ]
+}

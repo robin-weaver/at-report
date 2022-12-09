@@ -1,0 +1,78 @@
+{
+  "uid" : "3c5b5b2cfa81e57d",
+  "name" : "#4 User clicks on \"Be Aware Gambling\" link at Welcome Casino page",
+  "fullName" : "Landing Page/Welcome Casino page.#4 User clicks on \"Be Aware Gambling\" link at Welcome Casino page",
+  "historyId" : "b8b9ebf7328626396ab294d196fc7268",
+  "time" : {
+    "start" : 1670585362643,
+    "stop" : 1670585373875,
+    "duration" : 11232
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "90afb1d03430473b",
+      "name" : "Screenshot",
+      "source" : "90afb1d03430473b.png",
+      "type" : "image/png",
+      "size" : 437860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Casino page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Casino page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User clicks on \"Be Aware Gambling\" link at Welcome Casino page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Casino page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "929a4cdae8f528eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583394976,
+        "stop" : 1670583405914,
+        "duration" : 10938
+      }
+    }, {
+      "uid" : "5e74fd0c88dcea38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582572387,
+        "stop" : 1670582584019,
+        "duration" : 11632
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c5b5b2cfa81e57d.json",
+  "parameterValues" : [ ]
+}

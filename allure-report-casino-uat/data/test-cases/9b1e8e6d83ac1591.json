@@ -1,0 +1,70 @@
+{
+  "uid" : "9b1e8e6d83ac1591",
+  "name" : "#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly",
+  "historyId" : "f86776e5eab4ed884e7690b16ff35a50",
+  "time" : {
+    "start" : 1670600333704,
+    "stop" : 1670600352355,
+    "duration" : 18651
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e0fe1c1c57a1d252",
+      "name" : "Screenshot",
+      "source" : "e0fe1c1c57a1d252.png",
+      "type" : "image/png",
+      "size" : 346742
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can edit their preferences and select just the Text toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "721309ccd6958eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670599903398,
+        "stop" : 1670599919630,
+        "duration" : 16232
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b1e8e6d83ac1591.json",
+  "parameterValues" : [ ]
+}

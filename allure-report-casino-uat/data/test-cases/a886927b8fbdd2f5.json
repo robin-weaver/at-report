@@ -1,0 +1,60 @@
+{
+  "uid" : "a886927b8fbdd2f5",
+  "name" : "#06 Post Code field is a mandatory field.",
+  "fullName" : "Registration > Step 3.#06 Post Code field is a mandatory field.",
+  "historyId" : "3fa9c457a15bf5f69fb148298e3620c",
+  "time" : {
+    "start" : 1670599966972,
+    "stop" : 1670599976401,
+    "duration" : 9429
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "993a454c38471915",
+      "name" : "Screenshot",
+      "source" : "993a454c38471915.png",
+      "type" : "image/png",
+      "size" : 74237
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Post Code field is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a886927b8fbdd2f5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "a943c361f379fa5e",
+  "name" : "#32 Promo title of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#32 Promo title of promotion card is displayed for not login user.",
+  "historyId" : "64a4b5c1a2057cea317fe14d72a7f69",
+  "time" : {
+    "start" : 1670602363255,
+    "stop" : 1670602364205,
+    "duration" : 950
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d692b7ffc9d5c82e",
+      "name" : "Screenshot",
+      "source" : "d692b7ffc9d5c82e.png",
+      "type" : "image/png",
+      "size" : 745435
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#32 Promo title of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "374dd3d74c205657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601709464,
+        "stop" : 1670601710411,
+        "duration" : 947
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a943c361f379fa5e.json",
+  "parameterValues" : [ ]
+}

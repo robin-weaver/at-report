@@ -1,0 +1,94 @@
+{
+  "uid" : "7a0c20f5bf1536a4",
+  "name" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "historyId" : "5c6d4a79756cd2009b476db1915ee67f",
+  "time" : {
+    "start" : 1670598380600,
+    "stop" : 1670598382883,
+    "duration" : 2283
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "21c7bf49bc83bbad",
+      "name" : "Screenshot",
+      "source" : "21c7bf49bc83bbad.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bce5c9510244ae8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670586019782,
+        "stop" : 1670586027131,
+        "duration" : 7349
+      }
+    }, {
+      "uid" : "586a88efd0077555",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585308258,
+        "stop" : 1670585316021,
+        "duration" : 7763
+      }
+    }, {
+      "uid" : "dfb7cf3c850357b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583309134,
+        "stop" : 1670583315406,
+        "duration" : 6272
+      }
+    }, {
+      "uid" : "8dabb5e60844cb9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582519059,
+        "stop" : 1670582526351,
+        "duration" : 7292
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a0c20f5bf1536a4.json",
+  "parameterValues" : [ ]
+}

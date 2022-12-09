@@ -1,0 +1,71 @@
+{
+  "uid" : "f430650208d6bfe7",
+  "name" : "#6 Player can successfully set a 'Time Limit'.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#6 Player can successfully set a 'Time Limit'.",
+  "historyId" : "7ae3a999491e2aef0eb2777c8774be5e",
+  "time" : {
+    "start" : 1670601997631,
+    "stop" : 1670602044539,
+    "duration" : 46908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f419232ace30eec",
+      "name" : "Screenshot",
+      "source" : "7f419232ace30eec.png",
+      "type" : "image/png",
+      "size" : 331258
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can successfully set a 'Time Limit'."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "deec12f9ddd46ad5",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10006ms",
+      "time" : {
+        "start" : 1670601387816,
+        "stop" : 1670601428395,
+        "duration" : 40579
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f430650208d6bfe7.json",
+  "parameterValues" : [ ]
+}

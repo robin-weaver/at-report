@@ -1,0 +1,70 @@
+{
+  "uid" : "6f2fc91d2a8a3dac",
+  "name" : "#05 User can select the 'Login' button on the 'Account already exists' drawer and is displayed the Login form.",
+  "fullName" : "Registration > Step 1.#05 User can select the 'Login' button on the 'Account already exists' drawer and is displayed the Login form.",
+  "historyId" : "d4e168b31535df3dea01f364db6c9c5f",
+  "time" : {
+    "start" : 1670585512786,
+    "stop" : 1670585521006,
+    "duration" : 8220
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d484fa2b5758deb9",
+      "name" : "Screenshot",
+      "source" : "d484fa2b5758deb9.png",
+      "type" : "image/png",
+      "size" : 166403
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 User can select the 'Login' button on the 'Account already exists' drawer and is displayed the Login form."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c2bbe39beccfd125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582698831,
+        "stop" : 1670582706660,
+        "duration" : 7829
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f2fc91d2a8a3dac.json",
+  "parameterValues" : [ ]
+}

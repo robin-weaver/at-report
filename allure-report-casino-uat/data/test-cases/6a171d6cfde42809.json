@@ -1,0 +1,70 @@
+{
+  "uid" : "6a171d6cfde42809",
+  "name" : "#25 User can make bonus deposit.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#25 User can make bonus deposit.",
+  "historyId" : "5ae4f5b2b5f347aedf001cc9cec50c0",
+  "time" : {
+    "start" : 1670600642450,
+    "stop" : 1670600657083,
+    "duration" : 14633
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6da9ab0c87ee00f8",
+      "name" : "Screenshot",
+      "source" : "6da9ab0c87ee00f8.png",
+      "type" : "image/png",
+      "size" : 290912
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#25 User can make bonus deposit."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "819c28a323ad1554",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670600180510,
+        "stop" : 1670600193466,
+        "duration" : 12956
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a171d6cfde42809.json",
+  "parameterValues" : [ ]
+}

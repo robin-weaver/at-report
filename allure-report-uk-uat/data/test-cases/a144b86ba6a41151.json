@@ -1,0 +1,80 @@
+{
+  "uid" : "a144b86ba6a41151",
+  "name" : "#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info.",
+  "fullName" : "Venue > Search and expanded view.#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info.",
+  "historyId" : "9c877bfce5c85578a85e3544db637b0f",
+  "time" : {
+    "start" : 1670585652579,
+    "stop" : 1670585655990,
+    "duration" : 3411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "63bbc1b35354e220",
+      "name" : "Screenshot",
+      "source" : "63bbc1b35354e220.png",
+      "type" : "image/png",
+      "size" : 439215
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testClass",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info."
+  }, {
+    "name" : "package",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31d148aacbe433d7",
+      "status" : "failed",
+      "statusDetails" : "Expected $[0].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[1].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[2].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[3].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[4].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[5].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[6].text = '9:00 AM - 11:00 PM' to equal '9:00 am - 11:00 pm'.",
+      "time" : {
+        "start" : 1670583317743,
+        "stop" : 1670583322213,
+        "duration" : 4470
+      }
+    }, {
+      "uid" : "b9e313ba8f33d11c",
+      "status" : "failed",
+      "statusDetails" : "Expected $[0].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[1].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[2].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[3].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[4].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[5].text = '10:00 AM - 11:00 PM' to equal '10:00 am - 11:00 pm'.\n                Expected $[6].text = '9:00 AM - 11:00 PM' to equal '9:00 am - 11:00 pm'.",
+      "time" : {
+        "start" : 1670582892033,
+        "stop" : 1670582894333,
+        "duration" : 2300
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a144b86ba6a41151.json",
+  "parameterValues" : [ ]
+}

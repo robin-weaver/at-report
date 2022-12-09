@@ -1,0 +1,98 @@
+{
+  "uid" : "ccfdef15fb6f96e9",
+  "name" : "#14 Casino amount does not display when total bonus amount is zero and displays correct total balance of £0.00",
+  "fullName" : "Homepage.#14 Casino amount does not display when total bonus amount is zero and displays correct total balance of £0.00",
+  "historyId" : "9685af8b34b8ea41fec1f6566c46a9d6",
+  "time" : {
+    "start" : 1670594585491,
+    "stop" : 1670594595236,
+    "duration" : 9745
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a61e89cd372ca570",
+      "name" : "Screenshot",
+      "source" : "a61e89cd372ca570.png",
+      "type" : "image/png",
+      "size" : 417938
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Casino amount does not display when total bonus amount is zero and displays correct total balance of £0.00"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "496b491822ca0d49",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10059ms",
+      "time" : {
+        "start" : 1670586090250,
+        "stop" : 1670586106585,
+        "duration" : 16335
+      }
+    }, {
+      "uid" : "44d0431637e1b9bf",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10015ms",
+      "time" : {
+        "start" : 1670585361510,
+        "stop" : 1670585379341,
+        "duration" : 17831
+      }
+    }, {
+      "uid" : "125f442225a6299",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10017ms",
+      "time" : {
+        "start" : 1670583355226,
+        "stop" : 1670583373897,
+        "duration" : 18671
+      }
+    }, {
+      "uid" : "d2ff1dfee9208409",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10013ms",
+      "time" : {
+        "start" : 1670582574088,
+        "stop" : 1670582591634,
+        "duration" : 17546
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccfdef15fb6f96e9.json",
+  "parameterValues" : [ ]
+}

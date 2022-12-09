@@ -1,0 +1,86 @@
+{
+  "uid" : "a11a80cea6f75e5f",
+  "name" : "#01 User is displayed the correct content and input fields for Step 3.",
+  "fullName" : "Registration > Step 3.#01 User is displayed the correct content and input fields for Step 3.",
+  "historyId" : "5eb65bae60e8f50b917fbbf3063f91e3",
+  "time" : {
+    "start" : 1670586028595,
+    "stop" : 1670586040145,
+    "duration" : 11550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d5b9064301d32eaa",
+      "name" : "Screenshot",
+      "source" : "d5b9064301d32eaa.png",
+      "type" : "image/png",
+      "size" : 385786
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 User is displayed the correct content and input fields for Step 3."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae6a07e2c799dfd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585523410,
+        "stop" : 1670585535634,
+        "duration" : 12224
+      }
+    }, {
+      "uid" : "158f5d73cfc1a445",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583241625,
+        "stop" : 1670583257143,
+        "duration" : 15518
+      }
+    }, {
+      "uid" : "2c832c521592e698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582721869,
+        "stop" : 1670582731986,
+        "duration" : 10117
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a11a80cea6f75e5f.json",
+  "parameterValues" : [ ]
+}

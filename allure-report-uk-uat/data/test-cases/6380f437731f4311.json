@@ -1,0 +1,86 @@
+{
+  "uid" : "6380f437731f4311",
+  "name" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "historyId" : "6738b4e4e997c619b4e268723245a9ec",
+  "time" : {
+    "start" : 1670586154664,
+    "stop" : 1670586172203,
+    "duration" : 17539
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "47f19728e6abab49",
+      "name" : "Screenshot",
+      "source" : "47f19728e6abab49.png",
+      "type" : "image/png",
+      "size" : 309664
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "80c960049f63f029",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585526394,
+        "stop" : 1670585547551,
+        "duration" : 21157
+      }
+    }, {
+      "uid" : "6172cf41895a5a05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583446550,
+        "stop" : 1670583465519,
+        "duration" : 18969
+      }
+    }, {
+      "uid" : "1ae7aeab8bc97af6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582765032,
+        "stop" : 1670582787682,
+        "duration" : 22650
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6380f437731f4311.json",
+  "parameterValues" : [ ]
+}

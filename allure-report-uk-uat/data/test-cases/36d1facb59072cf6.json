@@ -1,0 +1,88 @@
+{
+  "uid" : "36d1facb59072cf6",
+  "name" : "#9 User can successfully set a weekly loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#9 User can successfully set a weekly loss limit if not already set ",
+  "historyId" : "59651fe694a19a0d5ebd6a3cbbdac0ba",
+  "time" : {
+    "start" : 1670595531568,
+    "stop" : 1670595541680,
+    "duration" : 10112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5dd5866d5db9db19",
+      "name" : "Screenshot",
+      "source" : "5dd5866d5db9db19.png",
+      "type" : "image/png",
+      "size" : 208756
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can successfully set a weekly loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2cbd01107e6bc936",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11460ms",
+      "time" : {
+        "start" : 1670586113936,
+        "stop" : 1670586131492,
+        "duration" : 17556
+      }
+    }, {
+      "uid" : "2e29130e8e0043b4",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10177ms",
+      "time" : {
+        "start" : 1670585429213,
+        "stop" : 1670585449007,
+        "duration" : 19794
+      }
+    }, {
+      "uid" : "7c939476a77d2495",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582651192,
+        "stop" : 1670582672550,
+        "duration" : 21358
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36d1facb59072cf6.json",
+  "parameterValues" : [ ]
+}

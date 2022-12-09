@@ -1,0 +1,86 @@
+{
+  "uid" : "7e219235dbe11d9f",
+  "name" : "#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)",
+  "fullName" : "Inbox functionality testing.#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)",
+  "historyId" : "5c3bb958d3f12d2fade6f4e7c242f004",
+  "time" : {
+    "start" : 1670586166492,
+    "stop" : 1670586176405,
+    "duration" : 9913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e819ca3319c1443a",
+      "name" : "Screenshot",
+      "source" : "e819ca3319c1443a.png",
+      "type" : "image/png",
+      "size" : 103160
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "75ea825ebcc44648",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585487763,
+        "stop" : 1670585504309,
+        "duration" : 16546
+      }
+    }, {
+      "uid" : "4f876bf92612249f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583431878,
+        "stop" : 1670583442063,
+        "duration" : 10185
+      }
+    }, {
+      "uid" : "b7beaf1f266cdb57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582617524,
+        "stop" : 1670582630572,
+        "duration" : 13048
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e219235dbe11d9f.json",
+  "parameterValues" : [ ]
+}

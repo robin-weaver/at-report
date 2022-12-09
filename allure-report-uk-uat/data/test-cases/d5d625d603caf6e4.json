@@ -1,0 +1,80 @@
+{
+  "uid" : "d5d625d603caf6e4",
+  "name" : "#1 Player can see a light grey bar at the top of the footer",
+  "fullName" : "Footer functionality testing.#1 Player can see a light grey bar at the top of the footer",
+  "historyId" : "c30ce4d2ed3d6940477b93bb6ab51be7",
+  "time" : {
+    "start" : 1670585113254,
+    "stop" : 1670585136235,
+    "duration" : 22981
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c6774af3f8df6c5",
+      "name" : "Screenshot",
+      "source" : "7c6774af3f8df6c5.png",
+      "type" : "image/png",
+      "size" : 161141
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can see a light grey bar at the top of the footer"
+  }, {
+    "name" : "package",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb49e8c372ad7609",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://venues.merkurslots.com\"])",
+      "time" : {
+        "start" : 1670583083002,
+        "stop" : 1670583130984,
+        "duration" : 47982
+      }
+    }, {
+      "uid" : "9849c6cc370cf107",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://venues.merkurslots.com\"])",
+      "time" : {
+        "start" : 1670582340241,
+        "stop" : 1670582364345,
+        "duration" : 24104
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5d625d603caf6e4.json",
+  "parameterValues" : [ ]
+}

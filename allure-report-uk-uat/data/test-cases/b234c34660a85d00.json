@@ -1,0 +1,88 @@
+{
+  "uid" : "b234c34660a85d00",
+  "name" : "#1 Deep link to play reminders opens when logged in",
+  "fullName" : "Deep Link -> Play Reminders.#1 Deep link to play reminders opens when logged in",
+  "historyId" : "9f78a41cbd40ec9f1e5572e387a61f7d",
+  "time" : {
+    "start" : 1670598536557,
+    "stop" : 1670598548391,
+    "duration" : 11834
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "83f125e68b759596",
+      "name" : "Screenshot",
+      "source" : "83f125e68b759596.png",
+      "type" : "image/png",
+      "size" : 251645
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to play reminders opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8db07d48d7adb9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585243137,
+        "stop" : 1670585262807,
+        "duration" : 19670
+      }
+    }, {
+      "uid" : "bcc61a226792d1f7",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20005ms",
+      "time" : {
+        "start" : 1670583108324,
+        "stop" : 1670583130426,
+        "duration" : 22102
+      }
+    }, {
+      "uid" : "f99df44a4f9d947",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10014ms",
+      "time" : {
+        "start" : 1670582459352,
+        "stop" : 1670582478401,
+        "duration" : 19049
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b234c34660a85d00.json",
+  "parameterValues" : [ ]
+}

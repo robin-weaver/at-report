@@ -1,0 +1,98 @@
+{
+  "uid" : "53454a54af1b89f8",
+  "name" : "#06 Recover Password button displays 'Re-Send Email' text after a successful first attempt.",
+  "fullName" : "Recover Password.#06 Recover Password button displays 'Re-Send Email' text after a successful first attempt.",
+  "historyId" : "67628b4b3122589f152dac335259be82",
+  "time" : {
+    "start" : 1670594239895,
+    "stop" : 1670594250534,
+    "duration" : 10639
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "82772bc6002e0b67",
+      "name" : "Screenshot",
+      "source" : "82772bc6002e0b67.png",
+      "type" : "image/png",
+      "size" : 327486
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Recover Password button displays 'Re-Send Email' text after a successful first attempt."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33a1f242ad7a9c56",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10238ms",
+      "time" : {
+        "start" : 1670585990788,
+        "stop" : 1670586006384,
+        "duration" : 15596
+      }
+    }, {
+      "uid" : "5713f583e9ea0f9",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10014ms",
+      "time" : {
+        "start" : 1670585510925,
+        "stop" : 1670585524848,
+        "duration" : 13923
+      }
+    }, {
+      "uid" : "d0b2f41c0b39f080",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10066ms",
+      "time" : {
+        "start" : 1670583221948,
+        "stop" : 1670583238600,
+        "duration" : 16652
+      }
+    }, {
+      "uid" : "ce27a4a5e711d349",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10064ms",
+      "time" : {
+        "start" : 1670582698332,
+        "stop" : 1670582713472,
+        "duration" : 15140
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53454a54af1b89f8.json",
+  "parameterValues" : [ ]
+}

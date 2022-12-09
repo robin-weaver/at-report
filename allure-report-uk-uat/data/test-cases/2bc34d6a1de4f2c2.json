@@ -1,0 +1,94 @@
+{
+  "uid" : "2bc34d6a1de4f2c2",
+  "name" : "#5 User can come to the Gamble Aware page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#5 User can come to the Gamble Aware page from terms and conditions page",
+  "historyId" : "b5827589a27b41183865d9e8f6913fd1",
+  "time" : {
+    "start" : 1670598343079,
+    "stop" : 1670598345556,
+    "duration" : 2477
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e80e656d48eb131",
+      "name" : "Screenshot",
+      "source" : "e80e656d48eb131.png",
+      "type" : "image/png",
+      "size" : 7181
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can come to the Gamble Aware page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "df556951496469cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585925572,
+        "stop" : 1670585936794,
+        "duration" : 11222
+      }
+    }, {
+      "uid" : "8ac7f6cfffe9823a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585184798,
+        "stop" : 1670585193929,
+        "duration" : 9131
+      }
+    }, {
+      "uid" : "50b4ea13c00fb622",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583166037,
+        "stop" : 1670583172383,
+        "duration" : 6346
+      }
+    }, {
+      "uid" : "11d3aeca5d08adb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582414736,
+        "stop" : 1670582420305,
+        "duration" : 5569
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bc34d6a1de4f2c2.json",
+  "parameterValues" : [ ]
+}

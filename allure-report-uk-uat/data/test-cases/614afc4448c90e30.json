@@ -1,0 +1,95 @@
+{
+  "uid" : "614afc4448c90e30",
+  "name" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "historyId" : "34f6dce3dd23a700bb1b31a643b8691c",
+  "time" : {
+    "start" : 1670598387433,
+    "stop" : 1670598389565,
+    "duration" : 2132
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d46e7176692ceeac",
+      "name" : "Screenshot",
+      "source" : "d46e7176692ceeac.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3a9c59656fa72286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670586038612,
+        "stop" : 1670586045342,
+        "duration" : 6730
+      }
+    }, {
+      "uid" : "fc691ef325187949",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670585328784,
+        "stop" : 1670585335078,
+        "duration" : 6294
+      }
+    }, {
+      "uid" : "ee44e98b3a16de01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583329334,
+        "stop" : 1670583336147,
+        "duration" : 6813
+      }
+    }, {
+      "uid" : "5928879d12834e83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582539039,
+        "stop" : 1670582546226,
+        "duration" : 7187
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "614afc4448c90e30.json",
+  "parameterValues" : [ ]
+}

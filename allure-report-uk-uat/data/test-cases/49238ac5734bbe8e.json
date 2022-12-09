@@ -1,0 +1,87 @@
+{
+  "uid" : "49238ac5734bbe8e",
+  "name" : "#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "fullName" : "My Account -> Deposit.#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "historyId" : "149c42126c0809a9405e1778300246b8",
+  "time" : {
+    "start" : 1670586077658,
+    "stop" : 1670586107304,
+    "duration" : 29646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9df2e396e5d3b3ed",
+      "name" : "Screenshot",
+      "source" : "9df2e396e5d3b3ed.png",
+      "type" : "image/png",
+      "size" : 210098
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Check user is able to deposit with a valid card and is presented with success modal"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8f0fa35410943bea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585447885,
+        "stop" : 1670585476430,
+        "duration" : 28545
+      }
+    }, {
+      "uid" : "227341f4649e427e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583283657,
+        "stop" : 1670583318026,
+        "duration" : 34369
+      }
+    }, {
+      "uid" : "c64dbdb805289b",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #cc_name_on_card)",
+      "time" : {
+        "start" : 1670582657260,
+        "stop" : 1670582676907,
+        "duration" : 19647
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49238ac5734bbe8e.json",
+  "parameterValues" : [ ]
+}

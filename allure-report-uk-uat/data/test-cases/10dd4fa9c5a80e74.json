@@ -1,0 +1,87 @@
+{
+  "uid" : "10dd4fa9c5a80e74",
+  "name" : "#01 Player can view their contact details.",
+  "fullName" : "My Profile > Contact Details.#01 Player can view their contact details.",
+  "historyId" : "923010f87786a37152159003f82c07fa",
+  "time" : {
+    "start" : 1670585880781,
+    "stop" : 1670585900657,
+    "duration" : 19876
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9c21434a519cce98",
+      "name" : "Screenshot",
+      "source" : "9c21434a519cce98.png",
+      "type" : "image/png",
+      "size" : 316322
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can view their contact details."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "86abad48e9e3cdb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585315314,
+        "stop" : 1670585331244,
+        "duration" : 15930
+      }
+    }, {
+      "uid" : "2d88e92b2821ac8f",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10001ms",
+      "time" : {
+        "start" : 1670583094270,
+        "stop" : 1670583128391,
+        "duration" : 34121
+      }
+    }, {
+      "uid" : "d897b2debb96471a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582522915,
+        "stop" : 1670582538914,
+        "duration" : 15999
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10dd4fa9c5a80e74.json",
+  "parameterValues" : [ ]
+}

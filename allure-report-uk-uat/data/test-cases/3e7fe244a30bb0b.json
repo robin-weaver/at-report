@@ -1,0 +1,101 @@
+{
+  "uid" : "3e7fe244a30bb0b",
+  "name" : "#8 User hover the game card and click 'Demo' and login modal appears",
+  "fullName" : "Slots page.#8 User hover the game card and click 'Demo' and login modal appears",
+  "historyId" : "ff2f6719b6be32e4e563d551064d179d",
+  "time" : {
+    "start" : 1670585985378,
+    "stop" : 1670585990354,
+    "duration" : 4976
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670585985379,
+        "stop" : 1670585988773,
+        "duration" : 3394
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5f8508ebe109969f",
+      "name" : "Screenshot",
+      "source" : "5f8508ebe109969f.png",
+      "type" : "image/png",
+      "size" : 873470
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User hover the game card and click 'Demo' and login modal appears"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9322752c44c6f77e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585583773,
+        "stop" : 1670585588585,
+        "duration" : 4812
+      }
+    }, {
+      "uid" : "668b76ff3024d188",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583198990,
+        "stop" : 1670583204938,
+        "duration" : 5948
+      }
+    }, {
+      "uid" : "b25de552e53d53d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582768338,
+        "stop" : 1670582772303,
+        "duration" : 3965
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e7fe244a30bb0b.json",
+  "parameterValues" : [ ]
+}

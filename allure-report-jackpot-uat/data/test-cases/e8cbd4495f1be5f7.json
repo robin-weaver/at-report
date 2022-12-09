@@ -1,0 +1,70 @@
+{
+  "uid" : "e8cbd4495f1be5f7",
+  "name" : "#15 Player can successfully Log In when entering valid details.",
+  "fullName" : "Log In.#15 Player can successfully Log In when entering valid details.",
+  "historyId" : "99530ae33dad365d0277dc512b152d63",
+  "time" : {
+    "start" : 1670601975204,
+    "stop" : 1670601994781,
+    "duration" : 19577
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9f4c7a638193879d",
+      "name" : "Screenshot",
+      "source" : "9f4c7a638193879d.png",
+      "type" : "image/png",
+      "size" : 585137
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Player can successfully Log In when entering valid details."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "86b5e19451440f77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601222974,
+        "stop" : 1670601243120,
+        "duration" : 20146
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8cbd4495f1be5f7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,87 @@
+{
+  "uid" : "d0f51477db382476",
+  "name" : "#05 Hero banner static carousel will be displayed.",
+  "fullName" : "Live Casino.#05 Hero banner static carousel will be displayed.",
+  "historyId" : "24bbe06fd7f2de4302d34af5d790c45b",
+  "time" : {
+    "start" : 1670585899171,
+    "stop" : 1670585902858,
+    "duration" : 3687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7b57b51507a7b996",
+      "name" : "Screenshot",
+      "source" : "7b57b51507a7b996.png",
+      "type" : "image/png",
+      "size" : 1003485
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Hero banner static carousel will be displayed."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eddbb02165a6fee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585161210,
+        "stop" : 1670585163339,
+        "duration" : 2129
+      }
+    }, {
+      "uid" : "8c8e63d880944cef",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10004ms",
+      "time" : {
+        "start" : 1670583129981,
+        "stop" : 1670583133351,
+        "duration" : 3370
+      }
+    }, {
+      "uid" : "997a01b5c00700d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582383359,
+        "stop" : 1670582386078,
+        "duration" : 2719
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0f51477db382476.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "bb80271a2910b93e",
+  "name" : "#8 Active promotions are excluded from the promotions section.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#8 Active promotions are excluded from the promotions section.",
+  "historyId" : "1ccb7a93a49bb7fbd8e370da6e76ba",
+  "time" : {
+    "start" : 1670600449491,
+    "stop" : 1670600460822,
+    "duration" : 11331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b264d1aada1ad07c",
+      "name" : "Screenshot",
+      "source" : "b264d1aada1ad07c.png",
+      "type" : "image/png",
+      "size" : 784134
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Active promotions are excluded from the promotions section."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bc33f7c0164ed5f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670599928233,
+        "stop" : 1670599954561,
+        "duration" : 26328
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb80271a2910b93e.json",
+  "parameterValues" : [ ]
+}

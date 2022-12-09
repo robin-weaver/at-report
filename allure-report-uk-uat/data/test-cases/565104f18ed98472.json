@@ -1,0 +1,98 @@
+{
+  "uid" : "565104f18ed98472",
+  "name" : "#2 Deep link to change password open login when not logged in before change password",
+  "fullName" : "Deep Link -> Change Password.#2 Deep link to change password open login when not logged in before change password",
+  "historyId" : "eb06adca5d34a93dcb538aa52a2e9e96",
+  "time" : {
+    "start" : 1670598549362,
+    "stop" : 1670598561962,
+    "duration" : 12600
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e65d75c4ff4f092d",
+      "name" : "Screenshot",
+      "source" : "e65d75c4ff4f092d.png",
+      "type" : "image/png",
+      "size" : 235463
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to change password open login when not logged in before change password"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac814027bee66e22",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10036ms",
+      "time" : {
+        "start" : 1670585891920,
+        "stop" : 1670585912809,
+        "duration" : 20889
+      }
+    }, {
+      "uid" : "53f899549e2f0bbf",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10014ms",
+      "time" : {
+        "start" : 1670585182597,
+        "stop" : 1670585203594,
+        "duration" : 20997
+      }
+    }, {
+      "uid" : "6d1771f22bd6bea",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10067ms",
+      "time" : {
+        "start" : 1670583124285,
+        "stop" : 1670583145367,
+        "duration" : 21082
+      }
+    }, {
+      "uid" : "a6ff2e2b8e3c073e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10057ms",
+      "time" : {
+        "start" : 1670582402332,
+        "stop" : 1670582421856,
+        "duration" : 19524
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "565104f18ed98472.json",
+  "parameterValues" : [ ]
+}

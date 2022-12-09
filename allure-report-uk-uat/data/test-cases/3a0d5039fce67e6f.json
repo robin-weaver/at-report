@@ -1,0 +1,88 @@
+{
+  "uid" : "3a0d5039fce67e6f",
+  "name" : "#8 User can successfully set a daily loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#8 User can successfully set a daily loss limit if not already set ",
+  "historyId" : "ac720721d264eb5dc4d0f44351c0003d",
+  "time" : {
+    "start" : 1670595519093,
+    "stop" : 1670595531568,
+    "duration" : 12475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40d6a04ba077ebd2",
+      "name" : "Screenshot",
+      "source" : "40d6a04ba077ebd2.png",
+      "type" : "image/png",
+      "size" : 214994
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can successfully set a daily loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "951e267d865b195b",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11460ms",
+      "time" : {
+        "start" : 1670586094543,
+        "stop" : 1670586113936,
+        "duration" : 19393
+      }
+    }, {
+      "uid" : "b11c72ef8276a405",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10177ms",
+      "time" : {
+        "start" : 1670585405464,
+        "stop" : 1670585429213,
+        "duration" : 23749
+      }
+    }, {
+      "uid" : "a314ab7bbde24324",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582626111,
+        "stop" : 1670582651192,
+        "duration" : 25081
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a0d5039fce67e6f.json",
+  "parameterValues" : [ ]
+}

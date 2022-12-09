@@ -1,0 +1,70 @@
+{
+  "uid" : "28edacf42cce99eb",
+  "name" : "#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step.",
+  "historyId" : "761c7c0305448cd15c418d24331f3882",
+  "time" : {
+    "start" : 1670585334427,
+    "stop" : 1670585356621,
+    "duration" : 22194
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bdf248c84e568bb3",
+      "name" : "Screenshot",
+      "source" : "bdf248c84e568bb3.png",
+      "type" : "image/png",
+      "size" : 452407
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can press 'Back' button of the 'Self Exclusion' modal and should return to previous step."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db6e472f404677e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582558440,
+        "stop" : 1670582583165,
+        "duration" : 24725
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28edacf42cce99eb.json",
+  "parameterValues" : [ ]
+}

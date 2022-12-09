@@ -1,0 +1,70 @@
+{
+  "uid" : "681ffe9425b26c20",
+  "name" : "#09 User can select multiple marketing preferences.",
+  "fullName" : "Registration > Step 4.#09 User can select multiple marketing preferences.",
+  "historyId" : "7e6dddc80acc718d5e98c9832e03155",
+  "time" : {
+    "start" : 1670585672160,
+    "stop" : 1670585679930,
+    "duration" : 7770
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2fa607e3326c1c1a",
+      "name" : "Screenshot",
+      "source" : "2fa607e3326c1c1a.png",
+      "type" : "image/png",
+      "size" : 398546
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#09 User can select multiple marketing preferences."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db8c685ae9be70db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582883932,
+        "stop" : 1670582890690,
+        "duration" : 6758
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "681ffe9425b26c20.json",
+  "parameterValues" : [ ]
+}

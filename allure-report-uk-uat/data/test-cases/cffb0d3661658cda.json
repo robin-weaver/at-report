@@ -1,0 +1,94 @@
+{
+  "uid" : "cffb0d3661658cda",
+  "name" : "#1 User can come to the help center from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#1 User can come to the help center from terms and conditions page",
+  "historyId" : "45090708f597746c89b58174e6a21240",
+  "time" : {
+    "start" : 1670598327441,
+    "stop" : 1670598332606,
+    "duration" : 5165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fc2e9c58bc06cde6",
+      "name" : "Screenshot",
+      "source" : "fc2e9c58bc06cde6.png",
+      "type" : "image/png",
+      "size" : 14659
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the help center from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d32448215bcedd9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585884198,
+        "stop" : 1670585893045,
+        "duration" : 8847
+      }
+    }, {
+      "uid" : "83fefb142e69c6a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585151041,
+        "stop" : 1670585160981,
+        "duration" : 9940
+      }
+    }, {
+      "uid" : "d8d74f855a76fe0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583117282,
+        "stop" : 1670583125983,
+        "duration" : 8701
+      }
+    }, {
+      "uid" : "41c9b8561f128df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582367984,
+        "stop" : 1670582380889,
+        "duration" : 12905
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cffb0d3661658cda.json",
+  "parameterValues" : [ ]
+}

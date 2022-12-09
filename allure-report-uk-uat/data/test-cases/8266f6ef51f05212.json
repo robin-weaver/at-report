@@ -1,0 +1,88 @@
+{
+  "uid" : "8266f6ef51f05212",
+  "name" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "fullName" : "Inbox functionality testing.#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "historyId" : "fef482662f6326f33f5a3ea0bcf6a777",
+  "time" : {
+    "start" : 1670586081485,
+    "stop" : 1670586112043,
+    "duration" : 30558
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "883ff46a92449196",
+      "name" : "Screenshot",
+      "source" : "883ff46a92449196.png",
+      "type" : "image/png",
+      "size" : 56072
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4d6109c928b44702",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1670585356555,
+        "stop" : 1670585413385,
+        "duration" : 56830
+      }
+    }, {
+      "uid" : "498bb300f04e344d",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1670583311217,
+        "stop" : 1670583366472,
+        "duration" : 55255
+      }
+    }, {
+      "uid" : "707299527e3eba3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582522612,
+        "stop" : 1670582551311,
+        "duration" : 28699
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8266f6ef51f05212.json",
+  "parameterValues" : [ ]
+}

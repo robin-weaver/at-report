@@ -1,0 +1,107 @@
+{
+  "uid" : "c12e6b639cc33922",
+  "name" : "#5 Player cannot submit the Change Password form with blank details.",
+  "fullName" : "My Account > Settings > Change Password.#5 Player cannot submit the Change Password form with blank details.",
+  "historyId" : "e89be2c174c23c5502552a9dcf1a5281",
+  "time" : {
+    "start" : 1670599182962,
+    "stop" : 1670599192950,
+    "duration" : 9988
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "152fb90731e504a6",
+      "name" : "Screenshot",
+      "source" : "152fb90731e504a6.png",
+      "type" : "image/png",
+      "size" : 191572
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player cannot submit the Change Password form with blank details."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9f5465f23db41ae5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1670594066824,
+        "stop" : 1670594071756,
+        "duration" : 4932
+      }
+    }, {
+      "uid" : "53a139f4c00b4ff5",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10025ms",
+      "time" : {
+        "start" : 1670586098864,
+        "stop" : 1670586114473,
+        "duration" : 15609
+      }
+    }, {
+      "uid" : "b787c0457617a0e3",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10024ms",
+      "time" : {
+        "start" : 1670585476880,
+        "stop" : 1670585495284,
+        "duration" : 18404
+      }
+    }, {
+      "uid" : "4a454df845d5d667",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10037ms",
+      "time" : {
+        "start" : 1670583311811,
+        "stop" : 1670583328541,
+        "duration" : 16730
+      }
+    }, {
+      "uid" : "6feea75811392eda",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10057ms",
+      "time" : {
+        "start" : 1670582683615,
+        "stop" : 1670582698536,
+        "duration" : 14921
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c12e6b639cc33922.json",
+  "parameterValues" : [ ]
+}

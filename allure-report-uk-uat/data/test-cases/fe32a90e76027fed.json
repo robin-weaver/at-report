@@ -1,0 +1,70 @@
+{
+  "uid" : "fe32a90e76027fed",
+  "name" : "#01 User is displayed the correct content and input fields for Step 1.",
+  "fullName" : "Registration > Step 1.#01 User is displayed the correct content and input fields for Step 1.",
+  "historyId" : "432a4ba99b6f0065e7be38840904e067",
+  "time" : {
+    "start" : 1670585482807,
+    "stop" : 1670585486182,
+    "duration" : 3375
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "16ca295f9c955ec5",
+      "name" : "Screenshot",
+      "source" : "16ca295f9c955ec5.png",
+      "type" : "image/png",
+      "size" : 380739
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 User is displayed the correct content and input fields for Step 1."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3157ebcba2bbeeb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582665464,
+        "stop" : 1670582668240,
+        "duration" : 2776
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe32a90e76027fed.json",
+  "parameterValues" : [ ]
+}

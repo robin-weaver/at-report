@@ -1,0 +1,71 @@
+{
+  "uid" : "2c5540a2443e6647",
+  "name" : "#3 Player can cancel out of the 'Time Limit' modal.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#3 Player can cancel out of the 'Time Limit' modal.",
+  "historyId" : "56f3d1c1138121a04b252c9256f9d6c9",
+  "time" : {
+    "start" : 1670601897063,
+    "stop" : 1670601933687,
+    "duration" : 36624
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7aff4c1fa88511b2",
+      "name" : "Screenshot",
+      "source" : "7aff4c1fa88511b2.png",
+      "type" : "image/png",
+      "size" : 333825
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can cancel out of the 'Time Limit' modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e852787243fd0661",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10006ms",
+      "time" : {
+        "start" : 1670601274735,
+        "stop" : 1670601311389,
+        "duration" : 36654
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c5540a2443e6647.json",
+  "parameterValues" : [ ]
+}

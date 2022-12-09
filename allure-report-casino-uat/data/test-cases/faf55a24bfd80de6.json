@@ -1,0 +1,62 @@
+{
+  "uid" : "faf55a24bfd80de6",
+  "name" : "#03 Player cannot enter an invaild email address.",
+  "fullName" : "Recover Password.#03 Player cannot enter an invaild email address.",
+  "historyId" : "34717a5ea840c50a5bb90b38c9145118",
+  "time" : {
+    "start" : 1670599906697,
+    "stop" : 1670599915531,
+    "duration" : 8834
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "812bd024b9fdef1f",
+      "name" : "Screenshot",
+      "source" : "812bd024b9fdef1f.png",
+      "type" : "image/png",
+      "size" : 484840
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Player cannot enter an invaild email address."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "faf55a24bfd80de6.json",
+  "parameterValues" : [ ]
+}

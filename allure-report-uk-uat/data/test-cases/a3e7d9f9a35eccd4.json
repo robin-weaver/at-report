@@ -1,0 +1,106 @@
+{
+  "uid" : "a3e7d9f9a35eccd4",
+  "name" : "#10 New password must contain a combination of upper and lower case letters (all lower case).",
+  "fullName" : "My Account > Settings > Change Password.#10 New password must contain a combination of upper and lower case letters (all lower case).",
+  "historyId" : "deb0cd0ac8e3aa6b565c29559a97326f",
+  "time" : {
+    "start" : 1670599235513,
+    "stop" : 1670599245724,
+    "duration" : 10211
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9209dd80894eee04",
+      "name" : "Screenshot",
+      "source" : "9209dd80894eee04.png",
+      "type" : "image/png",
+      "size" : 182569
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 New password must contain a combination of upper and lower case letters (all lower case)."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2c3cad21c77e13eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670594096680,
+        "stop" : 1670594106695,
+        "duration" : 10015
+      }
+    }, {
+      "uid" : "cb36d8eb98a92f78",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10025ms",
+      "time" : {
+        "start" : 1670586174950,
+        "stop" : 1670586189713,
+        "duration" : 14763
+      }
+    }, {
+      "uid" : "f31d69c2ea29965a",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10024ms",
+      "time" : {
+        "start" : 1670585560363,
+        "stop" : 1670585577053,
+        "duration" : 16690
+      }
+    }, {
+      "uid" : "62fad54cc7e661cd",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10037ms",
+      "time" : {
+        "start" : 1670583398049,
+        "stop" : 1670583414453,
+        "duration" : 16404
+      }
+    }, {
+      "uid" : "804abe4c55e5551c",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10057ms",
+      "time" : {
+        "start" : 1670582765926,
+        "stop" : 1670582782940,
+        "duration" : 17014
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3e7d9f9a35eccd4.json",
+  "parameterValues" : [ ]
+}

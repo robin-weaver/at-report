@@ -1,0 +1,96 @@
+{
+  "uid" : "f61b84e3c35c6a8c",
+  "name" : "#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "historyId" : "4834f75c359fea68245858d07c04f6f3",
+  "time" : {
+    "start" : 1670598382883,
+    "stop" : 1670598385174,
+    "duration" : 2291
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b9978858ac64961e",
+      "name" : "Screenshot",
+      "source" : "b9978858ac64961e.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 User can see the Anti-Money Laundering section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9eacbee1b79a4d68",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670586027131,
+        "stop" : 1670586033730,
+        "duration" : 6599
+      }
+    }, {
+      "uid" : "da1b1543a3816ba8",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670585316021,
+        "stop" : 1670585321519,
+        "duration" : 5498
+      }
+    }, {
+      "uid" : "a52dddff664b54bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583315406,
+        "stop" : 1670583322294,
+        "duration" : 6888
+      }
+    }, {
+      "uid" : "7be565221178b893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582526351,
+        "stop" : 1670582532826,
+        "duration" : 6475
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f61b84e3c35c6a8c.json",
+  "parameterValues" : [ ]
+}

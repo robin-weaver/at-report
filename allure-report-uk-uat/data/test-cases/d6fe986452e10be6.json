@@ -1,0 +1,95 @@
+{
+  "uid" : "d6fe986452e10be6",
+  "name" : "#26 User can see the Miscellaneous section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#26 User can see the Miscellaneous section on terms and conditions page",
+  "historyId" : "29312a6fd699312a6f515147a2d6e5a4",
+  "time" : {
+    "start" : 1670598401350,
+    "stop" : 1670598403698,
+    "duration" : 2348
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4c6f9cc0a9fdc753",
+      "name" : "Screenshot",
+      "source" : "4c6f9cc0a9fdc753.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#26 User can see the Miscellaneous section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9666e7bf18455c60",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670586078076,
+        "stop" : 1670586084373,
+        "duration" : 6297
+      }
+    }, {
+      "uid" : "23d8d0c58b224e88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585369045,
+        "stop" : 1670585376613,
+        "duration" : 7568
+      }
+    }, {
+      "uid" : "c6a171f8ef2f79e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583374495,
+        "stop" : 1670583384945,
+        "duration" : 10450
+      }
+    }, {
+      "uid" : "37dc82ecdb0ffcc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582581189,
+        "stop" : 1670582587470,
+        "duration" : 6281
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6fe986452e10be6.json",
+  "parameterValues" : [ ]
+}

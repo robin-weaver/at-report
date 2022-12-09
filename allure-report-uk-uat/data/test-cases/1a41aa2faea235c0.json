@@ -1,0 +1,86 @@
+{
+  "uid" : "1a41aa2faea235c0",
+  "name" : "#24 User can close deposit bonus modal, remove display bonus modal and return to the launch screen.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#24 User can close deposit bonus modal, remove display bonus modal and return to the launch screen.",
+  "historyId" : "94f9cfbbcea1144b45a734783c83e624",
+  "time" : {
+    "start" : 1670586336215,
+    "stop" : 1670586349531,
+    "duration" : 13316
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "11eae99e7c10a2fb",
+      "name" : "Screenshot",
+      "source" : "11eae99e7c10a2fb.png",
+      "type" : "image/png",
+      "size" : 871329
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#24 User can close deposit bonus modal, remove display bonus modal and return to the launch screen."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d10d60124abab5c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585705465,
+        "stop" : 1670585718743,
+        "duration" : 13278
+      }
+    }, {
+      "uid" : "5a6dd6dcea94d40a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583607245,
+        "stop" : 1670583620555,
+        "duration" : 13310
+      }
+    }, {
+      "uid" : "4bc7bc890452d092",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582925194,
+        "stop" : 1670582938203,
+        "duration" : 13009
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a41aa2faea235c0.json",
+  "parameterValues" : [ ]
+}

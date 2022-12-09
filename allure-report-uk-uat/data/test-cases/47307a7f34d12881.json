@@ -1,0 +1,87 @@
+{
+  "uid" : "47307a7f34d12881",
+  "name" : "#2 Deep link to loss limits open login when not logged in before loss limits",
+  "fullName" : "Deep Link -> Loss Limits.#2 Deep link to loss limits open login when not logged in before loss limits",
+  "historyId" : "89836bf885707d5e8003508b18f02791",
+  "time" : {
+    "start" : 1670598551516,
+    "stop" : 1670598563239,
+    "duration" : 11723
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5903b2cf1f780191",
+      "name" : "Screenshot",
+      "source" : "5903b2cf1f780191.png",
+      "type" : "image/png",
+      "size" : 214581
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to loss limits open login when not logged in before loss limits"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4f01775b24b7e8c9",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10135ms",
+      "time" : {
+        "start" : 1670585890954,
+        "stop" : 1670585909946,
+        "duration" : 18992
+      }
+    }, {
+      "uid" : "9c17dcdc8ba4356c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585272554,
+        "stop" : 1670585291396,
+        "duration" : 18842
+      }
+    }, {
+      "uid" : "35d4e8a08e7f78f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582470803,
+        "stop" : 1670582496661,
+        "duration" : 25858
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47307a7f34d12881.json",
+  "parameterValues" : [ ]
+}

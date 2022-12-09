@@ -1,0 +1,70 @@
+{
+  "uid" : "418ab1bc27e4a763",
+  "name" : "#14 Player can select the link to recover their password.",
+  "fullName" : "Log In.#14 Player can select the link to recover their password.",
+  "historyId" : "612c57d9e3668a820479206351bc9aaf",
+  "time" : {
+    "start" : 1670601964644,
+    "stop" : 1670601975204,
+    "duration" : 10560
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b662c8695f8dd3c",
+      "name" : "Screenshot",
+      "source" : "b662c8695f8dd3c.png",
+      "type" : "image/png",
+      "size" : 476165
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player can select the link to recover their password."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "60e4d649c7a30eba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670601213846,
+        "stop" : 1670601222973,
+        "duration" : 9127
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "418ab1bc27e4a763.json",
+  "parameterValues" : [ ]
+}

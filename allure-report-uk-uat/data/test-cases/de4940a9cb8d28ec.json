@@ -1,0 +1,88 @@
+{
+  "uid" : "de4940a9cb8d28ec",
+  "name" : "#1 User can view their Loss limits ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#1 User can view their Loss limits ",
+  "historyId" : "dde7796c417775fa9c8bd90634c984a6",
+  "time" : {
+    "start" : 1670595342083,
+    "stop" : 1670595350621,
+    "duration" : 8538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fa8bf50d595149fe",
+      "name" : "Screenshot",
+      "source" : "fa8bf50d595149fe.png",
+      "type" : "image/png",
+      "size" : 414777
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can view their Loss limits "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "610803f534d30c15",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11460ms",
+      "time" : {
+        "start" : 1670585943476,
+        "stop" : 1670585966633,
+        "duration" : 23157
+      }
+    }, {
+      "uid" : "ae17527ec698f2a7",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10177ms",
+      "time" : {
+        "start" : 1670585249517,
+        "stop" : 1670585268591,
+        "duration" : 19074
+      }
+    }, {
+      "uid" : "35d08884aac2ea2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582474920,
+        "stop" : 1670582493602,
+        "duration" : 18682
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de4940a9cb8d28ec.json",
+  "parameterValues" : [ ]
+}

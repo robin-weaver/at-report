@@ -1,0 +1,78 @@
+{
+  "uid" : "fc1719d5cc845f36",
+  "name" : "#9 User can come to the Terms & Conditions page from the Shop Welcome page",
+  "fullName" : "Landing Page/Shop Welcome page.#9 User can come to the Terms & Conditions page from the Shop Welcome page",
+  "historyId" : "8cc3e9be29ddfeeac6c2a69ef12d2fa8",
+  "time" : {
+    "start" : 1670585501902,
+    "stop" : 1670585510291,
+    "duration" : 8389
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "902cd1507f00e8a2",
+      "name" : "Screenshot",
+      "source" : "902cd1507f00e8a2.png",
+      "type" : "image/png",
+      "size" : 7558
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can come to the Terms & Conditions page from the Shop Welcome page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Shop Welcome page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a3596ce77228db88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583477260,
+        "stop" : 1670583480382,
+        "duration" : 3122
+      }
+    }, {
+      "uid" : "d098a9f293c7452e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582712237,
+        "stop" : 1670582719396,
+        "duration" : 7159
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc1719d5cc845f36.json",
+  "parameterValues" : [ ]
+}

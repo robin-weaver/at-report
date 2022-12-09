@@ -1,0 +1,78 @@
+{
+  "uid" : "a307102ac59be767",
+  "name" : "#9 User can come to the Terms & Conditions page from the Welcome Games page",
+  "fullName" : "Landing Page/Welcome Games page.#9 User can come to the Terms & Conditions page from the Welcome Games page",
+  "historyId" : "967b5c5c60caa326f36805c87d10903c",
+  "time" : {
+    "start" : 1670585327931,
+    "stop" : 1670585336475,
+    "duration" : 8544
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40c2b6985d9ed2e0",
+      "name" : "Screenshot",
+      "source" : "40c2b6985d9ed2e0.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testClass",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can come to the Terms & Conditions page from the Welcome Games page"
+  }, {
+    "name" : "package",
+    "value" : "Landing Page/Welcome Games page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9d0ce5bf6e7a912b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583355773,
+        "stop" : 1670583368866,
+        "duration" : 13093
+      }
+    }, {
+      "uid" : "483c890125647ec8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582537145,
+        "stop" : 1670582545568,
+        "duration" : 8423
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a307102ac59be767.json",
+  "parameterValues" : [ ]
+}

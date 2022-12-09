@@ -1,0 +1,70 @@
+{
+  "uid" : "89a16f5fc2788cbe",
+  "name" : "#28 User can enter valid details on Step 1 and progress to Step 2 of the registration process.",
+  "fullName" : "Registration > Step 1.#28 User can enter valid details on Step 1 and progress to Step 2 of the registration process.",
+  "historyId" : "55fa4f242c3c152639957d1492a3eb8b",
+  "time" : {
+    "start" : 1670585551545,
+    "stop" : 1670585556554,
+    "duration" : 5009
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e5feba0ec2c3c321",
+      "name" : "Screenshot",
+      "source" : "e5feba0ec2c3c321.png",
+      "type" : "image/png",
+      "size" : 384422
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can enter valid details on Step 1 and progress to Step 2 of the registration process."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "310f09c60f5dfd3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582738628,
+        "stop" : 1670582742919,
+        "duration" : 4291
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89a16f5fc2788cbe.json",
+  "parameterValues" : [ ]
+}

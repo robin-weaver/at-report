@@ -1,0 +1,86 @@
+{
+  "uid" : "b9a93c2907b8f574",
+  "name" : "#02 User can navigate back to the previous step.",
+  "fullName" : "Registration > Step 3.#02 User can navigate back to the previous step.",
+  "historyId" : "1baa1aa14074942c7e9a5c4e7ff528e7",
+  "time" : {
+    "start" : 1670586040145,
+    "stop" : 1670586055988,
+    "duration" : 15843
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c21e59dec0c73a65",
+      "name" : "Screenshot",
+      "source" : "c21e59dec0c73a65.png",
+      "type" : "image/png",
+      "size" : 386117
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 User can navigate back to the previous step."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "259c48b104be63e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670585535634,
+        "stop" : 1670585550846,
+        "duration" : 15212
+      }
+    }, {
+      "uid" : "bfc02a09c0097c76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670583257143,
+        "stop" : 1670583273627,
+        "duration" : 16484
+      }
+    }, {
+      "uid" : "7361269486657955",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670582731986,
+        "stop" : 1670582747478,
+        "duration" : 15492
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9a93c2907b8f574.json",
+  "parameterValues" : [ ]
+}
