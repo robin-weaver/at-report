@@ -1,0 +1,70 @@
+{
+  "uid" : "4cbc60f15837dcec",
+  "name" : "#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#18 User can see the Anti-Money Laundering section on terms and conditions page",
+  "historyId" : "4834f75c359fea68245858d07c04f6f3",
+  "time" : {
+    "start" : 1670857061936,
+    "stop" : 1670857067162,
+    "duration" : 5226
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5b7893f873cc589c",
+      "name" : "Screenshot",
+      "source" : "5b7893f873cc589c.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 User can see the Anti-Money Laundering section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "978037ae01bde867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856321751,
+        "stop" : 1670856329413,
+        "duration" : 7662
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cbc60f15837dcec.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "d36fef71bc56c0c8",
+  "name" : "#06 Recover Password button displays 'Re-Send Email' text after a successful first attempt.",
+  "fullName" : "Recover Password.#06 Recover Password button displays 'Re-Send Email' text after a successful first attempt.",
+  "historyId" : "67628b4b3122589f152dac335259be82",
+  "time" : {
+    "start" : 1670858862416,
+    "stop" : 1670858877827,
+    "duration" : 15411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d9ec1e94037dfcc0",
+      "name" : "Screenshot",
+      "source" : "d9ec1e94037dfcc0.png",
+      "type" : "image/png",
+      "size" : 477152
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Recover Password button displays 'Re-Send Email' text after a successful first attempt."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d36fef71bc56c0c8.json",
+  "parameterValues" : [ ]
+}

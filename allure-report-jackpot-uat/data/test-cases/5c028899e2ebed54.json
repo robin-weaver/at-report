@@ -1,0 +1,62 @@
+{
+  "uid" : "5c028899e2ebed54",
+  "name" : "#09 User cannot enter invalid characters into the City field.",
+  "fullName" : "Registration > Step 3.#09 User cannot enter invalid characters into the City field.",
+  "historyId" : "79a51cce4ed36dcd29bbe0145851146e",
+  "time" : {
+    "start" : 1670858954032,
+    "stop" : 1670858965393,
+    "duration" : 11361
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "19abb8412550f283",
+      "name" : "Screenshot",
+      "source" : "19abb8412550f283.png",
+      "type" : "image/png",
+      "size" : 1382829
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#09 User cannot enter invalid characters into the City field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c028899e2ebed54.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "d8be9deb871bb3f7",
+  "name" : "#15 Player should be able to show/hide their inputs into the password fields.",
+  "fullName" : "My Account > Settings > Change Password.#15 Player should be able to show/hide their inputs into the password fields.",
+  "historyId" : "dc6c93393d740fe499ac709d99953a91",
+  "time" : {
+    "start" : 1670858192897,
+    "stop" : 1670858206194,
+    "duration" : 13297
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "129a358338c02f83",
+      "name" : "Screenshot",
+      "source" : "129a358338c02f83.png",
+      "type" : "image/png",
+      "size" : 229298
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Player should be able to show/hide their inputs into the password fields."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "97f5ffa9b8f66426",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670857832241,
+        "stop" : 1670857846235,
+        "duration" : 13994
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8be9deb871bb3f7.json",
+  "parameterValues" : [ ]
+}

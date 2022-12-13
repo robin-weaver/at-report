@@ -1,0 +1,70 @@
+{
+  "uid" : "829bcda1e1fb2d6a",
+  "name" : "#3 User can come to the Home page from \"Expired Link\" error page. ",
+  "fullName" : "Expired Link Error.#3 User can come to the Home page from \"Expired Link\" error page. ",
+  "historyId" : "65c5f02881c7ee33bbf03e6298c2b3f6",
+  "time" : {
+    "start" : 1670858050361,
+    "stop" : 1670858052672,
+    "duration" : 2311
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d3d0f95b241b8721",
+      "name" : "Screenshot",
+      "source" : "d3d0f95b241b8721.png",
+      "type" : "image/png",
+      "size" : 631349
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Home page from \"Expired Link\" error page. "
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c02892dc4829e6af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670857443590,
+        "stop" : 1670857445786,
+        "duration" : 2196
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "829bcda1e1fb2d6a.json",
+  "parameterValues" : [ ]
+}

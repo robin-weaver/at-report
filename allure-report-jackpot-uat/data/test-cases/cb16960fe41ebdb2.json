@@ -1,0 +1,71 @@
+{
+  "uid" : "cb16960fe41ebdb2",
+  "name" : "#50 Promotion cards are shown in \"Your Promotions\" page.",
+  "fullName" : "Promotions functionality testing. Bonus details testing..#50 Promotion cards are shown in \"Your Promotions\" page.",
+  "historyId" : "f8c8799611716d3da61f7c384842ebf4",
+  "time" : {
+    "start" : 1670859624504,
+    "stop" : 1670859624935,
+    "duration" : 431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3e8bfdb1a312bd43",
+      "name" : "Screenshot",
+      "source" : "3e8bfdb1a312bd43.png",
+      "type" : "image/png",
+      "size" : 63530
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#50 Promotion cards are shown in \"Your Promotions\" page."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ccddc5620d0f79f",
+      "status" : "failed",
+      "statusDetails" : "Failed: promo cards not displayed\n                Wait timed out after 5000ms",
+      "time" : {
+        "start" : 1670859091082,
+        "stop" : 1670859096404,
+        "duration" : 5322
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb16960fe41ebdb2.json",
+  "parameterValues" : [ ]
+}

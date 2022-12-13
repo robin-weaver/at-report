@@ -1,0 +1,64 @@
+{
+  "uid" : "f8392493be9acfbb",
+  "name" : "#6 Player can click \"Login\" button, open login window and successfully login.",
+  "fullName" : "404 error page functionality testing..#6 Player can click \"Login\" button, open login window and successfully login.",
+  "historyId" : "aaac08770c1d6507217211984dc180cd",
+  "time" : {
+    "start" : 1670857446707,
+    "stop" : 1670857452317,
+    "duration" : 5610
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true, 'Header balance for authenticated user is not displayed.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:148:66)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected false to be true, 'Header balance for authenticated user is not displayed.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:148:66)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3d3ee4c3ccb52cf3",
+      "name" : "Screenshot",
+      "source" : "3d3ee4c3ccb52cf3.png",
+      "type" : "image/png",
+      "size" : 162363
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can click \"Login\" button, open login window and successfully login."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8392493be9acfbb.json",
+  "parameterValues" : [ ]
+}

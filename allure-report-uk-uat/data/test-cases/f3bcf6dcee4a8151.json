@@ -1,0 +1,62 @@
+{
+  "uid" : "f3bcf6dcee4a8151",
+  "name" : "#03 User is prompted with the 'Account already exists' drawer if they enter an email address that already exists.",
+  "fullName" : "Registration > Step 1.#03 User is prompted with the 'Account already exists' drawer if they enter an email address that already exists.",
+  "historyId" : "49dab05bb85afa086e47fdc865daf746",
+  "time" : {
+    "start" : 1670856520982,
+    "stop" : 1670856527521,
+    "duration" : 6539
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e9847093c7356a9",
+      "name" : "Screenshot",
+      "source" : "6e9847093c7356a9.png",
+      "type" : "image/png",
+      "size" : 210811
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 User is prompted with the 'Account already exists' drawer if they enter an email address that already exists."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3bcf6dcee4a8151.json",
+  "parameterValues" : [ ]
+}

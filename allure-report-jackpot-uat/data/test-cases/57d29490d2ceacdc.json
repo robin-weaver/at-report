@@ -1,0 +1,71 @@
+{
+  "uid" : "57d29490d2ceacdc",
+  "name" : "#7 After clicking on the first link from 'What personal data do we collect? -> Players', the user should see the page  https://www.merkurslots.com/.",
+  "fullName" : "Home page => Privacy Policy page.#7 After clicking on the first link from 'What personal data do we collect? -> Players', the user should see the page  https://www.merkurslots.com/.",
+  "historyId" : "c647ab05d2b8e89c5bf5b0b0d139867f",
+  "time" : {
+    "start" : 1670859290533,
+    "stop" : 1670859308137,
+    "duration" : 17604
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b3a5108d2a08a325",
+      "name" : "Screenshot",
+      "source" : "b3a5108d2a08a325.png",
+      "type" : "image/png",
+      "size" : 432059
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 After clicking on the first link from 'What personal data do we collect? -> Players', the user should see the page  https://www.merkurslots.com/."
+  }, {
+    "name" : "package",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5a29cd7eef5606d5",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20016ms",
+      "time" : {
+        "start" : 1670858569287,
+        "stop" : 1670858576934,
+        "duration" : 7647
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57d29490d2ceacdc.json",
+  "parameterValues" : [ ]
+}

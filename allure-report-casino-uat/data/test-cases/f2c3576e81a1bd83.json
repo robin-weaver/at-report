@@ -1,0 +1,71 @@
+{
+  "uid" : "f2c3576e81a1bd83",
+  "name" : "#6 Player can click \"Login\" button, open login window and successfully login.",
+  "fullName" : "404 error page functionality testing..#6 Player can click \"Login\" button, open login window and successfully login.",
+  "historyId" : "aaac08770c1d6507217211984dc180cd",
+  "time" : {
+    "start" : 1670858051878,
+    "stop" : 1670858057737,
+    "duration" : 5859
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6a6d511eb84a84ae",
+      "name" : "Screenshot",
+      "source" : "6a6d511eb84a84ae.png",
+      "type" : "image/png",
+      "size" : 164741
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can click \"Login\" button, open login window and successfully login."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f8392493be9acfbb",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true, 'Header balance for authenticated user is not displayed.'.",
+      "time" : {
+        "start" : 1670857446707,
+        "stop" : 1670857452317,
+        "duration" : 5610
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2c3576e81a1bd83.json",
+  "parameterValues" : [ ]
+}

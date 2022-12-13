@@ -1,0 +1,70 @@
+{
+  "uid" : "9950289681bfe87a",
+  "name" : "#10 User can click on 'Deposit' button opens Deposit window",
+  "fullName" : "Expired Link Error.#10 User can click on 'Deposit' button opens Deposit window",
+  "historyId" : "9240df2a901123fe4bec856ec205386a",
+  "time" : {
+    "start" : 1670858071591,
+    "stop" : 1670858110828,
+    "duration" : 39237
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8b264c13f3a4e53",
+      "name" : "Screenshot",
+      "source" : "8b264c13f3a4e53.png",
+      "type" : "image/png",
+      "size" : 113583
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User can click on 'Deposit' button opens Deposit window"
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "28965da202a273e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670857471509,
+        "stop" : 1670857483657,
+        "duration" : 12148
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9950289681bfe87a.json",
+  "parameterValues" : [ ]
+}

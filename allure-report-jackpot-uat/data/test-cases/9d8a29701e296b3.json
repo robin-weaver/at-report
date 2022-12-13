@@ -1,0 +1,62 @@
+{
+  "uid" : "9d8a29701e296b3",
+  "name" : "#13 Password is a mandatory field.",
+  "fullName" : "Registration > Step 1.#13 Password is a mandatory field.",
+  "historyId" : "9230778f0814a2570b12d76127ec2eba",
+  "time" : {
+    "start" : 1670858891404,
+    "stop" : 1670858895939,
+    "duration" : 4535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d356dc80e313ed0b",
+      "name" : "Screenshot",
+      "source" : "d356dc80e313ed0b.png",
+      "type" : "image/png",
+      "size" : 1395443
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Password is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d8a29701e296b3.json",
+  "parameterValues" : [ ]
+}

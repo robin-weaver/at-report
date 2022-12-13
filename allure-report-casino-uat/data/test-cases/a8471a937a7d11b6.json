@@ -1,0 +1,62 @@
+{
+  "uid" : "a8471a937a7d11b6",
+  "name" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "fullName" : "Inbox functionality testing.#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "historyId" : "fef482662f6326f33f5a3ea0bcf6a777",
+  "time" : {
+    "start" : 1670857581568,
+    "stop" : 1670857606976,
+    "duration" : 25408
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f0233629b0f2e916",
+      "name" : "Screenshot",
+      "source" : "f0233629b0f2e916.png",
+      "type" : "image/png",
+      "size" : 55227
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8471a937a7d11b6.json",
+  "parameterValues" : [ ]
+}

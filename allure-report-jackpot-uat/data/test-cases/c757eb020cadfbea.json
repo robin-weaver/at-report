@@ -1,0 +1,71 @@
+{
+  "uid" : "c757eb020cadfbea",
+  "name" : "#5 Player can click \"Join\" button and after that it will redirect to Register page.",
+  "fullName" : "404 error page functionality testing..#5 Player can click \"Join\" button and after that it will redirect to Register page.",
+  "historyId" : "1e94f8cfdb8a9d8f5fcb8ea0ae19eb6b",
+  "time" : {
+    "start" : 1670859183184,
+    "stop" : 1670859184449,
+    "duration" : 1265
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "de41934bc3c2b40a",
+      "name" : "Screenshot",
+      "source" : "de41934bc3c2b40a.png",
+      "type" : "image/png",
+      "size" : 7181
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can click \"Join\" button and after that it will redirect to Register page."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "27f61738751477b9",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20017ms",
+      "time" : {
+        "start" : 1670858529220,
+        "stop" : 1670858531041,
+        "duration" : 1821
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c757eb020cadfbea.json",
+  "parameterValues" : [ ]
+}

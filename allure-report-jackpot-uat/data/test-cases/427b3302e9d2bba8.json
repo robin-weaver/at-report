@@ -1,0 +1,71 @@
+{
+  "uid" : "427b3302e9d2bba8",
+  "name" : "#04 Player cannot submit blank details on the Login Form.",
+  "fullName" : "Log In.#04 Player cannot submit blank details on the Login Form.",
+  "historyId" : "3d91c124ecd8eef54a9ca296462e6e2e",
+  "time" : {
+    "start" : 1670859226667,
+    "stop" : 1670859239386,
+    "duration" : 12719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d777273a4293cff5",
+      "name" : "Screenshot",
+      "source" : "d777273a4293cff5.png",
+      "type" : "image/png",
+      "size" : 458574
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player cannot submit blank details on the Login Form."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5cb9469d61a3cb0e",
+      "status" : "failed",
+      "statusDetails" : "Failed: getaddrinfo ENOTFOUND np01-spine.eyg.bedegaming.net",
+      "time" : {
+        "start" : 1670858569221,
+        "stop" : 1670858593887,
+        "duration" : 24666
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "427b3302e9d2bba8.json",
+  "parameterValues" : [ ]
+}

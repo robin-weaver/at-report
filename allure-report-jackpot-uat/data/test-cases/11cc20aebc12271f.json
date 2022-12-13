@@ -1,0 +1,71 @@
+{
+  "uid" : "11cc20aebc12271f",
+  "name" : "#6 Player can click \"Login\" button, open login window and successfully login.",
+  "fullName" : "404 error page functionality testing..#6 Player can click \"Login\" button, open login window and successfully login.",
+  "historyId" : "aaac08770c1d6507217211984dc180cd",
+  "time" : {
+    "start" : 1670859184449,
+    "stop" : 1670859191168,
+    "duration" : 6719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7229712227121ce5",
+      "name" : "Screenshot",
+      "source" : "7229712227121ce5.png",
+      "type" : "image/png",
+      "size" : 162949
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player can click \"Login\" button, open login window and successfully login."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d983a65d440519eb",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20017ms",
+      "time" : {
+        "start" : 1670858531041,
+        "stop" : 1670858537263,
+        "duration" : 6222
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11cc20aebc12271f.json",
+  "parameterValues" : [ ]
+}

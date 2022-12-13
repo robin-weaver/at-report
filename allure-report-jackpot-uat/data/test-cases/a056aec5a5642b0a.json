@@ -1,0 +1,71 @@
+{
+  "uid" : "a056aec5a5642b0a",
+  "name" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "fullName" : "My Profile > Communications Preferences.#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)",
+  "historyId" : "bf2faf4bdfa1a59fac6716e0f3ba0a9c",
+  "time" : {
+    "start" : 1670859237820,
+    "stop" : 1670859259624,
+    "duration" : 21804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4647f07e48803a4e",
+      "name" : "Screenshot",
+      "source" : "4647f07e48803a4e.png",
+      "type" : "image/png",
+      "size" : 311440
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can view their communication preferences (default preferences: empty communication preferences and English language)"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "52ac3e9b9904f5b3",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1670858652815,
+        "stop" : 1670858669143,
+        "duration" : 16328
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a056aec5a5642b0a.json",
+  "parameterValues" : [ ]
+}

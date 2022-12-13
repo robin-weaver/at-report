@@ -1,0 +1,62 @@
+{
+  "uid" : "9d2fa85528abce26",
+  "name" : "#01 Player can successfully logout.",
+  "fullName" : "Logout.#01 Player can successfully logout.",
+  "historyId" : "da132ef4045599efb5af2e72f1969e25",
+  "time" : {
+    "start" : 1670857453117,
+    "stop" : 1670857466032,
+    "duration" : 12915
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "af7bc9c971fb3c9e",
+      "name" : "Screenshot",
+      "source" : "af7bc9c971fb3c9e.png",
+      "type" : "image/png",
+      "size" : 631349
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can successfully logout."
+  }, {
+    "name" : "package",
+    "value" : "Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d2fa85528abce26.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "654c07f3da63ccad",
+  "name" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "historyId" : "b4d278950cdc3a6f5c92c3defc364ac8",
+  "time" : {
+    "start" : 1670858258047,
+    "stop" : 1670858272021,
+    "duration" : 13974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2301c591d2df11b8",
+      "name" : "Screenshot",
+      "source" : "2301c591d2df11b8.png",
+      "type" : "image/png",
+      "size" : 514185
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c7d84076b614c953",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670857899751,
+        "stop" : 1670857913863,
+        "duration" : 14112
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "654c07f3da63ccad.json",
+  "parameterValues" : [ ]
+}

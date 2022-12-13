@@ -1,0 +1,62 @@
+{
+  "uid" : "def8987e65602015",
+  "name" : "#16 Country Code is populated by default.",
+  "fullName" : "Registration > Step 3.#16 Country Code is populated by default.",
+  "historyId" : "5858a0df3691fbff6dcb47f9039b7a57",
+  "time" : {
+    "start" : 1670857845108,
+    "stop" : 1670857850445,
+    "duration" : 5337
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "766e8c2b39eca52c",
+      "name" : "Screenshot",
+      "source" : "766e8c2b39eca52c.png",
+      "type" : "image/png",
+      "size" : 53986
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 Country Code is populated by default."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "def8987e65602015.json",
+  "parameterValues" : [ ]
+}

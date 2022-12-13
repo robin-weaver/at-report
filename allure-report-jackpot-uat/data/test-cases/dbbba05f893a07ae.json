@@ -1,0 +1,71 @@
+{
+  "uid" : "dbbba05f893a07ae",
+  "name" : "#13 Unread message count is not present on Inbox navigation bar icon if no messages",
+  "fullName" : "Inbox functionality testing.#13 Unread message count is not present on Inbox navigation bar icon if no messages",
+  "historyId" : "1d07a3a146e460cbd7d5e42f712d6c4a",
+  "time" : {
+    "start" : 1670859433758,
+    "stop" : 1670859448008,
+    "duration" : 14250
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46b0ca7f60cf7f6a",
+      "name" : "Screenshot",
+      "source" : "46b0ca7f60cf7f6a.png",
+      "type" : "image/png",
+      "size" : 9026
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Unread message count is not present on Inbox navigation bar icon if no messages"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55608e96c76e2cb6",
+      "status" : "failed",
+      "statusDetails" : "Failed: read ECONNRESET",
+      "time" : {
+        "start" : 1670858747862,
+        "stop" : 1670858758511,
+        "duration" : 10649
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbbba05f893a07ae.json",
+  "parameterValues" : [ ]
+}

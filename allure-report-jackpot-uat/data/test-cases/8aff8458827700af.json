@@ -1,0 +1,71 @@
+{
+  "uid" : "8aff8458827700af",
+  "name" : "#3 The detailed balance card is shown when the dropdown chevron is clicked",
+  "fullName" : "Homepage.#3 The detailed balance card is shown when the dropdown chevron is clicked",
+  "historyId" : "888c7a7c5c1b09d5e76362ddef565f9e",
+  "time" : {
+    "start" : 1670859207142,
+    "stop" : 1670859230510,
+    "duration" : 23368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "675f94afc7808cee",
+      "name" : "Screenshot",
+      "source" : "675f94afc7808cee.png",
+      "type" : "image/png",
+      "size" : 445416
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 The detailed balance card is shown when the dropdown chevron is clicked"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2e762e63129c582d",
+      "status" : "failed",
+      "statusDetails" : "Failed: read ECONNRESET",
+      "time" : {
+        "start" : 1670858491978,
+        "stop" : 1670858492110,
+        "duration" : 132
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8aff8458827700af.json",
+  "parameterValues" : [ ]
+}

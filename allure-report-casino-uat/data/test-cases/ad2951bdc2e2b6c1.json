@@ -1,0 +1,71 @@
+{
+  "uid" : "ad2951bdc2e2b6c1",
+  "name" : "#50 Promotion cards are shown in \"Your Promotions\" page.",
+  "fullName" : "Promotions functionality testing. Bonus details testing..#50 Promotion cards are shown in \"Your Promotions\" page.",
+  "historyId" : "f8c8799611716d3da61f7c384842ebf4",
+  "time" : {
+    "start" : 1670858381105,
+    "stop" : 1670858381863,
+    "duration" : 758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f08c58411e26cef9",
+      "name" : "Screenshot",
+      "source" : "f08c58411e26cef9.png",
+      "type" : "image/png",
+      "size" : 823993
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#50 Promotion cards are shown in \"Your Promotions\" page."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Bonus details testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee4f49d8e54b333c",
+      "status" : "failed",
+      "statusDetails" : "Expected 0 to be greater than 0.",
+      "time" : {
+        "start" : 1670858025618,
+        "stop" : 1670858026096,
+        "duration" : 478
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad2951bdc2e2b6c1.json",
+  "parameterValues" : [ ]
+}

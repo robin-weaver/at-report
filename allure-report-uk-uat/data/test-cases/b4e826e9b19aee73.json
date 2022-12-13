@@ -1,0 +1,75 @@
+{
+  "uid" : "b4e826e9b19aee73",
+  "name" : "#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page",
+  "fullName" : "Slots page.#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page",
+  "historyId" : "6c68d32be4f20d0450ff488cb1dd2123",
+  "time" : {
+    "start" : 1670856670146,
+    "stop" : 1670856681214,
+    "duration" : 11068
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1670856670146,
+        "stop" : 1670856672255,
+        "duration" : 2109
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "b2ddc15f39212a7f",
+      "name" : "Screenshot",
+      "source" : "b2ddc15f39212a7f.png",
+      "type" : "image/png",
+      "size" : 532726
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4e826e9b19aee73.json",
+  "parameterValues" : [ ]
+}

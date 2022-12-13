@@ -1,0 +1,64 @@
+{
+  "uid" : "2d4122bc3f5809d8",
+  "name" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "fullName" : "Inbox functionality testing.#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "historyId" : "5a9b2afcfbe345aef727b50819d0ffef",
+  "time" : {
+    "start" : 1670858563526,
+    "stop" : 1670858583064,
+    "duration" : 19538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: read ECONNRESET",
+  "statusTrace" : "Error: read ECONNRESET\n                    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)\n                From: Task: Run beforeAll in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at queueRunnerFactory (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at TreeProcessor.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5187:7)\n                    at Env.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:983:17)\n                    at Jasmine.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine\\lib\\jasmine.js:200:12)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n                    at Function.promise (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\inbox\\inbox.spec.js:18:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: read ECONNRESET",
+    "statusTrace" : "Error: read ECONNRESET\n                    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)\n                From: Task: Run beforeAll in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at queueRunnerFactory (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at TreeProcessor.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5187:7)\n                    at Env.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:983:17)\n                    at Jasmine.execute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine\\lib\\jasmine.js:200:12)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n                    at Function.promise (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\inbox\\inbox.spec.js:18:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "603f6c49f79ddbe0",
+      "name" : "Screenshot",
+      "source" : "603f6c49f79ddbe0.png",
+      "type" : "image/png",
+      "size" : 435437
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d4122bc3f5809d8.json",
+  "parameterValues" : [ ]
+}

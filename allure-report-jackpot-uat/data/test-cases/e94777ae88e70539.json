@@ -1,0 +1,70 @@
+{
+  "uid" : "e94777ae88e70539",
+  "name" : "#5 Player cannot continue with 'Self Exclusion' if a duration is not selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#5 Player cannot continue with 'Self Exclusion' if a duration is not selected.",
+  "historyId" : "8df4009f82cfa856971ed85ca5c541fe",
+  "time" : {
+    "start" : 1670859323018,
+    "stop" : 1670859347054,
+    "duration" : 24036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "91feacb4e82bc673",
+      "name" : "Screenshot",
+      "source" : "91feacb4e82bc673.png",
+      "type" : "image/png",
+      "size" : 238698
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player cannot continue with 'Self Exclusion' if a duration is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "399871322614cc70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670858662088,
+        "stop" : 1670858689826,
+        "duration" : 27738
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e94777ae88e70539.json",
+  "parameterValues" : [ ]
+}

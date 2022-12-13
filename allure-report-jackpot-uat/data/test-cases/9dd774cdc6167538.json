@@ -1,0 +1,71 @@
+{
+  "uid" : "9dd774cdc6167538",
+  "name" : "#15 User can see the Deposits and Withdrawals section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#15 User can see the Deposits and Withdrawals section on terms and conditions page",
+  "historyId" : "23799416e2da41b964774790e972aa6",
+  "time" : {
+    "start" : 1670859272274,
+    "stop" : 1670859279492,
+    "duration" : 7218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71f72d34d23a1b36",
+      "name" : "Screenshot",
+      "source" : "71f72d34d23a1b36.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User can see the Deposits and Withdrawals section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a1e114ef7b42d2e6",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20010ms",
+      "time" : {
+        "start" : 1670858494502,
+        "stop" : 1670858494631,
+        "duration" : 129
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dd774cdc6167538.json",
+  "parameterValues" : [ ]
+}

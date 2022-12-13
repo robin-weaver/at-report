@@ -1,0 +1,70 @@
+{
+  "uid" : "10e3f6710b3ad891",
+  "name" : "#16 User can see the Playing for Real Money section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#16 User can see the Playing for Real Money section on terms and conditions page",
+  "historyId" : "76e8e8d03c305d86606327d32472d4fa",
+  "time" : {
+    "start" : 1670857050489,
+    "stop" : 1670857056473,
+    "duration" : 5984
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "37600b4562833ad6",
+      "name" : "Screenshot",
+      "source" : "37600b4562833ad6.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 User can see the Playing for Real Money section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c0094678138c5dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856308927,
+        "stop" : 1670856316402,
+        "duration" : 7475
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10e3f6710b3ad891.json",
+  "parameterValues" : [ ]
+}

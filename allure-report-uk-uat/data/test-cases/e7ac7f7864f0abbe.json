@@ -1,0 +1,71 @@
+{
+  "uid" : "e7ac7f7864f0abbe",
+  "name" : "#8 User can come to the eCOGRA page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#8 User can come to the eCOGRA page from terms and conditions page",
+  "historyId" : "b7931d18fadc6be7964444ff34abc2f2",
+  "time" : {
+    "start" : 1670856999806,
+    "stop" : 1670857009132,
+    "duration" : 9326
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b3c30ababc9ee3bc",
+      "name" : "Screenshot",
+      "source" : "b3c30ababc9ee3bc.png",
+      "type" : "image/png",
+      "size" : 77788
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User can come to the eCOGRA page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "461d646a914d6ec6",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://ecogra.org/forms/adr-dispute-step-1\"])",
+      "time" : {
+        "start" : 1670856253761,
+        "stop" : 1670856262578,
+        "duration" : 8817
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7ac7f7864f0abbe.json",
+  "parameterValues" : [ ]
+}

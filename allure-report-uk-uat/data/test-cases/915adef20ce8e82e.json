@@ -1,0 +1,71 @@
+{
+  "uid" : "915adef20ce8e82e",
+  "name" : "#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal.",
+  "historyId" : "c30eca13002de236eb57886adcf90055",
+  "time" : {
+    "start" : 1670856941713,
+    "stop" : 1670856967148,
+    "duration" : 25435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d0a9f1fdd62b073a",
+      "name" : "Screenshot",
+      "source" : "d0a9f1fdd62b073a.png",
+      "type" : "image/png",
+      "size" : 249138
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8c461644e8566cb0",
+      "status" : "failed",
+      "statusDetails" : "Failed: Play reminders not visible.\n                Wait timed out after 20042ms",
+      "time" : {
+        "start" : 1670856273722,
+        "stop" : 1670856317420,
+        "duration" : 43698
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "915adef20ce8e82e.json",
+  "parameterValues" : [ ]
+}

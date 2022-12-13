@@ -1,0 +1,71 @@
+{
+  "uid" : "1902e5c4ffc77e0c",
+  "name" : "#14 Casino amount does not display when total bonus amount is zero and displays correct total balance of £0.00",
+  "fullName" : "Homepage.#14 Casino amount does not display when total bonus amount is zero and displays correct total balance of £0.00",
+  "historyId" : "9685af8b34b8ea41fec1f6566c46a9d6",
+  "time" : {
+    "start" : 1670859456941,
+    "stop" : 1670859481829,
+    "duration" : 24888
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "43aa2d498857c53a",
+      "name" : "Screenshot",
+      "source" : "43aa2d498857c53a.png",
+      "type" : "image/png",
+      "size" : 372537
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Casino amount does not display when total bonus amount is zero and displays correct total balance of £0.00"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "753ae4fc5f1dd41",
+      "status" : "failed",
+      "statusDetails" : "Failed: read ECONNRESET",
+      "time" : {
+        "start" : 1670858493624,
+        "stop" : 1670858493791,
+        "duration" : 167
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1902e5c4ffc77e0c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "466d9e77c53aacd5",
+  "name" : "#5 Player can choose 24 hours option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#5 Player can choose 24 hours option for 'Take A Break' and this option should be selected.",
+  "historyId" : "1cbd12e2a488df353738740fe91207f6",
+  "time" : {
+    "start" : 1670857042178,
+    "stop" : 1670857063269,
+    "duration" : 21091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb1f903d3472dcec",
+      "name" : "Screenshot",
+      "source" : "bb1f903d3472dcec.png",
+      "type" : "image/png",
+      "size" : 200605
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can choose 24 hours option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ca7d0ec7099b7f60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856421217,
+        "stop" : 1670856446629,
+        "duration" : 25412
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "466d9e77c53aacd5.json",
+  "parameterValues" : [ ]
+}

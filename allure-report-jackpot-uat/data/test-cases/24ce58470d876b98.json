@@ -1,0 +1,64 @@
+{
+  "uid" : "24ce58470d876b98",
+  "name" : "#22 User can enter amount, go to full terms and conditions, click back button, close full terms conditions and return in deposit modal.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#22 User can enter amount, go to full terms and conditions, click back button, close full terms conditions and return in deposit modal.",
+  "historyId" : "7042a2bcb3b5058b5394c3ef5144d724",
+  "time" : {
+    "start" : 1670858979772,
+    "stop" : 1670859008426,
+    "duration" : 28654
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '5050' to equal '50'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:1250:11)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '5050' to equal '50'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\promotions\\promotions.spec.js:1250:11)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "34502d489056306a",
+      "name" : "Screenshot",
+      "source" : "34502d489056306a.png",
+      "type" : "image/png",
+      "size" : 497410
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#22 User can enter amount, go to full terms and conditions, click back button, close full terms conditions and return in deposit modal."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24ce58470d876b98.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "307015f3997b0310",
+  "name" : "#8 New password must contain a number.",
+  "fullName" : "My Account > Settings > Change Password.#8 New password must contain a number.",
+  "historyId" : "da2e9fc7f3e047e1f516dcca138820f6",
+  "time" : {
+    "start" : 1670858825902,
+    "stop" : 1670858847819,
+    "duration" : 21917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "63097aa03d32621f",
+      "name" : "Screenshot",
+      "source" : "63097aa03d32621f.png",
+      "type" : "image/png",
+      "size" : 205102
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 New password must contain a number."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "307015f3997b0310.json",
+  "parameterValues" : [ ]
+}

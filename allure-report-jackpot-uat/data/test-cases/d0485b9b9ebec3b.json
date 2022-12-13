@@ -1,0 +1,70 @@
+{
+  "uid" : "d0485b9b9ebec3b",
+  "name" : "#32 Promo title of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#32 Promo title of promotion card is displayed for not login user.",
+  "historyId" : "64a4b5c1a2057cea317fe14d72a7f69",
+  "time" : {
+    "start" : 1670859588205,
+    "stop" : 1670859589253,
+    "duration" : 1048
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8edc201deef57f30",
+      "name" : "Screenshot",
+      "source" : "8edc201deef57f30.png",
+      "type" : "image/png",
+      "size" : 745433
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#32 Promo title of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d02200e05f1013b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670859055711,
+        "stop" : 1670859056693,
+        "duration" : 982
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0485b9b9ebec3b.json",
+  "parameterValues" : [ ]
+}

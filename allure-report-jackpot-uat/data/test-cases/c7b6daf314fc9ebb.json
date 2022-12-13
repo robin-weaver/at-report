@@ -1,0 +1,62 @@
+{
+  "uid" : "c7b6daf314fc9ebb",
+  "name" : "#6 Player should be displayed an error if they submit the Change Password form with an incorrect Current Password.",
+  "fullName" : "My Account > Settings > Change Password.#6 Player should be displayed an error if they submit the Change Password form with an incorrect Current Password.",
+  "historyId" : "ee23fba8bb4aa358738d7c2b21704519",
+  "time" : {
+    "start" : 1670858766465,
+    "stop" : 1670858797844,
+    "duration" : 31379
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "445fca3b396e56fc",
+      "name" : "Screenshot",
+      "source" : "445fca3b396e56fc.png",
+      "type" : "image/png",
+      "size" : 229015
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player should be displayed an error if they submit the Change Password form with an incorrect Current Password."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7b6daf314fc9ebb.json",
+  "parameterValues" : [ ]
+}

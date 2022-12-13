@@ -1,0 +1,70 @@
+{
+  "uid" : "48b74d138801bce5",
+  "name" : "#9 User can successfully set a weekly loss limit if not already set ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#9 User can successfully set a weekly loss limit if not already set ",
+  "historyId" : "59651fe694a19a0d5ebd6a3cbbdac0ba",
+  "time" : {
+    "start" : 1670857101666,
+    "stop" : 1670857119061,
+    "duration" : 17395
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "356acc80dc41c716",
+      "name" : "Screenshot",
+      "source" : "356acc80dc41c716.png",
+      "type" : "image/png",
+      "size" : 182893
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User can successfully set a weekly loss limit if not already set "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1478b41ed02f7e23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856455754,
+        "stop" : 1670856475140,
+        "duration" : 19386
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48b74d138801bce5.json",
+  "parameterValues" : [ ]
+}

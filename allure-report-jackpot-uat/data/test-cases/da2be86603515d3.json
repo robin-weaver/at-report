@@ -1,0 +1,71 @@
+{
+  "uid" : "da2be86603515d3",
+  "name" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "historyId" : "58cf9e88f3bbcaed34421f8f79f089b4",
+  "time" : {
+    "start" : 1670859354433,
+    "stop" : 1670859359431,
+    "duration" : 4998
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d4eb7b2572b78f78",
+      "name" : "Screenshot",
+      "source" : "d4eb7b2572b78f78.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3136e874fb17019d",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20010ms",
+      "time" : {
+        "start" : 1670858498900,
+        "stop" : 1670858499036,
+        "duration" : 136
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da2be86603515d3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "43626882e88d20de",
+  "name" : "#4 Player can see safer gambling logos",
+  "fullName" : "Footer functionality testing.#4 Player can see safer gambling logos",
+  "historyId" : "547d8004e954f8911542e3bbc63afdb1",
+  "time" : {
+    "start" : 1670859177071,
+    "stop" : 1670859204872,
+    "duration" : 27801
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "79b2cbff788aaf95",
+      "name" : "Screenshot",
+      "source" : "79b2cbff788aaf95.png",
+      "type" : "image/png",
+      "size" : 156926
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can see safer gambling logos"
+  }, {
+    "name" : "package",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "580469b8a49fcbf5",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20016ms",
+      "time" : {
+        "start" : 1670858527988,
+        "stop" : 1670858533474,
+        "duration" : 5486
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43626882e88d20de.json",
+  "parameterValues" : [ ]
+}

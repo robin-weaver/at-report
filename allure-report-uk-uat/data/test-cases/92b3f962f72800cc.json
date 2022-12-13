@@ -1,0 +1,70 @@
+{
+  "uid" : "92b3f962f72800cc",
+  "name" : "#4 Player can edit their preferences and toggle all preferences with the select all toggle, which upon saving updates the account area",
+  "fullName" : "My Profile > Communications Preferences.#4 Player can edit their preferences and toggle all preferences with the select all toggle, which upon saving updates the account area",
+  "historyId" : "88f8906214c0323ac8f634f3b789441b",
+  "time" : {
+    "start" : 1670856998638,
+    "stop" : 1670857021143,
+    "duration" : 22505
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4492a40e14eac3f",
+      "name" : "Screenshot",
+      "source" : "a4492a40e14eac3f.png",
+      "type" : "image/png",
+      "size" : 444464
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can edit their preferences and toggle all preferences with the select all toggle, which upon saving updates the account area"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4f2e5a143f1a4510",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856507218,
+        "stop" : 1670856531763,
+        "duration" : 24545
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92b3f962f72800cc.json",
+  "parameterValues" : [ ]
+}

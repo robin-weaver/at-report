@@ -1,0 +1,62 @@
+{
+  "uid" : "addee58eeca4c5fb",
+  "name" : "#05 City field is a mandatory field.",
+  "fullName" : "Registration > Step 3.#05 City field is a mandatory field.",
+  "historyId" : "1fea68b031f09818c7940b7e961c38c6",
+  "time" : {
+    "start" : 1670857749837,
+    "stop" : 1670857760261,
+    "duration" : 10424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c6224d571b1bd49f",
+      "name" : "Screenshot",
+      "source" : "c6224d571b1bd49f.png",
+      "type" : "image/png",
+      "size" : 73437
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 City field is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "addee58eeca4c5fb.json",
+  "parameterValues" : [ ]
+}

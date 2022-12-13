@@ -1,0 +1,70 @@
+{
+  "uid" : "f37cf97d16216d1f",
+  "name" : "#3 Active promotions are displayed in correct order.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#3 Active promotions are displayed in correct order.",
+  "historyId" : "bd9be0eb6d578ed72d8caad0ade7e2b2",
+  "time" : {
+    "start" : 1670858065197,
+    "stop" : 1670858081176,
+    "duration" : 15979
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1fbfce041deec3d4",
+      "name" : "Screenshot",
+      "source" : "1fbfce041deec3d4.png",
+      "type" : "image/png",
+      "size" : 806380
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Active promotions are displayed in correct order."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bf2fe1f7d0405071",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670857665760,
+        "stop" : 1670857681683,
+        "duration" : 15923
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f37cf97d16216d1f.json",
+  "parameterValues" : [ ]
+}

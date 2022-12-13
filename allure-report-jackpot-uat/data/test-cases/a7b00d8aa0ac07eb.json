@@ -1,0 +1,71 @@
+{
+  "uid" : "a7b00d8aa0ac07eb",
+  "name" : "#05 Player can close the login modal.",
+  "fullName" : "Log In.#05 Player can close the login modal.",
+  "historyId" : "b0e2da0085642a0d45c946d68b56cc5f",
+  "time" : {
+    "start" : 1670859239386,
+    "stop" : 1670859250042,
+    "duration" : 10656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a38b966c25172614",
+      "name" : "Screenshot",
+      "source" : "a38b966c25172614.png",
+      "type" : "image/png",
+      "size" : 727181
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player can close the login modal."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "542fa8ef6d39beb3",
+      "status" : "failed",
+      "statusDetails" : "Failed: getaddrinfo ENOTFOUND np01-spine.eyg.bedegaming.net",
+      "time" : {
+        "start" : 1670858593887,
+        "stop" : 1670858619168,
+        "duration" : 25281
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7b00d8aa0ac07eb.json",
+  "parameterValues" : [ ]
+}

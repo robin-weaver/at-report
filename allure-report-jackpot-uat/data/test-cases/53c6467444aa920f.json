@@ -1,0 +1,71 @@
+{
+  "uid" : "53c6467444aa920f",
+  "name" : "#11 The user can use for Malta contact@eyasgaming.com e-mail",
+  "fullName" : "Home page => Privacy Policy page.#11 The user can use for Malta contact@eyasgaming.com e-mail",
+  "historyId" : "1e42bd82590b756e65baa77dcfd7a3e7",
+  "time" : {
+    "start" : 1670859369507,
+    "stop" : 1670859377090,
+    "duration" : 7583
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "73385e12b707b341",
+      "name" : "Screenshot",
+      "source" : "73385e12b707b341.png",
+      "type" : "image/png",
+      "size" : 178148
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 The user can use for Malta contact@eyasgaming.com e-mail"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "25230b04d0a785e4",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20016ms",
+      "time" : {
+        "start" : 1670858607361,
+        "stop" : 1670858614801,
+        "duration" : 7440
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53c6467444aa920f.json",
+  "parameterValues" : [ ]
+}

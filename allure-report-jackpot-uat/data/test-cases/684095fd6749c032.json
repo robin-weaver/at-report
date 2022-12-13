@@ -1,0 +1,71 @@
+{
+  "uid" : "684095fd6749c032",
+  "name" : "#3 Player can see partners logos",
+  "fullName" : "Footer functionality testing.#3 Player can see partners logos",
+  "historyId" : "26167fbc95dbc61333d43145aa03af6",
+  "time" : {
+    "start" : 1670859171378,
+    "stop" : 1670859177071,
+    "duration" : 5693
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8d6f14d849c35117",
+      "name" : "Screenshot",
+      "source" : "8d6f14d849c35117.png",
+      "type" : "image/png",
+      "size" : 156899
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can see partners logos"
+  }, {
+    "name" : "package",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "309c6e141f869c24",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20016ms",
+      "time" : {
+        "start" : 1670858522560,
+        "stop" : 1670858527988,
+        "duration" : 5428
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "684095fd6749c032.json",
+  "parameterValues" : [ ]
+}

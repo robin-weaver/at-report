@@ -1,0 +1,71 @@
+{
+  "uid" : "fa11a754878501ec",
+  "name" : "#4 User can come to the ICO(Information Commissioner's office) page from Privacy Policy page",
+  "fullName" : "Home page => Privacy Policy page.#4 User can come to the ICO(Information Commissioner's office) page from Privacy Policy page",
+  "historyId" : "8e023d763764a35fa8dbed1f9640d111",
+  "time" : {
+    "start" : 1670859221091,
+    "stop" : 1670859232955,
+    "duration" : 11864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cf839af9c68e393f",
+      "name" : "Screenshot",
+      "source" : "cf839af9c68e393f.png",
+      "type" : "image/png",
+      "size" : 343832
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can come to the ICO(Information Commissioner's office) page from Privacy Policy page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Privacy Policy page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9f6365d6ae115b6c",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20016ms",
+      "time" : {
+        "start" : 1670858544060,
+        "stop" : 1670858551859,
+        "duration" : 7799
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa11a754878501ec.json",
+  "parameterValues" : [ ]
+}

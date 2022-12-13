@@ -1,0 +1,70 @@
+{
+  "uid" : "a8bff9c9250c16af",
+  "name" : "#32 Promo title of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#32 Promo title of promotion card is displayed for not login user.",
+  "historyId" : "64a4b5c1a2057cea317fe14d72a7f69",
+  "time" : {
+    "start" : 1670857261602,
+    "stop" : 1670857262513,
+    "duration" : 911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4aff0b40c4dbefd8",
+      "name" : "Screenshot",
+      "source" : "4aff0b40c4dbefd8.png",
+      "type" : "image/png",
+      "size" : 754501
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#32 Promo title of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4a4ca2dc949388ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856811916,
+        "stop" : 1670856812881,
+        "duration" : 965
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8bff9c9250c16af.json",
+  "parameterValues" : [ ]
+}

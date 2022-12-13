@@ -1,0 +1,71 @@
+{
+  "uid" : "cbd89e28a258b08",
+  "name" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page",
+  "historyId" : "5c6d4a79756cd2009b476db1915ee67f",
+  "time" : {
+    "start" : 1670857056473,
+    "stop" : 1670857061936,
+    "duration" : 5463
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "536f76295fb3ee97",
+      "name" : "Screenshot",
+      "source" : "536f76295fb3ee97.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 User can see the Errors, Interruptions and Malfunctions section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d7521dceede1a325",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1670856316402,
+        "stop" : 1670856321751,
+        "duration" : 5349
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbd89e28a258b08.json",
+  "parameterValues" : [ ]
+}

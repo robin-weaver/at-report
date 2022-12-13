@@ -1,0 +1,62 @@
+{
+  "uid" : "a01a5b0b48c98812",
+  "name" : "#02 Player cannot submit a blank email address on the recover password form.",
+  "fullName" : "Recover Password.#02 Player cannot submit a blank email address on the recover password form.",
+  "historyId" : "2a3966180364451695f437a6b7fdd605",
+  "time" : {
+    "start" : 1670858814795,
+    "stop" : 1670858826559,
+    "duration" : 11764
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "803cc5f7223d067",
+      "name" : "Screenshot",
+      "source" : "803cc5f7223d067.png",
+      "type" : "image/png",
+      "size" : 477043
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Player cannot submit a blank email address on the recover password form."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a01a5b0b48c98812.json",
+  "parameterValues" : [ ]
+}

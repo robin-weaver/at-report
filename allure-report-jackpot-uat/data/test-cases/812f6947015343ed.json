@@ -1,0 +1,71 @@
+{
+  "uid" : "812f6947015343ed",
+  "name" : "#7 Player can choose 4 weeks option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#7 Player can choose 4 weeks option for 'Take A Break' and this option should be selected.",
+  "historyId" : "ace1f4e4a1afcc3c60841afc04cd7873",
+  "time" : {
+    "start" : 1670859400277,
+    "stop" : 1670859421236,
+    "duration" : 20959
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "98e014c3b713511b",
+      "name" : "Screenshot",
+      "source" : "98e014c3b713511b.png",
+      "type" : "image/png",
+      "size" : 235601
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can choose 4 weeks option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "59c0776f5f149860",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10145ms",
+      "time" : {
+        "start" : 1670858787620,
+        "stop" : 1670858808430,
+        "duration" : 20810
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "812f6947015343ed.json",
+  "parameterValues" : [ ]
+}

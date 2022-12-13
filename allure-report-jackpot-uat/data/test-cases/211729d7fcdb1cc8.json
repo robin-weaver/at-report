@@ -1,0 +1,71 @@
+{
+  "uid" : "211729d7fcdb1cc8",
+  "name" : "#5 User can click on Login button and see Login page. ",
+  "fullName" : "Expired Link Error.#5 User can click on Login button and see Login page. ",
+  "historyId" : "cf89e07e5a5a68dee72e0c0ba8295c85",
+  "time" : {
+    "start" : 1670859196701,
+    "stop" : 1670859198514,
+    "duration" : 1813
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "72174f7acb9691af",
+      "name" : "Screenshot",
+      "source" : "72174f7acb9691af.png",
+      "type" : "image/png",
+      "size" : 114413
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can click on Login button and see Login page. "
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "833041b27f0e6b8a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Homepage has failed to load.\n                Wait timed out after 20015ms",
+      "time" : {
+        "start" : 1670858527861,
+        "stop" : 1670858530380,
+        "duration" : 2519
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "211729d7fcdb1cc8.json",
+  "parameterValues" : [ ]
+}

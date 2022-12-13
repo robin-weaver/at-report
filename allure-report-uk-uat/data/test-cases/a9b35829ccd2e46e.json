@@ -1,0 +1,70 @@
+{
+  "uid" : "a9b35829ccd2e46e",
+  "name" : "#8 Player can choose 6 weeks option for 'Take A Break' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#8 Player can choose 6 weeks option for 'Take A Break' and this option should be selected.",
+  "historyId" : "da888f7ec6d62aed6f9d36ebd6260283",
+  "time" : {
+    "start" : 1670857105813,
+    "stop" : 1670857125331,
+    "duration" : 19518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c35ceb267120ac61",
+      "name" : "Screenshot",
+      "source" : "c35ceb267120ac61.png",
+      "type" : "image/png",
+      "size" : 200891
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Player can choose 6 weeks option for 'Take A Break' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55ea9e8a77dfb02e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856498135,
+        "stop" : 1670856523309,
+        "duration" : 25174
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9b35829ccd2e46e.json",
+  "parameterValues" : [ ]
+}

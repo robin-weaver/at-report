@@ -1,0 +1,70 @@
+{
+  "uid" : "87b016683c95b25e",
+  "name" : "#1 User can come to the help center from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#1 User can come to the help center from terms and conditions page",
+  "historyId" : "45090708f597746c89b58174e6a21240",
+  "time" : {
+    "start" : 1670856941466,
+    "stop" : 1670856953317,
+    "duration" : 11851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f8b4df47d12882e7",
+      "name" : "Screenshot",
+      "source" : "f8b4df47d12882e7.png",
+      "type" : "image/png",
+      "size" : 10411
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the help center from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ffbd3d0aef70d561",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670856158118,
+        "stop" : 1670856170787,
+        "duration" : 12669
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87b016683c95b25e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "306ac6099160073c",
+  "name" : "#1 User can come to the home page from Error 500 page",
+  "fullName" : "Service unavailable.#1 User can come to the home page from Error 500 page",
+  "historyId" : "5d50fcfda6894ec54066e559f26cdd8b",
+  "time" : {
+    "start" : 1670859160268,
+    "stop" : 1670859164261,
+    "duration" : 3993
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c2d495265d9b5f93",
+      "name" : "Screenshot",
+      "source" : "c2d495265d9b5f93.png",
+      "type" : "image/png",
+      "size" : 219456
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testClass",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the home page from Error 500 page"
+  }, {
+    "name" : "package",
+    "value" : "Service unavailable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f341572abfb5d9a6",
+      "status" : "failed",
+      "statusDetails" : "Failed: unknown error: net::ERR_NAME_NOT_RESOLVED\n                  (Session info: headless chrome=108.0.5359.99)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.45', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1670858492831,
+        "stop" : 1670858493052,
+        "duration" : 221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "306ac6099160073c.json",
+  "parameterValues" : [ ]
+}
