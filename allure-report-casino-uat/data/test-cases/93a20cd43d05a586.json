@@ -1,0 +1,71 @@
+{
+  "uid" : "93a20cd43d05a586",
+  "name" : "#26 User can see the Miscellaneous section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#26 User can see the Miscellaneous section on terms and conditions page",
+  "historyId" : "29312a6fd699312a6f515147a2d6e5a4",
+  "time" : {
+    "start" : 1671114062716,
+    "stop" : 1671114065407,
+    "duration" : 2691
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "43dc39ab6858d22b",
+      "name" : "Screenshot",
+      "source" : "43dc39ab6858d22b.png",
+      "type" : "image/png",
+      "size" : 293904
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#26 User can see the Miscellaneous section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "27462dfd98a0d047",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text\"])",
+      "time" : {
+        "start" : 1671113524393,
+        "stop" : 1671113527551,
+        "duration" : 3158
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93a20cd43d05a586.json",
+  "parameterValues" : [ ]
+}

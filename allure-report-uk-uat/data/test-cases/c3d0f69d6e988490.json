@@ -1,0 +1,62 @@
+{
+  "uid" : "c3d0f69d6e988490",
+  "name" : "#08 Player can submit an email address which does not exist and still receives a success message on submitting the recover password form.",
+  "fullName" : "Recover Password.#08 Player can submit an email address which does not exist and still receives a success message on submitting the recover password form.",
+  "historyId" : "75a0023aea8c1ba38d53eae2b1c35d83",
+  "time" : {
+    "start" : 1671112526769,
+    "stop" : 1671112537026,
+    "duration" : 10257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5dd86cfac7032a9f",
+      "name" : "Screenshot",
+      "source" : "5dd86cfac7032a9f.png",
+      "type" : "image/png",
+      "size" : 326380
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#08 Player can submit an email address which does not exist and still receives a success message on submitting the recover password form."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3d0f69d6e988490.json",
+  "parameterValues" : [ ]
+}

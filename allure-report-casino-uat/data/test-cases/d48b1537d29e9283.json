@@ -1,0 +1,70 @@
+{
+  "uid" : "d48b1537d29e9283",
+  "name" : "#14 User can see the Your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#14 User can see the Your Account section on terms and conditions page",
+  "historyId" : "de37658a83a4e8bc863ce155935a166",
+  "time" : {
+    "start" : 1671114032266,
+    "stop" : 1671114035221,
+    "duration" : 2955
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46234e0bb20db165",
+      "name" : "Screenshot",
+      "source" : "46234e0bb20db165.png",
+      "type" : "image/png",
+      "size" : 293904
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User can see the Your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fb2a6ee5b3ceeeef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113467468,
+        "stop" : 1671113472842,
+        "duration" : 5374
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d48b1537d29e9283.json",
+  "parameterValues" : [ ]
+}

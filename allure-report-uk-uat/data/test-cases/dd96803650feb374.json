@@ -1,0 +1,71 @@
+{
+  "uid" : "dd96803650feb374",
+  "name" : "#14 All available categories will be displayed and user click/taps on category then user go to the category.",
+  "fullName" : "Live Casino.#14 All available categories will be displayed and user click/taps on category then user go to the category.",
+  "historyId" : "3b4c2f7db79ae79bce286457d99ba512",
+  "time" : {
+    "start" : 1671112950803,
+    "stop" : 1671112953771,
+    "duration" : 2968
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e104342f70ac2695",
+      "name" : "Screenshot",
+      "source" : "e104342f70ac2695.png",
+      "type" : "image/png",
+      "size" : 171701
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 All available categories will be displayed and user click/taps on category then user go to the category."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ef3b68c72ce869d2",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20024ms",
+      "time" : {
+        "start" : 1671112220480,
+        "stop" : 1671112224339,
+        "duration" : 3859
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd96803650feb374.json",
+  "parameterValues" : [ ]
+}

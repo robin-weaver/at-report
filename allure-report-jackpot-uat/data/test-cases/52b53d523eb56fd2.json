@@ -1,0 +1,71 @@
+{
+  "uid" : "52b53d523eb56fd2",
+  "name" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#20 User can see the Suspension/Termination of your Account section on terms and conditions page",
+  "historyId" : "34f6dce3dd23a700bb1b31a643b8691c",
+  "time" : {
+    "start" : 1671115205907,
+    "stop" : 1671115213942,
+    "duration" : 8035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fbc573ed74bd8c1a",
+      "name" : "Screenshot",
+      "source" : "fbc573ed74bd8c1a.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 User can see the Suspension/Termination of your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b05d3ca022940753",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1671114444721,
+        "stop" : 1671114450084,
+        "duration" : 5363
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52b53d523eb56fd2.json",
+  "parameterValues" : [ ]
+}

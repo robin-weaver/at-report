@@ -1,0 +1,85 @@
+{
+  "uid" : "a2a995b90d9e15b2",
+  "name" : "#8 User hover the game card and click 'Demo' and login modal appears",
+  "fullName" : "Slots page.#8 User hover the game card and click 'Demo' and login modal appears",
+  "historyId" : "ff2f6719b6be32e4e563d551064d179d",
+  "time" : {
+    "start" : 1671115079366,
+    "stop" : 1671115083345,
+    "duration" : 3979
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115079366,
+        "stop" : 1671115081818,
+        "duration" : 2452
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "402415d849d876b1",
+      "name" : "Screenshot",
+      "source" : "402415d849d876b1.png",
+      "type" : "image/png",
+      "size" : 762902
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 User hover the game card and click 'Demo' and login modal appears"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f382446a18b9d99d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114813461,
+        "stop" : 1671114818228,
+        "duration" : 4767
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2a995b90d9e15b2.json",
+  "parameterValues" : [ ]
+}

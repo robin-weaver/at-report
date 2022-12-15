@@ -1,0 +1,71 @@
+{
+  "uid" : "c49b556892f2c81",
+  "name" : "#11 Card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then the login modal appears.",
+  "fullName" : "Live Casino.#11 Card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then the login modal appears.",
+  "historyId" : "545801ad64ae436a2b26e7ca67c355fe",
+  "time" : {
+    "start" : 1671114000871,
+    "stop" : 1671114006553,
+    "duration" : 5682
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a739b2e41080811d",
+      "name" : "Screenshot",
+      "source" : "a739b2e41080811d.png",
+      "type" : "image/png",
+      "size" : 480687
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then the login modal appears."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "47257e591eb6a34c",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1671113426295,
+        "stop" : 1671113433433,
+        "duration" : 7138
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c49b556892f2c81.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "42bf684a4f2152c8",
+  "name" : "#05 Player can click \"Join\" button and after that it will redirect to Register page.",
+  "fullName" : "404 error page functionality testing..#05 Player can click \"Join\" button and after that it will redirect to Register page.",
+  "historyId" : "242924728f3c1c58b7a98608f78e7e3f",
+  "time" : {
+    "start" : 1671113979324,
+    "stop" : 1671113980331,
+    "duration" : 1007
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "28295f50e1487602",
+      "name" : "Screenshot",
+      "source" : "28295f50e1487602.png",
+      "type" : "image/png",
+      "size" : 7181
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player can click \"Join\" button and after that it will redirect to Register page."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2536aabf0072659f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113378087,
+        "stop" : 1671113379804,
+        "duration" : 1717
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42bf684a4f2152c8.json",
+  "parameterValues" : [ ]
+}

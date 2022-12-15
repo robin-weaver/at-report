@@ -1,0 +1,70 @@
+{
+  "uid" : "2936f4a3d9f2eddd",
+  "name" : "#18 User can close confirmation message, return to the calling page and bonus has been claimed.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#18 User can close confirmation message, return to the calling page and bonus has been claimed.",
+  "historyId" : "3e0eb23930c5c5a26505b0e9932d1ef1",
+  "time" : {
+    "start" : 1671115372105,
+    "stop" : 1671115383000,
+    "duration" : 10895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ad7aeb0b22316047",
+      "name" : "Screenshot",
+      "source" : "ad7aeb0b22316047.png",
+      "type" : "image/png",
+      "size" : 774165
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 User can close confirmation message, return to the calling page and bonus has been claimed."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30176ca88c737940",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114831933,
+        "stop" : 1671114844880,
+        "duration" : 12947
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2936f4a3d9f2eddd.json",
+  "parameterValues" : [ ]
+}

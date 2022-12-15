@@ -1,0 +1,71 @@
+{
+  "uid" : "cc7e9db43c013173",
+  "name" : "#07 Game image will be displayed.",
+  "fullName" : "Live Casino.#07 Game image will be displayed.",
+  "historyId" : "8a3a3efd72ce3d279efe710358cdb43f",
+  "time" : {
+    "start" : 1671112924240,
+    "stop" : 1671112928202,
+    "duration" : 3962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ac3bf67379c63425",
+      "name" : "Screenshot",
+      "source" : "ac3bf67379c63425.png",
+      "type" : "image/png",
+      "size" : 526965
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 Game image will be displayed."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc0030170cc4698a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20024ms",
+      "time" : {
+        "start" : 1671112193415,
+        "stop" : 1671112197467,
+        "duration" : 4052
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc7e9db43c013173.json",
+  "parameterValues" : [ ]
+}

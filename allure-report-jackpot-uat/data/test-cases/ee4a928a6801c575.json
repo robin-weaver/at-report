@@ -1,0 +1,62 @@
+{
+  "uid" : "ee4a928a6801c575",
+  "name" : "#12 User cannot enter an invalid date into the date of birth field.",
+  "fullName" : "Registration > Step 2.#12 User cannot enter an invalid date into the date of birth field.",
+  "historyId" : "3f0129e690334980894e42e149e27549",
+  "time" : {
+    "start" : 1671114769203,
+    "stop" : 1671114775741,
+    "duration" : 6538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ef771833869b1390",
+      "name" : "Screenshot",
+      "source" : "ef771833869b1390.png",
+      "type" : "image/png",
+      "size" : 1387435
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 User cannot enter an invalid date into the date of birth field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee4a928a6801c575.json",
+  "parameterValues" : [ ]
+}

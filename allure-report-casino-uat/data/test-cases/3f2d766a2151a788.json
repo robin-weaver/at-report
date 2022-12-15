@@ -1,0 +1,62 @@
+{
+  "uid" : "3f2d766a2151a788",
+  "name" : "#07 User cannot enter numbers into step 2 name input fields.",
+  "fullName" : "Registration > Step 2.#07 User cannot enter numbers into step 2 name input fields.",
+  "historyId" : "af67784a6df975f42706e4cff7b11220",
+  "time" : {
+    "start" : 1671113642551,
+    "stop" : 1671113647030,
+    "duration" : 4479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3f5419a7946336e",
+      "name" : "Screenshot",
+      "source" : "f3f5419a7946336e.png",
+      "type" : "image/png",
+      "size" : 61645
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 User cannot enter numbers into step 2 name input fields."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f2d766a2151a788.json",
+  "parameterValues" : [ ]
+}

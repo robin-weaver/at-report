@@ -1,0 +1,71 @@
+{
+  "uid" : "6c850a453685cbb0",
+  "name" : "#6 User can click on ‘Re-subscribe’ button and success window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#6 User can click on ‘Re-subscribe’ button and success window will be displayed with the correct content",
+  "historyId" : "886efc6f7331e571ce82c4dddc7be8d1",
+  "time" : {
+    "start" : 1671114032447,
+    "stop" : 1671114044173,
+    "duration" : 11726
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cafea074ba21ac26",
+      "name" : "Screenshot",
+      "source" : "cafea074ba21ac26.png",
+      "type" : "image/png",
+      "size" : 57691
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can click on ‘Re-subscribe’ button and success window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f48256afd36bc96",
+      "status" : "failed",
+      "statusDetails" : "Failed: Confirm selection button is not displayed.\n                Wait timed out after 5030ms",
+      "time" : {
+        "start" : 1671113761848,
+        "stop" : 1671113772788,
+        "duration" : 10940
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c850a453685cbb0.json",
+  "parameterValues" : [ ]
+}

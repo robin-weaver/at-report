@@ -1,0 +1,70 @@
+{
+  "uid" : "f4fc060f8dbff578",
+  "name" : "#17 Player can press 'BACK' for confirmating modal after chosen for 6 months 'Self Exclusion' and should return to previous step.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#17 Player can press 'BACK' for confirmating modal after chosen for 6 months 'Self Exclusion' and should return to previous step.",
+  "historyId" : "219f3ae22428b3c4f7e8ffaa54b43241",
+  "time" : {
+    "start" : 1671115385195,
+    "stop" : 1671115404077,
+    "duration" : 18882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f436f68e9dc30c5",
+      "name" : "Screenshot",
+      "source" : "7f436f68e9dc30c5.png",
+      "type" : "image/png",
+      "size" : 203464
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 Player can press 'BACK' for confirmating modal after chosen for 6 months 'Self Exclusion' and should return to previous step."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e3bfe2e4b27303b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114828268,
+        "stop" : 1671114853143,
+        "duration" : 24875
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4fc060f8dbff578.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "f253691e497a3452",
+  "name" : "#2 Deep link to play reminders open login when not logged in before play reminders",
+  "fullName" : "Deep Link -> Play Reminders.#2 Deep link to play reminders open login when not logged in before play reminders",
+  "historyId" : "682462de3ffa03f2f895f4d0ee2ab98c",
+  "time" : {
+    "start" : 1671115083491,
+    "stop" : 1671115107227,
+    "duration" : 23736
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a83af59515ddecbb",
+      "name" : "Screenshot",
+      "source" : "a83af59515ddecbb.png",
+      "type" : "image/png",
+      "size" : 199926
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to play reminders open login when not logged in before play reminders"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a2f6421cbb81862",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20002ms",
+      "time" : {
+        "start" : 1671114448178,
+        "stop" : 1671114478115,
+        "duration" : 29937
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f253691e497a3452.json",
+  "parameterValues" : [ ]
+}

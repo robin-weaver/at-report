@@ -1,0 +1,62 @@
+{
+  "uid" : "47d2639fed7f1def",
+  "name" : "#13 User doesn`t click on confirm checkbox, tries to click success registration button and error text is shown.",
+  "fullName" : "Registration > Step 4.#13 User doesn`t click on confirm checkbox, tries to click success registration button and error text is shown.",
+  "historyId" : "edc7ea4a30be0f87bf59b5a42d8d6e25",
+  "time" : {
+    "start" : 1671112632787,
+    "stop" : 1671112645420,
+    "duration" : 12633
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f6e310399675ba93",
+      "name" : "Screenshot",
+      "source" : "f6e310399675ba93.png",
+      "type" : "image/png",
+      "size" : 397468
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User doesn`t click on confirm checkbox, tries to click success registration button and error text is shown."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47d2639fed7f1def.json",
+  "parameterValues" : [ ]
+}

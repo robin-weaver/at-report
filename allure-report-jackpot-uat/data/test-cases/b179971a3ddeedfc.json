@@ -1,0 +1,71 @@
+{
+  "uid" : "b179971a3ddeedfc",
+  "name" : "#11 All main sections for card are displayed for DEPOSIT bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#11 All main sections for card are displayed for DEPOSIT bonus.",
+  "historyId" : "856e185f44fba34a61e82a1077b67bcc",
+  "time" : {
+    "start" : 1671115283231,
+    "stop" : 1671115295907,
+    "duration" : 12676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f8411f0af58a0037",
+      "name" : "Screenshot",
+      "source" : "f8411f0af58a0037.png",
+      "type" : "image/png",
+      "size" : 773068
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 All main sections for card are displayed for DEPOSIT bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2321f48c234d02d6",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10020ms",
+      "time" : {
+        "start" : 1671114719158,
+        "stop" : 1671114734975,
+        "duration" : 15817
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b179971a3ddeedfc.json",
+  "parameterValues" : [ ]
+}

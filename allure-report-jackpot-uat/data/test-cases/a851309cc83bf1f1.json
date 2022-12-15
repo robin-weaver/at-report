@@ -1,0 +1,62 @@
+{
+  "uid" : "a851309cc83bf1f1",
+  "name" : "#07 Game image will be displayed.",
+  "fullName" : "Live Casino.#07 Game image will be displayed.",
+  "historyId" : "8a3a3efd72ce3d279efe710358cdb43f",
+  "time" : {
+    "start" : 1671114336882,
+    "stop" : 1671114340887,
+    "duration" : 4005
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3cd77c07ef2d7735",
+      "name" : "Screenshot",
+      "source" : "3cd77c07ef2d7735.png",
+      "type" : "image/png",
+      "size" : 605561
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 Game image will be displayed."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a851309cc83bf1f1.json",
+  "parameterValues" : [ ]
+}

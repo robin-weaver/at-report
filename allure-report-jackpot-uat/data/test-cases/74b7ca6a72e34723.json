@@ -1,0 +1,71 @@
+{
+  "uid" : "74b7ca6a72e34723",
+  "name" : "#14 User can see the Your Account section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#14 User can see the Your Account section on terms and conditions page",
+  "historyId" : "de37658a83a4e8bc863ce155935a166",
+  "time" : {
+    "start" : 1671115163285,
+    "stop" : 1671115171421,
+    "duration" : 8136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b28d6208930c3edc",
+      "name" : "Screenshot",
+      "source" : "b28d6208930c3edc.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User can see the Your Account section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5a44f95d8c0c412e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1671114406316,
+        "stop" : 1671114413282,
+        "duration" : 6966
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74b7ca6a72e34723.json",
+  "parameterValues" : [ ]
+}

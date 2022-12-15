@@ -1,0 +1,71 @@
+{
+  "uid" : "8f02db4765b0a924",
+  "name" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#5 User can check each radio button and submit the answer → result window will be displayed with the correct content",
+  "historyId" : "4a3dd9a35dd9d6ab3052dc1b2665b641",
+  "time" : {
+    "start" : 1671114015166,
+    "stop" : 1671114032446,
+    "duration" : 17280
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b7da2020da855d7",
+      "name" : "Screenshot",
+      "source" : "2b7da2020da855d7.png",
+      "type" : "image/png",
+      "size" : 410986
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can check each radio button and submit the answer → result window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "84cdbc086c12d218",
+      "status" : "failed",
+      "statusDetails" : "Failed: Confirm selection button is not displayed.\n                Wait timed out after 5030ms",
+      "time" : {
+        "start" : 1671113743680,
+        "stop" : 1671113761848,
+        "duration" : 18168
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f02db4765b0a924.json",
+  "parameterValues" : [ ]
+}

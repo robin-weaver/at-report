@@ -1,0 +1,70 @@
+{
+  "uid" : "8fe41c77c13dac5d",
+  "name" : "#13 Player can uneselect just post preferences using the post toggle (post already toggled on), which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#13 Player can uneselect just post preferences using the post toggle (post already toggled on), which upon saving updates the account area accordingly",
+  "historyId" : "b3febca06d0f55bf049868417a1538ff",
+  "time" : {
+    "start" : 1671113143494,
+    "stop" : 1671113158574,
+    "duration" : 15080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fce404b1024dd1a8",
+      "name" : "Screenshot",
+      "source" : "fce404b1024dd1a8.png",
+      "type" : "image/png",
+      "size" : 311170
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player can uneselect just post preferences using the post toggle (post already toggled on), which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dac604459b19bd54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671112672819,
+        "stop" : 1671112690529,
+        "duration" : 17710
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fe41c77c13dac5d.json",
+  "parameterValues" : [ ]
+}

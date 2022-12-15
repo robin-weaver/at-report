@@ -1,0 +1,71 @@
+{
+  "uid" : "b6081bf53f940a93",
+  "name" : "#16 User can see the Playing for Real Money section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#16 User can see the Playing for Real Money section on terms and conditions page",
+  "historyId" : "76e8e8d03c305d86606327d32472d4fa",
+  "time" : {
+    "start" : 1671115178152,
+    "stop" : 1671115186589,
+    "duration" : 8437
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fd24d31b53273084",
+      "name" : "Screenshot",
+      "source" : "fd24d31b53273084.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 User can see the Playing for Real Money section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19c11f26bdecd3af",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1671114420159,
+        "stop" : 1671114426278,
+        "duration" : 6119
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6081bf53f940a93.json",
+  "parameterValues" : [ ]
+}

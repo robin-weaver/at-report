@@ -1,0 +1,62 @@
+{
+  "uid" : "21a7ff9af80130e7",
+  "name" : "#13 Phone Number is a mandatory field.",
+  "fullName" : "Registration > Step 3.#13 Phone Number is a mandatory field.",
+  "historyId" : "867092d8c3a918d3233d95d95c9d4d52",
+  "time" : {
+    "start" : 1671114858297,
+    "stop" : 1671114867092,
+    "duration" : 8795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f680f72e0d4b9754",
+      "name" : "Screenshot",
+      "source" : "f680f72e0d4b9754.png",
+      "type" : "image/png",
+      "size" : 1383244
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Phone Number is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21a7ff9af80130e7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "72dbbddaff22a98b",
+  "name" : "#8 Check user is displayed with a declined modal when safecharge returns a declined response",
+  "fullName" : "My Account -> Deposit.#8 Check user is displayed with a declined modal when safecharge returns a declined response",
+  "historyId" : "612b5276f3853418be1cf8bea5ffd4da",
+  "time" : {
+    "start" : 1671113605538,
+    "stop" : 1671113629462,
+    "duration" : 23924
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4b98ebfa189d9002",
+      "name" : "Screenshot",
+      "source" : "4b98ebfa189d9002.png",
+      "type" : "image/png",
+      "size" : 204388
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Check user is displayed with a declined modal when safecharge returns a declined response"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72dbbddaff22a98b.json",
+  "parameterValues" : [ ]
+}

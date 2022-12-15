@@ -1,0 +1,62 @@
+{
+  "uid" : "7d59e3896545021b",
+  "name" : "#06 Player cannot login when entering an incorrect email address.",
+  "fullName" : "Log In.#06 Player cannot login when entering an incorrect email address.",
+  "historyId" : "4a3f86a91113b3a64a0aee89652267dc",
+  "time" : {
+    "start" : 1671112203171,
+    "stop" : 1671112213166,
+    "duration" : 9995
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "11a220d7b0fd4be4",
+      "name" : "Screenshot",
+      "source" : "11a220d7b0fd4be4.png",
+      "type" : "image/png",
+      "size" : 206513
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Player cannot login when entering an incorrect email address."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d59e3896545021b.json",
+  "parameterValues" : [ ]
+}

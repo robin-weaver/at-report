@@ -1,0 +1,62 @@
+{
+  "uid" : "791966ee6557ac54",
+  "name" : "#13 Player cannot continue to next step if their new password does not meet the minimum password requirements.",
+  "fullName" : "My Account > Settings > Change Password.#13 Player cannot continue to next step if their new password does not meet the minimum password requirements.",
+  "historyId" : "fd5c1b8c33e5af30e069d4be830e7650",
+  "time" : {
+    "start" : 1671113717118,
+    "stop" : 1671113731917,
+    "duration" : 14799
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cd0694b1f05c509c",
+      "name" : "Screenshot",
+      "source" : "cd0694b1f05c509c.png",
+      "type" : "image/png",
+      "size" : 240893
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player cannot continue to next step if their new password does not meet the minimum password requirements."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "791966ee6557ac54.json",
+  "parameterValues" : [ ]
+}

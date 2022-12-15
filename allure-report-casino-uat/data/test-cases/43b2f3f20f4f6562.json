@@ -1,0 +1,77 @@
+{
+  "uid" : "43b2f3f20f4f6562",
+  "name" : "#1 User can navigates to the slots page and all elements are persisted on the page",
+  "fullName" : "Slots page.#1 User can navigates to the slots page and all elements are persisted on the page",
+  "historyId" : "8d9a50ea6f6030768f51e9fb177cf530",
+  "time" : {
+    "start" : 1671113661578,
+    "stop" : 1671113664466,
+    "duration" : 2888
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671113661579,
+        "stop" : 1671113663742,
+        "duration" : 2163
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "bf0aa2e9e85fe1a9",
+      "name" : "Screenshot",
+      "source" : "bf0aa2e9e85fe1a9.png",
+      "type" : "image/png",
+      "size" : 339420
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can navigates to the slots page and all elements are persisted on the page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43b2f3f20f4f6562.json",
+  "parameterValues" : [ ]
+}

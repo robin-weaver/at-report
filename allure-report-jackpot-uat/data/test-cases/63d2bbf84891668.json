@@ -1,0 +1,71 @@
+{
+  "uid" : "63d2bbf84891668",
+  "name" : "#4 User can come to the Responsible Gambling page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#4 User can come to the Responsible Gambling page from terms and conditions page",
+  "historyId" : "e370633d25bcd2b88f0beabb00c7a970",
+  "time" : {
+    "start" : 1671115088715,
+    "stop" : 1671115098362,
+    "duration" : 9647
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "105a04daf57143d",
+      "name" : "Screenshot",
+      "source" : "105a04daf57143d.png",
+      "type" : "image/png",
+      "size" : 185704
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can come to the Responsible Gambling page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "36e2ee3642f819da",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"/uk/en/legal/responsible-gambling.html\"])",
+      "time" : {
+        "start" : 1671114338655,
+        "stop" : 1671114345558,
+        "duration" : 6903
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63d2bbf84891668.json",
+  "parameterValues" : [ ]
+}

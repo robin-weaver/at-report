@@ -1,0 +1,71 @@
+{
+  "uid" : "ee570e47bff70273",
+  "name" : "#4 Player cannot continue with 'Take A Break' if a duration is not selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#4 Player cannot continue with 'Take A Break' if a duration is not selected.",
+  "historyId" : "5ce72dfd37f2cb1c7355b7dd26d0267",
+  "time" : {
+    "start" : 1671115210207,
+    "stop" : 1671115238821,
+    "duration" : 28614
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "99fbd3d0eba583c4",
+      "name" : "Screenshot",
+      "source" : "99fbd3d0eba583c4.png",
+      "type" : "image/png",
+      "size" : 197115
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player cannot continue with 'Take A Break' if a duration is not selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6ee2fd9964e1cb47",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10021ms",
+      "time" : {
+        "start" : 1671114577835,
+        "stop" : 1671114594058,
+        "duration" : 16223
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee570e47bff70273.json",
+  "parameterValues" : [ ]
+}

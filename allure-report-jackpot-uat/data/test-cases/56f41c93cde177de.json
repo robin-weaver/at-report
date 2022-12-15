@@ -1,0 +1,75 @@
+{
+  "uid" : "56f41c93cde177de",
+  "name" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "fullName" : "Slots page.#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "historyId" : "e7b74c4b24aee286d67ee4397dc88cc",
+  "time" : {
+    "start" : 1671114818228,
+    "stop" : 1671114829112,
+    "duration" : 10884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671114818229,
+        "stop" : 1671114820817,
+        "duration" : 2588
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ef5ef8ea51d55e41",
+      "name" : "Screenshot",
+      "source" : "ef5ef8ea51d55e41.png",
+      "type" : "image/png",
+      "size" : 1384863
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56f41c93cde177de.json",
+  "parameterValues" : [ ]
+}

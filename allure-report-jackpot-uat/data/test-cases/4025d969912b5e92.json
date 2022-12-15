@@ -1,0 +1,70 @@
+{
+  "uid" : "4025d969912b5e92",
+  "name" : "#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal.",
+  "fullName" : "My Account > Gambling Controls > Play Reminders.#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal.",
+  "historyId" : "c30eca13002de236eb57886adcf90055",
+  "time" : {
+    "start" : 1671115064408,
+    "stop" : 1671115096715,
+    "duration" : 32307
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "84388ac381d07cfd",
+      "name" : "Screenshot",
+      "source" : "84388ac381d07cfd.png",
+      "type" : "image/png",
+      "size" : 202623
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can select to edit their 'Time Limit' and is displayed the Play Reminders modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1872d45a09b37ddd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114427437,
+        "stop" : 1671114462505,
+        "duration" : 35068
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4025d969912b5e92.json",
+  "parameterValues" : [ ]
+}

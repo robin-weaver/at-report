@@ -1,0 +1,85 @@
+{
+  "uid" : "32a0355865f19da6",
+  "name" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "fullName" : "Slots page.#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "historyId" : "e7b74c4b24aee286d67ee4397dc88cc",
+  "time" : {
+    "start" : 1671115083345,
+    "stop" : 1671115094713,
+    "duration" : 11368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115083345,
+        "stop" : 1671115086009,
+        "duration" : 2664
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7c03679449cffc63",
+      "name" : "Screenshot",
+      "source" : "7c03679449cffc63.png",
+      "type" : "image/png",
+      "size" : 1384867
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56f41c93cde177de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114818228,
+        "stop" : 1671114829112,
+        "duration" : 10884
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32a0355865f19da6.json",
+  "parameterValues" : [ ]
+}

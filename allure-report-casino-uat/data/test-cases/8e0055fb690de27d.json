@@ -1,0 +1,71 @@
+{
+  "uid" : "8e0055fb690de27d",
+  "name" : "#1 Unsubscribe page is displayed with correct content.",
+  "fullName" : "UnsubscribePage.#1 Unsubscribe page is displayed with correct content.",
+  "historyId" : "6ce810f70198575d11e7207779c19261",
+  "time" : {
+    "start" : 1671113973916,
+    "stop" : 1671113986182,
+    "duration" : 12266
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6344ffe3835638bf",
+      "name" : "Screenshot",
+      "source" : "6344ffe3835638bf.png",
+      "type" : "image/png",
+      "size" : 61339
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Unsubscribe page is displayed with correct content."
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee172716072af2d9",
+      "status" : "failed",
+      "statusDetails" : "Failed: Confirm selection button is not displayed.\n                Wait timed out after 5030ms",
+      "time" : {
+        "start" : 1671113699523,
+        "stop" : 1671113710395,
+        "duration" : 10872
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e0055fb690de27d.json",
+  "parameterValues" : [ ]
+}

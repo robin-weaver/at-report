@@ -1,0 +1,60 @@
+{
+  "uid" : "8a48b1bdd41f182a",
+  "name" : "#11 New password must contain a minimum of 8 characters.",
+  "fullName" : "My Account > Settings > Change Password.#11 New password must contain a minimum of 8 characters.",
+  "historyId" : "112d428f7a58ea69a90eae33cd75ac78",
+  "time" : {
+    "start" : 1671114789180,
+    "stop" : 1671114812219,
+    "duration" : 23039
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c4f69492ac747bc",
+      "name" : "Screenshot",
+      "source" : "3c4f69492ac747bc.png",
+      "type" : "image/png",
+      "size" : 172989
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 New password must contain a minimum of 8 characters."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a48b1bdd41f182a.json",
+  "parameterValues" : [ ]
+}

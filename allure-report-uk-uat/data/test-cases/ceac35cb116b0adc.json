@@ -1,0 +1,60 @@
+{
+  "uid" : "ceac35cb116b0adc",
+  "name" : "#13 Balance details still correctly display balance of £0.00 if user has no cash balance",
+  "fullName" : "Homepage.#13 Balance details still correctly display balance of £0.00 if user has no cash balance",
+  "historyId" : "ddbc0d41a4b01fe5007ab0cff532c9ea",
+  "time" : {
+    "start" : 1671112401389,
+    "stop" : 1671112422724,
+    "duration" : 21335
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d2a3723a82eff0dd",
+      "name" : "Screenshot",
+      "source" : "d2a3723a82eff0dd.png",
+      "type" : "image/png",
+      "size" : 417934
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Balance details still correctly display balance of £0.00 if user has no cash balance"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ceac35cb116b0adc.json",
+  "parameterValues" : [ ]
+}

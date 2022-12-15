@@ -1,0 +1,71 @@
+{
+  "uid" : "3f56dc04b424c7b4",
+  "name" : "#9 Featured promotions are excluded from the promotions section.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#9 Featured promotions are excluded from the promotions section.",
+  "historyId" : "27e3718a6085b600d59ba33420c3b2f7",
+  "time" : {
+    "start" : 1671114051696,
+    "stop" : 1671114061700,
+    "duration" : 10004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d531dfb85d002cda",
+      "name" : "Screenshot",
+      "source" : "d531dfb85d002cda.png",
+      "type" : "image/png",
+      "size" : 783809
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Featured promotions are excluded from the promotions section."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6dfec9dd6e4b6f7",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true, 'Promotion is still displaying in usual promotions.'.",
+      "time" : {
+        "start" : 1671113671702,
+        "stop" : 1671113704656,
+        "duration" : 32954
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f56dc04b424c7b4.json",
+  "parameterValues" : [ ]
+}

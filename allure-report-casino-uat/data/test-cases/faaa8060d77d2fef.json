@@ -1,0 +1,70 @@
+{
+  "uid" : "faaa8060d77d2fef",
+  "name" : "#33 Short description of promotion card is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#33 Short description of promotion card is displayed for not login user.",
+  "historyId" : "32f6e92f06125ef923781b0b6ca5c409",
+  "time" : {
+    "start" : 1671114264674,
+    "stop" : 1671114265525,
+    "duration" : 851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2cd28d80d2fe6205",
+      "name" : "Screenshot",
+      "source" : "2cd28d80d2fe6205.png",
+      "type" : "image/png",
+      "size" : 709097
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#33 Short description of promotion card is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "82243f2307bae38c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113919938,
+        "stop" : 1671113920804,
+        "duration" : 866
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "faaa8060d77d2fef.json",
+  "parameterValues" : [ ]
+}

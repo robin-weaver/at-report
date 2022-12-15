@@ -1,0 +1,71 @@
+{
+  "uid" : "87a14a08facc1937",
+  "name" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "fullName" : "Inbox functionality testing.#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge",
+  "historyId" : "fef482662f6326f33f5a3ea0bcf6a777",
+  "time" : {
+    "start" : 1671115298980,
+    "stop" : 1671115327783,
+    "duration" : 28803
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6d1b01f73ed8baa6",
+      "name" : "Screenshot",
+      "source" : "6d1b01f73ed8baa6.png",
+      "type" : "image/png",
+      "size" : 60726
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Deleting a message from the inbox which is marked as new should decrease the unread message count badge"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "51094c934d3fbd5b",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1671114537449,
+        "stop" : 1671114574830,
+        "duration" : 37381
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87a14a08facc1937.json",
+  "parameterValues" : [ ]
+}

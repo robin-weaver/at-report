@@ -1,0 +1,62 @@
+{
+  "uid" : "222d4852cdf524f1",
+  "name" : "#1 Deep link to change password opens when logged in",
+  "fullName" : "Deep Link -> Change Password.#1 Deep link to change password opens when logged in",
+  "historyId" : "8a7c62e1304c6f3d2b9aa22fbdbd1134",
+  "time" : {
+    "start" : 1671113415269,
+    "stop" : 1671113428510,
+    "duration" : 13241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a825d3bf811d549b",
+      "name" : "Screenshot",
+      "source" : "a825d3bf811d549b.png",
+      "type" : "image/png",
+      "size" : 228398
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to change password opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "222d4852cdf524f1.json",
+  "parameterValues" : [ ]
+}

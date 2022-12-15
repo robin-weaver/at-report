@@ -1,0 +1,85 @@
+{
+  "uid" : "fa4711e9acaf1460",
+  "name" : "#2 User can see hero banner carousel and can scroll it",
+  "fullName" : "Slots page.#2 User can see hero banner carousel and can scroll it",
+  "historyId" : "1fb7d5b79bbe9bc27e84c9989ef1e3e6",
+  "time" : {
+    "start" : 1671115055640,
+    "stop" : 1671115059373,
+    "duration" : 3733
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115055640,
+        "stop" : 1671115058347,
+        "duration" : 2707
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "560811ff4c6637e8",
+      "name" : "Screenshot",
+      "source" : "560811ff4c6637e8.png",
+      "type" : "image/png",
+      "size" : 703192
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can see hero banner carousel and can scroll it"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1e61fcabfc42d164",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114791204,
+        "stop" : 1671114794270,
+        "duration" : 3066
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa4711e9acaf1460.json",
+  "parameterValues" : [ ]
+}

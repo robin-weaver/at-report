@@ -1,0 +1,70 @@
+{
+  "uid" : "fee7e68812e0cb90",
+  "name" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions..#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus.",
+  "historyId" : "b4d278950cdc3a6f5c92c3defc364ac8",
+  "time" : {
+    "start" : 1671114171062,
+    "stop" : 1671114184986,
+    "duration" : 13924
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1d52f92e098433f5",
+      "name" : "Screenshot",
+      "source" : "1d52f92e098433f5.png",
+      "type" : "image/png",
+      "size" : 514156
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#20 Error message is displayed after user enters amount that is less than the qualification amount for deposit bonus."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Particular promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d69aba87113347ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113825054,
+        "stop" : 1671113844477,
+        "duration" : 19423
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fee7e68812e0cb90.json",
+  "parameterValues" : [ ]
+}

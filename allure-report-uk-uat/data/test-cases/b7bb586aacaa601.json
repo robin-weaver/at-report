@@ -1,0 +1,71 @@
+{
+  "uid" : "b7bb586aacaa601",
+  "name" : "#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info.",
+  "fullName" : "Venue > Search and expanded view.#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info.",
+  "historyId" : "9c877bfce5c85578a85e3544db637b0f",
+  "time" : {
+    "start" : 1671112956447,
+    "stop" : 1671112960177,
+    "duration" : 3730
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "406d736353a04d6",
+      "name" : "Screenshot",
+      "source" : "406d736353a04d6.png",
+      "type" : "image/png",
+      "size" : 566993
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testClass",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info."
+  }, {
+    "name" : "package",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c282a66f66e50050",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .venues-search-result__items)",
+      "time" : {
+        "start" : 1671112681314,
+        "stop" : 1671112682692,
+        "duration" : 1378
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7bb586aacaa601.json",
+  "parameterValues" : [ ]
+}

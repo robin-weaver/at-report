@@ -1,0 +1,62 @@
+{
+  "uid" : "962ed1f50b63bb8c",
+  "name" : "#03 First Name is a mandatory field.",
+  "fullName" : "Registration > Step 2.#03 First Name is a mandatory field.",
+  "historyId" : "61886a2eb6f1b821441d4c5169be83a",
+  "time" : {
+    "start" : 1671114718125,
+    "stop" : 1671114725279,
+    "duration" : 7154
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f2ed5121bde6a457",
+      "name" : "Screenshot",
+      "source" : "f2ed5121bde6a457.png",
+      "type" : "image/png",
+      "size" : 1384400
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 First Name is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "962ed1f50b63bb8c.json",
+  "parameterValues" : [ ]
+}

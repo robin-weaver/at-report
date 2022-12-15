@@ -1,0 +1,75 @@
+{
+  "uid" : "fe00621a67688fac",
+  "name" : "#12 User can see category and can scroll it",
+  "fullName" : "Slots page.#12 User can see category and can scroll it",
+  "historyId" : "3d5fb79bd5c96eb7b0df76b488aeb29b",
+  "time" : {
+    "start" : 1671112605491,
+    "stop" : 1671112610712,
+    "duration" : 5221
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671112605491,
+        "stop" : 1671112608454,
+        "duration" : 2963
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "9a531c61cb025002",
+      "name" : "Screenshot",
+      "source" : "9a531c61cb025002.png",
+      "type" : "image/png",
+      "size" : 733223
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 User can see category and can scroll it"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe00621a67688fac.json",
+  "parameterValues" : [ ]
+}

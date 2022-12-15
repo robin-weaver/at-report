@@ -1,0 +1,71 @@
+{
+  "uid" : "c5a6e1482687035",
+  "name" : "#10 Card is displayed, user hover a mouse on that card then the primary CTA will be PLAY NOW, the secondary CTA will be INFO icon",
+  "fullName" : "Live Casino.#10 Card is displayed, user hover a mouse on that card then the primary CTA will be PLAY NOW, the secondary CTA will be INFO icon",
+  "historyId" : "f1f59f3ee3a028d32c854b11c8430fcc",
+  "time" : {
+    "start" : 1671113997234,
+    "stop" : 1671114000871,
+    "duration" : 3637
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3effd032078031ea",
+      "name" : "Screenshot",
+      "source" : "3effd032078031ea.png",
+      "type" : "image/png",
+      "size" : 877141
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Card is displayed, user hover a mouse on that card then the primary CTA will be PLAY NOW, the secondary CTA will be INFO icon"
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ffd06074f2c738f9",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1671113421320,
+        "stop" : 1671113426294,
+        "duration" : 4974
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5a6e1482687035.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "ab9ffb7fee78a838",
+  "name" : "#23 User can see the Intellectual Property section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#23 User can see the Intellectual Property section on terms and conditions page",
+  "historyId" : "109edc85c2a679388a10bfc585b571",
+  "time" : {
+    "start" : 1671113027453,
+    "stop" : 1671113031691,
+    "duration" : 4238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "64edff2409de7a6d",
+      "name" : "Screenshot",
+      "source" : "64edff2409de7a6d.png",
+      "type" : "image/png",
+      "size" : 277517
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#23 User can see the Intellectual Property section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cb24ebe5e190e4f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671112323039,
+        "stop" : 1671112329751,
+        "duration" : 6712
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab9ffb7fee78a838.json",
+  "parameterValues" : [ ]
+}

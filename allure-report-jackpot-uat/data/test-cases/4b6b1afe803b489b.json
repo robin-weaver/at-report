@@ -1,0 +1,71 @@
+{
+  "uid" : "4b6b1afe803b489b",
+  "name" : "#03-B Player can select to edit their telephone number and close the modal to cancel out of the process.",
+  "fullName" : "My Profile > Contact Details.#03-B Player can select to edit their telephone number and close the modal to cancel out of the process.",
+  "historyId" : "3346f57ffbfb97f9e4e218956f6607a1",
+  "time" : {
+    "start" : 1671115141174,
+    "stop" : 1671115174632,
+    "duration" : 33458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f498552918f30a",
+      "name" : "Screenshot",
+      "source" : "4f498552918f30a.png",
+      "type" : "image/png",
+      "size" : 290321
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03-B Player can select to edit their telephone number and close the modal to cancel out of the process."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ce497ec98435a5fe",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10065ms",
+      "time" : {
+        "start" : 1671114582528,
+        "stop" : 1671114599675,
+        "duration" : 17147
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b6b1afe803b489b.json",
+  "parameterValues" : [ ]
+}

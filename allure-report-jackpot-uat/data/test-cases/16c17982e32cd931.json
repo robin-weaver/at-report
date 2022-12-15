@@ -1,0 +1,62 @@
+{
+  "uid" : "16c17982e32cd931",
+  "name" : "#05 Player receives 'Sent' success feedback on submitting a valid email address.",
+  "fullName" : "Recover Password.#05 Player receives 'Sent' success feedback on submitting a valid email address.",
+  "historyId" : "999a20a838f52b151046269c0d5babcd",
+  "time" : {
+    "start" : 1671114731079,
+    "stop" : 1671114743416,
+    "duration" : 12337
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7213d1ae354db21f",
+      "name" : "Screenshot",
+      "source" : "7213d1ae354db21f.png",
+      "type" : "image/png",
+      "size" : 411052
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Recover Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player receives 'Sent' success feedback on submitting a valid email address."
+  }, {
+    "name" : "package",
+    "value" : "Recover Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16c17982e32cd931.json",
+  "parameterValues" : [ ]
+}

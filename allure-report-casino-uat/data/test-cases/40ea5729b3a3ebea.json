@@ -1,0 +1,71 @@
+{
+  "uid" : "40ea5729b3a3ebea",
+  "name" : "#06 User can directed to info page of game after click/taps on hero banner carousel static.",
+  "fullName" : "Live Casino.#06 User can directed to info page of game after click/taps on hero banner carousel static.",
+  "historyId" : "3ee6fb2cecaea50209e0b9e5885572db",
+  "time" : {
+    "start" : 1671113992090,
+    "stop" : 1671113994681,
+    "duration" : 2591
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b4b29f1f0660322",
+      "name" : "Screenshot",
+      "source" : "2b4b29f1f0660322.png",
+      "type" : "image/png",
+      "size" : 277184
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 User can directed to info page of game after click/taps on hero banner carousel static."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d3c809f74f10459f",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1671113415753,
+        "stop" : 1671113418792,
+        "duration" : 3039
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40ea5729b3a3ebea.json",
+  "parameterValues" : [ ]
+}

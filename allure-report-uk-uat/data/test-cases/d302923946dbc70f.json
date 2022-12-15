@@ -1,0 +1,62 @@
+{
+  "uid" : "d302923946dbc70f",
+  "name" : "#13 User cannot set a Loss Limit lower than the minimum amount. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#13 User cannot set a Loss Limit lower than the minimum amount. ",
+  "historyId" : "1f0c7b0228e9b3aa667e6770c06812fb",
+  "time" : {
+    "start" : 1671112495085,
+    "stop" : 1671112520423,
+    "duration" : 25338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8b8ef36680cc2681",
+      "name" : "Screenshot",
+      "source" : "8b8ef36680cc2681.png",
+      "type" : "image/png",
+      "size" : 193640
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User cannot set a Loss Limit lower than the minimum amount. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d302923946dbc70f.json",
+  "parameterValues" : [ ]
+}

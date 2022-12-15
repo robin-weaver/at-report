@@ -1,0 +1,70 @@
+{
+  "uid" : "4085aae2426b432a",
+  "name" : "#3 Player can edit their preferences and exit using the Cancel CTA within the modal discarding changes",
+  "fullName" : "My Profile > Communications Preferences.#3 Player can edit their preferences and exit using the Cancel CTA within the modal discarding changes",
+  "historyId" : "1e25b352b7b886cbf279a03a3b0a02ce",
+  "time" : {
+    "start" : 1671115118577,
+    "stop" : 1671115146800,
+    "duration" : 28223
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8846f73b14afadd",
+      "name" : "Screenshot",
+      "source" : "8846f73b14afadd.png",
+      "type" : "image/png",
+      "size" : 254604
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can edit their preferences and exit using the Cancel CTA within the modal discarding changes"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4c1f6fc2ab3877f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114622717,
+        "stop" : 1671114649176,
+        "duration" : 26459
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4085aae2426b432a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "4d6bc2a6f0d41af7",
+  "name" : "#07 User can click on x button and close reset password window. ",
+  "fullName" : "Expired Link Error.#07 User can click on x button and close reset password window. ",
+  "historyId" : "93827e39e908d14b0c10830e3e4753a2",
+  "time" : {
+    "start" : 1671112914899,
+    "stop" : 1671112918293,
+    "duration" : 3394
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b57ace5dd2e0d242",
+      "name" : "Screenshot",
+      "source" : "b57ace5dd2e0d242.png",
+      "type" : "image/png",
+      "size" : 151275
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testClass",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 User can click on x button and close reset password window. "
+  }, {
+    "name" : "package",
+    "value" : "Expired Link Error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "44d52793e12d6ecf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671112154251,
+        "stop" : 1671112158573,
+        "duration" : 4322
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d6bc2a6f0d41af7.json",
+  "parameterValues" : [ ]
+}

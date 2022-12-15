@@ -1,0 +1,70 @@
+{
+  "uid" : "e22b4fdb2dbafe27",
+  "name" : "#3 Player can press 'Back' button of the 'Take A Break' modal and then should be displayed previous step.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Take A Break.#3 Player can press 'Back' button of the 'Take A Break' modal and then should be displayed previous step.",
+  "historyId" : "38b525e30fed447f262312e177cdd2b5",
+  "time" : {
+    "start" : 1671115179732,
+    "stop" : 1671115210207,
+    "duration" : 30475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "76baf2c3891ce0db",
+      "name" : "Screenshot",
+      "source" : "76baf2c3891ce0db.png",
+      "type" : "image/png",
+      "size" : 268270
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Player can press 'Back' button of the 'Take A Break' modal and then should be displayed previous step."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Take A Break"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d285df10dfbb65a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114541614,
+        "stop" : 1671114577835,
+        "duration" : 36221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e22b4fdb2dbafe27.json",
+  "parameterValues" : [ ]
+}

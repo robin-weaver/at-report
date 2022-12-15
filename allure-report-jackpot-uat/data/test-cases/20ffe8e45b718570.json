@@ -1,0 +1,85 @@
+{
+  "uid" : "20ffe8e45b718570",
+  "name" : "#15 User logged in hover the game card  and click on CTA \"INFO\" and go to INFO page and click on \"PLAY NOW\" and see game page",
+  "fullName" : "Slots page.#15 User logged in hover the game card  and click on CTA \"INFO\" and go to INFO page and click on \"PLAY NOW\" and see game page",
+  "historyId" : "300519e01305c6c7d986d47194432274",
+  "time" : {
+    "start" : 1671115137873,
+    "stop" : 1671115147823,
+    "duration" : 9950
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115137873,
+        "stop" : 1671115139982,
+        "duration" : 2109
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "735d5ab758dfb78",
+      "name" : "Screenshot",
+      "source" : "735d5ab758dfb78.png",
+      "type" : "image/png",
+      "size" : 335114
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User logged in hover the game card  and click on CTA \"INFO\" and go to INFO page and click on \"PLAY NOW\" and see game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "58d5315994668b46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114863824,
+        "stop" : 1671114872181,
+        "duration" : 8357
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20ffe8e45b718570.json",
+  "parameterValues" : [ ]
+}

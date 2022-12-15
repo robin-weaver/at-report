@@ -1,0 +1,71 @@
+{
+  "uid" : "9d95489993a1d671",
+  "name" : "#21 User can see the Responsible Gambling section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#21 User can see the Responsible Gambling section on terms and conditions page",
+  "historyId" : "a8e7bfe034c9bd65c4809a755f1653ed",
+  "time" : {
+    "start" : 1671115213942,
+    "stop" : 1671115220669,
+    "duration" : 6727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "554ab70be7b1c4e4",
+      "name" : "Screenshot",
+      "source" : "554ab70be7b1c4e4.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 User can see the Responsible Gambling section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a36f9419d34dd365",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1671114450084,
+        "stop" : 1671114457981,
+        "duration" : 7897
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d95489993a1d671.json",
+  "parameterValues" : [ ]
+}

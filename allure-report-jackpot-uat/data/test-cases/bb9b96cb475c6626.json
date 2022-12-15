@@ -1,0 +1,70 @@
+{
+  "uid" : "bb9b96cb475c6626",
+  "name" : "#6 Player should be displayed an error if they submit the Change Password form with an incorrect Current Password.",
+  "fullName" : "My Account > Settings > Change Password.#6 Player should be displayed an error if they submit the Change Password form with an incorrect Current Password.",
+  "historyId" : "ee23fba8bb4aa358738d7c2b21704519",
+  "time" : {
+    "start" : 1671115276742,
+    "stop" : 1671115300628,
+    "duration" : 23886
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "374432c6dd620be4",
+      "name" : "Screenshot",
+      "source" : "374432c6dd620be4.png",
+      "type" : "image/png",
+      "size" : 175401
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 Player should be displayed an error if they submit the Change Password form with an incorrect Current Password."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3759eb4a5bdcb987",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114662399,
+        "stop" : 1671114693302,
+        "duration" : 30903
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb9b96cb475c6626.json",
+  "parameterValues" : [ ]
+}

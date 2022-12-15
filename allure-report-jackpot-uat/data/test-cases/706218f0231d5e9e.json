@@ -1,0 +1,71 @@
+{
+  "uid" : "706218f0231d5e9e",
+  "name" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "fullName" : "Home => Terms & Conditions.#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” ",
+  "historyId" : "58cf9e88f3bbcaed34421f8f79f089b4",
+  "time" : {
+    "start" : 1671115263186,
+    "stop" : 1671115269377,
+    "duration" : 6191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8cd6898a12bff526",
+      "name" : "Screenshot",
+      "source" : "8cd6898a12bff526.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#28 User can opened mail client after clicks/taps on “complaintsMGA@merkurslots.com” "
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a6eac74af13ebc9c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href = \"mailto:care@jackpotuniverse.com\"])",
+      "time" : {
+        "start" : 1671114494560,
+        "stop" : 1671114500821,
+        "duration" : 6261
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "706218f0231d5e9e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "dc24446a57fbe258",
+  "name" : "#03 User can come to the Home page from \"Planned Maintenance\" error page",
+  "fullName" : "User come to the 'Planned Maintenance' error page.#03 User can come to the Home page from \"Planned Maintenance\" error page",
+  "historyId" : "9be4eb5a4f83b373fb4266f74ebb6c49",
+  "time" : {
+    "start" : 1671113363164,
+    "stop" : 1671113366339,
+    "duration" : 3175
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e55e2d53d05337cb",
+      "name" : "Screenshot",
+      "source" : "e55e2d53d05337cb.png",
+      "type" : "image/png",
+      "size" : 27230
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User come to the 'Planned Maintenance' error page"
+  }, {
+    "name" : "testClass",
+    "value" : "User come to the 'Planned Maintenance' error page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 User can come to the Home page from \"Planned Maintenance\" error page"
+  }, {
+    "name" : "package",
+    "value" : "User come to the 'Planned Maintenance' error page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc24446a57fbe258.json",
+  "parameterValues" : [ ]
+}

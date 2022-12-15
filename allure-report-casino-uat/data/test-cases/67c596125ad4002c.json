@@ -1,0 +1,70 @@
+{
+  "uid" : "67c596125ad4002c",
+  "name" : "#06 Player can click \"Login\" button, open login window and successfully login.",
+  "fullName" : "404 error page functionality testing..#06 Player can click \"Login\" button, open login window and successfully login.",
+  "historyId" : "89316d0f9d595a25050f69a4c4b32e2b",
+  "time" : {
+    "start" : 1671113980331,
+    "stop" : 1671113985976,
+    "duration" : 5645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "49c95fff4ae4a74a",
+      "name" : "Screenshot",
+      "source" : "49c95fff4ae4a74a.png",
+      "type" : "image/png",
+      "size" : 164741
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 Player can click \"Login\" button, open login window and successfully login."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "73172deb3eb9f40b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113379804,
+        "stop" : 1671113386008,
+        "duration" : 6204
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67c596125ad4002c.json",
+  "parameterValues" : [ ]
+}

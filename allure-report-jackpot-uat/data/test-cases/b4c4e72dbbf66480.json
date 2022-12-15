@@ -1,0 +1,62 @@
+{
+  "uid" : "b4c4e72dbbf66480",
+  "name" : "#16 User can only enter numeric digits into the set Loss Limit field. ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#16 User can only enter numeric digits into the set Loss Limit field. ",
+  "historyId" : "f5cccb16182265742a5559998d163bb2",
+  "time" : {
+    "start" : 1671114780604,
+    "stop" : 1671114803878,
+    "duration" : 23274
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4beb9835d4842f01",
+      "name" : "Screenshot",
+      "source" : "4beb9835d4842f01.png",
+      "type" : "image/png",
+      "size" : 192580
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 User can only enter numeric digits into the set Loss Limit field. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4c4e72dbbf66480.json",
+  "parameterValues" : [ ]
+}

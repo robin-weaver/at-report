@@ -1,0 +1,71 @@
+{
+  "uid" : "ea7fca3440284acb",
+  "name" : "#03 All elements are persisted on 404 error page.",
+  "fullName" : "404 error page functionality testing..#03 All elements are persisted on 404 error page.",
+  "historyId" : "4d81fb14c34d56f77ba9ef6a06687d3",
+  "time" : {
+    "start" : 1671115052013,
+    "stop" : 1671115062511,
+    "duration" : 10498
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "58372c51c8542680",
+      "name" : "Screenshot",
+      "source" : "58372c51c8542680.png",
+      "type" : "image/png",
+      "size" : 162949
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 All elements are persisted on 404 error page."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d22cb541fee9356f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .button--success)",
+      "time" : {
+        "start" : 1671114314760,
+        "stop" : 1671114320082,
+        "duration" : 5322
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea7fca3440284acb.json",
+  "parameterValues" : [ ]
+}

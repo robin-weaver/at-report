@@ -1,0 +1,85 @@
+{
+  "uid" : "2824d45784620e10",
+  "name" : "#11 User click on category and go to category page",
+  "fullName" : "Slots page.#11 User click on category and go to category page",
+  "historyId" : "8c0e64c3401ee15936b1d0a0a30e4ece",
+  "time" : {
+    "start" : 1671115099754,
+    "stop" : 1671115103306,
+    "duration" : 3552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115099755,
+        "stop" : 1671115102220,
+        "duration" : 2465
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d5b329e6ac067e71",
+      "name" : "Screenshot",
+      "source" : "d5b329e6ac067e71.png",
+      "type" : "image/png",
+      "size" : 188551
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 User click on category and go to category page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a018882845c4f14d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114834294,
+        "stop" : 1671114837439,
+        "duration" : 3145
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2824d45784620e10.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "3d1f95cb9dc36dcd",
+  "name" : "#13 User can see the Other Important Terms section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#13 User can see the Other Important Terms section on terms and conditions page",
+  "historyId" : "5a68b08ba2ca40f87ec3090e81804f8a",
+  "time" : {
+    "start" : 1671114029387,
+    "stop" : 1671114032266,
+    "duration" : 2879
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f12ab9ea0f3f7de",
+      "name" : "Screenshot",
+      "source" : "4f12ab9ea0f3f7de.png",
+      "type" : "image/png",
+      "size" : 293904
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User can see the Other Important Terms section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa33a1698e7e996d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113463137,
+        "stop" : 1671113467468,
+        "duration" : 4331
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d1f95cb9dc36dcd.json",
+  "parameterValues" : [ ]
+}

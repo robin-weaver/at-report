@@ -1,0 +1,70 @@
+{
+  "uid" : "cd07266c4cea3845",
+  "name" : "#02 Player is logged out of site if clearing there cookies.",
+  "fullName" : "Logout.#02 Player is logged out of site if clearing there cookies.",
+  "historyId" : "9e8b51863d79d0c99f1ee0f02510b018",
+  "time" : {
+    "start" : 1671112915826,
+    "stop" : 1671112932865,
+    "duration" : 17039
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a92a43dec63f1924",
+      "name" : "Screenshot",
+      "source" : "a92a43dec63f1924.png",
+      "type" : "image/png",
+      "size" : 657261
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Player is logged out of site if clearing there cookies."
+  }, {
+    "name" : "package",
+    "value" : "Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e1296344b145f22b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671112159787,
+        "stop" : 1671112172674,
+        "duration" : 12887
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd07266c4cea3845.json",
+  "parameterValues" : [ ]
+}

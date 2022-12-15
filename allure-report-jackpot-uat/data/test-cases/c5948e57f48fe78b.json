@@ -1,0 +1,71 @@
+{
+  "uid" : "c5948e57f48fe78b",
+  "name" : "#1 User can come to the Be Gamble Aware page from Responsible Gambling page",
+  "fullName" : "Home page => Responsible Gambling page.#1 User can come to the Be Gamble Aware page from Responsible Gambling page",
+  "historyId" : "6af147c44159531063317139ac7d8af6",
+  "time" : {
+    "start" : 1671115063948,
+    "stop" : 1671115081841,
+    "duration" : 17893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4a81f7a98b83c6a8",
+      "name" : "Screenshot",
+      "source" : "4a81f7a98b83c6a8.png",
+      "type" : "image/png",
+      "size" : 439873
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the Be Gamble Aware page from Responsible Gambling page"
+  }, {
+    "name" : "package",
+    "value" : "Home page => Responsible Gambling page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "786f6d54b3064a88",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href =\"http://www.gambleaware.co.uk/\"])",
+      "time" : {
+        "start" : 1671114324695,
+        "stop" : 1671114337107,
+        "duration" : 12412
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5948e57f48fe78b.json",
+  "parameterValues" : [ ]
+}

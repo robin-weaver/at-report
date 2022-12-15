@@ -1,0 +1,71 @@
+{
+  "uid" : "bf5d27605f1523a5",
+  "name" : "#01 Player can successfully logout.",
+  "fullName" : "Logout.#01 Player can successfully logout.",
+  "historyId" : "da132ef4045599efb5af2e72f1969e25",
+  "time" : {
+    "start" : 1671112896967,
+    "stop" : 1671112915826,
+    "duration" : 18859
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d002338d0a87dad",
+      "name" : "Screenshot",
+      "source" : "d002338d0a87dad.png",
+      "type" : "image/png",
+      "size" : 657261
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can successfully logout."
+  }, {
+    "name" : "package",
+    "value" : "Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "788d35f9a58fd175",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .navigation-logout-link__expanded-tile)",
+      "time" : {
+        "start" : 1671112149724,
+        "stop" : 1671112159787,
+        "duration" : 10063
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf5d27605f1523a5.json",
+  "parameterValues" : [ ]
+}

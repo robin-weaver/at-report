@@ -1,0 +1,71 @@
+{
+  "uid" : "ab007c4e56f71369",
+  "name" : "#13 Player can uneselect just post preferences using the post toggle (post already toggled on), which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#13 Player can uneselect just post preferences using the post toggle (post already toggled on), which upon saving updates the account area accordingly",
+  "historyId" : "b3febca06d0f55bf049868417a1538ff",
+  "time" : {
+    "start" : 1671114125697,
+    "stop" : 1671114140322,
+    "duration" : 14625
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "abb32bc8693c13f6",
+      "name" : "Screenshot",
+      "source" : "abb32bc8693c13f6.png",
+      "type" : "image/png",
+      "size" : 349175
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Player can uneselect just post preferences using the post toggle (post already toggled on), which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "94202d8fb8f4e1b4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1671113774590,
+        "stop" : 1671113780524,
+        "duration" : 5934
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab007c4e56f71369.json",
+  "parameterValues" : [ ]
+}

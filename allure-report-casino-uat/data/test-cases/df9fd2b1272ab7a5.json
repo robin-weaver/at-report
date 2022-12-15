@@ -1,0 +1,70 @@
+{
+  "uid" : "df9fd2b1272ab7a5",
+  "name" : "#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly",
+  "historyId" : "94cbf891469e6a07d3467520132fccac",
+  "time" : {
+    "start" : 1671114054221,
+    "stop" : 1671114067005,
+    "duration" : 12784
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "49accfca4dbe6026",
+      "name" : "Screenshot",
+      "source" : "49accfca4dbe6026.png",
+      "type" : "image/png",
+      "size" : 346533
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87fccdf19dc7575b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113676065,
+        "stop" : 1671113700492,
+        "duration" : 24427
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df9fd2b1272ab7a5.json",
+  "parameterValues" : [ ]
+}

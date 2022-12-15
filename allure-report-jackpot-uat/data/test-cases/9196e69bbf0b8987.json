@@ -1,0 +1,85 @@
+{
+  "uid" : "9196e69bbf0b8987",
+  "name" : "#1 User can navigates to the slots page and all elements are persisted on the page",
+  "fullName" : "Slots page.#1 User can navigates to the slots page and all elements are persisted on the page",
+  "historyId" : "8d9a50ea6f6030768f51e9fb177cf530",
+  "time" : {
+    "start" : 1671115049150,
+    "stop" : 1671115055640,
+    "duration" : 6490
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115049151,
+        "stop" : 1671115053948,
+        "duration" : 4797
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "9dd3839da0fff5cd",
+      "name" : "Screenshot",
+      "source" : "9dd3839da0fff5cd.png",
+      "type" : "image/png",
+      "size" : 703192
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can navigates to the slots page and all elements are persisted on the page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33049ab6aa76a4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114787581,
+        "stop" : 1671114791203,
+        "duration" : 3622
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9196e69bbf0b8987.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "218f1adc69808170",
+  "name" : "#12 Player can continue with chosen 6 months option to 'Self Exclusion' and confirming modal should display.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#12 Player can continue with chosen 6 months option to 'Self Exclusion' and confirming modal should display.",
+  "historyId" : "a32d0b54e2286deffff93029d4bd7782",
+  "time" : {
+    "start" : 1671115278946,
+    "stop" : 1671115304817,
+    "duration" : 25871
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "85c2839674350bac",
+      "name" : "Screenshot",
+      "source" : "85c2839674350bac.png",
+      "type" : "image/png",
+      "size" : 211683
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Player can continue with chosen 6 months option to 'Self Exclusion' and confirming modal should display."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db893fce4e934d21",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <button name=\"duration\" value=\"182\" aria-pressed=\"false\" class=\"button button--secondary button--medium toggle-button self-exclusion-form__duration\" type=\"button\" aria-disabled=\"false\">...</button> is not clickable at point (453, 635). Other element would receive the click: <div class=\"u-action-footer\">...</div>\n                  (Session info: headless chrome=108.0.5359.100)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'DESKTOP-RS04CQ3', ip: '10.255.4.180', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1671114703727,
+        "stop" : 1671114730926,
+        "duration" : 27199
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "218f1adc69808170.json",
+  "parameterValues" : [ ]
+}

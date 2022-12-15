@@ -1,0 +1,62 @@
+{
+  "uid" : "8c1a50430b2e15fc",
+  "name" : "#4 New Password is a mandatory field.",
+  "fullName" : "My Account > Settings > Change Password.#4 New Password is a mandatory field.",
+  "historyId" : "76703c0ecbb29dd3473a1e0ead11d006",
+  "time" : {
+    "start" : 1671113577474,
+    "stop" : 1671113593030,
+    "duration" : 15556
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c827eb454934eab4",
+      "name" : "Screenshot",
+      "source" : "c827eb454934eab4.png",
+      "type" : "image/png",
+      "size" : 240900
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 New Password is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c1a50430b2e15fc.json",
+  "parameterValues" : [ ]
+}

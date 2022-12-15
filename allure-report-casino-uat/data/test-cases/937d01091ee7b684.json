@@ -1,0 +1,62 @@
+{
+  "uid" : "937d01091ee7b684",
+  "name" : "#07 Player cannot login when entering an incorrect password.",
+  "fullName" : "Log In.#07 Player cannot login when entering an incorrect password.",
+  "historyId" : "a9e95653440839dca33617f15c6880d0",
+  "time" : {
+    "start" : 1671113439217,
+    "stop" : 1671113449268,
+    "duration" : 10051
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "367f2645d960b16d",
+      "name" : "Screenshot",
+      "source" : "367f2645d960b16d.png",
+      "type" : "image/png",
+      "size" : 393014
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Log In"
+  }, {
+    "name" : "testClass",
+    "value" : "Log In"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 Player cannot login when entering an incorrect password."
+  }, {
+    "name" : "package",
+    "value" : "Log In"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "937d01091ee7b684.json",
+  "parameterValues" : [ ]
+}

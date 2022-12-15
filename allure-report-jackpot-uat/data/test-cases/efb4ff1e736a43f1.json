@@ -1,0 +1,60 @@
+{
+  "uid" : "efb4ff1e736a43f1",
+  "name" : "#12 New password must not contain email address.",
+  "fullName" : "My Account > Settings > Change Password.#12 New password must not contain email address.",
+  "historyId" : "b3c27835751690cbd8d717524fee526b",
+  "time" : {
+    "start" : 1671114812219,
+    "stop" : 1671114840692,
+    "duration" : 28473
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1c75cff689d2fab8",
+      "name" : "Screenshot",
+      "source" : "1c75cff689d2fab8.png",
+      "type" : "image/png",
+      "size" : 172650
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 New password must not contain email address."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efb4ff1e736a43f1.json",
+  "parameterValues" : [ ]
+}

@@ -1,5 +1,5 @@
 {
-  "total" : 42,
+  "total" : 43,
   "items" : [ {
     "uid" : "c1241e507322101c86066c7b6b7229b1",
     "name" : "My Account > Gambling Controls > Deposit Limits",
@@ -23,17 +23,6 @@
       "total" : 21
     }
   }, {
-    "uid" : "578667d191051de9fa6b4ea4f518ffc2",
-    "name" : "My Account > Settings > Change Password",
-    "statistic" : {
-      "failed" : 7,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 9,
-      "unknown" : 0,
-      "total" : 16
-    }
-  }, {
     "uid" : "a30c7c09eb727c876becaa7e8fc144b8",
     "name" : "My Account > Gambling Controls > Account Closure > Take A Break",
     "statistic" : {
@@ -48,34 +37,23 @@
     "uid" : "fddcd445851e3581a68118b5f4d9481a",
     "name" : "My Account > Gambling Controls > Account Closure > Self Exclusion",
     "statistic" : {
-      "failed" : 5,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 3,
-      "passed" : 10,
+      "passed" : 12,
       "unknown" : 0,
       "total" : 18
     }
   }, {
-    "uid" : "5039b0cc24ce04fcef3fcf145d8ae779",
-    "name" : "Slots page",
+    "uid" : "72437ddc9921c0227bc8cee1294582a8",
+    "name" : "My Profile > Communications Preferences",
     "statistic" : {
       "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 13,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 15
-    }
-  }, {
-    "uid" : "a42c9f51ba1bf76b8f087ce0758272d2",
-    "name" : "Homepage",
-    "statistic" : {
-      "failed" : 2,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 12,
-      "unknown" : 0,
-      "total" : 14
+      "total" : 13
     }
   }, {
     "uid" : "3fe00a6732b6aa7df96a2d7ff1e173d2",
@@ -87,6 +65,28 @@
       "passed" : 6,
       "unknown" : 0,
       "total" : 9
+    }
+  }, {
+    "uid" : "7728a1de9799acb5f82a350ce39d6b7f",
+    "name" : "Deep Link -> Edit Phone",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "425cb1cc981b402646effc66d40d078e",
+    "name" : "Home => Terms & Conditions",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 28,
+      "unknown" : 0,
+      "total" : 29
     }
   }, {
     "uid" : "4cecdc3407b170c54e975930a34bc6aa",

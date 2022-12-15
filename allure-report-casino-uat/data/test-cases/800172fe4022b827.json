@@ -1,0 +1,71 @@
+{
+  "uid" : "800172fe4022b827",
+  "name" : "#01 Player can view their personal details.",
+  "fullName" : "My Profile > Personal Details.#01 Player can view their personal details.",
+  "historyId" : "6e6d7389004bd4da470814dde148d423",
+  "time" : {
+    "start" : 1671113979848,
+    "stop" : 1671113991656,
+    "duration" : 11808
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f603fcb65cc200af",
+      "name" : "Screenshot",
+      "source" : "f603fcb65cc200af.png",
+      "type" : "image/png",
+      "size" : 398711
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Personal Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Personal Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can view their personal details."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Personal Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8664eb0b8222feca",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [data-testid='navigation-Account-link'])",
+      "time" : {
+        "start" : 1671113504636,
+        "stop" : 1671113511922,
+        "duration" : 7286
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "800172fe4022b827.json",
+  "parameterValues" : [ ]
+}

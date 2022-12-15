@@ -1,0 +1,70 @@
+{
+  "uid" : "4ac2a1383b9ebad1",
+  "name" : "#3 User can come to the Gambling commission page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#3 User can come to the Gambling commission page from terms and conditions page",
+  "historyId" : "29bf73fa7b84606cc680492bc554cbf2",
+  "time" : {
+    "start" : 1671115079630,
+    "stop" : 1671115088715,
+    "duration" : 9085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "975903dcce16be51",
+      "name" : "Screenshot",
+      "source" : "975903dcce16be51.png",
+      "type" : "image/png",
+      "size" : 214219
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can come to the Gambling commission page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "41e1c15350d23a12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114330585,
+        "stop" : 1671114338655,
+        "duration" : 8070
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ac2a1383b9ebad1.json",
+  "parameterValues" : [ ]
+}

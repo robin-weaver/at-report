@@ -1,0 +1,70 @@
+{
+  "uid" : "d5f21c309ee27a46",
+  "name" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly",
+  "historyId" : "84e5664ee9d6150c3faf5301b9d6db87",
+  "time" : {
+    "start" : 1671115182000,
+    "stop" : 1671115216500,
+    "duration" : 34500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40d82a58c4c29435",
+      "name" : "Screenshot",
+      "source" : "40d82a58c4c29435.png",
+      "type" : "image/png",
+      "size" : 226267
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Player can edit their preferences and select just the email toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd2ef4fd2150f7b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114680329,
+        "stop" : 1671114712350,
+        "duration" : 32021
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5f21c309ee27a46.json",
+  "parameterValues" : [ ]
+}

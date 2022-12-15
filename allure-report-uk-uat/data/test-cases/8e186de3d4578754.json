@@ -1,0 +1,62 @@
+{
+  "uid" : "8e186de3d4578754",
+  "name" : "#14 Player inputs into the password fields should be masked by default.",
+  "fullName" : "My Account > Settings > Change Password.#14 Player inputs into the password fields should be masked by default.",
+  "historyId" : "e51bebdda97ca4b3f5d813e0b8fa8157",
+  "time" : {
+    "start" : 1671112643674,
+    "stop" : 1671112661314,
+    "duration" : 17640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "461bc99e90b6805b",
+      "name" : "Screenshot",
+      "source" : "461bc99e90b6805b.png",
+      "type" : "image/png",
+      "size" : 187014
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player inputs into the password fields should be masked by default."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e186de3d4578754.json",
+  "parameterValues" : [ ]
+}

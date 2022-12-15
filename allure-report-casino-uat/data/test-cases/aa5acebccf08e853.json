@@ -1,0 +1,71 @@
+{
+  "uid" : "aa5acebccf08e853",
+  "name" : "#3 User can click on ‘Unsubscribe’ button and successfully unsubscribe window will be displayed with the correct content",
+  "fullName" : "UnsubscribePage.#3 User can click on ‘Unsubscribe’ button and successfully unsubscribe window will be displayed with the correct content",
+  "historyId" : "29cdcb5b7142e4cb5473dd0da88c380e",
+  "time" : {
+    "start" : 1671113999906,
+    "stop" : 1671114007016,
+    "duration" : 7110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "56bce99958479a9e",
+      "name" : "Screenshot",
+      "source" : "56bce99958479a9e.png",
+      "type" : "image/png",
+      "size" : 71901
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testClass",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can click on ‘Unsubscribe’ button and successfully unsubscribe window will be displayed with the correct content"
+  }, {
+    "name" : "package",
+    "value" : "UnsubscribePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76f231e49df86a3a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Confirm selection button is not displayed.\n                Wait timed out after 5030ms",
+      "time" : {
+        "start" : 1671113721518,
+        "stop" : 1671113732758,
+        "duration" : 11240
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa5acebccf08e853.json",
+  "parameterValues" : [ ]
+}

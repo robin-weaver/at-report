@@ -1,0 +1,70 @@
+{
+  "uid" : "67b1ccab0287aa34",
+  "name" : "#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected.",
+  "historyId" : "93fc742affc3527af639e0b5eec53465",
+  "time" : {
+    "start" : 1671114083432,
+    "stop" : 1671114092763,
+    "duration" : 9331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "21657beb542f2b84",
+      "name" : "Screenshot",
+      "source" : "21657beb542f2b84.png",
+      "type" : "image/png",
+      "size" : 252067
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Player can choose 5 years option for 'Self Exclusion' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "833e16d44f64b38a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113617920,
+        "stop" : 1671113638280,
+        "duration" : 20360
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67b1ccab0287aa34.json",
+  "parameterValues" : [ ]
+}

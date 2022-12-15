@@ -1,0 +1,71 @@
+{
+  "uid" : "275c699c231a5dd3",
+  "name" : "#12 User can see the Changes to the Terms section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#12 User can see the Changes to the Terms section on terms and conditions page",
+  "historyId" : "dc7c983e237a1a686a312574bb029570",
+  "time" : {
+    "start" : 1671115146959,
+    "stop" : 1671115155095,
+    "duration" : 8136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e4905f66fd9d747",
+      "name" : "Screenshot",
+      "source" : "6e4905f66fd9d747.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 User can see the Changes to the Terms section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a3c2fa9951c7ed08",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1671114392919,
+        "stop" : 1671114398578,
+        "duration" : 5659
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "275c699c231a5dd3.json",
+  "parameterValues" : [ ]
+}

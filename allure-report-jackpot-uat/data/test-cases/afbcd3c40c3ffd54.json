@@ -1,0 +1,70 @@
+{
+  "uid" : "afbcd3c40c3ffd54",
+  "name" : "#10 Player can unselect just email preferences using the email toggle (email already toggled on), which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#10 Player can unselect just email preferences using the email toggle (email already toggled on), which upon saving updates the account area accordingly",
+  "historyId" : "3d84c8f44845188592b0428d4089b637",
+  "time" : {
+    "start" : 1671115332013,
+    "stop" : 1671115358189,
+    "duration" : 26176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c46567cd8068685e",
+      "name" : "Screenshot",
+      "source" : "c46567cd8068685e.png",
+      "type" : "image/png",
+      "size" : 230192
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 Player can unselect just email preferences using the email toggle (email already toggled on), which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6e06a96a5a257370",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114816260,
+        "stop" : 1671114849798,
+        "duration" : 33538
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afbcd3c40c3ffd54.json",
+  "parameterValues" : [ ]
+}

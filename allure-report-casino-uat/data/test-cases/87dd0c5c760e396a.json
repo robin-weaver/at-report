@@ -1,0 +1,62 @@
+{
+  "uid" : "87dd0c5c760e396a",
+  "name" : "#02 Email Address is a mandatory field.",
+  "fullName" : "Registration > Step 1.#02 Email Address is a mandatory field.",
+  "historyId" : "37af8378f02e161e6cbf7e97549e6383",
+  "time" : {
+    "start" : 1671113609434,
+    "stop" : 1671113611952,
+    "duration" : 2518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2008dddeddaa175a",
+      "name" : "Screenshot",
+      "source" : "2008dddeddaa175a.png",
+      "type" : "image/png",
+      "size" : 63896
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Email Address is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87dd0c5c760e396a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "6bca79bdd7888179",
+  "name" : "#02 Player can click \"Go to lobby\" button and after that it will redirect to Home page.",
+  "fullName" : "404 error page functionality testing..#02 Player can click \"Go to lobby\" button and after that it will redirect to Home page.",
+  "historyId" : "1cf7195456f732fac28602890448d407",
+  "time" : {
+    "start" : 1671112892156,
+    "stop" : 1671112897622,
+    "duration" : 5466
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "792ed379214a8a30",
+      "name" : "Screenshot",
+      "source" : "792ed379214a8a30.png",
+      "type" : "image/png",
+      "size" : 415059
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 Player can click \"Go to lobby\" button and after that it will redirect to Home page."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eef8d78299aced8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671112126763,
+        "stop" : 1671112129842,
+        "duration" : 3079
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bca79bdd7888179.json",
+  "parameterValues" : [ ]
+}

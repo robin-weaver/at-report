@@ -1,0 +1,77 @@
+{
+  "uid" : "7e06c950687d0352",
+  "name" : "#2 User can see hero banner carousel and can scroll it",
+  "fullName" : "Slots page.#2 User can see hero banner carousel and can scroll it",
+  "historyId" : "1fb7d5b79bbe9bc27e84c9989ef1e3e6",
+  "time" : {
+    "start" : 1671113664466,
+    "stop" : 1671113666919,
+    "duration" : 2453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671113664467,
+        "stop" : 1671113666030,
+        "duration" : 1563
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e3e350dea0c77317",
+      "name" : "Screenshot",
+      "source" : "e3e350dea0c77317.png",
+      "type" : "image/png",
+      "size" : 343705
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can see hero banner carousel and can scroll it"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e06c950687d0352.json",
+  "parameterValues" : [ ]
+}

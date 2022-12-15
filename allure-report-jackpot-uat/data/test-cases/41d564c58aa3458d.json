@@ -1,0 +1,70 @@
+{
+  "uid" : "41d564c58aa3458d",
+  "name" : "#2 User can come to the privacy policy page from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#2 User can come to the privacy policy page from terms and conditions page",
+  "historyId" : "e6ed0da4fc6596bc7d2693daec22cb95",
+  "time" : {
+    "start" : 1671115069203,
+    "stop" : 1671115079630,
+    "duration" : 10427
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c08b2a4e7e580251",
+      "name" : "Screenshot",
+      "source" : "c08b2a4e7e580251.png",
+      "type" : "image/png",
+      "size" : 7181
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 User can come to the privacy policy page from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b48360d3616e9c80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114323251,
+        "stop" : 1671114330585,
+        "duration" : 7334
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41d564c58aa3458d.json",
+  "parameterValues" : [ ]
+}

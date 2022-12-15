@@ -1,0 +1,85 @@
+{
+  "uid" : "41f7df9922575609",
+  "name" : "#12 User can see category and can scroll it",
+  "fullName" : "Slots page.#12 User can see category and can scroll it",
+  "historyId" : "3d5fb79bd5c96eb7b0df76b488aeb29b",
+  "time" : {
+    "start" : 1671115103306,
+    "stop" : 1671115107916,
+    "duration" : 4610
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671115103306,
+        "stop" : 1671115105527,
+        "duration" : 2221
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "61841cfd32fef49a",
+      "name" : "Screenshot",
+      "source" : "61841cfd32fef49a.png",
+      "type" : "image/png",
+      "size" : 702649
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 User can see category and can scroll it"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8dfd2aae07e44b0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114837439,
+        "stop" : 1671114841492,
+        "duration" : 4053
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41f7df9922575609.json",
+  "parameterValues" : [ ]
+}

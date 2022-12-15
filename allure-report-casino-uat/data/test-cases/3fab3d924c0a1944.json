@@ -1,0 +1,62 @@
+{
+  "uid" : "3fab3d924c0a1944",
+  "name" : "#2 Check user is able to exit out of the deposit modal using the x button",
+  "fullName" : "My Account -> Deposit.#2 Check user is able to exit out of the deposit modal using the x button",
+  "historyId" : "76c32bf1c4cb064e50a66d73af032203",
+  "time" : {
+    "start" : 1671113509029,
+    "stop" : 1671113525914,
+    "duration" : 16885
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1a1c268751e5dabc",
+      "name" : "Screenshot",
+      "source" : "1a1c268751e5dabc.png",
+      "type" : "image/png",
+      "size" : 396711
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Check user is able to exit out of the deposit modal using the x button"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fab3d924c0a1944.json",
+  "parameterValues" : [ ]
+}

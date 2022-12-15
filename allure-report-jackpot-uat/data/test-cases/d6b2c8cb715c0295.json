@@ -1,0 +1,71 @@
+{
+  "uid" : "d6b2c8cb715c0295",
+  "name" : "#7 Player can choose 6 months option for 'Self Exclusion' and this option should be selected.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#7 Player can choose 6 months option for 'Self Exclusion' and this option should be selected.",
+  "historyId" : "c5523601803d59ead7aecc189396dac7",
+  "time" : {
+    "start" : 1671115167164,
+    "stop" : 1671115190343,
+    "duration" : 23179
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "399cf57c9015e3bd",
+      "name" : "Screenshot",
+      "source" : "399cf57c9015e3bd.png",
+      "type" : "image/png",
+      "size" : 204454
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can choose 6 months option for 'Self Exclusion' and this option should be selected."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a58989f2d6616863",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: -1, but there are only 0 elements that match locator By(css selector, .account-tile-list-item--clickable)",
+      "time" : {
+        "start" : 1671114557148,
+        "stop" : 1671114588954,
+        "duration" : 31806
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6b2c8cb715c0295.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "9e87d5bcdaa339f7",
+  "name" : "#1 User can come to the help center from terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#1 User can come to the help center from terms and conditions page",
+  "historyId" : "45090708f597746c89b58174e6a21240",
+  "time" : {
+    "start" : 1671115058912,
+    "stop" : 1671115069203,
+    "duration" : 10291
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8067c288c0fe50ad",
+      "name" : "Screenshot",
+      "source" : "8067c288c0fe50ad.png",
+      "type" : "image/png",
+      "size" : 14574
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 User can come to the help center from terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e33b928ee02f8fd2",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [href=\"https://help.jackpotuniverse.com/hc/en-gb\"])",
+      "time" : {
+        "start" : 1671114318118,
+        "stop" : 1671114323251,
+        "duration" : 5133
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e87d5bcdaa339f7.json",
+  "parameterValues" : [ ]
+}

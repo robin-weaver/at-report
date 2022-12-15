@@ -1,0 +1,62 @@
+{
+  "uid" : "189a7a8f5d7a9e4a",
+  "name" : "#01.1 User can leave the registration process by clicking the Home link and click 'Yes I want to leave'.",
+  "fullName" : "Registration > Step 1.#01.1 User can leave the registration process by clicking the Home link and click 'Yes I want to leave'.",
+  "historyId" : "aee24f2e33d8eb58df5a1027d55ce95e",
+  "time" : {
+    "start" : 1671114715267,
+    "stop" : 1671114722971,
+    "duration" : 7704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a7a58474804fa40",
+      "name" : "Screenshot",
+      "source" : "9a7a58474804fa40.png",
+      "type" : "image/png",
+      "size" : 630435
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01.1 User can leave the registration process by clicking the Home link and click 'Yes I want to leave'."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "189a7a8f5d7a9e4a.json",
+  "parameterValues" : [ ]
+}

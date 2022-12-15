@@ -1,0 +1,62 @@
+{
+  "uid" : "fc6ecc812e76af5",
+  "name" : "#10 New password must contain a combination of upper and lower case letters (all lower case).",
+  "fullName" : "My Account > Settings > Change Password.#10 New password must contain a combination of upper and lower case letters (all lower case).",
+  "historyId" : "deb0cd0ac8e3aa6b565c29559a97326f",
+  "time" : {
+    "start" : 1671113669053,
+    "stop" : 1671113684138,
+    "duration" : 15085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4cd84f6e04652b79",
+      "name" : "Screenshot",
+      "source" : "4cd84f6e04652b79.png",
+      "type" : "image/png",
+      "size" : 239840
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 New password must contain a combination of upper and lower case letters (all lower case)."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc6ecc812e76af5.json",
+  "parameterValues" : [ ]
+}

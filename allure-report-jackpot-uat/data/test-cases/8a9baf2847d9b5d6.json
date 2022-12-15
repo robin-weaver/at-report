@@ -1,0 +1,71 @@
+{
+  "uid" : "8a9baf2847d9b5d6",
+  "name" : "#2 All active promotions cards are displayed.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#2 All active promotions cards are displayed.",
+  "historyId" : "4353be4335e5e08b5b6c5f71f6ee77d9",
+  "time" : {
+    "start" : 1671115167777,
+    "stop" : 1671115182603,
+    "duration" : 14826
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "42ed66909777b2ff",
+      "name" : "Screenshot",
+      "source" : "42ed66909777b2ff.png",
+      "type" : "image/png",
+      "size" : 647165
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 All active promotions cards are displayed."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87519646dd8fc6d7",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 10007ms",
+      "time" : {
+        "start" : 1671114579073,
+        "stop" : 1671114593753,
+        "duration" : 14680
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a9baf2847d9b5d6.json",
+  "parameterValues" : [ ]
+}

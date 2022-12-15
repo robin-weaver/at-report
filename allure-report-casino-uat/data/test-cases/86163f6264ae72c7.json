@@ -1,0 +1,71 @@
+{
+  "uid" : "86163f6264ae72c7",
+  "name" : "#14 Player can continue with chosen 18 months option to 'Self Exclusion' and confirming modal should display.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#14 Player can continue with chosen 18 months option to 'Self Exclusion' and confirming modal should display.",
+  "historyId" : "877ef389310746b604a1d2f93b760060",
+  "time" : {
+    "start" : 1671114121750,
+    "stop" : 1671114131369,
+    "duration" : 9619
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1c659cfb46621113",
+      "name" : "Screenshot",
+      "source" : "1c659cfb46621113.png",
+      "type" : "image/png",
+      "size" : 277179
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Player can continue with chosen 18 months option to 'Self Exclusion' and confirming modal should display."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bd1ea83ea29c3187",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: -1, but there are only 0 elements that match locator By(css selector, .account-tile-list-item--clickable)",
+      "time" : {
+        "start" : 1671113670688,
+        "stop" : 1671113694935,
+        "duration" : 24247
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86163f6264ae72c7.json",
+  "parameterValues" : [ ]
+}

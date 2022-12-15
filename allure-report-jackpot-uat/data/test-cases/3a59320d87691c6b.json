@@ -1,0 +1,70 @@
+{
+  "uid" : "3a59320d87691c6b",
+  "name" : "#2 Player can close the 'Self Exclusion' modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#2 Player can close the 'Self Exclusion' modal.",
+  "historyId" : "6b76e18b0b197a1f0dfdc06095b6b2cf",
+  "time" : {
+    "start" : 1671115095370,
+    "stop" : 1671115117814,
+    "duration" : 22444
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "42b1b7ede2693ffb",
+      "name" : "Screenshot",
+      "source" : "42b1b7ede2693ffb.png",
+      "type" : "image/png",
+      "size" : 267705
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can close the 'Self Exclusion' modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76f9815909f001a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114471673,
+        "stop" : 1671114500180,
+        "duration" : 28507
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a59320d87691c6b.json",
+  "parameterValues" : [ ]
+}

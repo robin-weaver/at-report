@@ -1,0 +1,62 @@
+{
+  "uid" : "d521ac63a1bcf49b",
+  "name" : "#02 User can navigate back to the previous step.",
+  "fullName" : "Registration > Step 3.#02 User can navigate back to the previous step.",
+  "historyId" : "1baa1aa14074942c7e9a5c4e7ff528e7",
+  "time" : {
+    "start" : 1671114723348,
+    "stop" : 1671114740815,
+    "duration" : 17467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9567138000684da1",
+      "name" : "Screenshot",
+      "source" : "9567138000684da1.png",
+      "type" : "image/png",
+      "size" : 1377762
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 User can navigate back to the previous step."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d521ac63a1bcf49b.json",
+  "parameterValues" : [ ]
+}

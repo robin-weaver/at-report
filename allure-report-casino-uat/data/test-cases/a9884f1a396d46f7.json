@@ -1,0 +1,70 @@
+{
+  "uid" : "a9884f1a396d46f7",
+  "name" : "#26 Promotion page is displayed for not login user.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for unauthenticated user..#26 Promotion page is displayed for not login user.",
+  "historyId" : "3c7cac669360e406dd39a0c8947c3097",
+  "time" : {
+    "start" : 1671114259322,
+    "stop" : 1671114260160,
+    "duration" : 838
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "59a2aebdded85ea1",
+      "name" : "Screenshot",
+      "source" : "59a2aebdded85ea1.png",
+      "type" : "image/png",
+      "size" : 709096
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "testMethod",
+    "value" : "#26 Promotion page is displayed for not login user."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for unauthenticated user."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55bb4799b8400496",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671113914664,
+        "stop" : 1671113915512,
+        "duration" : 848
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9884f1a396d46f7.json",
+  "parameterValues" : [ ]
+}

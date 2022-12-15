@@ -1,0 +1,71 @@
+{
+  "uid" : "1cdc5cdff9132c6",
+  "name" : "#3 Current Password is a mandatory field.",
+  "fullName" : "My Account > Settings > Change Password.#3 Current Password is a mandatory field.",
+  "historyId" : "cb75d976900c80373eb4e641ec788ee9",
+  "time" : {
+    "start" : 1671115191946,
+    "stop" : 1671115220948,
+    "duration" : 29002
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1bb01012eeedba10",
+      "name" : "Screenshot",
+      "source" : "1bb01012eeedba10.png",
+      "type" : "image/png",
+      "size" : 180373
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Current Password is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6018444d508109dc",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 11303ms",
+      "time" : {
+        "start" : 1671114585237,
+        "stop" : 1671114609520,
+        "duration" : 24283
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cdc5cdff9132c6.json",
+  "parameterValues" : [ ]
+}

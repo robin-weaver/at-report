@@ -1,0 +1,70 @@
+{
+  "uid" : "dc5b44812184f3f5",
+  "name" : "#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)",
+  "fullName" : "Inbox functionality testing.#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)",
+  "historyId" : "5c3bb958d3f12d2fade6f4e7c242f004",
+  "time" : {
+    "start" : 1671115388577,
+    "stop" : 1671115399450,
+    "duration" : 10873
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "62c1d43323c74b44",
+      "name" : "Screenshot",
+      "source" : "62c1d43323c74b44.png",
+      "type" : "image/png",
+      "size" : 110137
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 Player is presented with an Empty Inbox image if the Inbox is empty (rather than a heading & message list)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff5254335a72247d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114674429,
+        "stop" : 1671114694916,
+        "duration" : 20487
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc5b44812184f3f5.json",
+  "parameterValues" : [ ]
+}

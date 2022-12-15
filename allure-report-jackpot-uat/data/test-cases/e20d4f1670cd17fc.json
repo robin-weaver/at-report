@@ -1,0 +1,70 @@
+{
+  "uid" : "e20d4f1670cd17fc",
+  "name" : "#16 Player can successfully update and sign in with their new password.",
+  "fullName" : "My Account > Settings > Change Password.#16 Player can successfully update and sign in with their new password.",
+  "historyId" : "c8ee8d240e41c480f74b255a3243efc0",
+  "time" : {
+    "start" : 1671115451333,
+    "stop" : 1671115491652,
+    "duration" : 40319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7d24448858d5d774",
+      "name" : "Screenshot",
+      "source" : "7d24448858d5d774.png",
+      "type" : "image/png",
+      "size" : 237340
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 Player can successfully update and sign in with their new password."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b590ea0547a1ea3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671114900180,
+        "stop" : 1671114932582,
+        "duration" : 32402
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e20d4f1670cd17fc.json",
+  "parameterValues" : [ ]
+}

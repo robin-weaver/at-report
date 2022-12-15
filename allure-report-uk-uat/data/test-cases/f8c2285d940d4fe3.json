@@ -1,0 +1,70 @@
+{
+  "uid" : "f8c2285d940d4fe3",
+  "name" : "#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly",
+  "historyId" : "94cbf891469e6a07d3467520132fccac",
+  "time" : {
+    "start" : 1671113057364,
+    "stop" : 1671113072260,
+    "duration" : 14896
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1e8a1264bb58732",
+      "name" : "Screenshot",
+      "source" : "1e8a1264bb58732.png",
+      "type" : "image/png",
+      "size" : 308042
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Player can edit their preferences and select just the Phone toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f0f496b8887d8ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671112553004,
+        "stop" : 1671112574636,
+        "duration" : 21632
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8c2285d940d4fe3.json",
+  "parameterValues" : [ ]
+}

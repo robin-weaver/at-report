@@ -1,0 +1,62 @@
+{
+  "uid" : "3fd6ecc47ffea870",
+  "name" : "#05 User can opt in to receive SMS marketing preferences.",
+  "fullName" : "Registration > Step 4.#05 User can opt in to receive SMS marketing preferences.",
+  "historyId" : "70388784b9746dcb81091e9917496f40",
+  "time" : {
+    "start" : 1671113765683,
+    "stop" : 1671113772244,
+    "duration" : 6561
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "720ab95dd57edfc7",
+      "name" : "Screenshot",
+      "source" : "720ab95dd57edfc7.png",
+      "type" : "image/png",
+      "size" : 63475
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 User can opt in to receive SMS marketing preferences."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fd6ecc47ffea870.json",
+  "parameterValues" : [ ]
+}

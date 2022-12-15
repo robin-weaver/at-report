@@ -1,0 +1,62 @@
+{
+  "uid" : "d29fc0216dbc10ac",
+  "name" : "#1 Deep link to play reminders opens when logged in",
+  "fullName" : "Deep Link -> Play Reminders.#1 Deep link to play reminders opens when logged in",
+  "historyId" : "9f78a41cbd40ec9f1e5572e387a61f7d",
+  "time" : {
+    "start" : 1671113454236,
+    "stop" : 1671113466237,
+    "duration" : 12001
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e32fc8d8612ecacd",
+      "name" : "Screenshot",
+      "source" : "e32fc8d8612ecacd.png",
+      "type" : "image/png",
+      "size" : 251176
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to play reminders opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Play Reminders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d29fc0216dbc10ac.json",
+  "parameterValues" : [ ]
+}

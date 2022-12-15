@@ -1,0 +1,71 @@
+{
+  "uid" : "fa6de84f12d14c9e",
+  "name" : "#25 User can see the Complaints and disputes section on terms and conditions page",
+  "fullName" : "Home => Terms & Conditions.#25 User can see the Complaints and disputes section on terms and conditions page",
+  "historyId" : "b215e1c98e70cb6f5debc5bdf56c2650",
+  "time" : {
+    "start" : 1671115242577,
+    "stop" : 1671115250737,
+    "duration" : 8160
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "65552c15ebcec070",
+      "name" : "Screenshot",
+      "source" : "65552c15ebcec070.png",
+      "type" : "image/png",
+      "size" : 301302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testClass",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "testMethod",
+    "value" : "#25 User can see the Complaints and disputes section on terms and conditions page"
+  }, {
+    "name" : "package",
+    "value" : "Home => Terms & Conditions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c651a1648defae02",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"_uk_en_legal_terms-and-conditions_jcr_content_root_aemnavcomponent_experiencefragment_root_text_copy\"])",
+      "time" : {
+        "start" : 1671114475859,
+        "stop" : 1671114481851,
+        "duration" : 5992
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa6de84f12d14c9e.json",
+  "parameterValues" : [ ]
+}

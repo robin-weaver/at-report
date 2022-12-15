@@ -1,0 +1,75 @@
+{
+  "uid" : "714b036afa307439",
+  "name" : "#5 User can see on hero banner carousel primary button CTA, can click on it and see game info page",
+  "fullName" : "Slots page.#5 User can see on hero banner carousel primary button CTA, can click on it and see game info page",
+  "historyId" : "37c0f7c9a747cc3a60d4883ce2317f6d",
+  "time" : {
+    "start" : 1671114802809,
+    "stop" : 1671114806160,
+    "duration" : 3351
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1671114802810,
+        "stop" : 1671114805408,
+        "duration" : 2598
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "c6cf438e63124816",
+      "name" : "Screenshot",
+      "source" : "c6cf438e63124816.png",
+      "type" : "image/png",
+      "size" : 703192
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can see on hero banner carousel primary button CTA, can click on it and see game info page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "714b036afa307439.json",
+  "parameterValues" : [ ]
+}

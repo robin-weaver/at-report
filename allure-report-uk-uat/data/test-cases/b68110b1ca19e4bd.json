@@ -1,0 +1,79 @@
+{
+  "uid" : "b68110b1ca19e4bd",
+  "name" : "#03 All elements are persisted on 404 error page.",
+  "fullName" : "404 error page functionality testing..#03 All elements are persisted on 404 error page.",
+  "historyId" : "4d81fb14c34d56f77ba9ef6a06687d3",
+  "time" : {
+    "start" : 1671112897622,
+    "stop" : 1671112899879,
+    "duration" : 2257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(css selector, [aria-label=\"Logo\"])",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"Logo\"])\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:814:27\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as isDisplayed] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as isDisplayed] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:68:28)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                From: Task: Run it(\"#03 All elements are persisted on 404 error page.\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:67:3)\n                    at addSpecsToSuite (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:49:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: No element found using locator: By(css selector, [aria-label=\"Logo\"])",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"Logo\"])\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:814:27\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as isDisplayed] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as isDisplayed] (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:68:28)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                From: Task: Run it(\"#03 All elements are persisted on 404 error page.\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:67:3)\n                    at addSpecsToSuite (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\robin\\PycharmProjects\\eyas-test-automation\\src\\test\\error\\error404.spec.js:49:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b1d4f012400dd67c",
+      "name" : "Screenshot",
+      "source" : "b1d4f012400dd67c.png",
+      "type" : "image/png",
+      "size" : 149362
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testClass",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 All elements are persisted on 404 error page."
+  }, {
+    "name" : "package",
+    "value" : "404 error page functionality testing."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6ce7c9f01614431a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [aria-label=\"Logo\"])",
+      "time" : {
+        "start" : 1671112129842,
+        "stop" : 1671112131980,
+        "duration" : 2138
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b68110b1ca19e4bd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "e9d1f80dd746d9ab",
+  "name" : "#15 User has logged in, card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then user go to the game.",
+  "fullName" : "Live Casino.#15 User has logged in, card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then user go to the game.",
+  "historyId" : "1396fba2c03257f71f09c6284da67854",
+  "time" : {
+    "start" : 1671114015532,
+    "stop" : 1671114025512,
+    "duration" : 9980
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "564d8a0dbfd2d8c4",
+      "name" : "Screenshot",
+      "source" : "564d8a0dbfd2d8c4.png",
+      "type" : "image/png",
+      "size" : 9848
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#15 User has logged in, card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then user go to the game."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5e0c67a97a109586",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20006ms",
+      "time" : {
+        "start" : 1671113444429,
+        "stop" : 1671113458231,
+        "duration" : 13802
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9d1f80dd746d9ab.json",
+  "parameterValues" : [ ]
+}
