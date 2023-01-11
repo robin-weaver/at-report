@@ -1,0 +1,70 @@
+{
+  "uid" : "339e45bf8eaaa30e",
+  "name" : "#16 Given that a user is on the cookie detail view then they will see the cookie category title i.e. ‘Functional cookies’and the details of the cookies will be listed out as follows: Name, Host, Duration, Description. And value will be text ",
+  "fullName" : "My Account > Settings > Cookies Preferences.#16 Given that a user is on the cookie detail view then they will see the cookie category title i.e. ‘Functional cookies’and the details of the cookies will be listed out as follows: Name, Host, Duration, Description. And value will be text ",
+  "historyId" : "c2a5cafd03d98148311ddde47d97a801",
+  "time" : {
+    "start" : 1673429349926,
+    "stop" : 1673429365393,
+    "duration" : 15467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d5efa2ee24f5ab7b",
+      "name" : "Screenshot",
+      "source" : "d5efa2ee24f5ab7b.png",
+      "type" : "image/png",
+      "size" : 1889294
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#16 Given that a user is on the cookie detail view then they will see the cookie category title i.e. ‘Functional cookies’and the details of the cookies will be listed out as follows: Name, Host, Duration, Description. And value will be text "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ab0584df20ca03c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273967630,
+        "stop" : 1673273973815,
+        "duration" : 6185
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "339e45bf8eaaa30e.json",
+  "parameterValues" : [ ]
+}

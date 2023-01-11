@@ -1,0 +1,60 @@
+{
+  "uid" : "773558bf95dd6a69",
+  "name" : "#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "fullName" : "My Account -> Deposit.#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "historyId" : "149c42126c0809a9405e1778300246b8",
+  "time" : {
+    "start" : 1673271477734,
+    "stop" : 1673271489436,
+    "duration" : 11702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f4d4633c111061f5",
+      "name" : "Screenshot",
+      "source" : "f4d4633c111061f5.png",
+      "type" : "image/png",
+      "size" : 904524
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Check user is able to deposit with a valid card and is presented with success modal"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "773558bf95dd6a69.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "f31e4234934b097d",
+  "name" : "#1 Player can select the 'Self Exclusion' menu item and is displayed the Self Exclusion modal.",
+  "fullName" : "My Account > Gambling Controls > Account Closure > Self Exclusion.#1 Player can select the 'Self Exclusion' menu item and is displayed the Self Exclusion modal.",
+  "historyId" : "c590d456d041752a58e74330c57099c7",
+  "time" : {
+    "start" : 1673424274301,
+    "stop" : 1673424283597,
+    "duration" : 9296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fa219b7d96c9a372",
+      "name" : "Screenshot",
+      "source" : "fa219b7d96c9a372.png",
+      "type" : "image/png",
+      "size" : 876603
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can select the 'Self Exclusion' menu item and is displayed the Self Exclusion modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Account Closure > Self Exclusion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c8f8c3f79f2fc34e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 17433ms",
+      "time" : {
+        "start" : 1673264904467,
+        "stop" : 1673264985375,
+        "duration" : 80908
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f31e4234934b097d.json",
+  "parameterValues" : [ ]
+}

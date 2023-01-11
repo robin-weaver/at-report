@@ -1,0 +1,71 @@
+{
+  "uid" : "a586bf2f3ce6941b",
+  "name" : "#7 User can open the Loss Limits Delete modal on edit icon click and click on edit icon in the input field ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#7 User can open the Loss Limits Delete modal on edit icon click and click on edit icon in the input field ",
+  "historyId" : "525c6b7e25c8dbeaa9d398a6bda1fb1d",
+  "time" : {
+    "start" : 1673424515069,
+    "stop" : 1673424524635,
+    "duration" : 9566
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3bd46f722f0ac4be",
+      "name" : "Screenshot",
+      "source" : "3bd46f722f0ac4be.png",
+      "type" : "image/png",
+      "size" : 848121
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 User can open the Loss Limits Delete modal on edit icon click and click on edit icon in the input field "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6dfb96eecd3d2c61",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 19924ms",
+      "time" : {
+        "start" : 1673265558715,
+        "stop" : 1673265678903,
+        "duration" : 120188
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a586bf2f3ce6941b.json",
+  "parameterValues" : [ ]
+}

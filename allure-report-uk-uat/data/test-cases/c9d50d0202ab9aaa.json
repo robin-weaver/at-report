@@ -1,0 +1,71 @@
+{
+  "uid" : "c9d50d0202ab9aaa",
+  "name" : "#4 User can open the Loss Limits Delete modal on delete icon click ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#4 User can open the Loss Limits Delete modal on delete icon click ",
+  "historyId" : "46bcef57d37544332dfc4fde758b842d",
+  "time" : {
+    "start" : 1673424482161,
+    "stop" : 1673424491725,
+    "duration" : 9564
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "655fa68c67bafc4f",
+      "name" : "Screenshot",
+      "source" : "655fa68c67bafc4f.png",
+      "type" : "image/png",
+      "size" : 925399
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 User can open the Loss Limits Delete modal on delete icon click "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33a26599e296c71d",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 37769ms",
+      "time" : {
+        "start" : 1673265185633,
+        "stop" : 1673265294948,
+        "duration" : 109315
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9d50d0202ab9aaa.json",
+  "parameterValues" : [ ]
+}

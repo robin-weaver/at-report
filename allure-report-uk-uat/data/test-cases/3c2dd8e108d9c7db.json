@@ -1,0 +1,77 @@
+{
+  "uid" : "3c2dd8e108d9c7db",
+  "name" : "#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page",
+  "fullName" : "Slots page.#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page",
+  "historyId" : "6c68d32be4f20d0450ff488cb1dd2123",
+  "time" : {
+    "start" : 1673268064042,
+    "stop" : 1673268140965,
+    "duration" : 76923
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1673268064054,
+        "stop" : 1673268095139,
+        "duration" : 31085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e268d11793c11cbc",
+      "name" : "Screenshot",
+      "source" : "e268d11793c11cbc.png",
+      "type" : "image/png",
+      "size" : 1683059
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 User logged in and hover the game card and click on CTA \"DEMO\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c2dd8e108d9c7db.json",
+  "parameterValues" : [ ]
+}

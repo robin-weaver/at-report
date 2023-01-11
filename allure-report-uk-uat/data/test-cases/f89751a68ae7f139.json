@@ -1,0 +1,71 @@
+{
+  "uid" : "f89751a68ae7f139",
+  "name" : "#04 Player can update their telephone number.",
+  "fullName" : "My Profile > Contact Details.#04 Player can update their telephone number.",
+  "historyId" : "ce2f4afa7d1baa0a6acd81d7bcecc9a1",
+  "time" : {
+    "start" : 1673274635151,
+    "stop" : 1673274650949,
+    "duration" : 15798
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2af655f8efda21cd",
+      "name" : "Screenshot",
+      "source" : "2af655f8efda21cd.png",
+      "type" : "image/png",
+      "size" : 2000163
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player can update their telephone number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a0e45f2d16182731",
+      "status" : "failed",
+      "statusDetails" : "Failed: Snackbar not visible.\n                Wait timed out after 20897ms",
+      "time" : {
+        "start" : 1673266311719,
+        "stop" : 1673266489293,
+        "duration" : 177574
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f89751a68ae7f139.json",
+  "parameterValues" : [ ]
+}

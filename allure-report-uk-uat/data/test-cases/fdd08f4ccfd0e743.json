@@ -1,0 +1,60 @@
+{
+  "uid" : "fdd08f4ccfd0e743",
+  "name" : "#2 Player can cancel out of the Change Password modal.",
+  "fullName" : "My Account > Settings > Change Password.#2 Player can cancel out of the Change Password modal.",
+  "historyId" : "3ee9d717676bbd207be4b895bf1ee52",
+  "time" : {
+    "start" : 1673265969888,
+    "stop" : 1673266067881,
+    "duration" : 97993
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7e5e4f5c95a2bd54",
+      "name" : "Screenshot",
+      "source" : "7e5e4f5c95a2bd54.png",
+      "type" : "image/png",
+      "size" : 1533369
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can cancel out of the Change Password modal."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdd08f4ccfd0e743.json",
+  "parameterValues" : [ ]
+}

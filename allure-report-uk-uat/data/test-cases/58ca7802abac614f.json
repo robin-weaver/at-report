@@ -1,0 +1,70 @@
+{
+  "uid" : "58ca7802abac614f",
+  "name" : "#04 When user is on the logged if one or more of the non essential cookies is enabled, confirm selection must be enabled",
+  "fullName" : "My Account > Settings > Cookies Preferences.#04 When user is on the logged if one or more of the non essential cookies is enabled, confirm selection must be enabled",
+  "historyId" : "8fbf0326fa5bf35f33225d87544885f8",
+  "time" : {
+    "start" : 1673429262307,
+    "stop" : 1673429270061,
+    "duration" : 7754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e0a223de2b6b475c",
+      "name" : "Screenshot",
+      "source" : "e0a223de2b6b475c.png",
+      "type" : "image/png",
+      "size" : 1734561
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 When user is on the logged if one or more of the non essential cookies is enabled, confirm selection must be enabled"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5dcf37bdfd87d834",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273876881,
+        "stop" : 1673273884704,
+        "duration" : 7823
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58ca7802abac614f.json",
+  "parameterValues" : [ ]
+}

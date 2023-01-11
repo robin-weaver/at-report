@@ -1,0 +1,71 @@
+{
+  "uid" : "1250346eb0330b23",
+  "name" : "#9 New password must contain a combination of upper and lower case letters (all upper case).",
+  "fullName" : "My Account > Settings > Change Password.#9 New password must contain a combination of upper and lower case letters (all upper case).",
+  "historyId" : "fe3ad14e275f50f56ecbedcc5265adf",
+  "time" : {
+    "start" : 1673273622370,
+    "stop" : 1673273632469,
+    "duration" : 10099
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ba785f32cafa6b9f",
+      "name" : "Screenshot",
+      "source" : "ba785f32cafa6b9f.png",
+      "type" : "image/png",
+      "size" : 908215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 New password must contain a combination of upper and lower case letters (all upper case)."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c21bcf1434eaef45",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 18768ms",
+      "time" : {
+        "start" : 1673267002593,
+        "stop" : 1673267136492,
+        "duration" : 133899
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1250346eb0330b23.json",
+  "parameterValues" : [ ]
+}

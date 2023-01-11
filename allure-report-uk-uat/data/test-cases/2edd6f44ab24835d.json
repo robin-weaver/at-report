@@ -1,0 +1,71 @@
+{
+  "uid" : "2edd6f44ab24835d",
+  "name" : "#8 Player with 15 or more messages, view more button is shown",
+  "fullName" : "Inbox functionality testing.#8 Player with 15 or more messages, view more button is shown",
+  "historyId" : "68e593dd0efc7e003f459f2ba4f6fa5b",
+  "time" : {
+    "start" : 1673269970216,
+    "stop" : 1673269975348,
+    "duration" : 5132
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5600d344e6d01144",
+      "name" : "Screenshot",
+      "source" : "5600d344e6d01144.png",
+      "type" : "image/png",
+      "size" : 296090
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Player with 15 or more messages, view more button is shown"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81b0e9868d5d3c3e",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 22426ms",
+      "time" : {
+        "start" : 1673264485874,
+        "stop" : 1673264619512,
+        "duration" : 133638
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2edd6f44ab24835d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "46530fc7c71db87a",
+  "name" : "#12 Given that a user is on the cookie preferences page and user disable a particular cookie category by dragging the toggle he can apply to click on button Confirm Selection",
+  "fullName" : "My Account > Settings > Cookies Preferences.#12 Given that a user is on the cookie preferences page and user disable a particular cookie category by dragging the toggle he can apply to click on button Confirm Selection",
+  "historyId" : "e0bb0b5a48b665838faa8ecbaaf369c3",
+  "time" : {
+    "start" : 1673429313877,
+    "stop" : 1673429324615,
+    "duration" : 10738
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ad1fd47ab05a688",
+      "name" : "Screenshot",
+      "source" : "8ad1fd47ab05a688.png",
+      "type" : "image/png",
+      "size" : 2589327
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Given that a user is on the cookie preferences page and user disable a particular cookie category by dragging the toggle he can apply to click on button Confirm Selection"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "737cf09c9fc5f875",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273928583,
+        "stop" : 1673273939900,
+        "duration" : 11317
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46530fc7c71db87a.json",
+  "parameterValues" : [ ]
+}

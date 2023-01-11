@@ -1,0 +1,62 @@
+{
+  "uid" : "d5f2bf911f7c7e5a",
+  "name" : "#11 Card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then the login modal appears.",
+  "fullName" : "Live Casino.#11 Card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then the login modal appears.",
+  "historyId" : "545801ad64ae436a2b26e7ca67c355fe",
+  "time" : {
+    "start" : 1673264092276,
+    "stop" : 1673264133528,
+    "duration" : 41252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cbf8c8e2abd27d3e",
+      "name" : "Screenshot",
+      "source" : "cbf8c8e2abd27d3e.png",
+      "type" : "image/png",
+      "size" : 1718240
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testClass",
+    "value" : "Live Casino"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 Card is displayed, user hover a mouse on that card, the primary CTA is PLAY NOW, user clicks/taps on CTA PLAY NOW then the login modal appears."
+  }, {
+    "name" : "package",
+    "value" : "Live Casino"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5f2bf911f7c7e5a.json",
+  "parameterValues" : [ ]
+}

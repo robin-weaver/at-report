@@ -1,0 +1,62 @@
+{
+  "uid" : "7f7c6ab1047433fd",
+  "name" : "13 User is required to be 18 or over.",
+  "fullName" : "Registration > Step 2.13 User is required to be 18 or over.",
+  "historyId" : "bb7493cb6e0ac87a509a4868253dd9c6",
+  "time" : {
+    "start" : 1673267948082,
+    "stop" : 1673268014939,
+    "duration" : 66857
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ce72d1d67b29901",
+      "name" : "Screenshot",
+      "source" : "7ce72d1d67b29901.png",
+      "type" : "image/png",
+      "size" : 1141967
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "13 User is required to be 18 or over."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f7c6ab1047433fd.json",
+  "parameterValues" : [ ]
+}

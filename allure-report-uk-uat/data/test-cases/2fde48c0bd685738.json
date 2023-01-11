@@ -1,0 +1,70 @@
+{
+  "uid" : "2fde48c0bd685738",
+  "name" : "#01 Player can view their contact details.",
+  "fullName" : "My Profile > Contact Details.#01 Player can view their contact details.",
+  "historyId" : "923010f87786a37152159003f82c07fa",
+  "time" : {
+    "start" : 1673274583326,
+    "stop" : 1673274591865,
+    "duration" : 8539
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8a0045dc16eb6b9",
+      "name" : "Screenshot",
+      "source" : "d8a0045dc16eb6b9.png",
+      "type" : "image/png",
+      "size" : 1564173
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 Player can view their contact details."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "205cbee65958cd64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673265832649,
+        "stop" : 1673265904463,
+        "duration" : 71814
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fde48c0bd685738.json",
+  "parameterValues" : [ ]
+}

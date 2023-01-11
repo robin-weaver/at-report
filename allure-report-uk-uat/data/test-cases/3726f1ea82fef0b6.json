@@ -1,0 +1,60 @@
+{
+  "uid" : "3726f1ea82fef0b6",
+  "name" : "#03 When user logged out if one or more of the non essential cookies is enabled, confirm selection must be enabled",
+  "fullName" : "My Account > Settings > Cookies Preferences.#03 When user logged out if one or more of the non essential cookies is enabled, confirm selection must be enabled",
+  "historyId" : "e1d9f8c136c4a2660e1b0c46c2e52d98",
+  "time" : {
+    "start" : 1673273873392,
+    "stop" : 1673273876881,
+    "duration" : 3489
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea17455a458d9155",
+      "name" : "Screenshot",
+      "source" : "ea17455a458d9155.png",
+      "type" : "image/png",
+      "size" : 1183464
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 When user logged out if one or more of the non essential cookies is enabled, confirm selection must be enabled"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3726f1ea82fef0b6.json",
+  "parameterValues" : [ ]
+}

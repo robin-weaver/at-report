@@ -1,0 +1,70 @@
+{
+  "uid" : "ffef620f38037728",
+  "name" : "#25 Giving that a user is either on the logged out cookie preferences modal or the cookie preferences page within my accountwhen they select ‘reject all’ then the page will close and all cookies apart from essential cookies will be rejected ",
+  "fullName" : "My Account > Settings > Cookies Preferences.#25 Giving that a user is either on the logged out cookie preferences modal or the cookie preferences page within my accountwhen they select ‘reject all’ then the page will close and all cookies apart from essential cookies will be rejected ",
+  "historyId" : "c5b23cd8bf6e66d174fa94bf62b8010e",
+  "time" : {
+    "start" : 1673429430526,
+    "stop" : 1673429438488,
+    "duration" : 7962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b598bef5a5a976b9",
+      "name" : "Screenshot",
+      "source" : "b598bef5a5a976b9.png",
+      "type" : "image/png",
+      "size" : 1726146
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#25 Giving that a user is either on the logged out cookie preferences modal or the cookie preferences page within my accountwhen they select ‘reject all’ then the page will close and all cookies apart from essential cookies will be rejected "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92e61c9667e736db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673274028534,
+        "stop" : 1673274036541,
+        "duration" : 8007
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffef620f38037728.json",
+  "parameterValues" : [ ]
+}

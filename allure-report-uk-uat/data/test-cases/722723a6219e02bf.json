@@ -1,0 +1,70 @@
+{
+  "uid" : "722723a6219e02bf",
+  "name" : "#10 User is displayed with a shortened balance in the preview section when balance exceeds 9999 (five figure balance)",
+  "fullName" : "Homepage.#10 User is displayed with a shortened balance in the preview section when balance exceeds 9999 (five figure balance)",
+  "historyId" : "79e766af825b520ce728594317e047f8",
+  "time" : {
+    "start" : 1673275309275,
+    "stop" : 1673275318588,
+    "duration" : 9313
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "67dc966845be7429",
+      "name" : "Screenshot",
+      "source" : "67dc966845be7429.png",
+      "type" : "image/png",
+      "size" : 3387369
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#10 User is displayed with a shortened balance in the preview section when balance exceeds 9999 (five figure balance)"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "84d9813e36341871",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673264513302,
+        "stop" : 1673264602272,
+        "duration" : 88970
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "722723a6219e02bf.json",
+  "parameterValues" : [ ]
+}

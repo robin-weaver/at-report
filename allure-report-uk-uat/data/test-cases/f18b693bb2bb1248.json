@@ -1,0 +1,62 @@
+{
+  "uid" : "f18b693bb2bb1248",
+  "name" : "#04 Address Line 1 field is a mandatory field.",
+  "fullName" : "Registration > Step 3.#04 Address Line 1 field is a mandatory field.",
+  "historyId" : "593dd3c44b9cded61d78ed82e2c69a7a",
+  "time" : {
+    "start" : 1673267657515,
+    "stop" : 1673267742141,
+    "duration" : 84626
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ef853d76edb8e36",
+      "name" : "Screenshot",
+      "source" : "2ef853d76edb8e36.png",
+      "type" : "image/png",
+      "size" : 1167089
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Address Line 1 field is a mandatory field."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f18b693bb2bb1248.json",
+  "parameterValues" : [ ]
+}

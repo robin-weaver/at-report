@@ -1,0 +1,71 @@
+{
+  "uid" : "7858452f5be750ea",
+  "name" : "#5 User can close the Loss Limits Delete modal ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#5 User can close the Loss Limits Delete modal ",
+  "historyId" : "3204eac95898eced3c73babd0bf3edff",
+  "time" : {
+    "start" : 1673424491725,
+    "stop" : 1673424503575,
+    "duration" : 11850
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d64cb131077b833",
+      "name" : "Screenshot",
+      "source" : "d64cb131077b833.png",
+      "type" : "image/png",
+      "size" : 1984122
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 User can close the Loss Limits Delete modal "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "242bae613486b5f0",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 26334ms",
+      "time" : {
+        "start" : 1673265294948,
+        "stop" : 1673265404585,
+        "duration" : 109637
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7858452f5be750ea.json",
+  "parameterValues" : [ ]
+}

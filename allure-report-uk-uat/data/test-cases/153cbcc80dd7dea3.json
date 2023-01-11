@@ -1,0 +1,70 @@
+{
+  "uid" : "153cbcc80dd7dea3",
+  "name" : "#2 Authenticated users can preview their balance in the navigation bar",
+  "fullName" : "Homepage.#2 Authenticated users can preview their balance in the navigation bar",
+  "historyId" : "675e3a10f0332da5c5b9a69cd7aeaaed",
+  "time" : {
+    "start" : 1673275225637,
+    "stop" : 1673275231536,
+    "duration" : 5899
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d1cd29ed68b11df1",
+      "name" : "Screenshot",
+      "source" : "d1cd29ed68b11df1.png",
+      "type" : "image/png",
+      "size" : 2577737
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Authenticated users can preview their balance in the navigation bar"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a3d6ddcda18f54e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673263675465,
+        "stop" : 1673263750675,
+        "duration" : 75210
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "153cbcc80dd7dea3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "cb42df0b11bb2301",
+  "name" : "#4 Player can edit their preferences and toggle all preferences with the select all toggle, which upon saving updates the account area",
+  "fullName" : "My Profile > Communications Preferences.#4 Player can edit their preferences and toggle all preferences with the select all toggle, which upon saving updates the account area",
+  "historyId" : "88f8906214c0323ac8f634f3b789441b",
+  "time" : {
+    "start" : 1673274402658,
+    "stop" : 1673274415074,
+    "duration" : 12416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "326b26fce7626649",
+      "name" : "Screenshot",
+      "source" : "326b26fce7626649.png",
+      "type" : "image/png",
+      "size" : 1963610
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can edit their preferences and toggle all preferences with the select all toggle, which upon saving updates the account area"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7e09f8adf906bd82",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 36033ms",
+      "time" : {
+        "start" : 1673266296163,
+        "stop" : 1673266443079,
+        "duration" : 146916
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb42df0b11bb2301.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "fdb861abf45705e6",
+  "name" : "#01 When user logged out if no non essential cookies are enabled, confirm selection must be disabled",
+  "fullName" : "My Account > Settings > Cookies Preferences.#01 When user logged out if no non essential cookies are enabled, confirm selection must be disabled",
+  "historyId" : "ecdaf34470e3f8b7c5a85e09ca826985",
+  "time" : {
+    "start" : 1673429247911,
+    "stop" : 1673429252069,
+    "duration" : 4158
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aee93cc2c0eb4b09",
+      "name" : "Screenshot",
+      "source" : "aee93cc2c0eb4b09.png",
+      "type" : "image/png",
+      "size" : 1150159
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#01 When user logged out if no non essential cookies are enabled, confirm selection must be disabled"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "79f42941aecffa94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273862556,
+        "stop" : 1673273866562,
+        "duration" : 4006
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdb861abf45705e6.json",
+  "parameterValues" : [ ]
+}

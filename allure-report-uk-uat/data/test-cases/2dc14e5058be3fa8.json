@@ -1,0 +1,62 @@
+{
+  "uid" : "2dc14e5058be3fa8",
+  "name" : "#06 User can not register with an email address that already exists.",
+  "fullName" : "Registration > Step 1.#06 User can not register with an email address that already exists.",
+  "historyId" : "ec214f6c61dd15c50713793530d33672",
+  "time" : {
+    "start" : 1673267737557,
+    "stop" : 1673267810121,
+    "duration" : 72564
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "11fc19b2d42e880a",
+      "name" : "Screenshot",
+      "source" : "11fc19b2d42e880a.png",
+      "type" : "image/png",
+      "size" : 1157347
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 User can not register with an email address that already exists."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dc14e5058be3fa8.json",
+  "parameterValues" : [ ]
+}

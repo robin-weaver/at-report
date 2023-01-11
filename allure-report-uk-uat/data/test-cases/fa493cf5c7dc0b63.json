@@ -1,0 +1,70 @@
+{
+  "uid" : "fa493cf5c7dc0b63",
+  "name" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "fullName" : "My Profile > Communications Preferences.#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly",
+  "historyId" : "6738b4e4e997c619b4e268723245a9ec",
+  "time" : {
+    "start" : 1673274440244,
+    "stop" : 1673274452190,
+    "duration" : 11946
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "52f605320725e889",
+      "name" : "Screenshot",
+      "source" : "52f605320725e889.png",
+      "type" : "image/png",
+      "size" : 1704553
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Player can edit their preferences and select just the Post toggle, which upon saving updates the account area accordingly"
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Communications Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "50e5985483686e9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673266745958,
+        "stop" : 1673267038921,
+        "duration" : 292963
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa493cf5c7dc0b63.json",
+  "parameterValues" : [ ]
+}

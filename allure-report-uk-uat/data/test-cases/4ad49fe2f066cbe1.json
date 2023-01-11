@@ -1,0 +1,71 @@
+{
+  "uid" : "4ad49fe2f066cbe1",
+  "name" : "#7 Balance preview updates correctly upon refresh when a users balance is adjusted",
+  "fullName" : "Homepage.#7 Balance preview updates correctly upon refresh when a users balance is adjusted",
+  "historyId" : "11e442c0dfd9b0de767e93d9be3c529e",
+  "time" : {
+    "start" : 1673275270038,
+    "stop" : 1673275279904,
+    "duration" : 9866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71c13069cab897f1",
+      "name" : "Screenshot",
+      "source" : "71c13069cab897f1.png",
+      "type" : "image/png",
+      "size" : 2577692
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Balance preview updates correctly upon refresh when a users balance is adjusted"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "edf1ea08a4620a17",
+      "status" : "failed",
+      "statusDetails" : "Failed: Balance preview in navigation bar is not visible\n                Wait timed out after 15981ms",
+      "time" : {
+        "start" : 1673264154282,
+        "stop" : 1673264236903,
+        "duration" : 82621
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ad49fe2f066cbe1.json",
+  "parameterValues" : [ ]
+}

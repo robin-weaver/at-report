@@ -1,0 +1,77 @@
+{
+  "uid" : "f3b7e7ffcc100afe",
+  "name" : "#3 User can see static hero banner carousel and can click on it and see game info page",
+  "fullName" : "Slots page.#3 User can see static hero banner carousel and can click on it and see game info page",
+  "historyId" : "e2a1fc90afcbf0dd3470a3a6583c31c4",
+  "time" : {
+    "start" : 1673267547413,
+    "stop" : 1673267568789,
+    "duration" : 21376
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1673267547425,
+        "stop" : 1673267557122,
+        "duration" : 9697
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7ac8fe6934133aa",
+      "name" : "Screenshot",
+      "source" : "7ac8fe6934133aa.png",
+      "type" : "image/png",
+      "size" : 1173093
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 User can see static hero banner carousel and can click on it and see game info page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3b7e7ffcc100afe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "cc64e411a3c7546a",
+  "name" : "#6 User can successfully update their loss limits in the Loss Limits Delete modal ",
+  "fullName" : "My Account > Gambling Controls > Loss Limits.#6 User can successfully update their loss limits in the Loss Limits Delete modal ",
+  "historyId" : "7e4bc8c624d2e80f1e260b572318eef7",
+  "time" : {
+    "start" : 1673424503575,
+    "stop" : 1673424515069,
+    "duration" : 11494
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f86a93ecdac16d7f",
+      "name" : "Screenshot",
+      "source" : "f86a93ecdac16d7f.png",
+      "type" : "image/png",
+      "size" : 549029
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "testMethod",
+    "value" : "#6 User can successfully update their loss limits in the Loss Limits Delete modal "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Gambling Controls > Loss Limits"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b742d8fd469c4b8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673265404585,
+        "stop" : 1673265558714,
+        "duration" : 154129
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc64e411a3c7546a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "67bdf95e850bc61a",
+  "name" : "#24 Given that a logged out user is on the cookie preferences modal (logged out view), when they click away from the modal (outside of the modal),then the modal will NOT close ",
+  "fullName" : "My Account > Settings > Cookies Preferences.#24 Given that a logged out user is on the cookie preferences modal (logged out view), when they click away from the modal (outside of the modal),then the modal will NOT close ",
+  "historyId" : "737e24f8108c8ae4becda2a9a4fab219",
+  "time" : {
+    "start" : 1673429427688,
+    "stop" : 1673429430526,
+    "duration" : 2838
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bcfa3bec8f27aa69",
+      "name" : "Screenshot",
+      "source" : "bcfa3bec8f27aa69.png",
+      "type" : "image/png",
+      "size" : 1150159
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#24 Given that a logged out user is on the cookie preferences modal (logged out view), when they click away from the modal (outside of the modal),then the modal will NOT close "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "415ea2b0d279e1e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673274025774,
+        "stop" : 1673274028534,
+        "duration" : 2760
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67bdf95e850bc61a.json",
+  "parameterValues" : [ ]
+}

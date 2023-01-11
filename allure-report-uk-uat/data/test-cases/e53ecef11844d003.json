@@ -1,0 +1,70 @@
+{
+  "uid" : "e53ecef11844d003",
+  "name" : "#07 When a user clicks on the cookie manage button on the cookie banner, they are taken to the cookie settings page.",
+  "fullName" : "My Account > Settings > Cookies Preferences.#07 When a user clicks on the cookie manage button on the cookie banner, they are taken to the cookie settings page.",
+  "historyId" : "c31f2d704883b444cd7bb369e38dbf07",
+  "time" : {
+    "start" : 1673429273661,
+    "stop" : 1673429275371,
+    "duration" : 1710
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ac5c4e65f61cef87",
+      "name" : "Screenshot",
+      "source" : "ac5c4e65f61cef87.png",
+      "type" : "image/png",
+      "size" : 1140761
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 When a user clicks on the cookie manage button on the cookie banner, they are taken to the cookie settings page."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f794a9d4ad1f884",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273888475,
+        "stop" : 1673273890292,
+        "duration" : 1817
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e53ecef11844d003.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "36d8746da0063067",
+  "name" : "#12 Balance preview correctly displays £0.00 if user has no balance",
+  "fullName" : "Homepage.#12 Balance preview correctly displays £0.00 if user has no balance",
+  "historyId" : "5b9728c4ee77e4ebeefef1ce963dece8",
+  "time" : {
+    "start" : 1673275328609,
+    "stop" : 1673275338508,
+    "duration" : 9899
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b917afeab3e71232",
+      "name" : "Screenshot",
+      "source" : "b917afeab3e71232.png",
+      "type" : "image/png",
+      "size" : 3307044
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Balance preview correctly displays £0.00 if user has no balance"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "27b475975ff76319",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673264650429,
+        "stop" : 1673264709619,
+        "duration" : 59190
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36d8746da0063067.json",
+  "parameterValues" : [ ]
+}

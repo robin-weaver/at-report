@@ -1,0 +1,71 @@
+{
+  "uid" : "c4f2556652270f62",
+  "name" : "#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted",
+  "fullName" : "Homepage.#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted",
+  "historyId" : "47ff1afc01e399b3446c52c848c0dcb7",
+  "time" : {
+    "start" : 1673275279905,
+    "stop" : 1673275291977,
+    "duration" : 12072
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b0aed21a27405ecd",
+      "name" : "Screenshot",
+      "source" : "b0aed21a27405ecd.png",
+      "type" : "image/png",
+      "size" : 1509267
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#8 Cash amount is updated correctly in the dropdown details when cash balance is adjusted"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56f7d93353a33c6b",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 27318ms",
+      "time" : {
+        "start" : 1673264236985,
+        "stop" : 1673264381118,
+        "duration" : 144133
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4f2556652270f62.json",
+  "parameterValues" : [ ]
+}

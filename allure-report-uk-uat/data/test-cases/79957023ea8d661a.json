@@ -1,0 +1,71 @@
+{
+  "uid" : "79957023ea8d661a",
+  "name" : "#1 Deep link to edit phone opens when logged in",
+  "fullName" : "Deep Link -> Edit Phone.#1 Deep link to edit phone opens when logged in",
+  "historyId" : "996f912327078c0eaf13bea6e24718cb",
+  "time" : {
+    "start" : 1673274788138,
+    "stop" : 1673274812245,
+    "duration" : 24107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7d9e7479a6f290a5",
+      "name" : "Screenshot",
+      "source" : "7d9e7479a6f290a5.png",
+      "type" : "image/png",
+      "size" : 922634
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to edit phone opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "28f74c53a1fddcbf",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 19949ms",
+      "time" : {
+        "start" : 1673264691180,
+        "stop" : 1673264750857,
+        "duration" : 59677
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79957023ea8d661a.json",
+  "parameterValues" : [ ]
+}

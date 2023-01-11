@@ -1,0 +1,64 @@
+{
+  "uid" : "8bb265c7997d93e0",
+  "name" : "#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "fullName" : "My Account -> Deposit.#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "historyId" : "149c42126c0809a9405e1778300246b8",
+  "time" : {
+    "start" : 1673271087365,
+    "stop" : 1673271108568,
+    "duration" : 21203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'We’re processing your payment' to contain 'success', 'Modal heading is incorrect'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-account-deposit.spec.js:320:55)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'We’re processing your payment' to contain 'success', 'Modal heading is incorrect'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-account-deposit.spec.js:320:55)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f1bf12027d3baff",
+      "name" : "Screenshot",
+      "source" : "7f1bf12027d3baff.png",
+      "type" : "image/png",
+      "size" : 1092671
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Check user is able to deposit with a valid card and is presented with success modal"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8bb265c7997d93e0.json",
+  "parameterValues" : [ ]
+}

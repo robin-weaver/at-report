@@ -1,0 +1,71 @@
+{
+  "uid" : "eec6cb3c25b892b1",
+  "name" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "fullName" : "Inbox functionality testing.#4 Player can see their message list, with messages displaying the correct information (if messages > 1)",
+  "historyId" : "5a9b2afcfbe345aef727b50819d0ffef",
+  "time" : {
+    "start" : 1673269917495,
+    "stop" : 1673269922242,
+    "duration" : 4747
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3f9cda6eb03b796c",
+      "name" : "Screenshot",
+      "source" : "3f9cda6eb03b796c.png",
+      "type" : "image/png",
+      "size" : 202123
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#4 Player can see their message list, with messages displaying the correct information (if messages > 1)"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "250318953e70cfd7",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 20501ms",
+      "time" : {
+        "start" : 1673263877226,
+        "stop" : 1673263954573,
+        "duration" : 77347
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eec6cb3c25b892b1.json",
+  "parameterValues" : [ ]
+}

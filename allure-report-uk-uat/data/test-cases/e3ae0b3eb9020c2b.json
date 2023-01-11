@@ -1,0 +1,70 @@
+{
+  "uid" : "e3ae0b3eb9020c2b",
+  "name" : "#26 Giving that a user is on the cookie preferences page on the logged out modal, when they view the page, then they will always see the reject all and confirm selection CTAs without having to scroll to the bottom of the page. ",
+  "fullName" : "My Account > Settings > Cookies Preferences.#26 Giving that a user is on the cookie preferences page on the logged out modal, when they view the page, then they will always see the reject all and confirm selection CTAs without having to scroll to the bottom of the page. ",
+  "historyId" : "bb7ddaf29930718edfa905f7349efa2b",
+  "time" : {
+    "start" : 1673429438489,
+    "stop" : 1673429440882,
+    "duration" : 2393
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8b4e0764f195746",
+      "name" : "Screenshot",
+      "source" : "d8b4e0764f195746.png",
+      "type" : "image/png",
+      "size" : 1149663
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#26 Giving that a user is on the cookie preferences page on the logged out modal, when they view the page, then they will always see the reject all and confirm selection CTAs without having to scroll to the bottom of the page. "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87eeee400991cacb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673274036541,
+        "stop" : 1673274039200,
+        "duration" : 2659
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3ae0b3eb9020c2b.json",
+  "parameterValues" : [ ]
+}

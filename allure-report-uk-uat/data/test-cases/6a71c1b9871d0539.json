@@ -1,0 +1,71 @@
+{
+  "uid" : "6a71c1b9871d0539",
+  "name" : "#05 Player try to update invalid phone number.",
+  "fullName" : "My Profile > Contact Details.#05 Player try to update invalid phone number.",
+  "historyId" : "ebe2049342cfffcb5dad2e518a359746",
+  "time" : {
+    "start" : 1673274650950,
+    "stop" : 1673274662541,
+    "duration" : 11591
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1addb42c35cd23ce",
+      "name" : "Screenshot",
+      "source" : "1addb42c35cd23ce.png",
+      "type" : "image/png",
+      "size" : 1062779
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#05 Player try to update invalid phone number."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b70f09255b71cc70",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 25971ms",
+      "time" : {
+        "start" : 1673266489300,
+        "stop" : 1673266602966,
+        "duration" : 113666
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a71c1b9871d0539.json",
+  "parameterValues" : [ ]
+}

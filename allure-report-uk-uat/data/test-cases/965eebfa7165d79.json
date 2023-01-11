@@ -1,0 +1,79 @@
+{
+  "uid" : "965eebfa7165d79",
+  "name" : "#1 Deep link to change password opens when logged in",
+  "fullName" : "Deep Link -> Change Password.#1 Deep link to change password opens when logged in",
+  "historyId" : "8a7c62e1304c6f3d2b9aa22fbdbd1134",
+  "time" : {
+    "start" : 1673424746985,
+    "stop" : 1673424757252,
+    "duration" : 10267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0660721e112b388",
+      "name" : "Screenshot",
+      "source" : "a0660721e112b388.png",
+      "type" : "image/png",
+      "size" : 1034911
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Deep link to change password opens when logged in"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Change Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a57334e769e2ca9",
+      "status" : "failed",
+      "statusDetails" : "Failed: Modal has not appeared\n                Wait timed out after 20025ms",
+      "time" : {
+        "start" : 1673274811419,
+        "stop" : 1673274836881,
+        "duration" : 25462
+      }
+    }, {
+      "uid" : "5e357e67d64e5000",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673264157818,
+        "stop" : 1673264219805,
+        "duration" : 61987
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "965eebfa7165d79.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "4ab7baa893366b26",
+  "name" : "#9 Featured promotions are excluded from the promotions section.",
+  "fullName" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions..#9 Featured promotions are excluded from the promotions section.",
+  "historyId" : "27e3718a6085b600d59ba33420c3b2f7",
+  "time" : {
+    "start" : 1673266463718,
+    "stop" : 1673266554129,
+    "duration" : 90411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: login-form is still displayed\n                Wait timed out after 16426ms",
+  "statusTrace" : "TimeoutError: login-form is still displayed\n                Wait timed out after 16426ms\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: login-form is still displayed\n                    at scheduleWait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/opt/homebrew/lib/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/opt/homebrew/lib/node_modules/protractor/built/browser.js:66:16)\n                    at LoginModal.waitToLogin (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/login/login-modal.component.js:57:19)\n                    at Home.loginToSite (/Users/robinweaver/Documents/eyas-test-automation/src/test/page.pageObject.js:56:27)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:355:9)\n                From: Task: Run it(\"#9 Featured promotions are excluded from the promotions section.\") in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:351:7)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:55:5)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:54:3)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: login-form is still displayed\n                Wait timed out after 16426ms",
+    "statusTrace" : "TimeoutError: login-form is still displayed\n                Wait timed out after 16426ms\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: login-form is still displayed\n                    at scheduleWait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/opt/homebrew/lib/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/opt/homebrew/lib/node_modules/protractor/built/browser.js:66:16)\n                    at LoginModal.waitToLogin (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/login/login-modal.component.js:57:19)\n                    at Home.loginToSite (/Users/robinweaver/Documents/eyas-test-automation/src/test/page.pageObject.js:56:27)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:355:9)\n                From: Task: Run it(\"#9 Featured promotions are excluded from the promotions section.\") in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:351:7)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:55:5)\n                    at addSpecsToSuite (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Suite.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/promotions/promotions.spec.js:54:3)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "78aee9216a6f9cc3",
+      "name" : "Screenshot",
+      "source" : "78aee9216a6f9cc3.png",
+      "type" : "image/png",
+      "size" : 3010500
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testClass",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 Featured promotions are excluded from the promotions section."
+  }, {
+    "name" : "package",
+    "value" : "Promotions functionality testing. Promotions functionality for authenticated user. Blocks of promotions."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4ab7baa893366b26.json",
+  "parameterValues" : [ ]
+}

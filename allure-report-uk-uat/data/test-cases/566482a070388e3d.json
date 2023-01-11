@@ -1,0 +1,70 @@
+{
+  "uid" : "566482a070388e3d",
+  "name" : "#17 Given that a user is on the cookie details page, they will see a `confirm selection`when they click on this CTA then the cookies they have enabled/disabled on the cookie preferences page will be saved to their bede profile and locally saved/disabled  ",
+  "fullName" : "My Account > Settings > Cookies Preferences.#17 Given that a user is on the cookie details page, they will see a `confirm selection`when they click on this CTA then the cookies they have enabled/disabled on the cookie preferences page will be saved to their bede profile and locally saved/disabled  ",
+  "historyId" : "f46b7f69396eb24aea8cf9bfc31729d",
+  "time" : {
+    "start" : 1673429365393,
+    "stop" : 1673429371410,
+    "duration" : 6017
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1a28d09186736eca",
+      "name" : "Screenshot",
+      "source" : "1a28d09186736eca.png",
+      "type" : "image/png",
+      "size" : 1974078
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#17 Given that a user is on the cookie details page, they will see a `confirm selection`when they click on this CTA then the cookies they have enabled/disabled on the cookie preferences page will be saved to their bede profile and locally saved/disabled  "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71fe2162b0fa947a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273973815,
+        "stop" : 1673273980336,
+        "duration" : 6521
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "566482a070388e3d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "fa823183d7658635",
+  "name" : "#23 Given that a user is logged out and they have selected ‘manage cookies’ on the cookie bannerand they are on the cookie preferences modal (logged out view).When they view the page then they will NOT see the close CTA in the top right of the page",
+  "fullName" : "My Account > Settings > Cookies Preferences.#23 Given that a user is logged out and they have selected ‘manage cookies’ on the cookie bannerand they are on the cookie preferences modal (logged out view).When they view the page then they will NOT see the close CTA in the top right of the page",
+  "historyId" : "cfc5889eb31a1fb7627ad4709f5c55bf",
+  "time" : {
+    "start" : 1673274023889,
+    "stop" : 1673274025774,
+    "duration" : 1885
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "52af88b2f8271055",
+      "name" : "Screenshot",
+      "source" : "52af88b2f8271055.png",
+      "type" : "image/png",
+      "size" : 1115261
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#23 Given that a user is logged out and they have selected ‘manage cookies’ on the cookie bannerand they are on the cookie preferences modal (logged out view).When they view the page then they will NOT see the close CTA in the top right of the page"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa823183d7658635.json",
+  "parameterValues" : [ ]
+}

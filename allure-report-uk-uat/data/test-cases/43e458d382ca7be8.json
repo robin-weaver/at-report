@@ -1,0 +1,103 @@
+{
+  "uid" : "43e458d382ca7be8",
+  "name" : "#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "fullName" : "My Account -> Deposit.#7 Check user is able to deposit with a valid card and is presented with success modal",
+  "historyId" : "149c42126c0809a9405e1778300246b8",
+  "time" : {
+    "start" : 1673426256003,
+    "stop" : 1673426268220,
+    "duration" : 12217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5216e2e0f3877a0c",
+      "name" : "Screenshot",
+      "source" : "5216e2e0f3877a0c.png",
+      "type" : "image/png",
+      "size" : 903384
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#7 Check user is able to deposit with a valid card and is presented with success modal"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ef75884cb0eb37c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673425244414,
+        "stop" : 1673425256400,
+        "duration" : 11986
+      }
+    }, {
+      "uid" : "194ac2f2f0d95628",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673425096044,
+        "stop" : 1673425108959,
+        "duration" : 12915
+      }
+    }, {
+      "uid" : "773558bf95dd6a69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673271477734,
+        "stop" : 1673271489436,
+        "duration" : 11702
+      }
+    }, {
+      "uid" : "8bb265c7997d93e0",
+      "status" : "failed",
+      "statusDetails" : "Expected 'We’re processing your payment' to contain 'success', 'Modal heading is incorrect'.",
+      "time" : {
+        "start" : 1673271087365,
+        "stop" : 1673271108568,
+        "duration" : 21203
+      }
+    }, {
+      "uid" : "b95e7f427aef8cf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673265596457,
+        "stop" : 1673265728373,
+        "duration" : 131916
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43e458d382ca7be8.json",
+  "parameterValues" : [ ]
+}

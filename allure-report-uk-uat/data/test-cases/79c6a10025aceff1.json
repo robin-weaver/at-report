@@ -1,0 +1,70 @@
+{
+  "uid" : "79c6a10025aceff1",
+  "name" : "#2 Deep link to change password open login when not logged in before change password",
+  "fullName" : "Deep Link -> Edit Phone.#2 Deep link to change password open login when not logged in before change password",
+  "historyId" : "517343cbb1cb8c89487c5a4cb85c616c",
+  "time" : {
+    "start" : 1673274812246,
+    "stop" : 1673274836926,
+    "duration" : 24680
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c0755841d2ebac24",
+      "name" : "Screenshot",
+      "source" : "c0755841d2ebac24.png",
+      "type" : "image/png",
+      "size" : 1068058
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testClass",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Deep link to change password open login when not logged in before change password"
+  }, {
+    "name" : "package",
+    "value" : "Deep Link -> Edit Phone"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7c2faecf8d03c77e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673264750857,
+        "stop" : 1673264835370,
+        "duration" : 84513
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79c6a10025aceff1.json",
+  "parameterValues" : [ ]
+}

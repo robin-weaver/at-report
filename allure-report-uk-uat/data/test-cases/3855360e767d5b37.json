@@ -1,0 +1,64 @@
+{
+  "uid" : "3855360e767d5b37",
+  "name" : "#03-A Player can select to edit their telephone number and cancel out of the modal.",
+  "fullName" : "My Profile > Contact Details.#03-A Player can select to edit their telephone number and cancel out of the modal.",
+  "historyId" : "79fb3b26fb4cada485922123f7db8bc9",
+  "time" : {
+    "start" : 1673266025213,
+    "stop" : 1673266136612,
+    "duration" : 111399
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: login-form is still displayed\n                Wait timed out after 24142ms",
+  "statusTrace" : "TimeoutError: login-form is still displayed\n                Wait timed out after 24142ms\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: login-form is still displayed\n                    at scheduleWait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/opt/homebrew/lib/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/opt/homebrew/lib/node_modules/protractor/built/browser.js:66:16)\n                    at LoginModal.waitToLogin (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/login/login-modal.component.js:57:19)\n                    at Home.loginToSite (/Users/robinweaver/Documents/eyas-test-automation/src/test/page.pageObject.js:56:27)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:39:3)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:33:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: login-form is still displayed\n                Wait timed out after 24142ms",
+    "statusTrace" : "TimeoutError: login-form is still displayed\n                Wait timed out after 24142ms\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                From: Task: login-form is still displayed\n                    at scheduleWait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2188:20)\n                    at ControlFlow.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2517:12)\n                    at thenableWebDriverProxy.wait (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:934:29)\n                    at run (/opt/homebrew/lib/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (/opt/homebrew/lib/node_modules/protractor/built/browser.js:66:16)\n                    at LoginModal.waitToLogin (/Users/robinweaver/Documents/eyas-test-automation/src/test/components/login/login-modal.component.js:57:19)\n                    at Home.loginToSite (/Users/robinweaver/Documents/eyas-test-automation/src/test/page.pageObject.js:56:27)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:39:3)\n                From: Task: Run beforeEach in control flow\n                    at UserContext.<anonymous> (/opt/homebrew/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at Spec.execute (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)\n                    at UserContext.fn (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)\n                    at attempt (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/my-account/my-profile/contact-details.spec.js:33:1)\n                    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n                    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n                    at Module.load (node:internal/modules/cjs/loader:1037:32)\n                    at Function.Module._load (node:internal/modules/cjs/loader:878:12)\n                    at Module.require (node:internal/modules/cjs/loader:1061:19)\n                    at require (node:internal/modules/cjs/helpers:103:18)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/jasmine/lib/jasmine.js:93:5\n                    at Array.forEach (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2bd72de31a057386",
+      "name" : "Screenshot",
+      "source" : "2bd72de31a057386.png",
+      "type" : "image/png",
+      "size" : 3388262
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testClass",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03-A Player can select to edit their telephone number and cancel out of the modal."
+  }, {
+    "name" : "package",
+    "value" : "My Profile > Contact Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3855360e767d5b37.json",
+  "parameterValues" : [ ]
+}

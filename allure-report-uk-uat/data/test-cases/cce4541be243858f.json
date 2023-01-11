@@ -1,0 +1,70 @@
+{
+  "uid" : "cce4541be243858f",
+  "name" : "#11 User is displayed with the correct cash balance format in the dropdown card when balance exceeds 9999 (five figure balance)",
+  "fullName" : "Homepage.#11 User is displayed with the correct cash balance format in the dropdown card when balance exceeds 9999 (five figure balance)",
+  "historyId" : "e18e5fcd868ec03c7a0e6ae4f3bbe3d6",
+  "time" : {
+    "start" : 1673275318588,
+    "stop" : 1673275328609,
+    "duration" : 10021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8621ab69012a1667",
+      "name" : "Screenshot",
+      "source" : "8621ab69012a1667.png",
+      "type" : "image/png",
+      "size" : 1922111
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "#11 User is displayed with the correct cash balance format in the dropdown card when balance exceeds 9999 (five figure balance)"
+  }, {
+    "name" : "package",
+    "value" : "Homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fba26511cb89da75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673264602272,
+        "stop" : 1673264650428,
+        "duration" : 48156
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cce4541be243858f.json",
+  "parameterValues" : [ ]
+}

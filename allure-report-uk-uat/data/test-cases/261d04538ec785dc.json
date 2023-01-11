@@ -1,0 +1,70 @@
+{
+  "uid" : "261d04538ec785dc",
+  "name" : "#18 Given that a user is on the cookie details page, then they will see a secondary CTA of ‘reject alland when they click on this CTA then all cookies will be rejected apart from necessary cookies and will be saved to their bede profile and not enabled locally’  ",
+  "fullName" : "My Account > Settings > Cookies Preferences.#18 Given that a user is on the cookie details page, then they will see a secondary CTA of ‘reject alland when they click on this CTA then all cookies will be rejected apart from necessary cookies and will be saved to their bede profile and not enabled locally’  ",
+  "historyId" : "a622408c7662dfba7b62b4d16a7467bc",
+  "time" : {
+    "start" : 1673429371410,
+    "stop" : 1673429377361,
+    "duration" : 5951
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "714ed103d89d2f54",
+      "name" : "Screenshot",
+      "source" : "714ed103d89d2f54.png",
+      "type" : "image/png",
+      "size" : 1975112
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#18 Given that a user is on the cookie details page, then they will see a secondary CTA of ‘reject alland when they click on this CTA then all cookies will be rejected apart from necessary cookies and will be saved to their bede profile and not enabled locally’  "
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b567503efbdb6677",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273980336,
+        "stop" : 1673273986893,
+        "duration" : 6557
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "261d04538ec785dc.json",
+  "parameterValues" : [ ]
+}

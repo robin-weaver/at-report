@@ -1,0 +1,70 @@
+{
+  "uid" : "86b7e2dd97fd435e",
+  "name" : "#1 Player can see Menu button in the top left of the screen",
+  "fullName" : "Spin Zone functionality testing.#1 Player can see Menu button in the top left of the screen",
+  "historyId" : "d453ff8d6692d98f036d981bbbb5ee85",
+  "time" : {
+    "start" : 1673274980134,
+    "stop" : 1673274989752,
+    "duration" : 9618
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "da15ab6c7f5d9468",
+      "name" : "Screenshot",
+      "source" : "da15ab6c7f5d9468.png",
+      "type" : "image/png",
+      "size" : 31230
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#1 Player can see Menu button in the top left of the screen"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "966ec95862b902da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673267860890,
+        "stop" : 1673267902865,
+        "duration" : 41975
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86b7e2dd97fd435e.json",
+  "parameterValues" : [ ]
+}

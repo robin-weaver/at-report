@@ -1,0 +1,102 @@
+{
+  "uid" : "c9bfcc6beecdd5c9",
+  "name" : "#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method",
+  "fullName" : "My Account -> Deposit.#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method",
+  "historyId" : "2a3b1a176f228c47c705c684407674fc",
+  "time" : {
+    "start" : 1673426241492,
+    "stop" : 1673426249207,
+    "duration" : 7715
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8495ce00384544b",
+      "name" : "Screenshot",
+      "source" : "d8495ce00384544b.png",
+      "type" : "image/png",
+      "size" : 668349
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#5 Check user is able to select Phone payment method and is provided with the correct information for this payment method"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5dde9ccb1a6eac87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673425228903,
+        "stop" : 1673425236559,
+        "duration" : 7656
+      }
+    }, {
+      "uid" : "fbd2fe868b2fa310",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673425080647,
+        "stop" : 1673425089176,
+        "duration" : 8529
+      }
+    }, {
+      "uid" : "d65b267c212bd560",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673271462949,
+        "stop" : 1673271470004,
+        "duration" : 7055
+      }
+    }, {
+      "uid" : "264e1aaeceea069e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673271073426,
+        "stop" : 1673271080258,
+        "duration" : 6832
+      }
+    }, {
+      "uid" : "43ec0f8e1cf3f78a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673265381658,
+        "stop" : 1673265476382,
+        "duration" : 94724
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9bfcc6beecdd5c9.json",
+  "parameterValues" : [ ]
+}

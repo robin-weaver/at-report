@@ -1,0 +1,62 @@
+{
+  "uid" : "3d00f6983ab42b35",
+  "name" : "#08 User cannot enter invalid characters into step 2 name input fields.",
+  "fullName" : "Registration > Step 2.#08 User cannot enter invalid characters into step 2 name input fields.",
+  "historyId" : "8a8fa3710d09dde27caa78980ca25094",
+  "time" : {
+    "start" : 1673267787612,
+    "stop" : 1673267863475,
+    "duration" : 75863
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6492c7d313e8c9e6",
+      "name" : "Screenshot",
+      "source" : "6492c7d313e8c9e6.png",
+      "type" : "image/png",
+      "size" : 1151742
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "#08 User cannot enter invalid characters into step 2 name input fields."
+  }, {
+    "name" : "package",
+    "value" : "Registration > Step 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d00f6983ab42b35.json",
+  "parameterValues" : [ ]
+}

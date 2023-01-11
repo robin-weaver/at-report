@@ -1,0 +1,60 @@
+{
+  "uid" : "fa5e30e8d6bba4cd",
+  "name" : "#3 Check user is able to fill in details of required fields for card deposits",
+  "fullName" : "My Account -> Deposit.#3 Check user is able to fill in details of required fields for card deposits",
+  "historyId" : "e07d06357e3ba1197d77da5185740fc",
+  "time" : {
+    "start" : 1673271057121,
+    "stop" : 1673271066507,
+    "duration" : 9386
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5552a1af45be5954",
+      "name" : "Screenshot",
+      "source" : "5552a1af45be5954.png",
+      "type" : "image/png",
+      "size" : 678001
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "testMethod",
+    "value" : "#3 Check user is able to fill in details of required fields for card deposits"
+  }, {
+    "name" : "package",
+    "value" : "My Account -> Deposit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa5e30e8d6bba4cd.json",
+  "parameterValues" : [ ]
+}

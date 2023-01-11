@@ -1,0 +1,70 @@
+{
+  "uid" : "19abcc4a88996e1f",
+  "name" : "#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info.",
+  "fullName" : "Venue > Search and expanded view.#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info.",
+  "historyId" : "9c877bfce5c85578a85e3544db637b0f",
+  "time" : {
+    "start" : 1673268385329,
+    "stop" : 1673268407012,
+    "duration" : 21683
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected $[0].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[1].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[2].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[3].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[4].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[5].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.",
+  "statusTrace" : "Error: Failed expectation\n                    at VenuePageObject.checkWorkTimeAndDay (/Users/robinweaver/Documents/eyas-test-automation/src/test/venue/venue.pageObject.js:274:25)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/venue/venue-search.spec.js:115:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected $[0].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[1].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[2].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[3].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[4].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.\n                Expected $[5].text = '9:00 AM - 11:00 PM' to equal '10:00 AM - 11:00 PM'.",
+    "statusTrace" : "Error: Failed expectation\n                    at VenuePageObject.checkWorkTimeAndDay (/Users/robinweaver/Documents/eyas-test-automation/src/test/venue/venue.pageObject.js:274:25)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/venue/venue-search.spec.js:115:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b0c36aa9aaa863f3",
+      "name" : "Screenshot",
+      "source" : "b0c36aa9aaa863f3.png",
+      "type" : "image/png",
+      "size" : 1418240
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testClass",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "testMethod",
+    "value" : "#02 User click on expanded search and see a Get directions btn, Telephone number, Opening times, More info."
+  }, {
+    "name" : "package",
+    "value" : "Venue > Search and expanded view"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "19abcc4a88996e1f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "289205fe9c289044",
+  "name" : "#22 Given that a user has selected ‘manage cookies’ on the cookie banner, and they do not select ‘accept all or reject all or confirm selection’ on the cookie preferences page OR the cookie details page when. When they close or leave these pages then the cookie banner will remain visibleand will display on subsequent visits",
+  "fullName" : "My Account > Settings > Cookies Preferences.#22 Given that a user has selected ‘manage cookies’ on the cookie banner, and they do not select ‘accept all or reject all or confirm selection’ on the cookie preferences page OR the cookie details page when. When they close or leave these pages then the cookie banner will remain visibleand will display on subsequent visits",
+  "historyId" : "f0d670827d62d2372655c1d3688e4f9",
+  "time" : {
+    "start" : 1673429422147,
+    "stop" : 1673429426011,
+    "duration" : 3864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c60f9967137f4ea6",
+      "name" : "Screenshot",
+      "source" : "c60f9967137f4ea6.png",
+      "type" : "image/png",
+      "size" : 1966670
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#22 Given that a user has selected ‘manage cookies’ on the cookie banner, and they do not select ‘accept all or reject all or confirm selection’ on the cookie preferences page OR the cookie details page when. When they close or leave these pages then the cookie banner will remain visibleand will display on subsequent visits"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "74b1d636c3152d39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673274019995,
+        "stop" : 1673274023889,
+        "duration" : 3894
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "289205fe9c289044.json",
+  "parameterValues" : [ ]
+}

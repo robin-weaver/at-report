@@ -1,0 +1,70 @@
+{
+  "uid" : "e5ccc5e1b8e7e5fa",
+  "name" : "#13 Given that a user is on the cookie preferences page and user click on button reject all the all cookies will be disable and in the cookies storage too",
+  "fullName" : "My Account > Settings > Cookies Preferences.#13 Given that a user is on the cookie preferences page and user click on button reject all the all cookies will be disable and in the cookies storage too",
+  "historyId" : "feb92a2de31b4dffa39a1537dc604c06",
+  "time" : {
+    "start" : 1673429324615,
+    "stop" : 1673429332515,
+    "duration" : 7900
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b757387364e6cadb",
+      "name" : "Screenshot",
+      "source" : "b757387364e6cadb.png",
+      "type" : "image/png",
+      "size" : 2541748
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 Given that a user is on the cookie preferences page and user click on button reject all the all cookies will be disable and in the cookies storage too"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5a53911d96d9ad9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273939900,
+        "stop" : 1673273947931,
+        "duration" : 8031
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5ccc5e1b8e7e5fa.json",
+  "parameterValues" : [ ]
+}

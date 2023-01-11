@@ -1,0 +1,60 @@
+{
+  "uid" : "2f794a9d4ad1f884",
+  "name" : "#07 When a user clicks on the cookie manage button on the cookie banner, they are taken to the cookie settings page.",
+  "fullName" : "My Account > Settings > Cookies Preferences.#07 When a user clicks on the cookie manage button on the cookie banner, they are taken to the cookie settings page.",
+  "historyId" : "c31f2d704883b444cd7bb369e38dbf07",
+  "time" : {
+    "start" : 1673273888475,
+    "stop" : 1673273890292,
+    "duration" : 1817
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ebd6a2e749aa602",
+      "name" : "Screenshot",
+      "source" : "6ebd6a2e749aa602.png",
+      "type" : "image/png",
+      "size" : 1121409
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#07 When a user clicks on the cookie manage button on the cookie banner, they are taken to the cookie settings page."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f794a9d4ad1f884.json",
+  "parameterValues" : [ ]
+}

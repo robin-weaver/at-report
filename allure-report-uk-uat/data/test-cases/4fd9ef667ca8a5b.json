@@ -1,0 +1,60 @@
+{
+  "uid" : "4fd9ef667ca8a5b",
+  "name" : "#21 Given that a user is either on the logged out cookie preferences modal or the cookie preferences page within my account when they select ‘accept all’ then the page will close  and all cookies will be selected against their preferences",
+  "fullName" : "My Account > Settings > Cookies Preferences.#21 Given that a user is either on the logged out cookie preferences modal or the cookie preferences page within my account when they select ‘accept all’ then the page will close  and all cookies will be selected against their preferences",
+  "historyId" : "933d462400b604e7a6c0d5f18499338",
+  "time" : {
+    "start" : 1673274012183,
+    "stop" : 1673274019995,
+    "duration" : 7812
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a5560515763fee33",
+      "name" : "Screenshot",
+      "source" : "a5560515763fee33.png",
+      "type" : "image/png",
+      "size" : 1736043
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#21 Given that a user is either on the logged out cookie preferences modal or the cookie preferences page within my account when they select ‘accept all’ then the page will close  and all cookies will be selected against their preferences"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fd9ef667ca8a5b.json",
+  "parameterValues" : [ ]
+}

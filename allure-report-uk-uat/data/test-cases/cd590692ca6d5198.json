@@ -1,0 +1,70 @@
+{
+  "uid" : "cd590692ca6d5198",
+  "name" : "#2 Player can see Resume Game button in the top left of the screen",
+  "fullName" : "Spin Zone functionality testing.#2 Player can see Resume Game button in the top left of the screen",
+  "historyId" : "b0b378f31187fcac53a5028fcd7a27c6",
+  "time" : {
+    "start" : 1673274989752,
+    "stop" : 1673275001569,
+    "duration" : 11817
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7d81b8b07d438cf2",
+      "name" : "Screenshot",
+      "source" : "7d81b8b07d438cf2.png",
+      "type" : "image/png",
+      "size" : 1101881
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#2 Player can see Resume Game button in the top left of the screen"
+  }, {
+    "name" : "package",
+    "value" : "Spin Zone functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eaf16fd5e1337f5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673267902869,
+        "stop" : 1673267964358,
+        "duration" : 61489
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd590692ca6d5198.json",
+  "parameterValues" : [ ]
+}

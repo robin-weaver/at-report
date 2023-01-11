@@ -1,0 +1,70 @@
+{
+  "uid" : "28d5f3f099f7cd14",
+  "name" : "#06 When user is on the cookies acceptance banner he can see Manage cookie button.",
+  "fullName" : "My Account > Settings > Cookies Preferences.#06 When user is on the cookies acceptance banner he can see Manage cookie button.",
+  "historyId" : "d3e723695ca9cb3b15806102d7a87057",
+  "time" : {
+    "start" : 1673429271859,
+    "stop" : 1673429273661,
+    "duration" : 1802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fe130c61ac6468ef",
+      "name" : "Screenshot",
+      "source" : "fe130c61ac6468ef.png",
+      "type" : "image/png",
+      "size" : 1966670
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#06 When user is on the cookies acceptance banner he can see Manage cookie button."
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6f8a1c710184c97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273886591,
+        "stop" : 1673273888475,
+        "duration" : 1884
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28d5f3f099f7cd14.json",
+  "parameterValues" : [ ]
+}

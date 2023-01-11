@@ -1,0 +1,85 @@
+{
+  "uid" : "82827e6afe275dc1",
+  "name" : "#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "fullName" : "Slots page.#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page",
+  "historyId" : "6d8de6a1892482bb3e885cb230dd641e",
+  "time" : {
+    "start" : 1673267987329,
+    "stop" : 1673268064040,
+    "duration" : 76711
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"My Account\"])",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"My Account\"])\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as isDisplayed] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as isDisplayed] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:448:34)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"My Account\"])",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, [aria-label=\"My Account\"])\n                    at /opt/homebrew/lib/node_modules/protractor/built/element.js:814:27\n                    at ManagedPromise.invokeCallback_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /opt/homebrew/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)Error\n                    at ElementArrayFinder.applyAction_ (/opt/homebrew/lib/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as isDisplayed] (/opt/homebrew/lib/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as isDisplayed] (/opt/homebrew/lib/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/robinweaver/Documents/eyas-test-automation/src/test/slots/slotsPage.spec.js:448:34)",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1673267987329,
+        "stop" : 1673268013491,
+        "duration" : 26162
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1adbda9ed73b6b7a",
+      "name" : "Screenshot",
+      "source" : "1adbda9ed73b6b7a.png",
+      "type" : "image/png",
+      "size" : 1683100
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#13 User logged in and hover the game card and click on CTA \"PLAY NOW\" and go to game page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "82827e6afe275dc1.json",
+  "parameterValues" : [ ]
+}

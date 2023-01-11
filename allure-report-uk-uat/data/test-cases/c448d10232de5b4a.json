@@ -1,0 +1,71 @@
+{
+  "uid" : "c448d10232de5b4a",
+  "name" : "#04 Player can see safer gambling logos",
+  "fullName" : "Footer functionality testing.#04 Player can see safer gambling logos",
+  "historyId" : "b9df289310004db42548b8376a832774",
+  "time" : {
+    "start" : 1673424805440,
+    "stop" : 1673424824978,
+    "duration" : 19538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "57c30d8439df09a",
+      "name" : "Screenshot",
+      "source" : "57c30d8439df09a.png",
+      "type" : "image/png",
+      "size" : 428541
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#04 Player can see safer gambling logos"
+  }, {
+    "name" : "package",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5ea59cb6a21b82ee",
+      "status" : "failed",
+      "statusDetails" : "Failed: unknown error: cannot determine loading status\n                from no such window\n                  (Session info: headless chrome=108.0.5359.124)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'MBA001.local', ip: '192.168.1.37', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.6', java.version: '19'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1673263775932,
+        "stop" : 1673263828209,
+        "duration" : 52277
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c448d10232de5b4a.json",
+  "parameterValues" : [ ]
+}

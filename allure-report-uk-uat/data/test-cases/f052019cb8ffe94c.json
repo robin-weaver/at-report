@@ -1,0 +1,71 @@
+{
+  "uid" : "f052019cb8ffe94c",
+  "name" : "#03 Player can see partners logos",
+  "fullName" : "Footer functionality testing.#03 Player can see partners logos",
+  "historyId" : "bd75924a02297c68772b1fef2c50d1f8",
+  "time" : {
+    "start" : 1673424803782,
+    "stop" : 1673424805440,
+    "duration" : 1658
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1fb9fad33d6a69a",
+      "name" : "Screenshot",
+      "source" : "f1fb9fad33d6a69a.png",
+      "type" : "image/png",
+      "size" : 428541
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 Player can see partners logos"
+  }, {
+    "name" : "package",
+    "value" : "Footer functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d7325e590e613121",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1673263681736,
+        "stop" : 1673263775932,
+        "duration" : 94196
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f052019cb8ffe94c.json",
+  "parameterValues" : [ ]
+}

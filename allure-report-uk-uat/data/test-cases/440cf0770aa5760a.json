@@ -1,0 +1,70 @@
+{
+  "uid" : "440cf0770aa5760a",
+  "name" : "#03 When user logged out if one or more of the non essential cookies is enabled, confirm selection must be enabled",
+  "fullName" : "My Account > Settings > Cookies Preferences.#03 When user logged out if one or more of the non essential cookies is enabled, confirm selection must be enabled",
+  "historyId" : "e1d9f8c136c4a2660e1b0c46c2e52d98",
+  "time" : {
+    "start" : 1673429258840,
+    "stop" : 1673429262307,
+    "duration" : 3467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3b43b4e5154ad484",
+      "name" : "Screenshot",
+      "source" : "3b43b4e5154ad484.png",
+      "type" : "image/png",
+      "size" : 1183464
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testClass",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "testMethod",
+    "value" : "#03 When user logged out if one or more of the non essential cookies is enabled, confirm selection must be enabled"
+  }, {
+    "name" : "package",
+    "value" : "My Account > Settings > Cookies Preferences"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3726f1ea82fef0b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673273873392,
+        "stop" : 1673273876881,
+        "duration" : 3489
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "440cf0770aa5760a.json",
+  "parameterValues" : [ ]
+}

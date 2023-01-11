@@ -1,0 +1,77 @@
+{
+  "uid" : "1b0fcea4c55f6612",
+  "name" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "fullName" : "Slots page.#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page",
+  "historyId" : "e7b74c4b24aee286d67ee4397dc88cc",
+  "time" : {
+    "start" : 1673267757578,
+    "stop" : 1673267834909,
+    "duration" : 77331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Case setup",
+      "time" : {
+        "start" : 1673267757591,
+        "stop" : 1673267783263,
+        "duration" : 25672
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "4ceeb582279eee4",
+      "name" : "Screenshot",
+      "source" : "4ceeb582279eee4.png",
+      "type" : "image/png",
+      "size" : 1112944
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Slots page"
+  }, {
+    "name" : "testClass",
+    "value" : "Slots page"
+  }, {
+    "name" : "testMethod",
+    "value" : "#9 User hover the game card and click on CTA 'INFO' and go to info page, click on JOIN and see register page"
+  }, {
+    "name" : "package",
+    "value" : "Slots page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b0fcea4c55f6612.json",
+  "parameterValues" : [ ]
+}

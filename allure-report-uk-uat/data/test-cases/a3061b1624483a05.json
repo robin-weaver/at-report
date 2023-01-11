@@ -1,0 +1,71 @@
+{
+  "uid" : "a3061b1624483a05",
+  "name" : "#14 Unread message count is not present on Inbox navigation bar icon if player has no unread messages",
+  "fullName" : "Inbox functionality testing.#14 Unread message count is not present on Inbox navigation bar icon if player has no unread messages",
+  "historyId" : "e77ba65f3449221f3b61e4fc38d42bef",
+  "time" : {
+    "start" : 1673270020918,
+    "stop" : 1673270025897,
+    "duration" : 4979
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b97cbd37711572a3",
+      "name" : "Screenshot",
+      "source" : "b97cbd37711572a3.png",
+      "type" : "image/png",
+      "size" : 128573
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#14 Unread message count is not present on Inbox navigation bar icon if player has no unread messages"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81070fd5f1be0b06",
+      "status" : "failed",
+      "statusDetails" : "Failed: login-form is still displayed\n                Wait timed out after 29070ms",
+      "time" : {
+        "start" : 1673265330776,
+        "stop" : 1673265480034,
+        "duration" : 149258
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3061b1624483a05.json",
+  "parameterValues" : [ ]
+}

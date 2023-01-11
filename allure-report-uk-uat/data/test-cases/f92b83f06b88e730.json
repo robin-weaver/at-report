@@ -1,0 +1,64 @@
+{
+  "uid" : "f92b83f06b88e730",
+  "name" : "#12 Player with less than 15 messages should not be able to view more",
+  "fullName" : "Inbox functionality testing.#12 Player with less than 15 messages should not be able to view more",
+  "historyId" : "1aabd36ebba8d262d7b8c0b5128a9e98",
+  "time" : {
+    "start" : 1673264964695,
+    "stop" : 1673265103500,
+    "duration" : 138805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4281:23)\n                    at listOnTimeout (node:internal/timers:564:17)\n                    at processTimers (node:internal/timers:507:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+    "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (/opt/homebrew/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4281:23)\n                    at listOnTimeout (node:internal/timers:564:17)\n                    at processTimers (node:internal/timers:507:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "25812edd4c7d4e34",
+      "name" : "Screenshot",
+      "source" : "25812edd4c7d4e34.png",
+      "type" : "image/png",
+      "size" : 147780
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "#12 Player with less than 15 messages should not be able to view more"
+  }, {
+    "name" : "package",
+    "value" : "Inbox functionality testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f92b83f06b88e730.json",
+  "parameterValues" : [ ]
+}
